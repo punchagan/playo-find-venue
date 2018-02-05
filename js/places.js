@@ -30,6 +30,28 @@ var people = {
   }
 };
 
+var goldStar = {
+  path:
+    "M 125,5 155,90 245,90 175,145 200,230 125,180 50,230 75,145 5,90 95,90 z",
+  fillColor: "yellow",
+  fillOpacity: 0.8,
+  scale: 0.1,
+  strokeColor: "yellow",
+  strokeWeight: 2
+};
+
+var setup_search_box = function(map) {
+  var searchInput = document.querySelector("#searchInput"),
+    searchBox = new google.maps.places.SearchBox(searchInput);
+  google.maps.event.addListener(searchBox, "places_changed", function() {
+    var location = searchBox.getPlaces()[0];
+    if (location) {
+      draw_circle(map, location.geometry.location, 8, "#0000FF");
+      searchInput.value = "";
+    }
+  });
+};
+
 var find_center = function() {
   var count = Object.keys(people).length;
   var center = Object.values(people).reduce(
@@ -50,13 +72,12 @@ var initMap = function() {
   var map = new google.maps.Map(document.getElementById("map"), {
     zoom: 13,
     center: find_center(),
-    mapTypeId: "roadmap"
-  });
-  map.addListener("click", function(e) {
-    draw_circle(map, e.latLng, 8, "#0000FF");
+    mapTypeId: "roadmap",
+    mapTypeControl: false
   });
   draw_circles(map);
   mark_venues(map);
+  setup_search_box(map);
 };
 
 var draw_circles = function(map) {
@@ -76,24 +97,12 @@ var draw_circle = function(map, center, radius, color) {
     fillOpacity: 0.2,
     map: map,
     center: center,
-    radius: radius * 1000
+    radius: radius * 1000,
+    clickable: true
   });
   circle.addListener("rightclick", function() {
     circle.setMap(null);
   });
-  circle.addListener("click", function(e) {
-    draw_circle(map, e.latLng, 8, "#0000FF");
-  });
-};
-
-var goldStar = {
-  path:
-    "M 125,5 155,90 245,90 175,145 200,230 125,180 50,230 75,145 5,90 95,90 z",
-  fillColor: "yellow",
-  fillOpacity: 0.8,
-  scale: 0.1,
-  strokeColor: "yellow",
-  strokeWeight: 2
 };
 
 var mark_venues = function(map) {
@@ -108,7 +117,6 @@ var mark_venues = function(map) {
         icon: good ? goldStar : undefined
       });
       // infowindow that is shown when marker is clicked
-      console.log(venue);
       var info_content = `
 <h3>${venue.name}</h3>
 <strong>Ratings:</strong> ${venue.avgRating} [${venue.ratingCount}]<br/>

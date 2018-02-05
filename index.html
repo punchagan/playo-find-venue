@@ -16,15 +16,26 @@
              margin: 0;
              padding: 0;
          }
+         #controls {
+             position: absolute;
+             min-width: 300px;
+             top: 10px;
+             left: 10px;
+             background: white;
+             padding: 10px;
+         }
         </style>
     </head>
     <body>
         <div id="map"></div>
+        <div id="controls">
+            <input style="width: 95%" type="text" id="searchInput" name="searchInput" placeholder="Search for a place&hellip;" />
+        </div>
         <script src="js/venues.js">
         </script>
         <script src="js/places.js">
         </script>
-        <script async defer src="https://maps.googleapis.com/maps/api/js?callback=initMap">
+        <script async defer src="https://maps.googleapis.com/maps/api/js?callback=initMap&libraries=places">
         </script>
     </body>
 </html>
