@@ -58,10 +58,8 @@ var initMap = function() {
 
 var draw_circles = function(map) {
   // Construct the circle for each person in people.
-  // Note: We scale the area of the circle based on the distance they can travel.
-  for (var name in people) {
-    // Add the circle for this city to the map.
-    var cityCircle = new google.maps.Circle({
+  Object.keys(people).map(function(name) {
+    var circle = new google.maps.Circle({
       strokeColor: people[name].color,
       strokeOpacity: 0.8,
       strokeWeight: 1,
@@ -71,7 +69,10 @@ var draw_circles = function(map) {
       center: people[name].center,
       radius: people[name].radius * 1000
     });
-  }
+    circle.addListener("rightclick", function() {
+      circle.setMap(null);
+    });
+  });
 };
 
 var goldStar = {
