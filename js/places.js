@@ -1,30 +1,30 @@
 var people = [
-  // ravi
   {
+    name: "Raheja Residency",
     center: { lat: 12.9281594, lng: 77.6295864 },
     radius: 8,
-    color: "#0000FF"
+    color: "blue"
   },
-  // sakshi
   {
+    name: "Thom's Bakery & Supermarket",
     center: { lat: 12.9915374, lng: 77.6119656 },
     radius: 8,
-    color: "#000FF0"
+    color: "#FFD700"
   },
-  // sunil
   {
+    name: "Windsor Court",
     center: { lat: 12.955567, lng: 77.656877434 },
     radius: 8,
     color: "#00FF00"
   },
-  // nits
   {
+    name: "Alpine Eco Garden",
     center: { lat: 12.9744437, lng: 77.6986174 },
     radius: 8,
-    color: "#0FF000"
+    color: "#808080"
   },
-  // punch
   {
+    name: "Nutrition Nation",
     center: { lat: 12.9204517, lng: 77.592301 },
     radius: 8,
     color: "#FF0000"
@@ -40,12 +40,12 @@ var setup_search_box = function(map) {
     var location = searchBox.getPlaces()[0];
     if (location) {
       searchInput.value = "";
-      // draw_circle(map, location.geometry.location, 8, "#0000FF");
       people.push({
         center: {
           lat: location.geometry.location.lat(),
           lng: location.geometry.location.lng()
         },
+        name: location.name,
         radius: 8,
         color: "#0000FF"
       });
@@ -81,6 +81,7 @@ var draw_circles = function(map) {
     return circle;
   });
   set_center(map);
+  show_people(map);
 };
 
 var draw_circle = function(map, center, radius, color) {
@@ -142,6 +143,39 @@ var mark_venues = function(map) {
         infowindow.open(map, marker);
       });
     }
+  });
+};
+
+var show_people = function(map) {
+  var peopleDisplay = document.querySelector("#controls ol");
+  if (peopleDisplay) {
+    peopleDisplay.remove();
+  }
+  var ol = document.createElement("ol");
+  document.querySelector("#controls").appendChild(ol);
+  people.map(function(person) {
+    var li = document.createElement("li");
+    ol.appendChild(li);
+    var text = person.name;
+    li.textContent = text;
+
+    var radius_input = document.createElement("input");
+    radius_input.type = "number";
+    radius_input.value = person.radius;
+    radius_input.onchange = function(e) {
+      person.radius = e.target.value;
+      draw_circles(map);
+    };
+    li.appendChild(radius_input);
+
+    var color_input = document.createElement("input");
+    color_input.type = "color";
+    color_input.value = person.color;
+    color_input.onchange = function(e) {
+      person.color = e.target.value;
+      draw_circles(map);
+    };
+    li.appendChild(color_input);
   });
 };
 
