@@ -1,34 +1,35 @@
-// This example creates circles on the map, representing populations in North
-// America.
-
-// First, create an object containing LatLng and population for each city.
-var people = {
-  ravi: {
+var people = [
+  // ravi
+  {
     center: { lat: 12.9281594, lng: 77.6295864 },
     radius: 8,
     color: "#0000FF"
   },
-  sakshi: {
+  // sakshi
+  {
     center: { lat: 12.9915374, lng: 77.6119656 },
     radius: 8,
     color: "#000FF0"
   },
-  sunil: {
+  // sunil
+  {
     center: { lat: 12.955567, lng: 77.656877434 },
     radius: 8,
     color: "#00FF00"
   },
-  nitin: {
+  // nits
+  {
     center: { lat: 12.9744437, lng: 77.6986174 },
     radius: 8,
     color: "#0FF000"
   },
-  punch: {
+  // punch
+  {
     center: { lat: 12.9204517, lng: 77.592301 },
     radius: 8,
     color: "#FF0000"
   }
-};
+];
 
 var setup_search_box = function(map) {
   var searchInput = document.querySelector("#searchInput"),
@@ -72,8 +73,8 @@ var initMap = function() {
 
 var draw_circles = function(map) {
   // Construct the circle for each person in people.
-  Object.keys(people).map(function(name) {
-    var { center, radius, color } = people[name];
+  people.map(function(person) {
+    var { center, radius, color } = person;
     draw_circle(map, center, radius, color);
   });
 };
