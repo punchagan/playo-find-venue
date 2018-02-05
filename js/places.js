@@ -52,6 +52,9 @@ var initMap = function() {
     center: find_center(),
     mapTypeId: "roadmap"
   });
+  map.addListener("click", function(e) {
+    draw_circle(map, e.latLng, 8, "#0000FF");
+  });
   draw_circles(map);
   mark_venues(map);
 };
@@ -77,6 +80,9 @@ var draw_circle = function(map, center, radius, color) {
   });
   circle.addListener("rightclick", function() {
     circle.setMap(null);
+  });
+  circle.addListener("click", function(e) {
+    draw_circle(map, e.latLng, 8, "#0000FF");
   });
 };
 
