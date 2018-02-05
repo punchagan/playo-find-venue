@@ -59,19 +59,24 @@ var initMap = function() {
 var draw_circles = function(map) {
   // Construct the circle for each person in people.
   Object.keys(people).map(function(name) {
-    var circle = new google.maps.Circle({
-      strokeColor: people[name].color,
-      strokeOpacity: 0.8,
-      strokeWeight: 1,
-      fillColor: people[name].color,
-      fillOpacity: 0.2,
-      map: map,
-      center: people[name].center,
-      radius: people[name].radius * 1000
-    });
-    circle.addListener("rightclick", function() {
-      circle.setMap(null);
-    });
+    var { center, radius, color } = people[name];
+    draw_circle(map, center, radius, color);
+  });
+};
+
+var draw_circle = function(map, center, radius, color) {
+  var circle = new google.maps.Circle({
+    strokeColor: color,
+    strokeOpacity: 0.8,
+    strokeWeight: 1,
+    fillColor: color,
+    fillOpacity: 0.2,
+    map: map,
+    center: center,
+    radius: radius * 1000
+  });
+  circle.addListener("rightclick", function() {
+    circle.setMap(null);
   });
 };
 
