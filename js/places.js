@@ -90,28 +90,25 @@ var mark_venues = function(map) {
       good = rating >= 4.0;
     if (venue.active && rating >= 3.5) {
       // Add marker
-
       var marker = new google.maps.Marker({
         position: { lat: venue.lat, lng: venue.lng },
         map: map,
-        icon: good ? goldStar : undefined,
-        label: {
-          text: venue.name,
-          fontSize: good ? "10px" : "9px",
-          fontWeight: good ? "800" : "400"
-        },
-        title:
-          venue.name +
-          "(" +
-          venue.avgRating +
-          ")" +
-          " [" +
-          venue.ratingCount +
-          " ratings]"
+        icon: good ? goldStar : undefined
       });
-      // Click to open the venue
+      // infowindow that is shown when marker is clicked
+      console.log(venue);
+      var info_content = `
+<h3>${venue.name}</h3>
+<strong>Ratings:</strong> ${venue.avgRating} [${venue.ratingCount}]<br/>
+<strong>Phone:</strong> ${venue.inquiryPhone || "NA"}<br/>
+<a href="${venue.deferLink}" target="_blank">${venue.deferLink}</a><br/>
+`;
+      var infowindow = new google.maps.InfoWindow({
+        content: info_content,
+        maxWidth: 200
+      });
       marker.addListener("click", function() {
-        window.open(venue.deferLink, "_blank");
+        infowindow.open(map, marker);
       });
     }
   });
