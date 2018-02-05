@@ -88,7 +88,7 @@ var mark_venues = function(map) {
   venues.map(function(venue) {
     var rating = parseFloat(venue.avgRating),
       good = rating >= 4.0;
-    if (rating >= 3.5) {
+    if (venue.active && rating >= 3.5) {
       // Add marker
 
       var marker = new google.maps.Marker({
