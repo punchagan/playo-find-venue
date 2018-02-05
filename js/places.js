@@ -109,16 +109,16 @@ var mark_venues = function(map) {
     var icon;
     switch (parseInt(rating)) {
       case 5:
-        icon = "http://maps.google.com/mapfiles/kml/pal3/icon12.png";
+        icon = "https://maps.google.com/mapfiles/kml/pal3/icon12.png";
         break;
       case 4:
-        icon = "http://maps.google.com/mapfiles/kml/pal3/icon11.png";
+        icon = "https://maps.google.com/mapfiles/kml/pal3/icon11.png";
         break;
       case 3:
-        icon = "http://maps.google.com/mapfiles/kml/pal3/icon10.png";
+        icon = "https://maps.google.com/mapfiles/kml/pal3/icon10.png";
         break;
       default:
-        icon = "http://maps.google.com/mapfiles/kml/pal3/icon57.png";
+        icon = "https://maps.google.com/mapfiles/kml/pal3/icon57.png";
     }
     if (venue.active) {
       // Add marker
