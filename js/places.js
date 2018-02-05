@@ -30,16 +30,6 @@ var people = {
   }
 };
 
-var goldStar = {
-  path:
-    "M 125,5 155,90 245,90 175,145 200,230 125,180 50,230 75,145 5,90 95,90 z",
-  fillColor: "yellow",
-  fillOpacity: 0.8,
-  scale: 0.1,
-  strokeColor: "yellow",
-  strokeWeight: 2
-};
-
 var setup_search_box = function(map) {
   var searchInput = document.querySelector("#searchInput"),
     searchBox = new google.maps.places.SearchBox(searchInput);
@@ -107,14 +97,28 @@ var draw_circle = function(map, center, radius, color) {
 
 var mark_venues = function(map) {
   venues.map(function(venue) {
-    var rating = parseFloat(venue.avgRating),
-      good = rating >= 4.0;
-    if (venue.active && rating >= 3.5) {
+    var rating = parseFloat(venue.avgRating);
+    var icon;
+    switch (parseInt(rating)) {
+      case 5:
+        icon = "http://maps.google.com/mapfiles/kml/pal3/icon12.png";
+        break;
+      case 4:
+        icon = "http://maps.google.com/mapfiles/kml/pal3/icon11.png";
+        break;
+      case 3:
+        icon = "http://maps.google.com/mapfiles/kml/pal3/icon10.png";
+        break;
+      default:
+        icon = "http://maps.google.com/mapfiles/kml/pal3/icon57.png";
+    }
+    if (venue.active) {
       // Add marker
       var marker = new google.maps.Marker({
         position: { lat: venue.lat, lng: venue.lng },
+        title: venue.name,
         map: map,
-        icon: good ? goldStar : undefined
+        icon: icon
       });
       // infowindow that is shown when marker is clicked
       var info_content = `
