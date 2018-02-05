@@ -31,52 +31,56 @@ var people = [
   }
 ];
 
+var circles = [];
+
 var setup_search_box = function(map) {
   var searchInput = document.querySelector("#searchInput"),
     searchBox = new google.maps.places.SearchBox(searchInput);
   google.maps.event.addListener(searchBox, "places_changed", function() {
     var location = searchBox.getPlaces()[0];
     if (location) {
-      draw_circle(map, location.geometry.location, 8, "#0000FF");
       searchInput.value = "";
+      // draw_circle(map, location.geometry.location, 8, "#0000FF");
+      people.push({
+        center: {
+          lat: location.geometry.location.lat(),
+          lng: location.geometry.location.lng()
+        },
+        radius: 8,
+        color: "#0000FF"
+      });
+      draw_circles(map);
     }
   });
 };
 
-var find_center = function() {
-  var count = Object.keys(people).length;
-  var center = Object.values(people).reduce(
-    function(aggregate, x) {
-      return {
-        lat: aggregate.lat + x.center.lat / count,
-        lng: aggregate.lng + x.center.lng / count
-      };
-    },
-    { lat: 0, lng: 0 }
-  );
-  return center;
-};
-
-var initMap = function() {
-  // Create the map.
-  find_center();
-  var map = new google.maps.Map(document.getElementById("map"), {
-    zoom: 13,
-    center: find_center(),
-    mapTypeId: "roadmap",
-    mapTypeControl: false
+var set_center = function(map) {
+  var lat = people.map(function(person) {
+    return person.center.lat;
   });
-  draw_circles(map);
-  mark_venues(map);
-  setup_search_box(map);
+  var lng = people.map(function(person) {
+    return person.center.lng;
+  });
+  var center = {
+    lat: (Math.min.apply(lat, lat) + Math.max.apply(lat, lat)) / 2,
+    lng: (Math.min.apply(lng, lng) + Math.max.apply(lng, lng)) / 2
+  };
+  map.setCenter(center);
 };
 
 var draw_circles = function(map) {
-  // Construct the circle for each person in people.
-  people.map(function(person) {
-    var { center, radius, color } = person;
-    draw_circle(map, center, radius, color);
+  // Hide previous circles
+  circles.map(function(circle) {
+    circle.setMap(null);
   });
+  // Construct the circle for each person in people.
+  circles = people.map(function(person) {
+    var { center, radius, color } = person;
+    var circle = draw_circle(map, center, radius, color);
+    circle.person = person;
+    return circle;
+  });
+  set_center(map);
 };
 
 var draw_circle = function(map, center, radius, color) {
@@ -93,7 +97,9 @@ var draw_circle = function(map, center, radius, color) {
   });
   circle.addListener("rightclick", function() {
     circle.setMap(null);
+    people.splice(people.indexOf(circle.person), 1);
   });
+  return circle;
 };
 
 var mark_venues = function(map) {
@@ -137,4 +143,16 @@ var mark_venues = function(map) {
       });
     }
   });
+};
+
+var initMap = function() {
+  // Create the map.
+  var map = new google.maps.Map(document.getElementById("map"), {
+    zoom: 13,
+    mapTypeId: "roadmap",
+    mapTypeControl: false
+  });
+  mark_venues(map);
+  setup_search_box(map);
+  draw_circles(map);
 };
