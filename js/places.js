@@ -33,9 +33,8 @@ var people = [
 
 var circles = [];
 
-var setup_search_box = function(map) {
-  var searchInput = document.querySelector("#searchInput"),
-    searchBox = new google.maps.places.SearchBox(searchInput);
+var setup_search_box = function(map, searchInput) {
+  var searchBox = new google.maps.places.SearchBox(searchInput);
   google.maps.event.addListener(searchBox, "places_changed", function() {
     var location = searchBox.getPlaces()[0];
     if (location) {
@@ -151,24 +150,29 @@ var mark_venues = function(map) {
 
 var show_people = function(map) {
   var controlsDiv = document.querySelector("#controls");
-  if (controlsDiv) {
-    return;
+  if (!controlsDiv) {
+    controlsDiv = document.createElement("div");
+    controlsDiv.setAttribute("id", "controls");
+    map.controls[google.maps.ControlPosition.LEFT_TOP].push(controlsDiv);
+
+    var searchBar = document.createElement("input");
+    controlsDiv.appendChild(searchBar);
+    searchBar.setAttribute("type", "text");
+    searchBar.setAttribute("id", "searchInput");
+    searchBar.setAttribute("name", "searchInput");
+    searchBar.setAttribute("placeholder", "Search for a place to add a circle");
+    searchBar.style.width = "95%";
+    setup_search_box(map, searchBar);
+
+    var help = document.createElement("small");
+    help.textContent = "Right click on the circles to remove them";
+    controlsDiv.appendChild(help);
   }
-  controlsDiv = document.createElement("div");
-  controlsDiv.setAttribute("id", "controls");
-  map.controls[google.maps.ControlPosition.LEFT_TOP].push(controlsDiv);
 
-  var searchBar = document.createElement("input");
-  controlsDiv.appendChild(searchBar);
-  searchBar.setAttribute("type", "text");
-  searchBar.setAttribute("id", "searchInput");
-  searchBar.setAttribute("name", "searchInput");
-  searchBar.setAttribute("placeholder", "Search for a place to add a circle");
-  searchBar.style.width = "95%";
-
-  var help = document.createElement("small");
-  help.textContent = "Right click on the circles to remove them";
-  controlsDiv.appendChild(help);
+  var places = document.querySelector("#controls ol");
+  if (places) {
+    places.remove();
+  }
 
   var ol = document.createElement("ol");
   controlsDiv.appendChild(ol);
@@ -206,6 +210,5 @@ var initMap = function() {
     mapTypeControl: false
   });
   mark_venues(map);
-  setup_search_box(map);
   draw_circles(map);
 };
