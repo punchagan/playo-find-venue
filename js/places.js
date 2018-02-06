@@ -126,7 +126,10 @@ var mark_venues = function(map) {
         position: { lat: venue.lat, lng: venue.lng },
         title: venue.name,
         map: map,
-        icon: icon
+        icon: {
+          url: icon,
+          scaledSize: new google.maps.Size(25, 25)
+        }
       });
       // infowindow that is shown when marker is clicked
       var info_content = `
