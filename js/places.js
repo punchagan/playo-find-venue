@@ -3,7 +3,7 @@ var people = [
     name: "Raheja Residency",
     center: { lat: 12.9281594, lng: 77.6295864 },
     radius: 8,
-    color: "blue"
+    color: "#0000FF"
   },
   {
     name: "Thom's Bakery & Supermarket",
