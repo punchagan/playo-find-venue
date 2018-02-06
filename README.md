@@ -2,7 +2,7 @@
 
 An app to find good PlayO venues in convenient locations
 
-Currently only works for Bangalore
+Currently only works for Bangalore+Badminton
 
 ## License
 
