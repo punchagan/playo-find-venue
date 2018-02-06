@@ -168,6 +168,7 @@ var show_people = function(map) {
 
   var help = document.createElement("small");
   help.textContent = "Right click on the circles to remove them";
+  controlsDiv.appendChild(help);
 
   var ol = document.createElement("ol");
   controlsDiv.appendChild(ol);
