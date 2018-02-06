@@ -150,12 +150,27 @@ var mark_venues = function(map) {
 };
 
 var show_people = function(map) {
-  var peopleDisplay = document.querySelector("#controls ol");
-  if (peopleDisplay) {
-    peopleDisplay.remove();
+  var controlsDiv = document.querySelector("#controls");
+  if (controlsDiv) {
+    return;
   }
+  controlsDiv = document.createElement("div");
+  controlsDiv.setAttribute("id", "controls");
+  map.controls[google.maps.ControlPosition.LEFT_TOP].push(controlsDiv);
+
+  var searchBar = document.createElement("input");
+  controlsDiv.appendChild(searchBar);
+  searchBar.setAttribute("type", "text");
+  searchBar.setAttribute("id", "searchInput");
+  searchBar.setAttribute("name", "searchInput");
+  searchBar.setAttribute("placeholder", "Search for a place to add a circle");
+  searchBar.style.width = "95%";
+
+  var help = document.createElement("small");
+  help.textContent = "Right click on the circles to remove them";
+
   var ol = document.createElement("ol");
-  document.querySelector("#controls").appendChild(ol);
+  controlsDiv.appendChild(ol);
   people.map(function(person) {
     var li = document.createElement("li");
     ol.appendChild(li);
