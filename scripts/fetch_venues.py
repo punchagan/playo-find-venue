@@ -5,6 +5,7 @@ import json
 import os
 from os.path import abspath, dirname, join
 
+from bs4 import BeautifulSoup
 import requests
 
 PLAYO_AUTH = os.getenv('PLAYO_AUTH', '')
@@ -36,8 +37,19 @@ def fetch_venues():
     return venues
 
 
+def fetch_sport_ids():
+    print("Fetching sport id map...")
+    url = 'https://playo.co/venues/bengaluru/sports/all'
+    soup = BeautifulSoup(requests.get(url).text, 'html.parser')
+    return {
+        element.findChild('img').attrs['src'].split('/')[-2]: element.text.strip()
+        for element in soup.select('.one-sport-filter')
+    }
+
+
 def modify_metadata(venues, clean=True):
     RETAIN_KEYS = {'name', 'icon', 'info', 'lat', 'lng', 'filter_by'}
+    SPORT_ID_MAP = fetch_sport_ids()
     for venue in venues:
         rating = int(float(venue['avgRating']))
         if rating == 5:
@@ -51,7 +63,9 @@ def modify_metadata(venues, clean=True):
         # Add info
         venue['info'] = get_info(venue)
         # Add filter_by
-        venue['filter_by'] = sorted([s['sportId'] for s in venue['sports']])
+        venue['filter_by'] = sorted(
+            [SPORT_ID_MAP[s['sportId']] for s in venue['sports'] if s['sportId'] in SPORT_ID_MAP]
+        )
 
     if clean:
         venues = [

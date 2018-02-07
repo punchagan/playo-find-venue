@@ -61,7 +61,9 @@ var AppData = function(map, people) {
     this.venues().map(function(v) {
       v.filter_by.map(filters.add, filters);
     });
-    return Array.from(filters);
+    filters = Array.from(filters);
+    filters.sort();
+    return filters;
   }, this);
 
   this.current_filter = ko.observable();
