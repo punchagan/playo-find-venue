@@ -31,15 +31,42 @@ var people = [
   }
 ];
 
-var circles = [];
+var AppData = function(map, people) {
+  var self = this;
 
-var setup_search_box = function(map, searchInput) {
-  var searchBox = new google.maps.places.SearchBox(searchInput);
+  this.map = map;
+  this.people = ko.observableArray();
+  this.circles = [];
+
+  this.setup_center = function(person) {
+    return {
+      name: person.name,
+      center: person.center,
+      radius: ko.observable(person.radius),
+      color: ko.observable(person.color)
+    };
+  };
+
+  this.add_people = function(person) {
+    this.people.push(this.setup_center(person));
+    this.redraw_circles();
+  };
+
+  this.redraw_circles = function() {
+    draw_circles(self.map, self);
+  };
+
+  people.map(this.add_people, this);
+};
+
+var setup_search_box = function(map, data) {
+  var searchInput = document.querySelector("#searchInput"),
+    searchBox = new google.maps.places.SearchBox(searchInput);
   google.maps.event.addListener(searchBox, "places_changed", function() {
     var location = searchBox.getPlaces()[0];
     if (location) {
       searchInput.value = "";
-      people.push({
+      data.add_people({
         center: {
           lat: location.geometry.location.lat(),
           lng: location.geometry.location.lng()
@@ -48,16 +75,15 @@ var setup_search_box = function(map, searchInput) {
         radius: 8,
         color: "#0000FF"
       });
-      draw_circles(map);
     }
   });
 };
 
-var set_center = function(map) {
-  var lat = people.map(function(person) {
+var set_center = function(map, data) {
+  var lat = data.people().map(function(person) {
     return person.center.lat;
   });
-  var lng = people.map(function(person) {
+  var lng = data.people().map(function(person) {
     return person.center.lng;
   });
   var center = {
@@ -67,23 +93,21 @@ var set_center = function(map) {
   map.setCenter(center);
 };
 
-var draw_circles = function(map) {
+var draw_circles = function(map, data) {
   // Hide previous circles
-  circles.map(function(circle) {
+  data.circles.map(function(circle) {
     circle.setMap(null);
   });
   // Construct the circle for each person in people.
-  circles = people.map(function(person) {
+  data.circles = data.people().map(function(person) {
     var { center, radius, color } = person;
-    var circle = draw_circle(map, center, radius, color);
+    var circle = draw_circle(map, data, center, radius(), color());
     circle.person = person;
     return circle;
   });
-  set_center(map);
-  show_people(map);
 };
 
-var draw_circle = function(map, center, radius, color) {
+var draw_circle = function(map, data, center, radius, color) {
   var circle = new google.maps.Circle({
     strokeColor: color,
     strokeOpacity: 0.8,
@@ -97,7 +121,7 @@ var draw_circle = function(map, center, radius, color) {
   });
   circle.addListener("rightclick", function() {
     circle.setMap(null);
-    people.splice(people.indexOf(circle.person), 1);
+    data.people.splice(data.people.indexOf(circle.person), 1);
   });
   return circle;
 };
@@ -132,48 +156,10 @@ var mark_venues = function(map) {
     });
 };
 
-var show_people = function(map) {
+var setup_controls = function(map) {
   var controlsDiv = document.querySelector("#controls"),
     controls = map.controls[google.maps.ControlPosition.LEFT_TOP];
-
-  if (controls.length == 0) {
-    var searchBar = document.querySelector("#searchInput");
-    setup_search_box(map, searchBar);
-    controls.push(controlsDiv);
-  }
-
-  var places = document.querySelector("#controls #places");
-  if (places) {
-    places.remove();
-  }
-
-  var ol = document.createElement("ol");
-  ol.setAttribute("id", "places");
-  controlsDiv.appendChild(ol);
-  people.map(function(person) {
-    var li = document.createElement("li");
-    ol.appendChild(li);
-    var text = person.name;
-    li.textContent = text;
-
-    var radius_input = document.createElement("input");
-    radius_input.type = "number";
-    radius_input.value = person.radius;
-    radius_input.onchange = function(e) {
-      person.radius = e.target.value;
-      draw_circles(map);
-    };
-    li.appendChild(radius_input);
-
-    var color_input = document.createElement("input");
-    color_input.type = "color";
-    color_input.value = person.color;
-    color_input.onchange = function(e) {
-      person.color = e.target.value;
-      draw_circles(map);
-    };
-    li.appendChild(color_input);
-  });
+  controls.push(controlsDiv);
 };
 
 var initMap = function() {
@@ -183,6 +169,10 @@ var initMap = function() {
     mapTypeId: "roadmap",
     mapTypeControl: false
   });
+  setup_controls(map);
+  var data = new AppData(map, people);
+  setup_search_box(map, data);
+  set_center(map, data);
   mark_venues(map);
-  draw_circles(map);
+  ko.applyBindings(data);
 };
