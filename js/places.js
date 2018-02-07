@@ -170,6 +170,7 @@ var draw_circle = function(map, data, center, radius, color) {
 };
 
 var mark_venues = function(map, venues) {
+  var zoom = map.getZoom();
   return venues.map(function(venue) {
     // Add marker
     var marker = new google.maps.Marker({
@@ -178,8 +179,15 @@ var mark_venues = function(map, venues) {
       map: map,
       icon: {
         url: venue.icon,
-        scaledSize: new google.maps.Size(25, 25)
+        scaledSize: new google.maps.Size(zoom * 2, zoom * 2)
       }
+    });
+    map.addListener("zoom_changed", function() {
+      var zoom = map.getZoom();
+      marker.setIcon({
+        url: venue.icon,
+        scaledSize: new google.maps.Size(zoom * 2, zoom * 2)
+      });
     });
     // infowindow that is shown when marker is clicked
     var infowindow = new google.maps.InfoWindow({
