@@ -80,7 +80,7 @@ var AppData = function(map, people) {
   });
 
   this._all_venues = ko.computed(function() {
-    var venues_url = "/data/venues.json";
+    var venues_url = "data/venues.json";
     fetch(venues_url)
       .then(function(response) {
         return response.json();
