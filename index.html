@@ -31,7 +31,7 @@
         <div id="map"></div>
         <div id="controls">
             <input style="width: 95%" type="text" id="searchInput" name="searchInput" placeholder="Search for a place to add a circle" />
-            <select data-bind="options: filters, value: current_filter"></select>
+            <select data-bind="options: filters, value: current_filter, valueAllowUnset: true"></select>
             <ul id="places" data-bind="foreach: people">
                 <li>
                     <span data-bind="text: name"></span>

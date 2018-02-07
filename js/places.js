@@ -56,6 +56,8 @@ var AppData = function(map, people) {
     self.people.remove(person);
   };
 
+  this.current_filter = ko.observable("Badminton");
+
   this.filters = ko.computed(function() {
     var filters = new Set();
     this.venues().map(function(v) {
@@ -65,8 +67,6 @@ var AppData = function(map, people) {
     filters.sort();
     return filters;
   }, this);
-
-  this.current_filter = ko.observable();
 
   this.filtered_venues = ko.computed(function() {
     var f = this.current_filter();
