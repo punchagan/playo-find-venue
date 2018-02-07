@@ -6,4 +6,4 @@ install:
 script:
   - scripts/fetch_venues.py
 after_script:
-  - scripts/deploy.sh
+  - scripts/travis-update-venues.sh
