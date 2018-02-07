@@ -37,7 +37,8 @@ def fetch_venues():
     return venues
 
 
-def add_metadata(venues):
+def modify_metadata(venues):
+    RETAIN_KEYS = {'name', 'icon', 'info', 'lat', 'lng'}
     for venue in venues:
         rating = int(float(venue['avgRating']))
         if rating == 5:
@@ -50,7 +51,10 @@ def add_metadata(venues):
             venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon57.png'
         # Add info
         venue['info'] = get_info(venue)
-    return venues
+    return [
+        {key: value for key, value in venue.items() if key in RETAIN_KEYS}
+        for venue in venues
+    ]
 
 
 def filter_inactive(venues):
@@ -68,7 +72,7 @@ def get_info(venue):
 
 
 def main():
-    venues = add_metadata(filter_inactive(fetch_venues()))
+    venues = modify_metadata(filter_inactive(fetch_venues()))
     venues_persist_path = join(HERE, '..', 'data', 'venues.json')
     with open(venues_persist_path, 'w') as f:
         json.dump(venues, f, indent=2)
