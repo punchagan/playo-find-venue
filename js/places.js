@@ -179,14 +179,14 @@ var mark_venues = function(map, venues) {
       map: map,
       icon: {
         url: venue.icon,
-        scaledSize: new google.maps.Size(zoom * 2, zoom * 2)
+        scaledSize: new google.maps.Size(zoom * 1.5, zoom * 1.5)
       }
     });
     map.addListener("zoom_changed", function() {
       var zoom = map.getZoom();
       marker.setIcon({
         url: venue.icon,
-        scaledSize: new google.maps.Size(zoom * 2, zoom * 2)
+        scaledSize: new google.maps.Size(zoom * 1.5, zoom * 1.5)
       });
     });
     // infowindow that is shown when marker is clicked
