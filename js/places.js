@@ -103,49 +103,39 @@ var draw_circle = function(map, center, radius, color) {
 };
 
 var mark_venues = function(map) {
-  venues.map(function(venue) {
-    var rating = parseFloat(venue.avgRating);
-    var icon;
-    switch (parseInt(rating)) {
-      case 5:
-        icon = "https://maps.google.com/mapfiles/kml/pal3/icon12.png";
-        break;
-      case 4:
-        icon = "https://maps.google.com/mapfiles/kml/pal3/icon11.png";
-        break;
-      case 3:
-        icon = "https://maps.google.com/mapfiles/kml/pal3/icon10.png";
-        break;
-      default:
-        icon = "https://maps.google.com/mapfiles/kml/pal3/icon57.png";
-    }
-    if (venue.active) {
-      // Add marker
-      var marker = new google.maps.Marker({
-        position: { lat: venue.lat, lng: venue.lng },
-        title: venue.name,
-        map: map,
-        icon: {
-          url: icon,
-          scaledSize: new google.maps.Size(25, 25)
-        }
+  var venues_url = "/data/venues.json";
+  fetch(venues_url)
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(venues) {
+      venues.map(function(venue) {
+        // Add marker
+        var marker = new google.maps.Marker({
+          position: { lat: venue.lat, lng: venue.lng },
+          title: venue.name,
+          map: map,
+          icon: {
+            url: venue.icon,
+            scaledSize: new google.maps.Size(25, 25)
+          }
+        });
+        // infowindow that is shown when marker is clicked
+        var info_content = `
+  <h3>${venue.name}</h3>
+  <strong>Ratings:</strong> ${venue.avgRating} [${venue.ratingCount}]<br/>
+  <strong>Phone:</strong> ${venue.inquiryPhone || "NA"}<br/>
+  <a href="${venue.deferLink}" target="_blank">${venue.deferLink}</a><br/>
+  `;
+        var infowindow = new google.maps.InfoWindow({
+          content: info_content,
+          maxWidth: 200
+        });
+        marker.addListener("click", function() {
+          infowindow.open(map, marker);
+        });
       });
-      // infowindow that is shown when marker is clicked
-      var info_content = `
-<h3>${venue.name}</h3>
-<strong>Ratings:</strong> ${venue.avgRating} [${venue.ratingCount}]<br/>
-<strong>Phone:</strong> ${venue.inquiryPhone || "NA"}<br/>
-<a href="${venue.deferLink}" target="_blank">${venue.deferLink}</a><br/>
-`;
-      var infowindow = new google.maps.InfoWindow({
-        content: info_content,
-        maxWidth: 200
-      });
-      marker.addListener("click", function() {
-        infowindow.open(map, marker);
-      });
-    }
-  });
+    });
 };
 
 var show_people = function(map) {

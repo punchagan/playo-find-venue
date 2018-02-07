@@ -1,4 +1,4 @@
-venues = [
+[
   {
     "_id": "587124206d91cf3645ab081d",
     "cityCode": 1,
@@ -97,7 +97,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/NGV/ngv-7.jpg"
       }
     ],
-    "activeKey": "builders-national-games-village-club-koramangala-bangalore"
+    "activeKey": "builders-national-games-village-club-koramangala-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "587124206d91cf3645ab083a",
@@ -185,7 +186,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/CITINEST/Badminton-5.jpg"
       }
     ],
-    "activeKey": "citi-nest-sports-centre-indiranagar-bangalore"
+    "activeKey": "citi-nest-sports-centre-indiranagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0833",
@@ -257,7 +259,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/VAJBADCLUB/vaj-1.jpg"
       }
     ],
-    "activeKey": "vajpayee-indoor-badminton-club-rajajinagar-bangalore"
+    "activeKey": "vajpayee-indoor-badminton-club-rajajinagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5a536c3f6d91cf21dadaf422",
@@ -383,12 +386,13 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SHOOTERSSPORTSCLUB/shooterssportsclub9.jpg"
       }
     ],
-    "activeKey": "shooters-sports-club-koramangala-bangalore"
+    "activeKey": "shooters-sports-club-koramangala-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5a1c03096d91cf6a8dd2a0ae",
     "cityCode": 2,
-    "modTS": "2018-02-03T11:42:33.746Z",
+    "modTS": "2018-02-07T02:24:45.894Z",
     "createdTS": "2017-11-27T12:20:25.472Z",
     "bookType": 0,
     "ratingCount": 42,
@@ -461,7 +465,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/KRISHNAPREMIERBADMINTONACADEMY/KrishnaPremierBadmintonAcademy1.JPG"
       }
     ],
-    "activeKey": "krishna-premier-badminton-academy-vijaynagar-ncr"
+    "activeKey": "krishna-premier-badminton-academy-vijaynagar-ncr",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "58f3273b6d91cf6e78e0a64c",
@@ -539,7 +544,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/FREEHITZ/freehitz1.jpg"
       }
     ],
-    "activeKey": "free-hitz-rt-nagar-bangalore"
+    "activeKey": "free-hitz-rt-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "58fd8dee6d91cf4852c3e3ff",
@@ -598,7 +604,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/TMCBADMINTONCOURT/TMCBadmintonCourt0.JPG"
       }
     ],
-    "activeKey": "tmc-badminton-court-devasandra-layout-bangalore"
+    "activeKey": "tmc-badminton-court-devasandra-layout-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "59cf33476d91cf50e1e2cefd",
@@ -700,15 +707,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/JPBADMINTON/JPBadmintonAcademy4.jpg"
       }
     ],
-    "activeKey": "jp-badminton-sanjaynagar-bangalore"
+    "activeKey": "jp-badminton-sanjaynagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "596cf3ba6d91cf574aa042fb",
     "cityCode": 1,
-    "modTS": "2018-01-22T14:20:50.764Z",
+    "modTS": "2018-02-06T11:12:36.459Z",
     "createdTS": "2017-07-17T17:28:26.496Z",
     "bookType": 0,
-    "ratingCount": 32,
+    "ratingCount": 33,
     "zipCode": "560086",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
@@ -796,7 +804,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PREMIERBADMINTONACADEMYRAVEESHGOWDACENTER/PremierBadmintonAcademyRaveeshGowdaCenter3.jpg"
       }
     ],
-    "activeKey": "premier-badminton-academy-raveesh-gowda-center-yeshwanthpur-bangalore"
+    "activeKey": "premier-badminton-academy-raveesh-gowda-center-yeshwanthpur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "58a436c96d91cf3697103639",
@@ -880,12 +889,13 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SHUTTLEFITACADEMY/ShuttlefitAcademy4.jpg"
       }
     ],
-    "activeKey": "shuttlefit-academy-kalyan-nagar-bangalore"
+    "activeKey": "shuttlefit-academy-kalyan-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5a3109536d91cf671b2f0015",
     "cityCode": 1,
-    "modTS": "2018-02-05T10:08:11.019Z",
+    "modTS": "2018-02-06T06:56:23.790Z",
     "createdTS": "2017-12-13T11:04:51.227Z",
     "bookType": 0,
     "ratingCount": 55,
@@ -967,7 +977,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/4SSHUTTLESMASHSPORTSSTUDIO/4sshuttlesmashsportsstudio0.jpeg"
       }
     ],
-    "activeKey": "4s-shuttle-smash-sports-studio-doresanipalya-bangalore"
+    "activeKey": "4s-shuttle-smash-sports-studio-doresanipalya-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "58e0d7566d91cf558175f399",
@@ -1048,21 +1059,22 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PREMIERBADMINTONACADEMYDRONACHARYACENTER/PREMIERBADMINTONACADEMYDRONACHARYACENTER2.jpg"
       }
     ],
-    "activeKey": "anis-sports-academy-banashankari-3rd-stage-bangalore"
+    "activeKey": "anis-sports-academy-banashankari-3rd-stage-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5a7449786d91cf53ba734a1a",
     "cityCode": 1,
-    "modTS": "2018-02-05T08:51:38.853Z",
+    "modTS": "2018-02-07T03:31:10.516Z",
     "createdTS": "2018-02-02T11:20:23.913Z",
     "bookType": 0,
-    "ratingCount": 6,
+    "ratingCount": 15,
     "zipCode": "560061",
     "inquiryPhone": "9342215333",
     "phone": "9342215333",
     "tag": "",
     "sponsored": "",
-    "avgRating": "4.7",
+    "avgRating": "4.9",
     "address": "4th Cross, Hanumagiri,Sneha colony, Near Abbaiah Naidu Studio",
     "lat": 12.917489,
     "lng": 77.5454,
@@ -1138,7 +1150,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/DRONACHARYAPREMIERBADMINTONACADEMY/DronacharyaPremierBadmintonAcademy5.jpg"
       }
     ],
-    "activeKey": "dronacharya-premier-badminton-academy-chikkalsandra-bangalore"
+    "activeKey": "dronacharya-premier-badminton-academy-chikkalsandra-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab081c",
@@ -1219,15 +1232,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/FEATHERSACADEMY/p4.jpg"
       }
     ],
-    "activeKey": "yeshwanthpur-feathers-academy-yeshwanthpur-bangalore"
+    "activeKey": "yeshwanthpur-feathers-academy-yeshwanthpur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5a6087ea6d91cf33ccda53a9",
     "cityCode": 1,
-    "modTS": "2018-02-04T02:29:05.899Z",
+    "modTS": "2018-02-06T12:28:53.776Z",
     "createdTS": "2018-01-18T11:41:30.334Z",
     "bookType": 0,
-    "ratingCount": 26,
+    "ratingCount": 28,
     "zipCode": "560068",
     "inquiryPhone": "8105660123",
     "phone": "8105660123",
@@ -1321,7 +1335,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/CENTAURUSSPORTSCENTER/CentaurusSportsCenter8.jpg"
       }
     ],
-    "activeKey": "centaurus-sports-center-hsr-7th-sector-bangalore"
+    "activeKey": "centaurus-sports-center-hsr-7th-sector-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "58ee47e96d91cf62cf101360",
@@ -1411,7 +1426,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SUNAYANASPORTSACADEMY/SunayanaSportsAcademy5.jpg"
       }
     ],
-    "activeKey": "sunayana-sports-academy-nagarbhavi-bangalore"
+    "activeKey": "sunayana-sports-academy-nagarbhavi-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "587124206d91cf3645ab084a",
@@ -1495,7 +1511,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/NAMMASHUTTLE/5-min.jpg"
       }
     ],
-    "activeKey": "namma-shuttle-hsr-layout-bangalore"
+    "activeKey": "namma-shuttle-hsr-layout-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0853",
@@ -1570,7 +1587,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/FEATHERTOUCH/ft2.jpg"
       }
     ],
-    "activeKey": "feather-touch-sports-arena-jp-nagar-bangalore"
+    "activeKey": "feather-touch-sports-arena-jp-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5912df696d91cf73669eaa58",
@@ -1659,15 +1677,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/BATTLEDOREARENA/Battledorearena9.jpg"
       }
     ],
-    "activeKey": "battledore-arena-kalyan-nagar-bangalore"
+    "activeKey": "battledore-arena-kalyan-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab0846",
     "cityCode": 1,
-    "modTS": "2018-02-04T12:45:54.787Z",
+    "modTS": "2018-02-05T20:00:25.067Z",
     "createdTS": "2017-01-07T17:23:44.188Z",
     "bookType": 0,
-    "ratingCount": 242,
+    "ratingCount": 243,
     "zipCode": "560072",
     "phone": "9108705005",
     "tag": "Trending",
@@ -1734,15 +1753,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/BASELINESPORTS/BaselineSports1.jpg"
       }
     ],
-    "activeKey": "baseline-sports-nagarbhavi-bangalore"
+    "activeKey": "baseline-sports-nagarbhavi-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab0812",
     "cityCode": 1,
-    "modTS": "2018-02-02T12:14:59.246Z",
+    "modTS": "2018-02-06T16:47:13.026Z",
     "createdTS": "2017-01-07T17:23:44.126Z",
     "bookType": 0,
-    "ratingCount": 71,
+    "ratingCount": 72,
     "zipCode": "560093",
     "phone": "9632388220",
     "tag": "",
@@ -1810,15 +1830,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ACTISPORTS/Badminton-4.jpg"
       }
     ],
-    "activeKey": "acti-sports-arena-cv-raman-nagar-bangalore"
+    "activeKey": "acti-sports-arena-cv-raman-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "598454736d91cf12e7164138",
     "cityCode": 1,
-    "modTS": "2018-02-03T16:44:34.310Z",
+    "modTS": "2018-02-06T05:03:59.342Z",
     "createdTS": "2017-08-04T11:03:15.569Z",
     "bookType": 0,
-    "ratingCount": 236,
+    "ratingCount": 237,
     "zipCode": "560078",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
@@ -1902,7 +1923,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SKYFINCHSPORTSCENTERJPNAGAR/SkyfinchSportsCenterJPNagar9.png"
       }
     ],
-    "activeKey": "skyfinch-sports-center-jp-nagar-jp-nagar-bangalore"
+    "activeKey": "skyfinch-sports-center-jp-nagar-jp-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59c49a7e6d91cf67e54719b1",
@@ -1972,7 +1994,8 @@ venues = [
     "distance": 9.256918930170157,
     "userVenueRating": 0,
     "venueImages": [],
-    "activeKey": "smash-it-@-hsr-hsr-layout-bangalore"
+    "activeKey": "smash-it-@-hsr-hsr-layout-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59c506ee6d91cf67e54719b2",
@@ -2065,7 +2088,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/KRIDAJAGATHUSPORTSACADEMY/kridajagathusportsacademy2.jpeg"
       }
     ],
-    "activeKey": "krida-jagathu-sports-academy-off-kanakapura-road-bangalore"
+    "activeKey": "krida-jagathu-sports-academy-off-kanakapura-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "587124206d91cf3645ab0817",
@@ -2159,7 +2183,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/BANGALOREINDOORCRICKETCLUB/BangaloreIndoorCricketClub4.jpg"
       }
     ],
-    "activeKey": "bangalore-indoor-cricket-club-yeshvanthpur-bangalore"
+    "activeKey": "bangalore-indoor-cricket-club-yeshvanthpur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0848",
@@ -2243,7 +2268,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SUNSHINEBA/Sunshine Badminton Academy3.jpg"
       }
     ],
-    "activeKey": "sunshine-badminton-academy-nagavara-bangalore"
+    "activeKey": "sunshine-badminton-academy-nagavara-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab081e",
@@ -2340,15 +2366,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/THECLUB/The Club2.png"
       }
     ],
-    "activeKey": "the-club-nayandahalli-bangalore"
+    "activeKey": "the-club-nayandahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0864",
     "cityCode": 1,
-    "modTS": "2018-02-04T06:11:12.162Z",
+    "modTS": "2018-02-06T00:36:40.441Z",
     "createdTS": "2017-01-07T17:23:44.224Z",
     "bookType": 0,
-    "ratingCount": 475,
+    "ratingCount": 476,
     "zipCode": "560078",
     "phone": "7829240379",
     "tag": "",
@@ -2431,7 +2458,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/THESPORTSC/thesportsclub9.jpg"
       }
     ],
-    "activeKey": "the-sports-club-jp-nagar-bangalore"
+    "activeKey": "the-sports-club-jp-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0815",
@@ -2516,7 +2544,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SANDPEBBLES/sandpebbles5.jpg"
       }
     ],
-    "activeKey": "sand-pebbles-kanakpura-road-bangalore"
+    "activeKey": "sand-pebbles-kanakpura-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "587124206d91cf3645ab0860",
@@ -2606,7 +2635,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/NAMMASHUTTLE@2NDSECTOR/NammaShuttleat2ndSector9.jpg"
       }
     ],
-    "activeKey": "namma-shuttle-at-2nd-sector-hsr-layout-bangalore"
+    "activeKey": "namma-shuttle-at-2nd-sector-hsr-layout-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "593bf1456d91cf3e4ecf5561",
@@ -2690,7 +2720,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/MATRIXSPORTS/matrixsports0.jpg"
       }
     ],
-    "activeKey": "matrix-sports-kr-puram-ncr"
+    "activeKey": "matrix-sports-kr-puram-ncr",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab082b",
@@ -2801,21 +2832,22 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/DHISPORTS/IMG_9737-min.JPG"
       }
     ],
-    "activeKey": "dhi-sports-center-bannerghatta-road-bangalore"
+    "activeKey": "dhi-sports-center-bannerghatta-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "5a02ec6d6d91cf52268a082f",
     "cityCode": 1,
-    "modTS": "2018-02-02T13:53:05.824Z",
+    "modTS": "2018-02-06T18:55:48.775Z",
     "createdTS": "2017-11-08T11:37:17.360Z",
     "bookType": 0,
-    "ratingCount": 82,
+    "ratingCount": 83,
     "zipCode": "560062",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
     "tag": "",
     "sponsored": "",
-    "avgRating": "4.2",
+    "avgRating": "4.3",
     "address": "Sy No 11/1, 1st floor, Behind Brigade Gardenia Apartment, Gowrava Nagar, Chunchaghatta, JP Nagar 7th Phase",
     "lat": 12.88649,
     "lng": 77.577576,
@@ -2896,20 +2928,21 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ERELAXBADMINTONCLUB/ERelaxBadmintonClub4.jpeg"
       }
     ],
-    "activeKey": "e-relax-badminton-club-jp-nagar-7th-phase-bangalore"
+    "activeKey": "e-relax-badminton-club-jp-nagar-7th-phase-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab083d",
     "cityCode": 1,
-    "modTS": "2018-02-04T06:21:42.785Z",
+    "modTS": "2018-02-05T12:57:12.839Z",
     "createdTS": "2017-01-07T17:23:44.176Z",
     "bookType": 0,
-    "ratingCount": 71,
+    "ratingCount": 72,
     "zipCode": "560043",
     "phone": "8050080600",
     "tag": "",
     "sponsored": "",
-    "avgRating": "3.7",
+    "avgRating": "3.8",
     "address": "2nd Cross, T.C.P Garden, T.C.P Layout, Horamavu \u00ad Agara Main Road,",
     "lat": 13.029928,
     "lng": 77.661218,
@@ -2976,15 +3009,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ALTISARENA/AltisArena2.jpg"
       }
     ],
-    "activeKey": "altis-arena-banaswadi-horamavu-bangalore"
+    "activeKey": "altis-arena-banaswadi-horamavu-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab085c",
     "cityCode": 1,
-    "modTS": "2018-02-04T15:36:20.509Z",
+    "modTS": "2018-02-05T10:57:53.799Z",
     "createdTS": "2017-01-07T17:23:44.215Z",
     "bookType": 0,
-    "ratingCount": 676,
+    "ratingCount": 677,
     "zipCode": "560103",
     "phone": "7204356932",
     "tag": "",
@@ -3065,15 +3099,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PLAYSTATION/20150322_190531.jpg"
       }
     ],
-    "activeKey": "play-station-academy-bellandur-bangalore"
+    "activeKey": "play-station-academy-bellandur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "587124206d91cf3645ab0854",
     "cityCode": 1,
-    "modTS": "2018-02-03T12:48:08.801Z",
+    "modTS": "2018-02-06T22:08:21.056Z",
     "createdTS": "2017-01-07T17:23:44.204Z",
     "bookType": 0,
-    "ratingCount": 331,
+    "ratingCount": 332,
     "zipCode": "560103",
     "phone": "9448790559",
     "tag": "",
@@ -3195,7 +3230,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PLAYMANIA/tt.jpg"
       }
     ],
-    "activeKey": "playmania-bellandur-bangalore"
+    "activeKey": "playmania-bellandur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59c250c66d91cf1bb0e43a53",
@@ -3276,7 +3312,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SMASHSPORTSARENA/SmashSportsArena2.jpg"
       }
     ],
-    "activeKey": "smash-sports-arena-horamavu-agara-road-bangalore"
+    "activeKey": "smash-sports-arena-horamavu-agara-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0839",
@@ -3375,14 +3412,15 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/NAMMASPORTS/NammaSports1.jpg"
       }
     ],
-    "activeKey": "namma-sports-rajarajeshwari-nagar-bangalore"
+    "activeKey": "namma-sports-rajarajeshwari-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "589d896c6d91cf322f6a0b16",
     "createdTS": "2017-02-10T09:35:39.965Z",
     "active": true,
     "tag": "",
-    "modTS": "2018-02-04T13:56:16.412Z",
+    "modTS": "2018-02-05T13:03:02.535Z",
     "ratingCount": 87,
     "lng": 77.582389,
     "category": 2,
@@ -3459,7 +3497,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/OVALNETBADMINTONACADEMY/ovalnetbadmintonacademy1.jpg"
       }
     ],
-    "activeKey": "ovalnet-badminton-academy-sahakar-nagar-bangalore"
+    "activeKey": "ovalnet-badminton-academy-sahakar-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "593c2e376d91cf3e4ecf5565",
@@ -3543,15 +3582,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/KSABADMINTONACADEMY/KSABadmintonAcademy3.jpeg"
       }
     ],
-    "activeKey": "ksa-badminton-academy-dasarahalli-hebbal-bangalore"
+    "activeKey": "ksa-badminton-academy-dasarahalli-hebbal-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "5a03158c6d91cf5223da0928",
     "cityCode": 1,
-    "modTS": "2018-02-01T15:05:00.000Z",
+    "modTS": "2018-02-06T01:05:51.564Z",
     "createdTS": "2017-11-08T14:32:44.423Z",
     "bookType": 0,
-    "ratingCount": 69,
+    "ratingCount": 70,
     "zipCode": "560064",
     "inquiryPhone": "9880941111",
     "phone": "9880941111",
@@ -3645,7 +3685,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/AHALYASPORTSARENA/AhalyaSportsArena9.JPG"
       }
     ],
-    "activeKey": "ahalya-sports-arena-manyata-tech-parknagawara-bangalore"
+    "activeKey": "ahalya-sports-arena-manyata-tech-parknagawara-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab0851",
@@ -3742,7 +3783,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ACHIEVEANDCHERISH/AchieveandCherish1.JPG"
       }
     ],
-    "activeKey": "achieve-and-cherish-arekere-bangalore"
+    "activeKey": "achieve-and-cherish-arekere-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "5937b3686d91cf641d0a80b9",
@@ -3817,15 +3859,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/HOTSHOTSARENA/HotshotsArena3.jpg"
       }
     ],
-    "activeKey": "hotshots-arena-jp-nagar-bangalore"
+    "activeKey": "hotshots-arena-jp-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "59a93def6d91cf35e440a4c0",
     "cityCode": 1,
-    "modTS": "2018-02-01T14:29:04.164Z",
+    "modTS": "2018-02-06T00:36:52.774Z",
     "createdTS": "2017-09-01T11:01:03.935Z",
     "bookType": 0,
-    "ratingCount": 296,
+    "ratingCount": 297,
     "zipCode": "560078",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
@@ -3902,15 +3945,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SHUTTLERSALLEY/ShuttlersAlley4.JPG"
       }
     ],
-    "activeKey": "shuttlers-alley-jp-nagar-bangalore"
+    "activeKey": "shuttlers-alley-jp-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59d7da886d91cf428489420a",
     "cityCode": 1,
-    "modTS": "2018-02-04T17:52:53.786Z",
+    "modTS": "2018-02-07T03:21:50.538Z",
     "createdTS": "2017-10-06T19:33:28.141Z",
     "bookType": 0,
-    "ratingCount": 182,
+    "ratingCount": 185,
     "zipCode": "560048",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
@@ -3972,7 +4016,8 @@ venues = [
     "distance": 10.329284464056995,
     "userVenueRating": 0,
     "venueImages": [],
-    "activeKey": "vinnys-sports-arena-mahadevapura-bangalore"
+    "activeKey": "vinnys-sports-arena-mahadevapura-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab07a9",
@@ -4081,15 +4126,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/BESTCLUB/Best Club3.jpg"
       }
     ],
-    "activeKey": "best-club-rajarajeshwari-nagar-bangalore"
+    "activeKey": "best-club-rajarajeshwari-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "599fdbb66d91cf5aabaec2b6",
     "cityCode": 1,
-    "modTS": "2018-02-02T16:29:46.633Z",
+    "modTS": "2018-02-05T16:41:41.865Z",
     "createdTS": "2017-08-25T08:11:34.495Z",
     "bookType": 0,
-    "ratingCount": 111,
+    "ratingCount": 112,
     "zipCode": "560043",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
@@ -4162,7 +4208,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SPORTIVEBADMINTONACADEMY/SportiveBadmintonAcademy2.jpeg"
       }
     ],
-    "activeKey": "sportive-badminton-academy-hormavu-bangalore"
+    "activeKey": "sportive-badminton-academy-hormavu-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "5a4e133c6d91cf65715ed0d8",
@@ -4240,7 +4287,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SILICONCITYACADEMY/SiliconCityAcademy1.jpg"
       }
     ],
-    "activeKey": "silicon-city-academy-konanakunte-bangalore"
+    "activeKey": "silicon-city-academy-konanakunte-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "59645f876d91cf2d12a36dca",
@@ -4327,12 +4375,13 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/BALLALSBADMINTONARENA/BallalsBadmintonArena4.jpg"
       }
     ],
-    "activeKey": "ballals-badminton-arena-gubballala-bangalore"
+    "activeKey": "ballals-badminton-arena-gubballala-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab0849",
     "cityCode": 1,
-    "modTS": "2018-02-05T06:35:42.433Z",
+    "modTS": "2018-02-06T17:52:27.837Z",
     "createdTS": "2017-01-07T17:23:44.192Z",
     "bookType": 0,
     "ratingCount": 265,
@@ -4413,21 +4462,22 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SPORTSCENTRAL/SportsCentral4.jpg"
       }
     ],
-    "activeKey": "sportscentral-sarjapur-road-bangalore"
+    "activeKey": "sportscentral-sarjapur-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5a000e716d91cf57e3240a59",
     "cityCode": 1,
-    "modTS": "2018-02-04T10:59:00.694Z",
+    "modTS": "2018-02-05T10:57:12.038Z",
     "createdTS": "2017-11-06T07:25:37.252Z",
     "bookType": 0,
-    "ratingCount": 52,
+    "ratingCount": 53,
     "zipCode": "560103",
     "inquiryPhone": "07676669966",
     "phone": "07676669966",
     "tag": "Newly Added",
     "sponsored": "Featured",
-    "avgRating": "3.8",
+    "avgRating": "3.7",
     "address": "No. 50/1, Beside Mantri Espa\u00f1a Apartment, Sakra World Hospital Road, Devarabisanahalli,",
     "lat": 12.931758,
     "lng": 77.68305,
@@ -4497,15 +4547,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/GAMESQUARE/GameSquare3.JPG"
       }
     ],
-    "activeKey": "game-square-bellandur-bangalore"
+    "activeKey": "game-square-bellandur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59c222196d91cf247d240db2",
     "cityCode": 1,
-    "modTS": "2018-02-03T16:41:49.659Z",
+    "modTS": "2018-02-06T00:36:26.516Z",
     "createdTS": "2017-09-20T08:08:56.841Z",
     "bookType": 0,
-    "ratingCount": 220,
+    "ratingCount": 221,
     "zipCode": "560076",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
@@ -4578,15 +4629,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SPARKSPORTS/SparkSports4.jpeg"
       }
     ],
-    "activeKey": "spark-sports-jp-nagar-bangalore"
+    "activeKey": "spark-sports-jp-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587751586d91cf022810bd62",
     "createdTS": "2017-01-12T09:50:15.927Z",
     "active": true,
     "tag": "",
-    "modTS": "2018-02-01T15:05:00.000Z",
-    "ratingCount": 255,
+    "modTS": "2018-02-06T05:07:27.726Z",
+    "ratingCount": 256,
     "lng": 77.605271,
     "category": 2,
     "city": "Bangalore",
@@ -4665,7 +4717,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SPORTSALLEY/sportsalley7.jpg"
       }
     ],
-    "activeKey": "sports-alley-pvt-ltd-hulimavu-bangalore"
+    "activeKey": "sports-alley-pvt-ltd-hulimavu-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab083b",
@@ -4747,7 +4800,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/JUMPNSMASH/JumpNSmash2.jpeg"
       }
     ],
-    "activeKey": "jump-n-smash-hennur-main-road-bangalore"
+    "activeKey": "jump-n-smash-hennur-main-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "5873aba3e9601accdf3a862f",
@@ -4825,7 +4879,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/THESPORTSVILLA/TheSportsVilla1.jpg"
       }
     ],
-    "activeKey": "the-sports-villa-jnananjyothinagar-bangalore"
+    "activeKey": "the-sports-villa-jnananjyothinagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0858",
@@ -4910,12 +4965,13 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/TAKERZBADMINTONACADEMY/TakerzBadmintonAcademy3.jpg"
       }
     ],
-    "activeKey": "takerz-badminton-academy-nagavara-bangalore"
+    "activeKey": "takerz-badminton-academy-nagavara-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "5a0b16046d91cf6391a7dd80",
     "cityCode": 1,
-    "modTS": "2018-02-04T04:01:44.416Z",
+    "modTS": "2018-02-06T12:38:55.966Z",
     "createdTS": "2017-11-14T16:12:52.302Z",
     "bookType": 0,
     "ratingCount": 67,
@@ -4988,7 +5044,7 @@ venues = [
     ],
     "restricted": 0,
     "notifyBooking": 0,
-    "addInfo": "Non marking badminton shoes are mandatory.\nPlaying bare feet is not allowed\nNon marking shoes are available on rent",
+    "addInfo": "Non marking badminton shoes are mandatory.\nPlaying bare feet is not allowed\nNon marking shoes are available on rent\nSwimming pool is closed on Mondays for maintenance.",
     "type": 0,
     "s3Folder": "LAKESIDESPORTSCENTRE",
     "__v": 1,
@@ -5015,15 +5071,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/LAKESIDESPORTSCENTRE/LakesideSportsCentre4.JPG"
       }
     ],
-    "activeKey": "lakeside-sports-centre-begur-road-bangalore"
+    "activeKey": "lakeside-sports-centre-begur-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "593e7cca6d91cf3e5115a22a",
     "cityCode": 2,
-    "modTS": "2018-02-04T06:11:10.037Z",
+    "modTS": "2018-02-06T10:58:00.322Z",
     "createdTS": "2017-06-12T11:36:42.745Z",
     "bookType": 0,
-    "ratingCount": 70,
+    "ratingCount": 71,
     "zipCode": "560098",
     "inquiryPhone": "9742554448",
     "phone": "9742554448",
@@ -5093,12 +5150,13 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/THEBIGBOX/TheBigBox1.jpg"
       }
     ],
-    "activeKey": "the-big-box-rr-nagar-ncr"
+    "activeKey": "the-big-box-rr-nagar-ncr",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0847",
     "cityCode": 1,
-    "modTS": "2018-02-03T10:37:40.911Z",
+    "modTS": "2018-02-06T17:28:29.142Z",
     "createdTS": "2017-01-07T17:23:44.189Z",
     "bookType": 0,
     "ratingCount": 242,
@@ -5183,7 +5241,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SMASH&SPRINT/ss-football.jpg"
       }
     ],
-    "activeKey": "smash-sprint-kudlu-bangalore"
+    "activeKey": "smash-sprint-kudlu-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0832",
@@ -5304,7 +5363,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PLAY-ARENA/swimming-pool-gallery-2.jpg"
       }
     ],
-    "activeKey": "play-off-sarjapur-road-bangalore"
+    "activeKey": "play-off-sarjapur-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab081f",
@@ -5386,7 +5446,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SPRYNOX/spr-2.jpg"
       }
     ],
-    "activeKey": "sprynox-sports-kalkere-bangalore"
+    "activeKey": "sprynox-sports-kalkere-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59a956d76d91cf35e7b98932",
@@ -5467,7 +5528,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/NOVABADMINTONACADEMY/NovaBadmintonAcademy2.JPG"
       }
     ],
-    "activeKey": "nova-badminton-academy-jnanajyothi-nagar-bangalore"
+    "activeKey": "nova-badminton-academy-jnanajyothi-nagar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab085b",
@@ -5554,7 +5616,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ALTISARCADE/AltisArcade4.JPG"
       }
     ],
-    "activeKey": "altis-arcade-mahadevapura-bangalore"
+    "activeKey": "altis-arcade-mahadevapura-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0845",
@@ -5675,7 +5738,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/WHITEPEACOCK/20150623_152508.jpg"
       }
     ],
-    "activeKey": "white-peacock-sports-sarjapur-road-bangalore"
+    "activeKey": "white-peacock-sports-sarjapur-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab084c",
@@ -5766,15 +5830,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/STARBADMINTON/StarBadmintonAcademy9.jpeg"
       }
     ],
-    "activeKey": "star-badminton-academy-sarjapur-road-bangalore"
+    "activeKey": "star-badminton-academy-sarjapur-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59044fbb6d91cf320847ce36",
     "createdTS": "2017-04-29T08:32:59.202Z",
     "active": true,
     "tag": "",
-    "modTS": "2018-02-03T07:37:09.966Z",
-    "ratingCount": 80,
+    "modTS": "2018-02-06T13:08:10.983Z",
+    "ratingCount": 81,
     "keywords": [
       {
         "active": true,
@@ -5854,7 +5919,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/JPBADMINTONACADEMY/JPBadmintonAcademy9.jpg"
       }
     ],
-    "activeKey": "jp-badminton-academy-vidyaranyapura-bangalore"
+    "activeKey": "jp-badminton-academy-vidyaranyapura-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5873abc7e9601accdf3a8630",
@@ -5943,15 +6009,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/VRISHIRACKETSANDSHUTTLES/vrishiracketsandshuttles5.jpg"
       }
     ],
-    "activeKey": "vrishi-rackets-and-shuttles-kanakapura-rd-bangalore"
+    "activeKey": "vrishi-rackets-and-shuttles-kanakapura-rd-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "58c40ae36d91cf1941db843e",
     "createdTS": "2017-03-11T14:34:11.797Z",
     "active": true,
     "tag": "Flat 150/-,Cement Court",
-    "modTS": "2018-01-30T12:38:06.175Z",
-    "ratingCount": 125,
+    "modTS": "2018-02-06T09:18:45.985Z",
+    "ratingCount": 126,
     "lng": 77.6951046,
     "category": 2,
     "city": "Bangalore",
@@ -6029,7 +6096,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/VCAREBADMINTONACADEMY/VCareBadmintonAcademy4.jpg"
       }
     ],
-    "activeKey": "v-care-badminton-academy-kadubeesanahalli-bangalore"
+    "activeKey": "v-care-badminton-academy-kadubeesanahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59f69d8d6d91cf585c474f15",
@@ -6116,7 +6184,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PATELSPORTSCLUB/PatelSportsClub4.jpeg"
       }
     ],
-    "activeKey": "patel-sports-club-magadi-main-road-bangalore"
+    "activeKey": "patel-sports-club-magadi-main-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab084f",
@@ -6205,7 +6274,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ARATTBIGGAME/ArattBigGame3.png"
       }
     ],
-    "activeKey": "aratt-big-game-singasandra-begur-bangalore"
+    "activeKey": "aratt-big-game-singasandra-begur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab085f",
@@ -6293,15 +6363,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ORCHIDSPORTSACADEMY/orchidsportsacademy2.png"
       }
     ],
-    "activeKey": "orchid-sports-academy-marathahalli-bangalore"
+    "activeKey": "orchid-sports-academy-marathahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab0861",
     "cityCode": 1,
-    "modTS": "2018-02-04T08:08:02.235Z",
+    "modTS": "2018-02-06T22:06:58.089Z",
     "createdTS": "2017-01-07T17:23:44.221Z",
     "bookType": 0,
-    "ratingCount": 167,
+    "ratingCount": 168,
     "zipCode": "560103",
     "phone": "9886091988",
     "tag": "Near JP Morgan",
@@ -6465,7 +6536,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ACTIVEARENA/activearena4.jpg"
       }
     ],
-    "activeKey": "active-arena-marathahalli-bangalore"
+    "activeKey": "active-arena-marathahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0862",
@@ -6552,7 +6624,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SKYFINCHBADMINTONCENTER/SkyfinchBadmintonCenter4.jpg"
       }
     ],
-    "activeKey": "skyfinch-badminton-center-k-r-puram-bangalore"
+    "activeKey": "skyfinch-badminton-center-k-r-puram-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab0852",
@@ -6630,7 +6703,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PROCLUB/IMG_20150804_162548.jpg"
       }
     ],
-    "activeKey": "pro-club-kadubeesanahalli-bangalore"
+    "activeKey": "pro-club-kadubeesanahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59b6602b6d91cf535a9d4b8b",
@@ -6711,7 +6785,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/OLDVIVASBADMINTONACADEMY/OldVivasBadmintonAcademy2.jpg"
       }
     ],
-    "activeKey": "old-vivas-badminton-academy-kadubisnahalli-bangalore"
+    "activeKey": "old-vivas-badminton-academy-kadubisnahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59e449a86d91cf78e9cc405c",
@@ -6798,7 +6873,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/IBLITZBADMINTONACADEMY/IblitzBadmintonAcademy4.jpg"
       }
     ],
-    "activeKey": "iblitz-badminton-academy-kadubeesanahalli-bangalore"
+    "activeKey": "iblitz-badminton-academy-kadubeesanahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab083c",
@@ -6892,7 +6968,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/AGONSPORTS/AGONSports21.jpg"
       }
     ],
-    "activeKey": "agon-sports-hennur-bangalore"
+    "activeKey": "agon-sports-hennur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "5930016b6d91cf13a27ecd3d",
@@ -6979,15 +7056,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/JSBADMINTONACADEMY/jsbadmintonacademy4.jpg"
       }
     ],
-    "activeKey": "js-badminton-academy-bannerghatta-main-road-bangalore"
+    "activeKey": "js-badminton-academy-bannerghatta-main-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab084b",
     "cityCode": 1,
-    "modTS": "2018-01-30T07:07:18.922Z",
+    "modTS": "2018-02-07T02:46:26.145Z",
     "createdTS": "2017-01-07T17:23:44.194Z",
     "bookType": 0,
-    "ratingCount": 204,
+    "ratingCount": 205,
     "zipCode": "560037",
     "phone": "9945035999",
     "tag": "",
@@ -7082,7 +7160,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PRETTYSPORTSDRIFT/PrettySportsDrift5.PNG"
       }
     ],
-    "activeKey": "pretty-sports-drift-whitefield-bangalore"
+    "activeKey": "pretty-sports-drift-whitefield-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0834",
@@ -7158,15 +7237,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/GOPALANNATIONAL/slide-badminton-04a.jpg"
       }
     ],
-    "activeKey": "gopalan-national-school-doddenakundi-bangalore"
+    "activeKey": "gopalan-national-school-doddenakundi-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59ab90186d91cf536cbe321c",
     "cityCode": 1,
-    "modTS": "2018-02-05T08:51:39.919Z",
+    "modTS": "2018-02-07T00:56:02.982Z",
     "createdTS": "2017-09-03T05:16:07.494Z",
     "bookType": 0,
-    "ratingCount": 147,
+    "ratingCount": 148,
     "zipCode": "560037",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
@@ -7245,7 +7325,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/HOTSHOTSBADMINTONCLUB/HotshotsBadmintonClub4.jpg"
       }
     ],
-    "activeKey": "hotshots-badminton-club-marathalli-bangalore"
+    "activeKey": "hotshots-badminton-club-marathalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "58f05ec36d91cf6e78e0a648",
@@ -7365,15 +7446,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ABCPPREMIERSPORTSCLUB/abcppremiersportsclub5.jpg"
       }
     ],
-    "activeKey": "abcp-premier-sports-club-jp-nagar-8th-phase-bangalore"
+    "activeKey": "abcp-premier-sports-club-jp-nagar-8th-phase-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59a5967e6d91cf288de45e3b",
     "cityCode": 1,
-    "modTS": "2018-02-01T15:05:00.000Z",
+    "modTS": "2018-02-07T02:47:38.217Z",
     "createdTS": "2017-08-29T16:29:49.897Z",
     "bookType": 0,
-    "ratingCount": 188,
+    "ratingCount": 190,
     "zipCode": "560076",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
@@ -7449,7 +7531,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SHUTTLEZONE/shuttlezone1.jpeg"
       }
     ],
-    "activeKey": "shuttle-zone-bannerghatta-road-bangalore"
+    "activeKey": "shuttle-zone-bannerghatta-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab085d",
@@ -7565,20 +7648,21 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/EKAMSPORTSARENA/EkamSportsArena2.jpg"
       }
     ],
-    "activeKey": "ekam-sports-arena-marathahalli-bangalore"
+    "activeKey": "ekam-sports-arena-marathahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0838",
     "cityCode": 1,
-    "modTS": "2018-02-01T15:05:00.000Z",
+    "modTS": "2018-02-06T06:18:59.525Z",
     "createdTS": "2017-01-07T17:23:44.170Z",
     "bookType": 0,
-    "ratingCount": 34,
+    "ratingCount": 35,
     "zipCode": "560036",
     "phone": "9742323056",
     "tag": "",
     "sponsored": "",
-    "avgRating": "3.3",
+    "avgRating": "3.2",
     "address": "Behind R B W brick factory , Maragondana halli tc palya post",
     "lat": 13.037009,
     "lng": 77.6877208,
@@ -7639,15 +7723,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/MGSPORTSCLUB/MGSportsClub0.jpg"
       }
     ],
-    "activeKey": "mg-sports-club-kr-puram-bangalore"
+    "activeKey": "mg-sports-club-kr-puram-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "58ae9df46d91cf7c8982c060",
     "createdTS": "2017-02-23T08:31:48.150Z",
     "active": true,
     "tag": "Loyalty points of 5% for Football,Coupon not required.",
-    "modTS": "2018-02-05T09:54:07.111Z",
-    "ratingCount": 189,
+    "modTS": "2018-02-06T22:06:41.587Z",
+    "ratingCount": 190,
     "lng": 77.702394,
     "category": 2,
     "city": "Bangalore",
@@ -7764,7 +7849,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/GREENFIELDCLUB/GreenfieldClub8.jpg"
       }
     ],
-    "activeKey": "greenfield-club-panathur-bangalore"
+    "activeKey": "greenfield-club-panathur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59194d316d91cf1c4068adb6",
@@ -7845,7 +7931,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/NEWVIVASBADMINTONACADEMY/NewVivasBadmintonAcademy2.jpg"
       }
     ],
-    "activeKey": "new-vivas-badminton-academy-kadubeesanahalli-ncr"
+    "activeKey": "new-vivas-badminton-academy-kadubeesanahalli-ncr",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59fac5a16d91cf57e41c6e94",
@@ -7944,14 +8031,15 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ATOMSPORTSARENA/AtomSportsArena4.jpeg"
       }
     ],
-    "activeKey": "atom-sports-arena-gottigere-bannerghatta-main-road-bangalore"
+    "activeKey": "atom-sports-arena-gottigere-bannerghatta-main-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "58fdad4d6d91cf4852c3e400",
     "createdTS": "2017-04-24T07:46:20.800Z",
     "active": true,
     "tag": "Rs.15/- Loyalty points for every booking, No coupon code required",
-    "modTS": "2018-02-05T09:48:53.247Z",
+    "modTS": "2018-02-06T16:21:34.959Z",
     "ratingCount": 111,
     "keywords": [
       {
@@ -8031,7 +8119,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/KARSPORTS/KARSports4.jpg"
       }
     ],
-    "activeKey": "kar-sports-sarjapur-road-bangalore"
+    "activeKey": "kar-sports-sarjapur-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab085e",
@@ -8110,15 +8199,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/POWERPLAY/powerplay3.png"
       }
     ],
-    "activeKey": "powerplay-whitefield-bangalore"
+    "activeKey": "powerplay-whitefield-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab0855",
     "cityCode": 1,
-    "modTS": "2018-02-04T04:05:27.559Z",
+    "modTS": "2018-02-06T07:51:37.002Z",
     "createdTS": "2017-01-07T17:23:44.207Z",
     "bookType": 0,
-    "ratingCount": 118,
+    "ratingCount": 119,
     "zipCode": "560073",
     "phone": "9071200034",
     "tag": "Prices slashed, Starts from Rs.350/-",
@@ -8213,12 +8303,13 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ACCOLADESBADMINTONSPORTSACADEMY/accoladesbadmintonsportsacademy1.jpg"
       }
     ],
-    "activeKey": "accolades-badminton-sports-academy-peenya-bangalore"
+    "activeKey": "accolades-badminton-sports-academy-peenya-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0859",
     "cityCode": 1,
-    "modTS": "2018-02-04T03:52:30.915Z",
+    "modTS": "2018-02-06T07:27:53.561Z",
     "createdTS": "2017-01-07T17:23:44.211Z",
     "bookType": 0,
     "ratingCount": 124,
@@ -8271,10 +8362,10 @@ venues = [
     "restricted": 0,
     "s3Folder": "BADDYZONE",
     "notifyBooking": 0,
-    "addInfo": "Badminton non marking shoes are a must to play. Racquets, shuttles, shoes are available for rent. State of the art facility with premium services like showers and changing rooms. Baddyzone hosts a gallery view in the premium section,  check more on www.baddyzone.com.",
+    "addInfo": "Badminton non marking shoes are a must to play. Racquets, shuttles, shoes are available for rent. State of the art facility with premium services like showers and changing rooms. Pancham Badyzone hosts a gallery view in the premium section,  check more on www.panchamassociates.com",
     "type": 0,
     "oldId": "577227586d91cf1dbaa2a4ac",
-    "__v": 1,
+    "__v": 2,
     "venueId": "587124206d91cf3645ab0859",
     "keywords": [
       {
@@ -8292,27 +8383,34 @@ venues = [
     "mapImg": "https://d3qokvektr0ozw.cloudfront.net/BADDYZONE/Baddyzonemap.png",
     "venueImages": [
       {
-        "url": "https://d3qokvektr0ozw.cloudfront.net/BADDYZONE/Baddyzone3.jpg"
+        "url": "https://d3qokvektr0ozw.cloudfront.net/BADDYZONE/PanchamBadyzone4.JPG"
+      },
+      {
+        "url": "https://d3qokvektr0ozw.cloudfront.net/BADDYZONE/PanchamBadyzone6.JPG"
+      },
+      {
+        "url": "https://d3qokvektr0ozw.cloudfront.net/BADDYZONE/PanchamBadyzone7.jpg"
+      },
+      {
+        "url": "https://d3qokvektr0ozw.cloudfront.net/BADDYZONE/PanchamBadyzone8.JPG"
       },
       {
         "url": "https://d3qokvektr0ozw.cloudfront.net/BADDYZONE/baddyzone0.jpg"
       },
       {
         "url": "https://d3qokvektr0ozw.cloudfront.net/BADDYZONE/baddyzone1.jpg"
-      },
-      {
-        "url": "https://d3qokvektr0ozw.cloudfront.net/BADDYZONE/baddyzone2.jpg"
       }
     ],
-    "activeKey": "pancham-badyzone-thanisandra-main-road-bangalore"
+    "activeKey": "pancham-badyzone-thanisandra-main-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "598855b46d91cf39eacee6ae",
     "cityCode": 1,
-    "modTS": "2018-02-01T18:36:52.365Z",
+    "modTS": "2018-02-06T07:11:45.571Z",
     "createdTS": "2017-08-07T11:57:40.207Z",
     "bookType": 0,
-    "ratingCount": 34,
+    "ratingCount": 35,
     "zipCode": "560062",
     "inquiryPhone": "9742323056",
     "phone": "9742323056",
@@ -8388,7 +8486,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SELENITESPORTSACADEMY/SeleniteSportsAcademy3.jpg"
       }
     ],
-    "activeKey": "selenite-sports-academy-off-kanakpura-road-bangalore"
+    "activeKey": "selenite-sports-academy-off-kanakpura-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "587f6cb66d91cf2ad06d9809",
@@ -8484,7 +8583,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/GOLDENRACQUETS/goldenracquets2.jpg"
       }
     ],
-    "activeKey": "golden-racquets-yelahanka-bangalore"
+    "activeKey": "golden-racquets-yelahanka-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab081b",
@@ -8557,14 +8657,15 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/GIS/GIS3.png"
       }
     ],
-    "activeKey": "gopalan-international-school-hoodi-bangalore"
+    "activeKey": "gopalan-international-school-hoodi-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "58a6dfd66d91cf22886ec5dc",
     "createdTS": "2017-02-17T11:34:45.657Z",
     "active": true,
     "tag": "",
-    "modTS": "2018-02-05T08:51:27.553Z",
+    "modTS": "2018-02-06T09:01:44.866Z",
     "ratingCount": 294,
     "lng": 77.715702,
     "category": 2,
@@ -8677,15 +8778,16 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PLAYTMSPORTSARENA/playtmsportsarena6.jpg"
       }
     ],
-    "activeKey": "playtm-sports-arena-marathalli-bangalore"
+    "activeKey": "playtm-sports-arena-marathalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab085a",
     "cityCode": 1,
-    "modTS": "2018-02-01T15:05:00.000Z",
+    "modTS": "2018-02-06T13:40:39.653Z",
     "createdTS": "2017-01-07T17:23:44.212Z",
     "bookType": 0,
-    "ratingCount": 139,
+    "ratingCount": 142,
     "zipCode": "560049",
     "phone": "9916009022",
     "tag": "",
@@ -8758,12 +8860,13 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PHOENIXSPORTS/phoenixsports4.jpg"
       }
     ],
-    "activeKey": "phoenix-sports-kr-puram-bangalore"
+    "activeKey": "phoenix-sports-kr-puram-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab0850",
     "cityCode": 1,
-    "modTS": "2018-02-05T03:39:54.973Z",
+    "modTS": "2018-02-06T15:26:54.550Z",
     "createdTS": "2017-01-07T17:23:44.200Z",
     "bookType": 0,
     "ratingCount": 185,
@@ -8836,7 +8939,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ISPORTSARE/iSports Arena2.jpg"
       }
     ],
-    "activeKey": "isports-arena-kundanhalli-gate-bangalore"
+    "activeKey": "isports-arena-kundanhalli-gate-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab084e",
@@ -8923,7 +9027,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/IBLITZHOODI/IBlitzhoodi4.JPG"
       }
     ],
-    "activeKey": "i-blitz-@-hoodi-mahadevapura-post-hoodi-bangalore"
+    "activeKey": "i-blitz-@-hoodi-mahadevapura-post-hoodi-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab0837",
@@ -9002,7 +9107,8 @@ venues = [
     "userVenueRating": 0,
     "mapImg": "https://d3qokvektr0ozw.cloudfront.net/GURUKULSPORTSACADEMY/GurukulSportsAcademymap.png",
     "venueImages": [],
-    "activeKey": "gurukul-sports-academy-marathahalli-bangalore"
+    "activeKey": "gurukul-sports-academy-marathahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "599afdd56d91cf5aabaec2b3",
@@ -9089,7 +9195,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SPORTSGALORE/Sportsgalore4.jpg"
       }
     ],
-    "activeKey": "sportsgalore-yelahanka-hobli-bangalore"
+    "activeKey": "sportsgalore-yelahanka-hobli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "59f692a66d91cf5856eaa67d",
@@ -9170,7 +9277,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ELECTRONICCITYBADMINTONCLUB/ElectronicCityBadmintonClub2.jpg"
       }
     ],
-    "activeKey": "electronic-city-badminton-club-electronic-city-phase-1-bangalore"
+    "activeKey": "electronic-city-badminton-club-electronic-city-phase-1-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0813",
@@ -9258,7 +9366,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/GURUKULNEW/gurukul2.jpg"
       }
     ],
-    "activeKey": "new-gurukul-sports-club-marathahalli-bangalore"
+    "activeKey": "new-gurukul-sports-club-marathahalli-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0857",
@@ -9331,7 +9440,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SMASH/smash-2.jpg"
       }
     ],
-    "activeKey": "smash-sports-academy-electronic-city-bangalore"
+    "activeKey": "smash-sports-academy-electronic-city-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5a154fec6d91cf6a89e881f7",
@@ -9412,7 +9522,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/PLAYONSPORTSARENA/PlayOnSportsArena2.jpeg"
       }
     ],
-    "activeKey": "playon-sports-arena-electronic-city-phase-2-bangalore"
+    "activeKey": "playon-sports-arena-electronic-city-phase-2-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0816",
@@ -9524,7 +9635,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SUMUKHASPORTSARENA/sumukhasportsarena23.jpg"
       }
     ],
-    "activeKey": "sumukha-sports-arena-varthur-bangalore"
+    "activeKey": "sumukha-sports-arena-varthur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "587124206d91cf3645ab080a",
@@ -9654,7 +9766,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/JUSTPLAYSPORTSCLUB/justplaysportsclub8.jpg"
       }
     ],
-    "activeKey": "justplay-sports-club-electronic-city-bangalore"
+    "activeKey": "justplay-sports-club-electronic-city-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab0814",
@@ -9769,7 +9882,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/YESHASSPORTSACADEMY/yeshassportsacademy8.jpg"
       }
     ],
-    "activeKey": "yeshas-sports-academy-varthur-bangalore"
+    "activeKey": "yeshas-sports-academy-varthur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab084d",
@@ -9852,7 +9966,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/A1SPORTS/A1Sports0.jpg"
       }
     ],
-    "activeKey": "a1-sports-yelahanka-bangalore"
+    "activeKey": "a1-sports-yelahanka-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59705c816d91cf6b7681a8dd",
@@ -9927,7 +10042,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SURYAMAYAASPORTSACADEMY/SuryamayaaSportsAcademy0.jpg"
       }
     ],
-    "activeKey": "suryamayaa-sports-academy-electronic-city-bangalore"
+    "activeKey": "suryamayaa-sports-academy-electronic-city-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "597ffa316d91cf69080035f9",
@@ -10011,7 +10127,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/FEATHERSSMASHARENA/FeathersSmashArena3.jpeg"
       }
     ],
-    "activeKey": "feathers-smash-arena-whitefield-bangalore"
+    "activeKey": "feathers-smash-arena-whitefield-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "591dc9806d91cf5424f65507",
@@ -10106,7 +10223,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/AHSPORTSTREET/ahsportstreet3.jpg"
       }
     ],
-    "activeKey": "ah-sport-street-whitefield-bangalore"
+    "activeKey": "ah-sport-street-whitefield-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   },
   {
     "_id": "58aa937a6d91cf6edee99a17",
@@ -10202,7 +10320,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/REDBRIDGEINTERNATIONALACADEMY/RedbridgeInternationalAcademy0.JPG"
       }
     ],
-    "activeKey": "coachdirect-sports-center-electronic-city-bangalore"
+    "activeKey": "coachdirect-sports-center-electronic-city-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon57.png"
   },
   {
     "_id": "5a27ee936d91cf2eef8e0775",
@@ -10283,7 +10402,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/FLYINGFEATHERSBADMINTONCLUB/FlyingFeathersBadmintonClub5.jpeg"
       }
     ],
-    "activeKey": "flying-feathers-badminton-club-electronic-city-bangalore"
+    "activeKey": "flying-feathers-badminton-club-electronic-city-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59a794ea6d91cf288ad2346a",
@@ -10366,7 +10486,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SUNSHINEBADMINTONECITY/SunshineBadmintonEcity3.jpg"
       }
     ],
-    "activeKey": "sunshine-badminton-e-city-electronic-city-bangalore"
+    "activeKey": "sunshine-badminton-e-city-electronic-city-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5a4227e36d91cf6f30a72be2",
@@ -10447,7 +10568,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/RIOSPORTS/riosports4.jpg"
       }
     ],
-    "activeKey": "rio-sports-electronic-city-phase-2-bangalore"
+    "activeKey": "rio-sports-electronic-city-phase-2-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59452db56d91cf197b77294d",
@@ -10534,7 +10656,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/GAMEZONENLIVENSPORTSCLUB/GamezOnEnlivensportsclub4.JPG"
       }
     ],
-    "activeKey": "gamezon-@enliven-sports-club-sarjapur-road-bangalore"
+    "activeKey": "gamezon-@enliven-sports-club-sarjapur-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab07a5",
@@ -10636,7 +10759,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/ENLIVEN/1972336_284662021743824_6532248932204642260_n.jpg"
       }
     ],
-    "activeKey": "enliven-sports-sarjapur-road-bangalore"
+    "activeKey": "enliven-sports-sarjapur-road-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "58e23d306d91cf557ed5942e",
@@ -10725,7 +10849,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/FLYBOUCESPORTS/flyboucesports2.jpg"
       }
     ],
-    "activeKey": "flybounce-sports-electronic-city-bangalore"
+    "activeKey": "flybounce-sports-electronic-city-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "587124206d91cf3645ab07b1",
@@ -10816,7 +10941,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/NAMMASPORTSVILLAGE/nammasportsvillage1.jpg"
       }
     ],
-    "activeKey": "namma-sports-village-electronic-city-bangalore"
+    "activeKey": "namma-sports-village-electronic-city-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "5a01a9396d91cf278c59372a",
@@ -10897,7 +11023,8 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/TWIG2TREEAKADEMIA/Twig2TreeAkademia2.jpeg"
       }
     ],
-    "activeKey": "twig2tree-akademia-sarjapur-bangalore"
+    "activeKey": "twig2tree-akademia-sarjapur-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon10.png"
   },
   {
     "_id": "59f6b1866d91cf585c474f18",
@@ -10978,6 +11105,7 @@ venues = [
         "url": "https://d3qokvektr0ozw.cloudfront.net/SSSSPORTSFACILITY/SSSSportsfacility2.JPG"
       }
     ],
-    "activeKey": "s-s-s-sports-facility-kolar-bangalore"
+    "activeKey": "s-s-s-sports-facility-kolar-bangalore",
+    "icon": "https://maps.google.com/mapfiles/kml/pal3/icon11.png"
   }
-];
+]

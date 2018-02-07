@@ -36,12 +36,29 @@ def fetch_venues():
     return venues
 
 
+def add_markers(venues):
+    for venue in venues:
+        rating = int(float(venue['avgRating']))
+        if rating == 5:
+            venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon12.png'
+        elif rating == 4:
+            venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon11.png'
+        elif rating == 3:
+            venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon10.png'
+        else:
+            venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon57.png'
+    return venues
+
+
+def filter_inactive(venues):
+    return [v for v in venues if v['active']]
+
+
 def main():
-    venues = fetch_venues()
-    venues_persist_path = join(HERE, '..', 'js', 'venues.js')
+    venues = add_markers(filter_inactive(fetch_venues()))
+    venues_persist_path = join(HERE, '..', 'data', 'venues.json')
     with open(venues_persist_path, 'w') as f:
-        code = 'venues = {};\n'.format(json.dumps(venues, indent=2))
-        f.write(code)
+        json.dump(venues, f, indent=2)
 
 
 if __name__ == '__main__':
