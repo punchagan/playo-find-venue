@@ -36,7 +36,7 @@ var AppData = function(map, people) {
 
   this.map = map;
   this.people = ko.observableArray();
-  this.circles = [];
+  this._circles = [];
 
   this.setup_center = function(person) {
     return {
@@ -49,12 +49,15 @@ var AppData = function(map, people) {
 
   this.add_people = function(person) {
     this.people.push(this.setup_center(person));
-    this.redraw_circles();
   };
 
-  this.redraw_circles = function() {
-    draw_circles(self.map, self);
+  this.remove_person = function(person) {
+    self.people.remove(person);
   };
+
+  this.circles = ko.computed(function() {
+    draw_circles(self.map, self);
+  });
 
   people.map(this.add_people, this);
 };
@@ -95,11 +98,12 @@ var set_center = function(map, data) {
 
 var draw_circles = function(map, data) {
   // Hide previous circles
-  data.circles.map(function(circle) {
+  data._circles.map(function(circle) {
     circle.setMap(null);
+    circle = null;
   });
   // Construct the circle for each person in people.
-  data.circles = data.people().map(function(person) {
+  data._circles = data.people().map(function(person) {
     var { center, radius, color } = person;
     var circle = draw_circle(map, data, center, radius(), color());
     circle.person = person;
@@ -120,8 +124,7 @@ var draw_circle = function(map, data, center, radius, color) {
     clickable: true
   });
   circle.addListener("rightclick", function() {
-    circle.setMap(null);
-    data.people.splice(data.people.indexOf(circle.person), 1);
+    data.remove_person(circle.person);
   });
   return circle;
 };

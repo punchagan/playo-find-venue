@@ -35,8 +35,8 @@
             <ul id="places" data-bind="foreach: people">
                 <li>
                     <span data-bind="text: name"></span>
-                    <input type="number" data-bind="value: radius, event: {change: $parent.redraw_circles}" />
-                    <input type="color" data-bind="value: color, event: {change: $parent.redraw_circles}" />
+                    <input type="number" data-bind="value: radius" />
+                    <input type="color" data-bind="value: color" />
                 </li>
             </ul>
         </div>
