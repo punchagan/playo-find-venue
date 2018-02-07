@@ -121,14 +121,8 @@ var mark_venues = function(map) {
           }
         });
         // infowindow that is shown when marker is clicked
-        var info_content = `
-  <h3>${venue.name}</h3>
-  <strong>Ratings:</strong> ${venue.avgRating} [${venue.ratingCount}]<br/>
-  <strong>Phone:</strong> ${venue.inquiryPhone || "NA"}<br/>
-  <a href="${venue.deferLink}" target="_blank">${venue.deferLink}</a><br/>
-  `;
         var infowindow = new google.maps.InfoWindow({
-          content: info_content,
+          content: venue.info,
           maxWidth: 200
         });
         marker.addListener("click", function() {

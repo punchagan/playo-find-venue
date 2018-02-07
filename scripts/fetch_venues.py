@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+from collections import defaultdict
 import json
 import os
 from os.path import abspath, dirname, join
@@ -36,7 +37,7 @@ def fetch_venues():
     return venues
 
 
-def add_markers(venues):
+def add_metadata(venues):
     for venue in venues:
         rating = int(float(venue['avgRating']))
         if rating == 5:
@@ -47,6 +48,8 @@ def add_markers(venues):
             venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon10.png'
         else:
             venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon57.png'
+        # Add info
+        venue['info'] = get_info(venue)
     return venues
 
 
@@ -54,8 +57,18 @@ def filter_inactive(venues):
     return [v for v in venues if v['active']]
 
 
+def get_info(venue):
+    info = """
+    <h3>{name}</h3>
+    <strong>Ratings:</strong> {avgRating} [{ratingCount}]<br/>
+    <strong>Phone:</strong> {inquiryPhone}<br/>
+    <a href="{deferLink}" target="_blank">{deferLink}</a><br/>
+    """
+    return info.format_map(defaultdict(lambda: 'N/A', venue))
+
+
 def main():
-    venues = add_markers(filter_inactive(fetch_venues()))
+    venues = add_metadata(filter_inactive(fetch_venues()))
     venues_persist_path = join(HERE, '..', 'data', 'venues.json')
     with open(venues_persist_path, 'w') as f:
         json.dump(venues, f, indent=2)
