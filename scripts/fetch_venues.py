@@ -16,8 +16,7 @@ LOCATION = {
     'lat': '12.9715987',
     'lng': '77.59456269999998'
 }
-SPORT_ID = 'SP5'
-URL = 'https://playo.io/api/web/v1/venue/?page={page}&lat={lat}&lng={lng}&sportId={sport_id}'
+URL = 'https://playo.io/api/web/v1/venue/?page={page}&lat={lat}&lng={lng}'
 
 
 def fetch_venues():
@@ -25,7 +24,7 @@ def fetch_venues():
     venues = []
     while True:
         print('Fetching page {}...'.format(page))
-        url = URL.format(page=page, sport_id=SPORT_ID, **LOCATION)
+        url = URL.format(page=page, **LOCATION)
         response = requests.get(url, headers={'Authorization': PLAYO_AUTH}).json()
         venues_ = response.get('list', [])
         if len(venues_):
@@ -38,7 +37,7 @@ def fetch_venues():
 
 
 def modify_metadata(venues, clean=True):
-    RETAIN_KEYS = {'name', 'icon', 'info', 'lat', 'lng'}
+    RETAIN_KEYS = {'name', 'icon', 'info', 'lat', 'lng', 'filter_by'}
     for venue in venues:
         rating = int(float(venue['avgRating']))
         if rating == 5:
@@ -51,6 +50,8 @@ def modify_metadata(venues, clean=True):
             venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon57.png'
         # Add info
         venue['info'] = get_info(venue)
+        # Add filter_by
+        venue['filter_by'] = sorted([s['sportId'] for s in venue['sports']])
 
     if clean:
         venues = [

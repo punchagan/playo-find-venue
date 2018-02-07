@@ -36,7 +36,8 @@ var AppData = function(map, people) {
 
   this.map = map;
   this.people = ko.observableArray();
-  this._circles = [];
+  this.circles = [];
+  this.venues = ko.observableArray([]);
 
   this.setup_center = function(person) {
     return {
@@ -55,9 +56,46 @@ var AppData = function(map, people) {
     self.people.remove(person);
   };
 
-  this.circles = ko.computed(function() {
+  this.filters = ko.computed(function() {
+    var filters = new Set();
+    this.venues().map(function(v) {
+      v.filter_by.map(filters.add, filters);
+    });
+    return Array.from(filters);
+  }, this);
+
+  this.current_filter = ko.observable();
+
+  this.filtered_venues = ko.computed(function() {
+    var f = this.current_filter();
+    return this.venues().filter(function(venue) {
+      return venue.filter_by.indexOf(f) >= 0;
+    }, this);
+  }, this);
+
+  this._circles = ko.computed(function() {
     draw_circles(self.map, self);
   });
+
+  this._all_venues = ko.computed(function() {
+    var venues_url = "/data/venues.json";
+    fetch(venues_url)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(venues) {
+        self.venues(venues);
+      });
+  });
+
+  this._venue_markers = [];
+  this._venues = ko.computed(function() {
+    this._venue_markers.map(function(marker) {
+      marker.setMap(null);
+      marker = null;
+    });
+    this._venue_markers = mark_venues(self.map, self.filtered_venues());
+  }, this);
 
   people.map(this.add_people, this);
 };
@@ -98,12 +136,12 @@ var set_center = function(map, data) {
 
 var draw_circles = function(map, data) {
   // Hide previous circles
-  data._circles.map(function(circle) {
+  data.circles.map(function(circle) {
     circle.setMap(null);
     circle = null;
   });
   // Construct the circle for each person in people.
-  data._circles = data.people().map(function(person) {
+  data.circles = data.people().map(function(person) {
     var { center, radius, color } = person;
     var circle = draw_circle(map, data, center, radius(), color());
     circle.person = person;
@@ -129,34 +167,28 @@ var draw_circle = function(map, data, center, radius, color) {
   return circle;
 };
 
-var mark_venues = function(map) {
-  var venues_url = "/data/venues.json";
-  fetch(venues_url)
-    .then(function(response) {
-      return response.json();
-    })
-    .then(function(venues) {
-      venues.map(function(venue) {
-        // Add marker
-        var marker = new google.maps.Marker({
-          position: { lat: venue.lat, lng: venue.lng },
-          title: venue.name,
-          map: map,
-          icon: {
-            url: venue.icon,
-            scaledSize: new google.maps.Size(25, 25)
-          }
-        });
-        // infowindow that is shown when marker is clicked
-        var infowindow = new google.maps.InfoWindow({
-          content: venue.info,
-          maxWidth: 200
-        });
-        marker.addListener("click", function() {
-          infowindow.open(map, marker);
-        });
-      });
+var mark_venues = function(map, venues) {
+  return venues.map(function(venue) {
+    // Add marker
+    var marker = new google.maps.Marker({
+      position: { lat: venue.lat, lng: venue.lng },
+      title: venue.name,
+      map: map,
+      icon: {
+        url: venue.icon,
+        scaledSize: new google.maps.Size(25, 25)
+      }
     });
+    // infowindow that is shown when marker is clicked
+    var infowindow = new google.maps.InfoWindow({
+      content: venue.info,
+      maxWidth: 200
+    });
+    marker.addListener("click", function() {
+      infowindow.open(map, marker);
+    });
+    return marker;
+  });
 };
 
 var setup_controls = function(map) {
@@ -176,6 +208,5 @@ var initMap = function() {
   var data = new AppData(map, people);
   setup_search_box(map, data);
   set_center(map, data);
-  mark_venues(map);
   ko.applyBindings(data);
 };
