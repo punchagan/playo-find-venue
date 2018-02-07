@@ -37,7 +37,7 @@ def fetch_venues():
     return venues
 
 
-def modify_metadata(venues):
+def modify_metadata(venues, clean=True):
     RETAIN_KEYS = {'name', 'icon', 'info', 'lat', 'lng'}
     for venue in venues:
         rating = int(float(venue['avgRating']))
@@ -51,10 +51,14 @@ def modify_metadata(venues):
             venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon57.png'
         # Add info
         venue['info'] = get_info(venue)
-    return [
-        {key: value for key, value in venue.items() if key in RETAIN_KEYS}
-        for venue in venues
-    ]
+
+    if clean:
+        venues = [
+            {key: value for key, value in venue.items() if key in RETAIN_KEYS}
+            for venue in venues
+        ]
+
+    return venues
 
 
 def filter_inactive(venues):
@@ -71,12 +75,16 @@ def get_info(venue):
     return info.format_map(defaultdict(lambda: 'N/A', venue))
 
 
-def main():
-    venues = modify_metadata(filter_inactive(fetch_venues()))
+def main(clean=True):
+    venues = modify_metadata(filter_inactive(fetch_venues()), clean=clean)
     venues_persist_path = join(HERE, '..', 'data', 'venues.json')
     with open(venues_persist_path, 'w') as f:
         json.dump(venues, f, indent=2)
 
 
 if __name__ == '__main__':
-    main()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--full', action='store_true')
+    args = parser.parse_args()
+    main(not args.full)
