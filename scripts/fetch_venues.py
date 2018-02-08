@@ -60,12 +60,13 @@ def modify_metadata(venues, clean=True):
             venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon10.png'
         else:
             venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon57.png'
-        # Add info
-        venue['info'] = get_info(venue)
         # Add filter_by
         venue['filter_by'] = sorted(
             [SPORT_ID_MAP[s['sportId']] for s in venue['sports'] if s['sportId'] in SPORT_ID_MAP]
         )
+        venue['all_sports'] = ', '.join(venue['filter_by'])
+        # Add info
+        venue['info'] = get_info(venue)
 
     if clean:
         venues = [
@@ -84,6 +85,7 @@ def get_info(venue):
     info = """
     <h3>{name}</h3>
     <strong>Ratings:</strong> {avgRating} [{ratingCount}]<br/>
+    <strong>Sports:</strong> {all_sports}<br/>
     <strong>Phone:</strong> {inquiryPhone}<br/>
     <a href="{deferLink}" target="_blank">{deferLink}</a><br/>
     """
