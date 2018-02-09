@@ -1,37 +1,4 @@
-var people = [
-  {
-    name: "Raheja Residency",
-    center: { lat: 12.9281594, lng: 77.6295864 },
-    radius: 8,
-    color: "#0000FF"
-  },
-  {
-    name: "Thom's Bakery & Supermarket",
-    center: { lat: 12.9915374, lng: 77.6119656 },
-    radius: 8,
-    color: "#FFD700"
-  },
-  {
-    name: "Windsor Court",
-    center: { lat: 12.955567, lng: 77.656877434 },
-    radius: 8,
-    color: "#00FF00"
-  },
-  {
-    name: "Alpine Eco Garden",
-    center: { lat: 12.9744437, lng: 77.6986174 },
-    radius: 8,
-    color: "#808080"
-  },
-  {
-    name: "Nutrition Nation",
-    center: { lat: 12.9204517, lng: 77.592301 },
-    radius: 8,
-    color: "#FF0000"
-  }
-];
-
-var AppData = function(map, people) {
+var AppData = function(map, people, sport) {
   var self = this;
 
   this.map = map;
@@ -56,7 +23,7 @@ var AppData = function(map, people) {
     self.people.remove(person);
   };
 
-  this.current_filter = ko.observable("Badminton");
+  this.current_filter = ko.observable(sport);
 
   this.filters = ko.computed(function() {
     var filters = new Set();
@@ -97,6 +64,14 @@ var AppData = function(map, people) {
       marker = null;
     });
     this._venue_markers = mark_venues(self.map, self.filtered_venues());
+  }, this);
+
+  this._update_url_fragment = ko.computed(function() {
+    var state = {
+      p: ko.toJS(this.people),
+      q: ko.toJS(this.current_filter)
+    };
+    location.hash = btoa(JSON.stringify(state));
   }, this);
 
   people.map(this.add_people, this);
@@ -207,6 +182,49 @@ var setup_controls = function(map) {
   controls.push(controlsDiv);
 };
 
+var hash_to_state = function() {
+  var json = atob(location.hash.substring(1)),
+    people = [
+      {
+        name: "Raheja Residency",
+        center: { lat: 12.9281594, lng: 77.6295864 },
+        radius: 8,
+        color: "#0000FF"
+      },
+      {
+        name: "Thom's Bakery & Supermarket",
+        center: { lat: 12.9915374, lng: 77.6119656 },
+        radius: 8,
+        color: "#FFD700"
+      },
+      {
+        name: "Windsor Court",
+        center: { lat: 12.955567, lng: 77.656877434 },
+        radius: 8,
+        color: "#00FF00"
+      },
+      {
+        name: "Alpine Eco Garden",
+        center: { lat: 12.9744437, lng: 77.6986174 },
+        radius: 8,
+        color: "#808080"
+      },
+      {
+        name: "Nutrition Nation",
+        center: { lat: 12.9204517, lng: 77.592301 },
+        radius: 8,
+        color: "#FF0000"
+      }
+    ],
+    sport = "Badminton";
+
+  if (!json) {
+    return { p: people, q: sport };
+  } else {
+    return JSON.parse(json);
+  }
+};
+
 var initMap = function() {
   // Create the map.
   var map = new google.maps.Map(document.getElementById("map"), {
@@ -215,7 +233,8 @@ var initMap = function() {
     mapTypeControl: false
   });
   setup_controls(map);
-  var data = new AppData(map, people);
+  var { p, q } = hash_to_state();
+  var data = new AppData(map, p, q);
   setup_search_box(map, data);
   set_center(map, data);
   ko.applyBindings(data);
