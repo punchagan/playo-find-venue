@@ -3,7 +3,7 @@ var AppData = function(map, people, sport) {
 
   this.map = map;
   this.people = ko.observableArray();
-  this.circles = [];
+  this.circles = {};
   this.venues = ko.observableArray([]);
 
   this.setup_center = function(person) {
@@ -11,7 +11,8 @@ var AppData = function(map, people, sport) {
       name: person.name,
       center: person.center,
       radius: ko.observable(person.radius),
-      color: ko.observable(person.color)
+      color: ko.observable(person.color),
+      id: `${person.center.lat},${person.center.lng}`
     };
   };
 
@@ -22,6 +23,49 @@ var AppData = function(map, people, sport) {
   this.remove_person = function(person) {
     self.people.remove(person);
   };
+
+  this.remove_person_by_id = function(person_id) {
+    self.people().forEach(function(person) {
+      if (person.id === person_id) {
+        self.people.remove(person);
+      }
+    });
+  };
+
+  this._circles = ko.computed(function() {
+    // Delete circles of removed/changed people;
+    var ids = this.people().map(function(p) {
+      return p.id;
+    });
+    Object.entries(this.circles).map(function([person_id, circle]) {
+      if (ids.indexOf(person_id) < 0) {
+        circle.setMap(null);
+        circle = null;
+        delete this.circles[person_id];
+      }
+    }, this);
+
+    // Draw circles for new/changed people
+    this.people().forEach(function(person) {
+      if (!this.circles.hasOwnProperty(person.id)) {
+        var { center, radius, color } = person;
+        this.circles[person.id] = draw_circle(
+          map,
+          self,
+          center,
+          radius(),
+          color()
+        );
+      } else {
+        var circle = this.circles[person.id];
+        circle.setRadius(person.radius() * 1000);
+        circle.setOptions({
+          fillColor: person.color(),
+          strokeColor: person.color()
+        });
+      }
+    }, this);
+  }, this);
 
   this.current_filter = ko.observable(sport);
 
@@ -41,10 +85,6 @@ var AppData = function(map, people, sport) {
       return venue.filter_by.indexOf(f) >= 0;
     }, this);
   }, this);
-
-  this._circles = ko.computed(function() {
-    draw_circles(self.map, self);
-  });
 
   this._all_venues = ko.computed(function() {
     var venues_url = "data/venues.json";
@@ -104,21 +144,6 @@ var setup_search_box = function(map, data) {
   });
 };
 
-var draw_circles = function(map, data) {
-  // Hide previous circles
-  data.circles.map(function(circle) {
-    circle.setMap(null);
-    circle = null;
-  });
-  // Construct the circle for each person in people.
-  data.circles = data.people().map(function(person) {
-    var { center, radius, color } = person;
-    var circle = draw_circle(map, data, center, radius(), color());
-    circle.person = person;
-    return circle;
-  });
-};
-
 var draw_circle = function(map, data, center, radius, color) {
   var circle = new google.maps.Circle({
     strokeColor: color,
@@ -132,9 +157,17 @@ var draw_circle = function(map, data, center, radius, color) {
     clickable: true
   });
   circle.addListener("rightclick", function() {
-    data.remove_person(circle.person);
+    remove_circle(data, circle);
   });
   return circle;
+};
+
+var remove_circle = function(data, circle) {
+  Object.entries(data.circles).forEach(function([p, c]) {
+    if (circle === c) {
+      data.remove_person_by_id(p);
+    }
+  });
 };
 
 var mark_venues = function(map, venues) {
