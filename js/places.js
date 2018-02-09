@@ -97,20 +97,6 @@ var setup_search_box = function(map, data) {
   });
 };
 
-var set_center = function(map, data) {
-  var lat = data.people().map(function(person) {
-    return person.center.lat;
-  });
-  var lng = data.people().map(function(person) {
-    return person.center.lng;
-  });
-  var center = {
-    lat: (Math.min.apply(lat, lat) + Math.max.apply(lat, lat)) / 2,
-    lng: (Math.min.apply(lng, lng) + Math.max.apply(lng, lng)) / 2
-  };
-  map.setCenter(center);
-};
-
 var draw_circles = function(map, data) {
   // Hide previous circles
   data.circles.map(function(circle) {
@@ -227,15 +213,16 @@ var hash_to_state = function() {
 
 var initMap = function() {
   // Create the map.
-  var map = new google.maps.Map(document.getElementById("map"), {
-    zoom: 13,
-    mapTypeId: "roadmap",
-    mapTypeControl: false
-  });
+  var bangalore = { lat: 12.9715987, lng: 77.5945627 },
+    map = new google.maps.Map(document.getElementById("map"), {
+      zoom: 13,
+      mapTypeId: "roadmap",
+      mapTypeControl: false,
+      center: bangalore
+    });
   setup_controls(map);
   var { p, q } = hash_to_state();
   var data = new AppData(map, p, q);
   setup_search_box(map, data);
-  set_center(map, data);
   ko.applyBindings(data);
 };
