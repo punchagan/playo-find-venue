@@ -66,13 +66,20 @@ var AppData = function(map, people, sport) {
     this._venue_markers = mark_venues(self.map, self.filtered_venues());
   }, this);
 
+  this.short_url = ko.observable();
+
   this._update_url_fragment = ko.computed(function() {
     var state = {
       p: ko.toJS(this.people),
       q: ko.toJS(this.current_filter)
     };
     location.hash = btoa(JSON.stringify(state));
+    this.short_url(undefined);
   }, this);
+
+  this.shorten_url = function() {
+    get_short_url(this.short_url);
+  };
 
   people.map(this.add_people, this);
 };
@@ -209,6 +216,26 @@ var hash_to_state = function() {
   } else {
     return JSON.parse(json);
   }
+};
+
+var get_short_url = function(callback) {
+  var API_KEY = "AIzaSyDECh_V7enCYmHscpRwPYenetjFued24j8",
+    url = "https://www.googleapis.com/urlshortener/v1/url?key=" + API_KEY,
+    body = JSON.stringify({ longUrl: location.href });
+
+  fetch(url, {
+    method: "POST",
+    body: body,
+    headers: new Headers({
+      "Content-Type": "application/json"
+    })
+  })
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(data) {
+      callback(data.id);
+    });
 };
 
 var initMap = function() {
