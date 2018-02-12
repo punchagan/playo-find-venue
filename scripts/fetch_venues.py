@@ -74,7 +74,7 @@ def modify_metadata(venues, clean=True):
             for venue in venues
         ]
 
-    return venues
+    return sorted(venues, key=lambda x: x['name'])
 
 
 def filter_inactive(venues):
