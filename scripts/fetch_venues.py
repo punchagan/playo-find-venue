@@ -94,7 +94,7 @@ def get_info(venue):
 
 def main(clean=True):
     venues = modify_metadata(filter_inactive(fetch_venues()), clean=clean)
-    venues_persist_path = join(HERE, '..', 'data', 'venues.json')
+    venues_persist_path = join(HERE, '..', 'data', 'venues_bangalore.json')
     with open(venues_persist_path, 'w') as f:
         json.dump(venues, f, indent=2)
 
