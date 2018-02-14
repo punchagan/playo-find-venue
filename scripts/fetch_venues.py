@@ -13,19 +13,25 @@ assert len(PLAYO_AUTH) > 0, 'Please set PLAYO_AUTH env var'
 HERE = dirname(abspath(__file__))
 
 
-LOCATION = {
-    'lat': '12.9715987',
-    'lng': '77.59456269999998'
+LOCATIONS = {
+    'bangalore': {
+        'lat': '12.9715987',
+        'lng': '77.59456269999998'
+    },
+    'hyderabad': {
+        'lat': '17.4122998',
+        'lng': '78.267961',
+    }
 }
 URL = 'https://playo.io/api/web/v1/venue/?page={page}&lat={lat}&lng={lng}'
 
 
-def fetch_venues():
+def fetch_venues(city):
     page = 0
     venues = []
     while True:
         print('Fetching page {}...'.format(page))
-        url = URL.format(page=page, **LOCATION)
+        url = URL.format(page=page, **LOCATIONS[city])
         response = requests.get(url, headers={'Authorization': PLAYO_AUTH}).json()
         venues_ = response.get('list', [])
         if len(venues_):
@@ -92,9 +98,9 @@ def get_info(venue):
     return info.format_map(defaultdict(lambda: 'N/A', venue))
 
 
-def main(clean=True):
-    venues = modify_metadata(filter_inactive(fetch_venues()), clean=clean)
-    venues_persist_path = join(HERE, '..', 'data', 'venues_bangalore.json')
+def main(city, clean=True):
+    venues = modify_metadata(filter_inactive(fetch_venues(city)), clean=clean)
+    venues_persist_path = join(HERE, '..', 'data', 'venues_{}.json'.format(city))
     with open(venues_persist_path, 'w') as f:
         json.dump(venues, f, indent=2)
 
@@ -103,5 +109,6 @@ if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--full', action='store_true')
+    parser.add_argument('city', choices=['bangalore', 'hyderabad'])
     args = parser.parse_args()
-    main(not args.full)
+    main(args.city, not args.full)
