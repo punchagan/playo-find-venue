@@ -284,7 +284,7 @@ var get_short_url = function(callback) {
 
 var cities = {
   bangalore: { lat: 12.9715987, lng: 77.5945627 },
-  hyderabad: { lat: 17.4122998, lng: 78.267961 }
+  hyderabad: { lat: 17.4241053, lng: 78.4657618 }
 };
 
 var initMap = function() {

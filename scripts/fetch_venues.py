@@ -19,8 +19,8 @@ LOCATIONS = {
         'lng': '77.59456269999998'
     },
     'hyderabad': {
-        'lat': '17.4122998',
-        'lng': '78.267961',
+        'lat': '17.4241053',
+        'lng': '78.4657618'
     }
 }
 URL = 'https://playo.io/api/web/v1/venue/?page={page}&lat={lat}&lng={lng}'
