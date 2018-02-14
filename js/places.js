@@ -5,8 +5,8 @@ var AppData = function(map, people, sport) {
   this.people = ko.observableArray();
   this.circles = {};
   this.venues = ko.observableArray([]);
-  this.cities = ko.observableArray(Object.keys(cities))
-  this.city = ko.observable(this.cities()[0])
+  this.cities = ko.observableArray(cities);
+  this.city = ko.observable(this.cities()[0]);
 
   this.setup_center = function(person) {
     return {
@@ -89,8 +89,8 @@ var AppData = function(map, people, sport) {
   }, this);
 
   this.venues_url = ko.computed(function() {
-    return `data/venues_${this.city()}.json`
-  }, this)
+    return `data/venues_${this.city().name.toLowerCase()}.json`;
+  }, this);
 
   this._all_venues = ko.computed(function() {
     fetch(self.venues_url())
@@ -98,7 +98,7 @@ var AppData = function(map, people, sport) {
         return response.json();
       })
       .then(function(venues) {
-        map.setCenter(cities[self.city()])
+        map.setCenter(self.city().center);
         self.venues(venues);
       });
   });
@@ -277,19 +277,25 @@ var get_short_url = function(callback) {
     });
 };
 
-var cities = {
-  bangalore: { lat: 12.9715987, lng: 77.5945627 },
-  hyderabad: { lat: 17.3850, lng: 78.4867 }
-}
+var cities = [
+  {
+    name: "Bangalore",
+    center: { lat: 12.9715987, lng: 77.5945627 }
+  },
+  {
+    name: "Hyderabad",
+    center: { lat: 17.385, lng: 78.4867 }
+  }
+];
 
 var initMap = function() {
   // Create the map.
   var map = new google.maps.Map(document.getElementById("map"), {
-      zoom: 13,
-      mapTypeId: "roadmap",
-      mapTypeControl: false,
-      center: cities.bangalore
-    });
+    zoom: 13,
+    mapTypeId: "roadmap",
+    mapTypeControl: false,
+    center: cities[0].center
+  });
   setup_controls(map);
   var { p, q } = hash_to_state();
   var data = new AppData(map, p, q);
