@@ -7,6 +7,10 @@ var AppData = function(map, people, sport) {
   this.venues = ko.observableArray([]);
   this.cities = ko.observableArray(cities);
   this.city = ko.observable(this.cities()[0]);
+  this.city.subscribe(function(city) {
+    // Remove existing circles, if city is changed
+    this.people([]);
+  }, this);
 
   this.setup_center = function(person) {
     return {
