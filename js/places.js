@@ -164,20 +164,9 @@ var draw_circle = function(map, data, center, radius, color) {
     map: map,
     center: center,
     radius: radius * 1000,
-    clickable: true
-  });
-  circle.addListener("rightclick", function() {
-    remove_circle(data, circle);
+    clickable: false
   });
   return circle;
-};
-
-var remove_circle = function(data, circle) {
-  Object.entries(data.circles).forEach(function([p, c]) {
-    if (circle === c) {
-      data.remove_person_by_id(p);
-    }
-  });
 };
 
 var mark_venues = function(map, venues) {
