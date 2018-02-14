@@ -253,13 +253,13 @@ var hash_to_state = function() {
       }
     ],
     sport = "Badminton",
-    city = "bangalore";
+    city = "bangalore",
+    state = { p: people, q: sport, c: city };
 
-  if (!json) {
-    return { p: people, q: sport, c: city };
-  } else {
-    return JSON.parse(json);
+  if (json) {
+    Object.assign(state, JSON.parse(json));
   }
+  return state;
 };
 
 var get_short_url = function(callback) {
