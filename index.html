@@ -66,7 +66,7 @@
             <input type="text" id="searchInput" name="searchInput" placeholder="Search for a place to add a circle" />
             <div id="city-select">
                 <small>Select city
-                    <select data-bind="options: cities, optionsText: 'name', value: city" size="1"></select>
+                    <select data-bind="options: cities, optionsText: function(name){return name.charAt(0).toUpperCase() + name.slice(1)}, value: city" size="1"></select>
                 </small>
             </div>
             <div>

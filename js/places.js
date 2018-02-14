@@ -1,17 +1,16 @@
-var AppData = function(map, people, sport) {
+var AppData = function(map, people, sport, city) {
   var self = this;
 
   this.map = map;
   this.people = ko.observableArray();
   this.circles = {};
   this.venues = ko.observableArray([]);
-  this.cities = ko.observableArray(cities);
-  this.city = ko.observable(this.cities()[0]);
+  this.cities = ko.observableArray(Object.keys(cities));
+  this.city = ko.observable(city);
   this.city.subscribe(function(city) {
     // Remove existing circles, if city is changed
     this.people([]);
   }, this);
-
   this.setup_center = function(person) {
     return {
       name: person.name,
@@ -93,7 +92,7 @@ var AppData = function(map, people, sport) {
   }, this);
 
   this.venues_url = ko.computed(function() {
-    return `data/venues_${this.city().name.toLowerCase()}.json`;
+    return `data/venues_${this.city()}.json`;
   }, this);
 
   this._all_venues = ko.computed(function() {
@@ -102,7 +101,7 @@ var AppData = function(map, people, sport) {
         return response.json();
       })
       .then(function(venues) {
-        map.setCenter(self.city().center);
+        map.setCenter(cities[self.city()]);
         self.venues(venues);
       });
   });
@@ -121,7 +120,8 @@ var AppData = function(map, people, sport) {
   this._update_url_fragment = ko.computed(function() {
     var state = {
       p: ko.toJS(this.people),
-      q: ko.toJS(this.current_filter)
+      q: ko.toJS(this.current_filter),
+      c: ko.toJS(this.city)
     };
     location.hash = btoa(JSON.stringify(state));
     this.short_url(undefined);
@@ -252,10 +252,11 @@ var hash_to_state = function() {
         color: "#FF0000"
       }
     ],
-    sport = "Badminton";
+    sport = "Badminton",
+    city = "bangalore";
 
   if (!json) {
-    return { p: people, q: sport };
+    return { p: people, q: sport, c: city };
   } else {
     return JSON.parse(json);
   }
@@ -281,16 +282,10 @@ var get_short_url = function(callback) {
     });
 };
 
-var cities = [
-  {
-    name: "Bangalore",
-    center: { lat: 12.9715987, lng: 77.5945627 }
-  },
-  {
-    name: "Hyderabad",
-    center: { lat: 17.385, lng: 78.4867 }
-  }
-];
+var cities = {
+  bangalore: { lat: 12.9715987, lng: 77.5945627 },
+  hyderabad: { lat: 17.385, lng: 78.4867 }
+};
 
 var initMap = function() {
   // Create the map.
@@ -298,11 +293,11 @@ var initMap = function() {
     zoom: 13,
     mapTypeId: "roadmap",
     mapTypeControl: false,
-    center: cities[0].center
+    center: cities.bangalore
   });
   setup_controls(map);
-  var { p, q } = hash_to_state();
-  var data = new AppData(map, p, q);
+  var { p, q, c } = hash_to_state();
+  var data = new AppData(map, p, q, c);
   setup_search_box(map, data);
   ko.applyBindings(data);
 };
