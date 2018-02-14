@@ -4,6 +4,7 @@ python:
 install:
   - pip install -r requirements.txt
 script:
-  - scripts/fetch_venues.py
+  - scripts/fetch_venues.py bangalore
+  - scripts/fetch_venues.py hyderabad
 after_script:
   - scripts/travis-update-venues.sh

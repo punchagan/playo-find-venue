@@ -6,7 +6,7 @@ GIT_URL=$(echo $GIT_URL|sed -e s/github.com/punchagan:"${GITHUB_TOKEN}"@github.c
 
 # Push to GitHub
 git checkout "${TRAVIS_BRANCH}"
-git add data/venues.json
+git add data/
 git commit -m "Travis CI: Auto update venues [ci skip]" \
     --author "punchagan (travisci) <punchagan+travis@muse-amuse.in>"
 git push --quiet "${GIT_URL}" master:master
