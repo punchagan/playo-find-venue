@@ -54,6 +54,9 @@
              background: aliceblue;
              text-align: center;
          }
+         #city-select {
+             text-align: center;
+         }
         </style>
     </head>
     <body>
@@ -61,6 +64,11 @@
         <div id="map"></div>
         <div id="controls">
             <input type="text" id="searchInput" name="searchInput" placeholder="Search for a place to add a circle" />
+            <div id="city-select">
+                <small>Select city
+                    <select data-bind="options: cities, optionsText: 'name', value: city" size="1"></select>
+                </small>
+            </div>
             <div>
             <select data-bind="options: filters, value: current_filter, valueAllowUnset: true"></select>
             <span class="short-url">
@@ -83,10 +91,6 @@
 
                     </a> with ❤️ in Bangalore
                     <br/>
-                    <p>
-                        Select city
-                        <select data-bind="options: cities, value: city, valueAllowUnset: true" size="1"></select>
-                    </p>
                 </small>
             </div>
         </div>
