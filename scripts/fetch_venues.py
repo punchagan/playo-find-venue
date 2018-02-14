@@ -57,15 +57,8 @@ def modify_metadata(venues, clean=True):
     RETAIN_KEYS = {'name', 'icon', 'info', 'lat', 'lng', 'filter_by'}
     SPORT_ID_MAP = fetch_sport_ids()
     for venue in venues:
-        rating = int(float(venue['avgRating']))
-        if rating == 5:
-            venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon12.png'
-        elif rating == 4:
-            venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon11.png'
-        elif rating == 3:
-            venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon10.png'
-        else:
-            venue['icon'] = 'https://maps.google.com/mapfiles/kml/pal3/icon57.png'
+        rating = max(1, int(float(venue['avgRating'])))
+        venue['icon'] = 'https://maps.google.com/mapfiles/kml/paddle/{}-lv.png'.format(rating)
         # Add filter_by
         venue['filter_by'] = sorted(
             [SPORT_ID_MAP[s['sportId']] for s in venue['sports'] if s['sportId'] in SPORT_ID_MAP]
