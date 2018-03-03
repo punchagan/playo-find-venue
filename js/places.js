@@ -81,11 +81,14 @@ var AppData = function(map, people, sport, city) {
     });
     filters = Array.from(filters);
     filters.sort();
-    return filters;
+    return ["All"].concat(filters);
   }, this);
 
   this.filtered_venues = ko.computed(function() {
     var f = this.current_filter();
+    if (f == "All") {
+      return this.venues();
+    }
     return this.venues().filter(function(venue) {
       return venue.filter_by.indexOf(f) >= 0;
     }, this);
