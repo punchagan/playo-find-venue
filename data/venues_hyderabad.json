@@ -264,11 +264,11 @@
     "lat": 17.3653008,
     "lng": 78.5804294,
     "name": "Eastwood Sports",
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Eastwood Sports</h3>\n    <strong>Ratings:</strong> 3.9 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> N/A<br/>\n    <a href=\"https://z34v4.app.goo.gl/Q22V\" target=\"_blank\">https://z34v4.app.goo.gl/Q22V</a><br/>\n    "
+    "info": "\n    <h3>Eastwood Sports</h3>\n    <strong>Ratings:</strong> 4.0 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> N/A<br/>\n    <a href=\"https://z34v4.app.goo.gl/Q22V\" target=\"_blank\">https://z34v4.app.goo.gl/Q22V</a><br/>\n    "
   },
   {
     "lat": 17.508307,
@@ -401,7 +401,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>KLV Badminton Club</h3>\n    <strong>Ratings:</strong> 4.5 [218]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9246548196<br/>\n    <a href=\"https://z34v4.app.goo.gl/kwMR\" target=\"_blank\">https://z34v4.app.goo.gl/kwMR</a><br/>\n    "
+    "info": "\n    <h3>KLV Badminton Club</h3>\n    <strong>Ratings:</strong> 4.5 [219]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9246548196<br/>\n    <a href=\"https://z34v4.app.goo.gl/kwMR\" target=\"_blank\">https://z34v4.app.goo.gl/kwMR</a><br/>\n    "
   },
   {
     "lat": 17.5309934,
@@ -484,6 +484,16 @@
       "Cue Sports"
     ],
     "info": "\n    <h3>Njoy Snooker</h3>\n    <strong>Ratings:</strong> 3.0 [1]<br/>\n    <strong>Sports:</strong> Cue Sports<br/>\n    <strong>Phone:</strong> N/A<br/>\n    <a href=\"https://z34v4.app.goo.gl/NPur\" target=\"_blank\">https://z34v4.app.goo.gl/NPur</a><br/>\n    "
+  },
+  {
+    "lat": 17.492644,
+    "lng": 78.5734572,
+    "name": "Palla Sports Centre",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Palla Sports Centre</h3>\n    <strong>Ratings:</strong> 5.0 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/73fT\" target=\"_blank\">https://z34v4.app.goo.gl/73fT</a><br/>\n    "
   },
   {
     "lat": 17.5004661,
@@ -782,7 +792,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sri Krishna Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.1 [88]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9246363704<br/>\n    <a href=\"https://z34v4.app.goo.gl/1d9d\" target=\"_blank\">https://z34v4.app.goo.gl/1d9d</a><br/>\n    "
+    "info": "\n    <h3>Sri Krishna Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.1 [89]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9246363704<br/>\n    <a href=\"https://z34v4.app.goo.gl/1d9d\" target=\"_blank\">https://z34v4.app.goo.gl/1d9d</a><br/>\n    "
   },
   {
     "lat": 17.461513,
@@ -862,7 +872,7 @@
       "Basketball",
       "Football"
     ],
-    "info": "\n    <h3>Top Strike</h3>\n    <strong>Ratings:</strong> 3.8 [6]<br/>\n    <strong>Sports:</strong> Basketball, Football<br/>\n    <strong>Phone:</strong> 9133367555<br/>\n    <a href=\"https://z34v4.app.goo.gl/OSuL\" target=\"_blank\">https://z34v4.app.goo.gl/OSuL</a><br/>\n    "
+    "info": "\n    <h3>Top Strike</h3>\n    <strong>Ratings:</strong> 3.9 [7]<br/>\n    <strong>Sports:</strong> Basketball, Football<br/>\n    <strong>Phone:</strong> 9133367555<br/>\n    <a href=\"https://z34v4.app.goo.gl/OSuL\" target=\"_blank\">https://z34v4.app.goo.gl/OSuL</a><br/>\n    "
   },
   {
     "lat": 17.4450407,
