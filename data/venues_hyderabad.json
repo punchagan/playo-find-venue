@@ -151,7 +151,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>CJR Sports Centre</h3>\n    <strong>Ratings:</strong> 3.8 [77]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> +918885557577<br/>\n    <a href=\"https://z34v4.app.goo.gl/Iv4b\" target=\"_blank\">https://z34v4.app.goo.gl/Iv4b</a><br/>\n    "
+    "info": "\n    <h3>CJR Sports Centre</h3>\n    <strong>Ratings:</strong> 3.8 [78]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> +918885557577<br/>\n    <a href=\"https://z34v4.app.goo.gl/Iv4b\" target=\"_blank\">https://z34v4.app.goo.gl/Iv4b</a><br/>\n    "
   },
   {
     "lng": 78.395188,
@@ -280,7 +280,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Elite Sports Hub</h3>\n    <strong>Ratings:</strong> 4.6 [267]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 7995898989<br/>\n    <a href=\"https://z34v4.app.goo.gl/gWYv\" target=\"_blank\">https://z34v4.app.goo.gl/gWYv</a><br/>\n    "
+    "info": "\n    <h3>Elite Sports Hub</h3>\n    <strong>Ratings:</strong> 4.6 [268]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 7995898989<br/>\n    <a href=\"https://z34v4.app.goo.gl/gWYv\" target=\"_blank\">https://z34v4.app.goo.gl/gWYv</a><br/>\n    "
   },
   {
     "lng": 78.509607,
@@ -487,6 +487,17 @@
     "info": "\n    <h3>Manikonda Sports Academy</h3>\n    <strong>Ratings:</strong> 3.5 [73]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Cricket<br/>\n    <strong>Phone:</strong> 7331134261<br/>\n    <a href=\"https://z34v4.app.goo.gl/2BWI\" target=\"_blank\">https://z34v4.app.goo.gl/2BWI</a><br/>\n    "
   },
   {
+    "lat": 17.328127,
+    "lng": 78.581942,
+    "name": "Marvel Sports Arena",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Marvel Sports Arena</h3>\n    <strong>Ratings:</strong> 5.0 [3]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9505075157<br/>\n    <a href=\"https://z34v4.app.goo.gl/PqtB\" target=\"_blank\">https://z34v4.app.goo.gl/PqtB</a><br/>\n    "
+  },
+  {
     "lat": 17.3184441,
     "lng": 78.314538,
     "name": "Melgiri Cricket Ground",
@@ -514,7 +525,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Palla Sports Centre</h3>\n    <strong>Ratings:</strong> 5.0 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/73fT\" target=\"_blank\">https://z34v4.app.goo.gl/73fT</a><br/>\n    "
+    "info": "\n    <h3>Palla Sports Centre</h3>\n    <strong>Ratings:</strong> 5.0 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/73fT\" target=\"_blank\">https://z34v4.app.goo.gl/73fT</a><br/>\n    "
   },
   {
     "lat": 17.5004661,
@@ -823,11 +834,11 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sri SM Badminton Club</h3>\n    <strong>Ratings:</strong> 4.3 [56]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9030807639<br/>\n    <a href=\"https://z34v4.app.goo.gl/N3aH\" target=\"_blank\">https://z34v4.app.goo.gl/N3aH</a><br/>\n    "
+    "info": "\n    <h3>Sri SM Badminton Club</h3>\n    <strong>Ratings:</strong> 4.3 [57]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9030807639<br/>\n    <a href=\"https://z34v4.app.goo.gl/N3aH\" target=\"_blank\">https://z34v4.app.goo.gl/N3aH</a><br/>\n    "
   },
   {
-    "lng": 78.378336,
-    "lat": 17.490298,
+    "lng": 78.380523,
+    "lat": 17.489518,
     "name": "Sri Sai Badminton Stadium",
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
