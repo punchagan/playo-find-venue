@@ -8,35 +8,31 @@ from os.path import abspath, dirname, join
 from bs4 import BeautifulSoup
 import requests
 
-PLAYO_AUTH = os.getenv('PLAYO_AUTH', '')
-assert len(PLAYO_AUTH) > 0, 'Please set PLAYO_AUTH env var'
+PLAYO_AUTH = os.getenv("PLAYO_AUTH", "")
+assert len(PLAYO_AUTH) > 0, "Please set PLAYO_AUTH env var"
 HERE = dirname(abspath(__file__))
 
 
 LOCATIONS = {
-    'bangalore': {
-        'lat': '12.9715987',
-        'lng': '77.59456269999998'
-    },
-    'hyderabad': {
-        'lat': '17.4241053',
-        'lng': '78.4657618'
-    }
+    "bangalore": {"lat": "12.9715987", "lng": "77.59456269999998"},
+    "hyderabad": {"lat": "17.4241053", "lng": "78.4657618"},
 }
-URL = 'https://playo.io/api/web/v1/venue/?page={page}&lat={lat}&lng={lng}'
+URL = "https://playo.io/api/web/v1/venue/?page={page}&lat={lat}&lng={lng}"
 
 
 def fetch_venues(city):
     page = 0
     venues = []
     while True:
-        print('Fetching page {}...'.format(page))
+        print("Fetching page {}...".format(page))
         url = URL.format(page=page, **LOCATIONS[city])
-        response = requests.get(url, headers={'Authorization': PLAYO_AUTH}).json()
-        venues_ = response.get('list', [])
+        response = requests.get(
+            url, headers={"Authorization": PLAYO_AUTH}
+        ).json()
+        venues_ = response.get("list", [])
         if len(venues_):
             venues.extend(venues_)
-        page = response.get('nextPage')
+        page = response.get("nextPage")
         if not page or page == -1:
             break
 
@@ -45,27 +41,37 @@ def fetch_venues(city):
 
 def fetch_sport_ids():
     print("Fetching sport id map...")
-    url = 'https://playo.co/venues/bengaluru/sports/all'
-    soup = BeautifulSoup(requests.get(url).text, 'html.parser')
+    url = "https://playo.co/venues/bengaluru/sports/all"
+    soup = BeautifulSoup(requests.get(url).text, "html.parser")
     return {
-        element.findChild('img').attrs['src'].split('/')[-2]: element.text.strip()
-        for element in soup.select('.one-sport-filter')
+        element.findChild("img")
+        .attrs["src"]
+        .split("/")[-2]: element.text.strip()
+        for element in soup.select(".one-sport-filter")
     }
 
 
 def modify_metadata(venues, clean=True):
-    RETAIN_KEYS = {'name', 'icon', 'info', 'lat', 'lng', 'filter_by'}
+    RETAIN_KEYS = {"name", "icon", "info", "lat", "lng", "filter_by"}
     SPORT_ID_MAP = fetch_sport_ids()
     for venue in venues:
-        rating = max(1, int(float(venue['avgRating'])))
-        venue['icon'] = 'https://maps.google.com/mapfiles/kml/paddle/{}-lv.png'.format(rating)
-        # Add filter_by
-        venue['filter_by'] = sorted(
-            [SPORT_ID_MAP[s['sportId']] for s in venue['sports'] if s['sportId'] in SPORT_ID_MAP]
+        rating = max(1, int(float(venue["avgRating"])))
+        venue[
+            "icon"
+        ] = "https://maps.google.com/mapfiles/kml/paddle/{}-lv.png".format(
+            rating
         )
-        venue['all_sports'] = ', '.join(venue['filter_by'])
+        # Add filter_by
+        venue["filter_by"] = sorted(
+            [
+                SPORT_ID_MAP[s["sportId"]]
+                for s in venue["sports"]
+                if s["sportId"] in SPORT_ID_MAP
+            ]
+        )
+        venue["all_sports"] = ", ".join(venue["filter_by"])
         # Add info
-        venue['info'] = get_info(venue)
+        venue["info"] = get_info(venue)
 
     if clean:
         venues = [
@@ -73,11 +79,11 @@ def modify_metadata(venues, clean=True):
             for venue in venues
         ]
 
-    return sorted(venues, key=lambda x: x['name'])
+    return sorted(venues, key=lambda x: x["name"])
 
 
 def filter_inactive(venues):
-    return [v for v in venues if v['active']]
+    return [v for v in venues if v["active"]]
 
 
 def get_info(venue):
@@ -88,20 +94,23 @@ def get_info(venue):
     <strong>Phone:</strong> {inquiryPhone}<br/>
     <a href="{deferLink}" target="_blank">{deferLink}</a><br/>
     """
-    return info.format_map(defaultdict(lambda: 'N/A', venue))
+    return info.format_map(defaultdict(lambda: "N/A", venue))
 
 
 def main(city, clean=True):
     venues = modify_metadata(filter_inactive(fetch_venues(city)), clean=clean)
-    venues_persist_path = join(HERE, '..', 'data', 'venues_{}.json'.format(city))
-    with open(venues_persist_path, 'w') as f:
+    venues_persist_path = join(
+        HERE, "..", "data", "venues_{}.json".format(city)
+    )
+    with open(venues_persist_path, "w") as f:
         json.dump(venues, f, indent=2)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     import argparse
+
     parser = argparse.ArgumentParser()
-    parser.add_argument('--full', action='store_true')
-    parser.add_argument('city', choices=['bangalore', 'hyderabad'])
+    parser.add_argument("--full", action="store_true")
+    parser.add_argument("city", choices=["bangalore", "hyderabad"])
     args = parser.parse_args()
     main(args.city, not args.full)
