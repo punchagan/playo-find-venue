@@ -54,13 +54,7 @@ var AppData = function(map, people, sport, city) {
     this.people().forEach(function(person) {
       if (!this.circles.hasOwnProperty(person.id)) {
         var { center, radius, color } = person;
-        this.circles[person.id] = draw_circle(
-          map,
-          self,
-          center,
-          radius(),
-          color()
-        );
+        this.circles[person.id] = draw_circle(map, self, center, radius(), color());
       } else {
         var circle = this.circles[person.id];
         circle.setRadius(person.radius() * 1000);
