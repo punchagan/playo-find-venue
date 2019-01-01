@@ -268,10 +268,28 @@ var get_short_url = function(callback) {
     });
 };
 
-var cities = {
-  bangalore: { lat: 12.9715987, lng: 77.5945627 },
-  hyderabad: { lat: 17.4241053, lng: 78.4657618 }
+var fetch_cities = function() {
+  var cities;
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", "js/locations.json", false);
+  xhr.onload = function(e) {
+    if (xhr.readyState === 4) {
+      if (xhr.status === 200) {
+        console.log(xhr.responseText);
+        cities = JSON.parse(xhr.responseText);
+      } else {
+        console.error(xhr.statusText);
+      }
+    }
+  };
+  xhr.onerror = function(e) {
+    console.error(xhr.statusText);
+  };
+  xhr.send(null);
+  return cities;
 };
+
+var cities = fetch_cities();
 
 var initMap = function() {
   // Create the map.
