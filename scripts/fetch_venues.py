@@ -12,11 +12,9 @@ PLAYO_AUTH = os.getenv("PLAYO_AUTH", "")
 assert len(PLAYO_AUTH) > 0, "Please set PLAYO_AUTH env var"
 HERE = dirname(abspath(__file__))
 
+with open(join(HERE, "..", "js", "locations.json")) as f:
+    LOCATIONS = json.load(f)
 
-LOCATIONS = {
-    "bangalore": {"lat": "12.9715987", "lng": "77.59456269999998"},
-    "hyderabad": {"lat": "17.4241053", "lng": "78.4657618"},
-}
 URL = "https://playo.io/api/web/v1/venue/?page={page}&lat={lat}&lng={lng}"
 
 
