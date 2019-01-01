@@ -210,32 +210,20 @@ var hash_to_state = function() {
       {
         name: "Raheja Residency",
         center: { lat: 12.9281594, lng: 77.6295864 },
-        radius: 8,
+        radius: 5,
         color: "#0000FF"
-      },
-      {
-        name: "Thom's Bakery & Supermarket",
-        center: { lat: 12.9915374, lng: 77.6119656 },
-        radius: 8,
-        color: "#FFD700"
       },
       {
         name: "Windsor Court",
         center: { lat: 12.955567, lng: 77.656877434 },
-        radius: 8,
+        radius: 4,
         color: "#00FF00"
       },
       {
-        name: "Alpine Eco Garden",
-        center: { lat: 12.9744437, lng: 77.6986174 },
-        radius: 8,
-        color: "#808080"
-      },
-      {
-        name: "Nutrition Nation",
-        center: { lat: 12.9204517, lng: 77.592301 },
-        radius: 8,
-        color: "#FF0000"
+        name: "Microsoft Research",
+        center: { lat: 12.96613, lng: 77.59629139999993 },
+        radius: 6,
+        color: "#0000FF"
       }
     ],
     sport = "Badminton",
