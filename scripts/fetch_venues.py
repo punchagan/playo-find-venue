@@ -111,6 +111,6 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--full", action="store_true")
-    parser.add_argument("city", choices=["bangalore", "hyderabad"])
+    parser.add_argument("city", choices=LOCATIONS.keys())
     args = parser.parse_args()
     main(args.city, not args.full)
