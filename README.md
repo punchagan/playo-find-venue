@@ -9,7 +9,7 @@ often book a court through Playo, based on the availability in areas which are
 conveniently reachable by a majority of us. Often, the courts end up being not
 the best ones. This app was built to make this search easier.
 
-**NOTE**: The app currently only works for Bangalore
+**NOTE**: The app currently only works for Bangalore & Hyderabad
 
 ## Usage
 
