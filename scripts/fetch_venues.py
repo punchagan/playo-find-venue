@@ -98,6 +98,7 @@ def get_info(venue):
 
 
 def main(city, clean=True):
+    print("Fetching venues for {}".format(city.capitalize()))
     venues = modify_metadata(filter_inactive(fetch_venues(city)), clean=clean)
     venues_persist_path = join(
         HERE, "..", "data", "venues_{}.json".format(city)
@@ -111,6 +112,10 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--full", action="store_true")
-    parser.add_argument("city", choices=LOCATIONS.keys())
+    parser.add_argument("city", choices=list(LOCATIONS.keys()) + ["all"])
     args = parser.parse_args()
-    main(args.city, not args.full)
+    if args.city != "all":
+        main(args.city, not args.full)
+    else:
+        for city in LOCATIONS.keys():
+            main(city, not args.full)
