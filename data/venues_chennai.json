@@ -247,11 +247,11 @@
     "name": "Dugout Sports Terminal",
     "lat": 12.971961,
     "lng": 80.220342,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>Dugout Sports Terminal</h3>\n    <strong>Ratings:</strong> 5 [20]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9884212020<br/>\n    <a href=\"https://z34v4.app.goo.gl/dWvD\" target=\"_blank\">https://z34v4.app.goo.gl/dWvD</a><br/>\n    "
+    "info": "\n    <h3>Dugout Sports Terminal</h3>\n    <strong>Ratings:</strong> 4.95 [21]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9884212020<br/>\n    <a href=\"https://z34v4.app.goo.gl/dWvD\" target=\"_blank\">https://z34v4.app.goo.gl/dWvD</a><br/>\n    "
   },
   {
     "name": "EC Sports",
@@ -461,11 +461,11 @@
     "name": "Get Fit Badminton Club",
     "lat": 12.982178,
     "lng": 80.22995,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Get Fit Badminton Club</h3>\n    <strong>Ratings:</strong> 3 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/G8aQ\" target=\"_blank\">https://z34v4.app.goo.gl/G8aQ</a><br/>\n    "
+    "info": "\n    <h3>Get Fit Badminton Club</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/G8aQ\" target=\"_blank\">https://z34v4.app.goo.gl/G8aQ</a><br/>\n    "
   },
   {
     "name": "Golazo",
@@ -494,6 +494,16 @@
       "Badminton"
     ],
     "info": "\n    <h3>Hitzone Badminton Academy</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/dvxO\" target=\"_blank\">https://z34v4.app.goo.gl/dvxO</a><br/>\n    "
+  },
+  {
+    "name": "Honour Academy of Sports",
+    "lat": 12.922295,
+    "lng": 80.190567,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Honour Academy of Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9551656655<br/>\n    <a href=\"https://z34v4.app.goo.gl/n6xP\" target=\"_blank\">https://z34v4.app.goo.gl/n6xP</a><br/>\n    "
   },
   {
     "name": "House of Fitness Sports Club",
@@ -667,16 +677,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>Match Point Academy</h3>\n    <strong>Ratings:</strong> 4.25 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/CsQe\" target=\"_blank\">https://z34v4.app.goo.gl/CsQe</a><br/>\n    "
-  },
-  {
-    "name": "Metro Badminton Academy",
-    "lat": 12.922326,
-    "lng": 80.1876691,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Metro Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/kNoY\" target=\"_blank\">https://z34v4.app.goo.gl/kNoY</a><br/>\n    "
   },
   {
     "name": "My Goal Arena",
