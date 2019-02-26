@@ -261,6 +261,16 @@
     "info": "\n    <h3>Chetan Anand Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.65 [117]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9885533357<br/>\n    <a href=\"https://z34v4.app.goo.gl/EPI9\" target=\"_blank\">https://z34v4.app.goo.gl/EPI9</a><br/>\n    "
   },
   {
+    "name": "Chetan Anand Badminton Academy",
+    "lat": 17.43653,
+    "lng": 78.396762,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Chetan Anand Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.65 [117]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9885533357<br/>\n    <a href=\"https://z34v4.app.goo.gl/EPI9\" target=\"_blank\">https://z34v4.app.goo.gl/EPI9</a><br/>\n    "
+  },
+  {
     "name": "Conscient Football",
     "lat": 17.3386596,
     "lng": 78.3406114,
@@ -407,6 +417,16 @@
       "Cricket"
     ],
     "info": "\n    <h3>Golconda Cricket Club</h3>\n    <strong>Ratings:</strong> 2.5 [2]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/6HD7\" target=\"_blank\">https://z34v4.app.goo.gl/6HD7</a><br/>\n    "
+  },
+  {
+    "name": "Greater Family Indoor swimming Pool",
+    "lat": 17.4172119,
+    "lng": 78.481252,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Swimming"
+    ],
+    "info": "\n    <h3>Greater Family Indoor swimming Pool</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 9032881304<br/>\n    <a href=\"https://z34v4.app.goo.gl/Ght1\" target=\"_blank\">https://z34v4.app.goo.gl/Ght1</a><br/>\n    "
   },
   {
     "name": "Hamsa Cricket Ground",
@@ -636,6 +656,16 @@
     "info": "\n    <h3>Om Namah Shivay Sports Centre</h3>\n    <strong>Ratings:</strong> 3.12 [17]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7428083890<br/>\n    <a href=\"https://z34v4.app.goo.gl/spDN\" target=\"_blank\">https://z34v4.app.goo.gl/spDN</a><br/>\n    "
   },
   {
+    "name": "Oyster Indoor Swimming Club",
+    "lat": 17.4300621,
+    "lng": 78.3845639,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "filter_by": [
+      "Swimming"
+    ],
+    "info": "\n    <h3>Oyster Indoor Swimming Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 8500700909<br/>\n    <a href=\"https://z34v4.app.goo.gl/7t1J\" target=\"_blank\">https://z34v4.app.goo.gl/7t1J</a><br/>\n    "
+  },
+  {
     "name": "PJR Stadium",
     "lat": 17.4884324,
     "lng": 78.321772,
@@ -810,16 +840,6 @@
       "Football"
     ],
     "info": "\n    <h3>SKY Pitch</h3>\n    <strong>Ratings:</strong> 4.55 [11]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9866035786<br/>\n    <a href=\"https://z34v4.app.goo.gl/TBXi\" target=\"_blank\">https://z34v4.app.goo.gl/TBXi</a><br/>\n    "
-  },
-  {
-    "name": "SMC Sports Foundation",
-    "lat": 17.4423878,
-    "lng": 78.3976554,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Tennis"
-    ],
-    "info": "\n    <h3>SMC Sports Foundation</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/tIgo\" target=\"_blank\">https://z34v4.app.goo.gl/tIgo</a><br/>\n    "
   },
   {
     "name": "SMC Sports Foundation",
