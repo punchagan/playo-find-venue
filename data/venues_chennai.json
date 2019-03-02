@@ -387,6 +387,16 @@
     "info": "\n    <h3>Friends Sports Academy</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/tsK1\" target=\"_blank\">https://z34v4.app.goo.gl/tsK1</a><br/>\n    "
   },
   {
+    "name": "GJ Badminton Academy",
+    "lat": 13.015725,
+    "lng": 80.150118,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>GJ Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9841411040<br/>\n    <a href=\"https://z34v4.app.goo.gl/hbTF\" target=\"_blank\">https://z34v4.app.goo.gl/hbTF</a><br/>\n    "
+  },
+  {
     "name": "GJ Sports Academy",
     "lat": 13.0151944,
     "lng": 80.1481557,
@@ -852,16 +862,6 @@
     "info": "\n    <h3>SG Sports</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/bRJF\" target=\"_blank\">https://z34v4.app.goo.gl/bRJF</a><br/>\n    "
   },
   {
-    "name": "SG Sports",
-    "lat": 13.0586842,
-    "lng": 80.1685203,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>SG Sports</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/bRJF\" target=\"_blank\">https://z34v4.app.goo.gl/bRJF</a><br/>\n    "
-  },
-  {
     "name": "SR Badminton Academy",
     "lat": 12.951012,
     "lng": 80.183632,
@@ -870,6 +870,16 @@
       "Badminton"
     ],
     "info": "\n    <h3>SR Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/6KhO\" target=\"_blank\">https://z34v4.app.goo.gl/6KhO</a><br/>\n    "
+  },
+  {
+    "name": "STROKERS ARENA \u2003",
+    "lat": 12.974764,
+    "lng": 80.133869,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>STROKERS ARENA \u2003</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
     "name": "STROKERS ARENA \u2003",
