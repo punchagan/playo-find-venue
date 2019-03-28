@@ -73,6 +73,16 @@
     "info": "\n    <h3>Aditya Tennis Academy</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/EH94\" target=\"_blank\">https://z34v4.app.goo.gl/EH94</a><br/>\n    "
   },
   {
+    "name": "Adyant Table Tennis Academy",
+    "lat": 17.520792,
+    "lng": 78.39783,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Adyant Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 8801922933<br/>\n    <a href=\"https://z34v4.app.goo.gl/jsGW\" target=\"_blank\">https://z34v4.app.goo.gl/jsGW</a><br/>\n    "
+  },
+  {
     "name": "Akrasia",
     "lat": 17.519447,
     "lng": 78.38189,
@@ -774,20 +784,6 @@
       "Table Tennis"
     ],
     "info": "\n    <h3>RSpot</h3>\n    <strong>Ratings:</strong> 3.56 [101]<br/>\n    <strong>Sports:</strong> Badminton, Cue Sports, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9100305666<br/>\n    <a href=\"https://z34v4.app.goo.gl/Nyg3\" target=\"_blank\">https://z34v4.app.goo.gl/Nyg3</a><br/>\n    "
-  },
-  {
-    "name": "Rainbow Vistas",
-    "lat": 17.4677481,
-    "lng": 78.4059588,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Basketball",
-      "Swimming",
-      "Table Tennis",
-      "Tennis",
-      "Volleyball"
-    ],
-    "info": "\n    <h3>Rainbow Vistas</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Basketball, Swimming, Table Tennis, Tennis, Volleyball<br/>\n    <strong>Phone:</strong> 9989931133<br/>\n    <a href=\"https://z34v4.app.goo.gl/qYzP\" target=\"_blank\">https://z34v4.app.goo.gl/qYzP</a><br/>\n    "
   },
   {
     "name": "Ramcharan Cricket Ground",
