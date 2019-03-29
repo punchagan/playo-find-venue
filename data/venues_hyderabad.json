@@ -526,7 +526,7 @@
     "filter_by": [
       "Tennis"
     ],
-    "info": "\n    <h3>KMK School of Tennis</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 8886669345<br/>\n    <a href=\"https://z34v4.app.goo.gl/7mCK\" target=\"_blank\">https://z34v4.app.goo.gl/7mCK</a><br/>\n    "
+    "info": "\n    <h3>KMK School of Tennis</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 8886669345<br/>\n    <a href=\"https://z34v4.app.goo.gl/7mCK\" target=\"_blank\">https://z34v4.app.goo.gl/7mCK</a><br/>\n    "
   },
   {
     "name": "KVR Badminton Arena",
@@ -1171,6 +1171,18 @@
       "Tennis"
     ],
     "info": "\n    <h3>Sunjay Tennis Academy</h3>\n    <strong>Ratings:</strong> 3 [3]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/vYPd\" target=\"_blank\">https://z34v4.app.goo.gl/vYPd</a><br/>\n    "
+  },
+  {
+    "name": "Supreme Sports Studio",
+    "lat": 17.4708488,
+    "lng": 78.3284903,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Beach Volleyball",
+      "Football",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Supreme Sports Studio</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9885953856<br/>\n    <a href=\"https://z34v4.app.goo.gl/2Vid\" target=\"_blank\">https://z34v4.app.goo.gl/2Vid</a><br/>\n    "
   },
   {
     "name": "Suresh Cricket Academy",
