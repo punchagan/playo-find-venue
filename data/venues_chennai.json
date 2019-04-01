@@ -161,6 +161,18 @@
     "info": "\n    <h3>CSJ Sports Academy</h3>\n    <strong>Ratings:</strong> 4 [3]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Tennis<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/hVQz\" target=\"_blank\">https://z34v4.app.goo.gl/hVQz</a><br/>\n    "
   },
   {
+    "name": "Champions Sports Center",
+    "lat": 12.885076,
+    "lng": 80.182041,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football",
+      "Kabaddi",
+      "Volleyball"
+    ],
+    "info": "\n    <h3>Champions Sports Center</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football, Kabaddi, Volleyball<br/>\n    <strong>Phone:</strong> 9843879044<br/>\n    <a href=\"https://z34v4.app.goo.gl/KeUc\" target=\"_blank\">https://z34v4.app.goo.gl/KeUc</a><br/>\n    "
+  },
+  {
     "name": "Chaos Entertainment",
     "lat": 13.002578,
     "lng": 80.256034,
@@ -761,6 +773,14 @@
       "Football"
     ],
     "info": "\n    <h3>Planet Adventure's Jus Play</h3>\n    <strong>Ratings:</strong> 3.5 [2]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/0BJS\" target=\"_blank\">https://z34v4.app.goo.gl/0BJS</a><br/>\n    "
+  },
+  {
+    "name": "Playball",
+    "lat": 13.098521,
+    "lng": 80.286704,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>Playball</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9940152786<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEYx\" target=\"_blank\">https://z34v4.app.goo.gl/xEYx</a><br/>\n    "
   },
   {
     "name": "R Cube",
