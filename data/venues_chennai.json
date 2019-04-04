@@ -548,6 +548,14 @@
     "info": "\n    <h3>House of Fitness Sports Club</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/xHF1\" target=\"_blank\">https://z34v4.app.goo.gl/xHF1</a><br/>\n    "
   },
   {
+    "name": "Indoor Cricket Center",
+    "lat": 12.907099,
+    "lng": 80.194254,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>Indoor Cricket Center</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9840326919<br/>\n    <a href=\"https://z34v4.app.goo.gl/A4Zt\" target=\"_blank\">https://z34v4.app.goo.gl/A4Zt</a><br/>\n    "
+  },
+  {
     "name": "JPS Sports Academy",
     "lat": 12.9325317,
     "lng": 80.1997444,
@@ -961,6 +969,16 @@
       "Football"
     ],
     "info": "\n    <h3>Score On</h3>\n    <strong>Ratings:</strong> 4.86 [7]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8939063254<br/>\n    <a href=\"https://z34v4.app.goo.gl/nNQk\" target=\"_blank\">https://z34v4.app.goo.gl/nNQk</a><br/>\n    "
+  },
+  {
+    "name": "Set Point Badminton Academy",
+    "lat": 13.088614,
+    "lng": 80.195155,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Set Point Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840012475<br/>\n    <a href=\"https://z34v4.app.goo.gl/bY6b\" target=\"_blank\">https://z34v4.app.goo.gl/bY6b</a><br/>\n    "
   },
   {
     "name": "Shrivas Futsal Academy",
