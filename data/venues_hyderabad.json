@@ -847,6 +847,16 @@
     "info": "\n    <h3>Retro Drive In</h3>\n    <strong>Ratings:</strong> 4.75 [24]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Football<br/>\n    <strong>Phone:</strong> 9553891891<br/>\n    <a href=\"https://z34v4.app.goo.gl/TeKw\" target=\"_blank\">https://z34v4.app.goo.gl/TeKw</a><br/>\n    "
   },
   {
+    "name": "Rio Badminton Arena",
+    "lat": 17.561427,
+    "lng": 78.387663,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Rio Badminton Arena</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9293149117<br/>\n    <a href=\"https://z34v4.app.goo.gl/5L6F\" target=\"_blank\">https://z34v4.app.goo.gl/5L6F</a><br/>\n    "
+  },
+  {
     "name": "Rise Badminton",
     "lat": 17.5190911,
     "lng": 78.2970657,
@@ -1107,11 +1117,11 @@
     "name": "Springs",
     "lat": 17.4427298,
     "lng": 78.3699524,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Beach Volleyball"
     ],
-    "info": "\n    <h3>Springs</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Beach Volleyball<br/>\n    <strong>Phone:</strong> 7997445606<br/>\n    <a href=\"https://z34v4.app.goo.gl/ruRs\" target=\"_blank\">https://z34v4.app.goo.gl/ruRs</a><br/>\n    "
+    "info": "\n    <h3>Springs</h3>\n    <strong>Ratings:</strong> 3.33 [3]<br/>\n    <strong>Sports:</strong> Beach Volleyball<br/>\n    <strong>Phone:</strong> 7997445606<br/>\n    <a href=\"https://z34v4.app.goo.gl/ruRs\" target=\"_blank\">https://z34v4.app.goo.gl/ruRs</a><br/>\n    "
   },
   {
     "name": "Square Sports",
@@ -1164,7 +1174,7 @@
       "Table Tennis",
       "Yoga"
     ],
-    "info": "\n    <h3>Sri Sai Badminton Stadium</h3>\n    <strong>Ratings:</strong> 3.49 [292]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis, Yoga<br/>\n    <strong>Phone:</strong> 9396477227<br/>\n    <a href=\"https://z34v4.app.goo.gl/8qvL\" target=\"_blank\">https://z34v4.app.goo.gl/8qvL</a><br/>\n    "
+    "info": "\n    <h3>Sri Sai Badminton Stadium</h3>\n    <strong>Ratings:</strong> 3.48 [293]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis, Yoga<br/>\n    <strong>Phone:</strong> 9396477227<br/>\n    <a href=\"https://z34v4.app.goo.gl/8qvL\" target=\"_blank\">https://z34v4.app.goo.gl/8qvL</a><br/>\n    "
   },
   {
     "name": "Stadium of Hope",
