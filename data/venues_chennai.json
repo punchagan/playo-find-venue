@@ -932,16 +932,6 @@
     "info": "\n    <h3>SG Sports</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/bRJF\" target=\"_blank\">https://z34v4.app.goo.gl/bRJF</a><br/>\n    "
   },
   {
-    "name": "SG Sports",
-    "lat": 13.0586842,
-    "lng": 80.1685203,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>SG Sports</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/bRJF\" target=\"_blank\">https://z34v4.app.goo.gl/bRJF</a><br/>\n    "
-  },
-  {
     "name": "SR Badminton Academy",
     "lat": 12.951012,
     "lng": 80.183632,
@@ -950,6 +940,16 @@
       "Badminton"
     ],
     "info": "\n    <h3>SR Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/6KhO\" target=\"_blank\">https://z34v4.app.goo.gl/6KhO</a><br/>\n    "
+  },
+  {
+    "name": "STROKERS ARENA \u2003",
+    "lat": 12.974764,
+    "lng": 80.133869,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>STROKERS ARENA \u2003</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
     "name": "STROKERS ARENA \u2003",
@@ -1266,6 +1266,16 @@
       "Football"
     ],
     "info": "\n    <h3>Turf 137</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/8nO9\" target=\"_blank\">https://z34v4.app.goo.gl/8nO9</a><br/>\n    "
+  },
+  {
+    "name": "Turf Rabonna",
+    "lat": 13.048003,
+    "lng": 80.137479,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Turf Rabonna</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7904262226<br/>\n    <a href=\"https://z34v4.app.goo.gl/K8Ec\" target=\"_blank\">https://z34v4.app.goo.gl/K8Ec</a><br/>\n    "
   },
   {
     "name": "V Square Sports Arena",
