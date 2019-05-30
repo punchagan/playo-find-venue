@@ -53,7 +53,7 @@ def modify_metadata(venues, clean=True):
     RETAIN_KEYS = {"name", "icon", "info", "lat", "lng", "filter_by"}
     SPORT_ID_MAP = fetch_sport_ids()
     for venue in venues:
-        rating = max(1, int(float(venue["avgRating"])))
+        rating = max(1, int(float(venue["avgRating"] or 0)))
         venue[
             "icon"
         ] = "https://maps.google.com/mapfiles/kml/paddle/{}-lv.png".format(
