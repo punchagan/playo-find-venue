@@ -115,5 +115,10 @@ if __name__ == "__main__":
     if args.city != "all":
         main(args.city, not args.full)
     else:
-        for city in LOCATIONS.keys():
-            main(city, not args.full)
+        from concurrent.futures import ThreadPoolExecutor
+
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            future_to_city = {
+                executor.submit(main, city, not args.full): city
+                for city in LOCATIONS.keys()
+            }
