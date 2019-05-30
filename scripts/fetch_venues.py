@@ -22,7 +22,7 @@ def fetch_venues(city):
     page = 0
     venues = []
     while True:
-        print("Fetching page {}...".format(page))
+        print("Fetching page {}...".format(page), flush=True)
         url = URL.format(page=page, **LOCATIONS[city])
         response = requests.get(
             url, headers={"Authorization": PLAYO_AUTH}
@@ -38,7 +38,7 @@ def fetch_venues(city):
 
 
 def fetch_sport_ids():
-    print("Fetching sport id map...")
+    print("Fetching sport id map...", flush=True)
     url = "https://playo.co/venues/bengaluru/sports/all"
     soup = BeautifulSoup(requests.get(url).text, "html.parser")
     return {
@@ -96,7 +96,7 @@ def get_info(venue):
 
 
 def main(city, clean=True):
-    print("Fetching venues for {}".format(city.capitalize()))
+    print("Fetching venues for {}".format(city.capitalize()), flush=True)
     venues = modify_metadata(filter_inactive(fetch_venues(city)), clean=clean)
     venues_persist_path = join(
         HERE, "..", "data", "venues_{}.json".format(city)
