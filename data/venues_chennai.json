@@ -110,6 +110,16 @@
     "info": "\n    <h3>AERO BADMINTON CLUB</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 98412 81776<br/>\n    <a href=\"https://playo.page.link/Fr3zZ\" target=\"_blank\">https://playo.page.link/Fr3zZ</a><br/>\n    "
   },
   {
+    "name": "AG Futsal",
+    "lat": 12.908161,
+    "lng": 80.228629,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>AG Futsal</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9962960024<br/>\n    <a href=\"https://z34v4.app.goo.gl/FpZz\" target=\"_blank\">https://z34v4.app.goo.gl/FpZz</a><br/>\n    "
+  },
+  {
     "name": "AGH Badminton Academy",
     "lat": 13.1520833,
     "lng": 80.1950039,
@@ -229,7 +239,7 @@
       "Football",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Aadukalam : Multi-Sports Facility and Training Academy</h3>\n    <strong>Ratings:</strong> 4.58 [19]<br/>\n    <strong>Sports:</strong> Badminton, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9677164613<br/>\n    <a href=\"https://z34v4.app.goo.gl/F7AN\" target=\"_blank\">https://z34v4.app.goo.gl/F7AN</a><br/>\n    "
+    "info": "\n    <h3>Aadukalam : Multi-Sports Facility and Training Academy</h3>\n    <strong>Ratings:</strong> 4.6 [20]<br/>\n    <strong>Sports:</strong> Badminton, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9677164613<br/>\n    <a href=\"https://z34v4.app.goo.gl/F7AN\" target=\"_blank\">https://z34v4.app.goo.gl/F7AN</a><br/>\n    "
   },
   {
     "name": "Acers Badminton Academy",
@@ -3861,9 +3871,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
     "filter_by": [
-      "Cricket"
+      "Football"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MRF Pachaiyappa",
@@ -3871,9 +3881,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
     "filter_by": [
-      "Football"
+      "Cricket"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
