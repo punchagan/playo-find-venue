@@ -1960,7 +1960,7 @@
     "info": "\n    <h3>Eprodix Badmiton Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/U6ZZ7\" target=\"_blank\">https://playo.page.link/U6ZZ7</a><br/>\n    "
   },
   {
-    "name": "Estilio Sports Academy",
+    "name": "Estilio Sports Academy - Anna Nagar",
     "lat": 13.096352,
     "lng": 80.221929,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
@@ -1968,7 +1968,17 @@
       "Football",
       "Tennis"
     ],
-    "info": "\n    <h3>Estilio Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Football, Tennis<br/>\n    <strong>Phone:</strong> 9444212179<br/>\n    <a href=\"https://z34v4.app.goo.gl/BaA7\" target=\"_blank\">https://z34v4.app.goo.gl/BaA7</a><br/>\n    "
+    "info": "\n    <h3>Estilio Sports Academy - Anna Nagar</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Football, Tennis<br/>\n    <strong>Phone:</strong> 9444212179<br/>\n    <a href=\"https://z34v4.app.goo.gl/BaA7\" target=\"_blank\">https://z34v4.app.goo.gl/BaA7</a><br/>\n    "
+  },
+  {
+    "name": "Estilio Sports Academy - OMR",
+    "lat": 12.953763,
+    "lng": 80.243281,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Estilio Sports Academy - OMR</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7418783100<br/>\n    <a href=\"https://z34v4.app.goo.gl/Jbek\" target=\"_blank\">https://z34v4.app.goo.gl/Jbek</a><br/>\n    "
   },
   {
     "name": "Everest Badminton Academy",
@@ -6783,6 +6793,17 @@
       "Badminton"
     ],
     "info": "\n    <h3>The Olympiad</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 95787 73773<br/>\n    <a href=\"https://playo.page.link/u7ScW\" target=\"_blank\">https://playo.page.link/u7ScW</a><br/>\n    "
+  },
+  {
+    "name": "The Pod Sports Center",
+    "lat": 12.888353,
+    "lng": 80.218682,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football",
+      "Tennis"
+    ],
+    "info": "\n    <h3>The Pod Sports Center</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Football, Tennis<br/>\n    <strong>Phone:</strong> 9176196777<br/>\n    <a href=\"https://z34v4.app.goo.gl/vLwj\" target=\"_blank\">https://z34v4.app.goo.gl/vLwj</a><br/>\n    "
   },
   {
     "name": "The Pool",
