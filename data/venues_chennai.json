@@ -4510,8 +4510,10 @@
     "lat": 13.098521,
     "lng": 80.286704,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [],
-    "info": "\n    <h3>Playball</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9940152786<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEYx\" target=\"_blank\">https://z34v4.app.goo.gl/xEYx</a><br/>\n    "
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Playball</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9940152786<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEYx\" target=\"_blank\">https://z34v4.app.goo.gl/xEYx</a><br/>\n    "
   },
   {
     "name": "Plaza Tranquill Play Ground",
@@ -6815,7 +6817,7 @@
       "Football",
       "Tennis"
     ],
-    "info": "\n    <h3>The Pod Sports Center</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Football, Tennis<br/>\n    <strong>Phone:</strong> 9176196777<br/>\n    <a href=\"https://z34v4.app.goo.gl/vLwj\" target=\"_blank\">https://z34v4.app.goo.gl/vLwj</a><br/>\n    "
+    "info": "\n    <h3>The Pod Sports Center</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Football, Tennis<br/>\n    <strong>Phone:</strong> 9176196777<br/>\n    <a href=\"https://z34v4.app.goo.gl/vLwj\" target=\"_blank\">https://z34v4.app.goo.gl/vLwj</a><br/>\n    "
   },
   {
     "name": "The Pool",
@@ -7018,7 +7020,7 @@
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>Turf Rabonna</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7904262226<br/>\n    <a href=\"https://z34v4.app.goo.gl/K8Ec\" target=\"_blank\">https://z34v4.app.goo.gl/K8Ec</a><br/>\n    "
+    "info": "\n    <h3>Turf Rabonna</h3>\n    <strong>Ratings:</strong> 5 [13]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7904262226<br/>\n    <a href=\"https://z34v4.app.goo.gl/K8Ec\" target=\"_blank\">https://z34v4.app.goo.gl/K8Ec</a><br/>\n    "
   },
   {
     "name": "Turtles Swim School",
