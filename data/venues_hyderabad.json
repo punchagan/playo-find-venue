@@ -262,11 +262,11 @@
     "name": "Ace Sports Club",
     "lat": 17.485739,
     "lng": 78.374957,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Ace Sports Club</h3>\n    <strong>Ratings:</strong> 3.99 [251]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9963441616<br/>\n    <a href=\"https://z34v4.app.goo.gl/HhPG\" target=\"_blank\">https://z34v4.app.goo.gl/HhPG</a><br/>\n    "
+    "info": "\n    <h3>Ace Sports Club</h3>\n    <strong>Ratings:</strong> 4 [254]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9963441616<br/>\n    <a href=\"https://z34v4.app.goo.gl/HhPG\" target=\"_blank\">https://z34v4.app.goo.gl/HhPG</a><br/>\n    "
   },
   {
     "name": "Ace Tennis Academy",
@@ -3720,6 +3720,16 @@
     "info": "\n    <h3>Loyola Junior College Basketball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/hbbYt\" target=\"_blank\">https://playo.page.link/hbbYt</a><br/>\n    "
   },
   {
+    "name": "Lucsan Sports",
+    "lat": 17.483303,
+    "lng": 78.393507,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Lucsan Sports</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9515880880<br/>\n    <a href=\"https://z34v4.app.goo.gl/zfHP\" target=\"_blank\">https://z34v4.app.goo.gl/zfHP</a><br/>\n    "
+  },
+  {
     "name": "Luminous One Continent swimming pool",
     "lat": 17.3925204,
     "lng": 78.477513,
@@ -6027,7 +6037,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sportika Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.91 [23]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9848892543<br/>\n    <a href=\"https://z34v4.app.goo.gl/FwWH\" target=\"_blank\">https://z34v4.app.goo.gl/FwWH</a><br/>\n    "
+    "info": "\n    <h3>Sportika Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.92 [25]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9848892543<br/>\n    <a href=\"https://z34v4.app.goo.gl/FwWH\" target=\"_blank\">https://z34v4.app.goo.gl/FwWH</a><br/>\n    "
   },
   {
     "name": "Sportive Indoor Badminton Academy",
@@ -6921,6 +6931,17 @@
       "Football"
     ],
     "info": "\n    <h3>The Big Ball Arena</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7893243813<br/>\n    <a href=\"https://z34v4.app.goo.gl/wBgU\" target=\"_blank\">https://z34v4.app.goo.gl/wBgU</a><br/>\n    "
+  },
+  {
+    "name": "The Fortune Drivein",
+    "lat": 17.455599,
+    "lng": 78.385462,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Beach Volleyball",
+      "Football"
+    ],
+    "info": "\n    <h3>The Fortune Drivein</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Football<br/>\n    <strong>Phone:</strong> 9154217172<br/>\n    <a href=\"https://z34v4.app.goo.gl/3QCY\" target=\"_blank\">https://z34v4.app.goo.gl/3QCY</a><br/>\n    "
   },
   {
     "name": "The Hyderabad Cricket Association1",
