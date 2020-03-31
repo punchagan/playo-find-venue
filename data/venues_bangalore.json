@@ -411,9 +411,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton",
-      "Football"
+      "Football",
+      "Table Tennis"
     ],
-    "info": "\n    <h3>Aratt Big Game</h3>\n    <strong>Ratings:</strong> 3.98 [300]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/XiKe\" target=\"_blank\">https://z34v4.app.goo.gl/XiKe</a><br/>\n    "
+    "info": "\n    <h3>Aratt Big Game</h3>\n    <strong>Ratings:</strong> 3.98 [300]<br/>\n    <strong>Sports:</strong> Badminton, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9845027878<br/>\n    <a href=\"https://z34v4.app.goo.gl/XiKe\" target=\"_blank\">https://z34v4.app.goo.gl/XiKe</a><br/>\n    "
   },
   {
     "name": "Area 83",
@@ -612,7 +613,7 @@
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>BSG Arena - BTM Layout</h3>\n    <strong>Ratings:</strong> 3 [16]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8553467629<br/>\n    <a href=\"https://z34v4.app.goo.gl/itDV\" target=\"_blank\">https://z34v4.app.goo.gl/itDV</a><br/>\n    "
+    "info": "\n    <h3>BSG Arena - BTM Layout</h3>\n    <strong>Ratings:</strong> 3 [16]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8553467629<br/>\n    <a href=\"https://z34v4.app.goo.gl/NJW3\" target=\"_blank\">https://z34v4.app.goo.gl/NJW3</a><br/>\n    "
   },
   {
     "name": "BSG Arena - CV Raman Nagar",
@@ -622,7 +623,7 @@
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>BSG Arena - CV Raman Nagar</h3>\n    <strong>Ratings:</strong> 3 [16]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9448901392<br/>\n    <a href=\"https://z34v4.app.goo.gl/EmR9\" target=\"_blank\">https://z34v4.app.goo.gl/EmR9</a><br/>\n    "
+    "info": "\n    <h3>BSG Arena - CV Raman Nagar</h3>\n    <strong>Ratings:</strong> 3 [16]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9448901392<br/>\n    <a href=\"https://z34v4.app.goo.gl/PWeM\" target=\"_blank\">https://z34v4.app.goo.gl/PWeM</a><br/>\n    "
   },
   {
     "name": "Baddyzone - Haralur",
@@ -1340,10 +1341,8 @@
     "lat": 12.931873,
     "lng": 77.741494,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Cricket"
-    ],
-    "info": "\n    <h3>Classic Sports Cricket Academy</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9019931993<br/>\n    <a href=\"https://z34v4.app.goo.gl/CDS8\" target=\"_blank\">https://z34v4.app.goo.gl/CDS8</a><br/>\n    "
+    "filter_by": [],
+    "info": "\n    <h3>Classic Sports Cricket Academy</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9019931993<br/>\n    <a href=\"https://z34v4.app.goo.gl/CDS8\" target=\"_blank\">https://z34v4.app.goo.gl/CDS8</a><br/>\n    "
   },
   {
     "name": "Club House Main Reception",
