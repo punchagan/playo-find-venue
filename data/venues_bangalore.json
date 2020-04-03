@@ -311,7 +311,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Allwin Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.47 [89]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9620920676<br/>\n    <a href=\"https://z34v4.app.goo.gl/afJN\" target=\"_blank\">https://z34v4.app.goo.gl/afJN</a><br/>\n    "
+    "info": "\n    <h3>Allwin Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.47 [89]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9620920676<br/>\n    <a href=\"https://z34v4.app.goo.gl/QSkX\" target=\"_blank\">https://z34v4.app.goo.gl/QSkX</a><br/>\n    "
   },
   {
     "name": "Alok Badminton Court",
@@ -379,9 +379,10 @@
     "lng": 77.541901,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Swimming"
     ],
-    "info": "\n    <h3>Ani's Sports Academy</h3>\n    <strong>Ratings:</strong> 3.85 [125]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9845143795<br/>\n    <a href=\"https://z34v4.app.goo.gl/wNxE\" target=\"_blank\">https://z34v4.app.goo.gl/wNxE</a><br/>\n    "
+    "info": "\n    <h3>Ani's Sports Academy</h3>\n    <strong>Ratings:</strong> 3.85 [125]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9845143795<br/>\n    <a href=\"https://z34v4.app.goo.gl/wNxE\" target=\"_blank\">https://z34v4.app.goo.gl/wNxE</a><br/>\n    "
   },
   {
     "name": "Aptha Badminton Academy",
@@ -1532,12 +1533,11 @@
     "filter_by": [
       "Badminton",
       "Basketball",
-      "Cricket",
       "Football",
       "Table Tennis",
       "Tennis"
     ],
-    "info": "\n    <h3>DHI Sports Center</h3>\n    <strong>Ratings:</strong> 2.49 [241]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Cricket, Football, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 9742220232<br/>\n    <a href=\"https://z34v4.app.goo.gl/Tcil\" target=\"_blank\">https://z34v4.app.goo.gl/Tcil</a><br/>\n    "
+    "info": "\n    <h3>DHI Sports Center</h3>\n    <strong>Ratings:</strong> 2.49 [241]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Football, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 9742220232<br/>\n    <a href=\"https://z34v4.app.goo.gl/Tcil\" target=\"_blank\">https://z34v4.app.goo.gl/Tcil</a><br/>\n    "
   },
   {
     "name": "DJ Academy of Swimming",
@@ -1824,14 +1824,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>East Cultural Association</h3>\n    <strong>Ratings:</strong> 1 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 80 2526 2058<br/>\n    <a href=\"https://playo.page.link/JgoZx\" target=\"_blank\">https://playo.page.link/JgoZx</a><br/>\n    "
-  },
-  {
-    "name": "Ekalavya Academy of Cricket Coaching",
-    "lat": 13.075183,
-    "lng": 77.502479,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
-    "filter_by": [],
-    "info": "\n    <h3>Ekalavya Academy of Cricket Coaching</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9036900154<br/>\n    <a href=\"https://z34v4.app.goo.gl/DyMS\" target=\"_blank\">https://z34v4.app.goo.gl/DyMS</a><br/>\n    "
   },
   {
     "name": "Ekalavya Premier Badminton Academy",
@@ -5798,7 +5790,7 @@
     "filter_by": [
       "Tennis"
     ],
-    "info": "\n    <h3>Sol Sports Academy - Electronic city</h3>\n    <strong>Ratings:</strong> 3.25 [12]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/x7eh\" target=\"_blank\">https://z34v4.app.goo.gl/x7eh</a><br/>\n    "
+    "info": "\n    <h3>Sol Sports Academy - Electronic city</h3>\n    <strong>Ratings:</strong> 3.25 [12]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 7026511330<br/>\n    <a href=\"https://z34v4.app.goo.gl/x7eh\" target=\"_blank\">https://z34v4.app.goo.gl/x7eh</a><br/>\n    "
   },
   {
     "name": "Sol Sports Academy - Sarjapur road",
@@ -5808,7 +5800,7 @@
     "filter_by": [
       "Tennis"
     ],
-    "info": "\n    <h3>Sol Sports Academy - Sarjapur road</h3>\n    <strong>Ratings:</strong> 3.82 [22]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/JmgR\" target=\"_blank\">https://z34v4.app.goo.gl/JmgR</a><br/>\n    "
+    "info": "\n    <h3>Sol Sports Academy - Sarjapur road</h3>\n    <strong>Ratings:</strong> 3.82 [22]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 7026511330<br/>\n    <a href=\"https://z34v4.app.goo.gl/JmgR\" target=\"_blank\">https://z34v4.app.goo.gl/JmgR</a><br/>\n    "
   },
   {
     "name": "South City - Basketball Court",
