@@ -4993,7 +4993,7 @@
       "Badminton",
       "Football"
     ],
-    "info": "\n    <h3>Pulse 7</h3>\n    <strong>Ratings:</strong> 4.4 [104]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 8465077777<br/>\n    <a href=\"https://z34v4.app.goo.gl/nWs5\" target=\"_blank\">https://z34v4.app.goo.gl/nWs5</a><br/>\n    "
+    "info": "\n    <h3>Pulse 7</h3>\n    <strong>Ratings:</strong> 4.41 [105]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 8465077777<br/>\n    <a href=\"https://z34v4.app.goo.gl/nWs5\" target=\"_blank\">https://z34v4.app.goo.gl/nWs5</a><br/>\n    "
   },
   {
     "name": "Quadeeria Swimming Pool",
@@ -6339,6 +6339,16 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
     "info": "\n    <h3>Suresh Cricket Academy</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9885104211<br/>\n    <a href=\"https://z34v4.app.goo.gl/mFJE\" target=\"_blank\">https://z34v4.app.goo.gl/mFJE</a><br/>\n    "
+  },
+  {
+    "name": "Surya Tennis Arena",
+    "lat": 17.3862536,
+    "lng": 78.4082252,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Tennis"
+    ],
+    "info": "\n    <h3>Surya Tennis Arena</h3>\n    <strong>Ratings:</strong> 4.67 [3]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 8885857700<br/>\n    <a href=\"https://z34v4.app.goo.gl/7D8H\" target=\"_blank\">https://z34v4.app.goo.gl/7D8H</a><br/>\n    "
   },
   {
     "name": "Surya's Institute Of Tennis Excellence",
