@@ -1,15 +1,5 @@
 [
   {
-    "name": "16 Feathers Badminton Academy",
-    "lat": 13.05281,
-    "lng": 80.19313,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>16 Feathers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944227709<br/>\n    <a href=\"https://z34v4.app.goo.gl/6ECS\" target=\"_blank\">https://z34v4.app.goo.gl/6ECS</a><br/>\n    "
-  },
-  {
     "name": "21.B Badminton Academy",
     "lat": 13.1295056,
     "lng": 80.2576046,
@@ -209,7 +199,7 @@
       "Football",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Aadukalam - Multi Sport Facility and Training Academy</h3>\n    <strong>Ratings:</strong> 4.7 [40]<br/>\n    <strong>Sports:</strong> Badminton, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9677164613<br/>\n    <a href=\"https://z34v4.app.goo.gl/qMZ2\" target=\"_blank\">https://z34v4.app.goo.gl/qMZ2</a><br/>\n    "
+    "info": "\n    <h3>Aadukalam - Multi Sport Facility and Training Academy</h3>\n    <strong>Ratings:</strong> 4.63 [41]<br/>\n    <strong>Sports:</strong> Badminton, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9677164613<br/>\n    <a href=\"https://z34v4.app.goo.gl/qMZ2\" target=\"_blank\">https://z34v4.app.goo.gl/qMZ2</a><br/>\n    "
   },
   {
     "name": "Acers Badminton Academy",
@@ -2001,17 +1991,6 @@
     "info": "\n    <h3>Eprodix Badmiton Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/U6ZZ7\" target=\"_blank\">https://playo.page.link/U6ZZ7</a><br/>\n    "
   },
   {
-    "name": "Estilio Sports Academy - Anna Nagar",
-    "lat": 13.096352,
-    "lng": 80.221929,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Football",
-      "Tennis"
-    ],
-    "info": "\n    <h3>Estilio Sports Academy - Anna Nagar</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Football, Tennis<br/>\n    <strong>Phone:</strong> 9444212179<br/>\n    <a href=\"https://z34v4.app.goo.gl/BaA7\" target=\"_blank\">https://z34v4.app.goo.gl/BaA7</a><br/>\n    "
-  },
-  {
     "name": "Estilio Sports Academy - OMR",
     "lat": 12.953763,
     "lng": 80.243281,
@@ -2282,6 +2261,16 @@
       "Badminton"
     ],
     "info": "\n    <h3>Flyers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/CCET\" target=\"_blank\">https://z34v4.app.goo.gl/CCET</a><br/>\n    "
+  },
+  {
+    "name": "Flying Feathers Badminton Academy",
+    "lat": 13.05281,
+    "lng": 80.19313,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Flying Feathers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944227709<br/>\n    <a href=\"https://z34v4.app.goo.gl/Wr4Z\" target=\"_blank\">https://z34v4.app.goo.gl/Wr4Z</a><br/>\n    "
   },
   {
     "name": "Flying Lotus Swimming Training Center",
