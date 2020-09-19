@@ -2137,10 +2137,8 @@
     "lat": 17.368775,
     "lng": 78.422871,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>Fitness Freak</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9985133378<br/>\n    <a href=\"https://z34v4.app.goo.gl/5WRh\" target=\"_blank\">https://z34v4.app.goo.gl/5WRh</a><br/>\n    "
+    "filter_by": [],
+    "info": "\n    <h3>Fitness Freak</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9985133378<br/>\n    <a href=\"https://z34v4.app.goo.gl/5WRh\" target=\"_blank\">https://z34v4.app.goo.gl/5WRh</a><br/>\n    "
   },
   {
     "name": "Fitness Freak (Balapur)",
@@ -4042,7 +4040,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Manikonda Sports Arena</h3>\n    <strong>Ratings:</strong> 4.16 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9550767866<br/>\n    <a href=\"https://z34v4.app.goo.gl/K1aD\" target=\"_blank\">https://z34v4.app.goo.gl/K1aD</a><br/>\n    "
+    "info": "\n    <h3>Manikonda Sports Arena</h3>\n    <strong>Ratings:</strong> 4.2 [20]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9550767866<br/>\n    <a href=\"https://z34v4.app.goo.gl/K1aD\" target=\"_blank\">https://z34v4.app.goo.gl/K1aD</a><br/>\n    "
   },
   {
     "name": "Manikonda Sports Club",
@@ -5400,6 +5398,16 @@
       "Tennis"
     ],
     "info": "\n    <h3>S S Pro Tennis Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 92913 00348<br/>\n    <a href=\"https://playo.page.link/HZVgR\" target=\"_blank\">https://playo.page.link/HZVgR</a><br/>\n    "
+  },
+  {
+    "name": "S'n'S Sports Nest",
+    "lat": 17.543915,
+    "lng": 78.367519,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>S'n'S Sports Nest</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8143715463<br/>\n    <a href=\"https://z34v4.app.goo.gl/U3dH\" target=\"_blank\">https://z34v4.app.goo.gl/U3dH</a><br/>\n    "
   },
   {
     "name": "SATS Tennis Courts",
