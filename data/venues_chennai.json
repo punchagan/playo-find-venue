@@ -2452,16 +2452,6 @@
     "info": "\n    <h3>Futsall</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/ZmfKm\" target=\"_blank\">https://playo.page.link/ZmfKm</a><br/>\n    "
   },
   {
-    "name": "GC Badminton Academy",
-    "lat": 12.873741,
-    "lng": 80.207973,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>GC Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944197891<br/>\n    <a href=\"https://z34v4.app.goo.gl/VAz2\" target=\"_blank\">https://z34v4.app.goo.gl/VAz2</a><br/>\n    "
-  },
-  {
     "name": "GJ Badminton Academy",
     "lat": 13.015725,
     "lng": 80.150118,
@@ -6638,6 +6628,16 @@
       "Table Tennis"
     ],
     "info": "\n    <h3>Table Tennis Training at Savarirajan T.T.Academy (kodambakkam)</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 94443 75558<br/>\n    <a href=\"https://playo.page.link/Z1aXG\" target=\"_blank\">https://playo.page.link/Z1aXG</a><br/>\n    "
+  },
+  {
+    "name": "Tackle Futsal",
+    "lat": 13.075757,
+    "lng": 80.195873,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Tackle Futsal</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/6zco\" target=\"_blank\">https://z34v4.app.goo.gl/6zco</a><br/>\n    "
   },
   {
     "name": "Tackles Football Club (Sindhi College)",
