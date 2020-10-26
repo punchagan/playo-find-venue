@@ -6345,9 +6345,10 @@
     "lng": 78.2895676,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
-      "Football"
+      "Football",
+      "Ultimate Frisbee"
     ],
-    "info": "\n    <h3>Stadium of Hope</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8897010905<br/>\n    <a href=\"https://z34v4.app.goo.gl/zbRN\" target=\"_blank\">https://z34v4.app.goo.gl/zbRN</a><br/>\n    "
+    "info": "\n    <h3>Stadium of Hope</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Football, Ultimate Frisbee<br/>\n    <strong>Phone:</strong> 8897010905<br/>\n    <a href=\"https://z34v4.app.goo.gl/zbRN\" target=\"_blank\">https://z34v4.app.goo.gl/zbRN</a><br/>\n    "
   },
   {
     "name": "Stop ' N' Play Snooker Parlour",
