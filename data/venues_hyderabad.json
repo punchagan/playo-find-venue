@@ -1517,16 +1517,6 @@
     "info": "\n    <h3>Chandanagar Basket Ball Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> 97179 89684<br/>\n    <a href=\"https://playo.page.link/kBa6H\" target=\"_blank\">https://playo.page.link/kBa6H</a><br/>\n    "
   },
   {
-    "name": "Chetan Anand Badminton (Miyapur)",
-    "lat": 17.529308,
-    "lng": 78.34748,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Chetan Anand Badminton (Miyapur)</h3>\n    <strong>Ratings:</strong> 4 [18]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9346638733<br/>\n    <a href=\"https://z34v4.app.goo.gl/WWs2\" target=\"_blank\">https://z34v4.app.goo.gl/WWs2</a><br/>\n    "
-  },
-  {
     "name": "Chetan Anand Badminton Academy",
     "lat": 17.43653,
     "lng": 78.396762,
@@ -1535,6 +1525,17 @@
       "Badminton"
     ],
     "info": "\n    <h3>Chetan Anand Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.69 [128]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9885533357<br/>\n    <a href=\"https://z34v4.app.goo.gl/EPI9\" target=\"_blank\">https://z34v4.app.goo.gl/EPI9</a><br/>\n    "
+  },
+  {
+    "name": "Chetan Anand Sports Centre",
+    "lat": 17.529308,
+    "lng": 78.34748,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Cricket"
+    ],
+    "info": "\n    <h3>Chetan Anand Sports Centre</h3>\n    <strong>Ratings:</strong> 4.05 [19]<br/>\n    <strong>Sports:</strong> Badminton, Cricket<br/>\n    <strong>Phone:</strong> 9346638733<br/>\n    <a href=\"https://z34v4.app.goo.gl/S9zK\" target=\"_blank\">https://z34v4.app.goo.gl/S9zK</a><br/>\n    "
   },
   {
     "name": "Children's Pool",
@@ -4844,7 +4845,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Phoenix Sports (Hyderabad)</h3>\n    <strong>Ratings:</strong> 4.82 [22]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7093412373<br/>\n    <a href=\"https://z34v4.app.goo.gl/Ciw1\" target=\"_blank\">https://z34v4.app.goo.gl/Ciw1</a><br/>\n    "
+    "info": "\n    <h3>Phoenix Sports (Hyderabad)</h3>\n    <strong>Ratings:</strong> 4.83 [23]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7093412373<br/>\n    <a href=\"https://z34v4.app.goo.gl/Ciw1\" target=\"_blank\">https://z34v4.app.goo.gl/Ciw1</a><br/>\n    "
   },
   {
     "name": "Ping Pong @ Spars",
@@ -6043,7 +6044,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Skanda Badminton</h3>\n    <strong>Ratings:</strong> 5 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9854011818<br/>\n    <a href=\"https://z34v4.app.goo.gl/btuc\" target=\"_blank\">https://z34v4.app.goo.gl/btuc</a><br/>\n    "
+    "info": "\n    <h3>Skanda Badminton</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9854011818<br/>\n    <a href=\"https://z34v4.app.goo.gl/btuc\" target=\"_blank\">https://z34v4.app.goo.gl/btuc</a><br/>\n    "
   },
   {
     "name": "Skykings Football Academy",
