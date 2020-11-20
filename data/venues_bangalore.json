@@ -188,6 +188,17 @@
     "info": "\n    <h3>Active Arena</h3>\n    <strong>Ratings:</strong> 3.45 [249]<br/>\n    <strong>Sports:</strong> Adventure Sports, Badminton, Basketball, Football, Table Tennis, Throwball, Volleyball<br/>\n    <strong>Phone:</strong> 9845666855<br/>\n    <a href=\"https://z34v4.app.goo.gl/rrwK\" target=\"_blank\">https://z34v4.app.goo.gl/rrwK</a><br/>\n    "
   },
   {
+    "name": "Active Orbit",
+    "lat": 12.9701145,
+    "lng": 77.7372897,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Active Orbit</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 8197445584<br/>\n    <a href=\"https://z34v4.app.goo.gl/sYBP\" target=\"_blank\">https://z34v4.app.goo.gl/sYBP</a><br/>\n    "
+  },
+  {
     "name": "Adarsh Vista Basketball court",
     "lat": 12.9733905,
     "lng": 77.6863412,
@@ -1225,6 +1236,19 @@
     "info": "\n    <h3>Bulldog Tennis Academy</h3>\n    <strong>Ratings:</strong> 3.62 [19]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/TLNG\" target=\"_blank\">https://z34v4.app.goo.gl/TLNG</a><br/>\n    "
   },
   {
+    "name": "C8 Sports",
+    "lat": 13.083913,
+    "lng": 77.654659,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Football",
+      "Throwball",
+      "Volleyball"
+    ],
+    "info": "\n    <h3>C8 Sports</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Basketball, Football, Throwball, Volleyball<br/>\n    <strong>Phone:</strong> 9901929262<br/>\n    <a href=\"https://z34v4.app.goo.gl/xdNS\" target=\"_blank\">https://z34v4.app.goo.gl/xdNS</a><br/>\n    "
+  },
+  {
     "name": "CAP Badminton",
     "lat": 12.990134,
     "lng": 77.695817,
@@ -1338,11 +1362,11 @@
     "name": "Chikkabanavara Shuttle Academy",
     "lat": 13.074659,
     "lng": 77.502914,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Chikkabanavara Shuttle Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9164533888<br/>\n    <a href=\"https://z34v4.app.goo.gl/6v8c\" target=\"_blank\">https://z34v4.app.goo.gl/6v8c</a><br/>\n    "
+    "info": "\n    <h3>Chikkabanavara Shuttle Academy</h3>\n    <strong>Ratings:</strong> 4.25 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9164533888<br/>\n    <a href=\"https://z34v4.app.goo.gl/6v8c\" target=\"_blank\">https://z34v4.app.goo.gl/6v8c</a><br/>\n    "
   },
   {
     "name": "Chris Hotel Whitefield",
@@ -2653,7 +2677,7 @@
       "Swimming",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Gurukul Sports</h3>\n    <strong>Ratings:</strong> 4 [23]<br/>\n    <strong>Sports:</strong> Badminton, Pool, Swimming, Table Tennis<br/>\n    <strong>Phone:</strong> 7338282567<br/>\n    <a href=\"https://z34v4.app.goo.gl/WTZH\" target=\"_blank\">https://z34v4.app.goo.gl/WTZH</a><br/>\n    "
+    "info": "\n    <h3>Gurukul Sports</h3>\n    <strong>Ratings:</strong> 4.04 [24]<br/>\n    <strong>Sports:</strong> Badminton, Pool, Swimming, Table Tennis<br/>\n    <strong>Phone:</strong> 7338282567<br/>\n    <a href=\"https://z34v4.app.goo.gl/WTZH\" target=\"_blank\">https://z34v4.app.goo.gl/WTZH</a><br/>\n    "
   },
   {
     "name": "Gurukul Sports - Cricket Ground",
@@ -3006,7 +3030,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Infinite Sports Arena</h3>\n    <strong>Ratings:</strong> 4.3 [173]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9731905963<br/>\n    <a href=\"https://z34v4.app.goo.gl/V87S\" target=\"_blank\">https://z34v4.app.goo.gl/V87S</a><br/>\n    "
+    "info": "\n    <h3>Infinite Sports Arena</h3>\n    <strong>Ratings:</strong> 4.3 [174]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9731905963<br/>\n    <a href=\"https://z34v4.app.goo.gl/V87S\" target=\"_blank\">https://z34v4.app.goo.gl/V87S</a><br/>\n    "
   },
   {
     "name": "Intensity Tennis Academy",
@@ -3129,7 +3153,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>JP Badminton Academy - Vidyaranyapura</h3>\n    <strong>Ratings:</strong> 3.76 [193]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9108773748<br/>\n    <a href=\"https://z34v4.app.goo.gl/z2Zz\" target=\"_blank\">https://z34v4.app.goo.gl/z2Zz</a><br/>\n    "
+    "info": "\n    <h3>JP Badminton Academy - Vidyaranyapura</h3>\n    <strong>Ratings:</strong> 3.75 [194]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9108773748<br/>\n    <a href=\"https://z34v4.app.goo.gl/z2Zz\" target=\"_blank\">https://z34v4.app.goo.gl/z2Zz</a><br/>\n    "
   },
   {
     "name": "JP Nagar Sports Association Volleyball Court",
@@ -5100,7 +5124,7 @@
     "filter_by": [
       "Swimming"
     ],
-    "info": "\n    <h3>Ray Center - Wilson Garden</h3>\n    <strong>Ratings:</strong> 4.75 [16]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 9972988820<br/>\n    <a href=\"https://z34v4.app.goo.gl/DKG7\" target=\"_blank\">https://z34v4.app.goo.gl/DKG7</a><br/>\n    "
+    "info": "\n    <h3>Ray Center - Wilson Garden</h3>\n    <strong>Ratings:</strong> 4.71 [17]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 9972988820<br/>\n    <a href=\"https://z34v4.app.goo.gl/DKG7\" target=\"_blank\">https://z34v4.app.goo.gl/DKG7</a><br/>\n    "
   },
   {
     "name": "Red Riders Sports",
@@ -5197,7 +5221,7 @@
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>Rush Arena - Rajajinagar</h3>\n    <strong>Ratings:</strong> 4.78 [74]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8007765545<br/>\n    <a href=\"https://z34v4.app.goo.gl/aLp8\" target=\"_blank\">https://z34v4.app.goo.gl/aLp8</a><br/>\n    "
+    "info": "\n    <h3>Rush Arena - Rajajinagar</h3>\n    <strong>Ratings:</strong> 4.79 [75]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8007765545<br/>\n    <a href=\"https://z34v4.app.goo.gl/aLp8\" target=\"_blank\">https://z34v4.app.goo.gl/aLp8</a><br/>\n    "
   },
   {
     "name": "S R S SNOOKER ZONE",
@@ -7306,7 +7330,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>VK Match Point - RT Nagar</h3>\n    <strong>Ratings:</strong> 4.08 [25]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9611667891<br/>\n    <a href=\"https://z34v4.app.goo.gl/fUPp\" target=\"_blank\">https://z34v4.app.goo.gl/fUPp</a><br/>\n    "
+    "info": "\n    <h3>VK Match Point - RT Nagar</h3>\n    <strong>Ratings:</strong> 4.12 [26]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9611667891<br/>\n    <a href=\"https://z34v4.app.goo.gl/fUPp\" target=\"_blank\">https://z34v4.app.goo.gl/fUPp</a><br/>\n    "
   },
   {
     "name": "VK Match Point - Ullal",
@@ -7406,7 +7430,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Velocity Sports Academy</h3>\n    <strong>Ratings:</strong> 3.58 [72]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9903456613<br/>\n    <a href=\"https://z34v4.app.goo.gl/3yP3\" target=\"_blank\">https://z34v4.app.goo.gl/3yP3</a><br/>\n    "
+    "info": "\n    <h3>Velocity Sports Academy</h3>\n    <strong>Ratings:</strong> 3.6 [73]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9903456613<br/>\n    <a href=\"https://z34v4.app.goo.gl/3yP3\" target=\"_blank\">https://z34v4.app.goo.gl/3yP3</a><br/>\n    "
   },
   {
     "name": "Victory Badminton Academy",
@@ -7608,7 +7632,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>White Peacock Badminton Academy - RT Nagar</h3>\n    <strong>Ratings:</strong> 4.42 [38]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7022990064<br/>\n    <a href=\"https://z34v4.app.goo.gl/jaEo\" target=\"_blank\">https://z34v4.app.goo.gl/jaEo</a><br/>\n    "
+    "info": "\n    <h3>White Peacock Badminton Academy - RT Nagar</h3>\n    <strong>Ratings:</strong> 4.41 [39]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7022990064<br/>\n    <a href=\"https://z34v4.app.goo.gl/jaEo\" target=\"_blank\">https://z34v4.app.goo.gl/jaEo</a><br/>\n    "
   },
   {
     "name": "White Peacock Badminton Academy - Sahakar Nagar",
@@ -7800,7 +7824,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Zeal Badminton & Sports Elite</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9008405240<br/>\n    <a href=\"https://z34v4.app.goo.gl/pyn8\" target=\"_blank\">https://z34v4.app.goo.gl/pyn8</a><br/>\n    "
+    "info": "\n    <h3>Zeal Badminton & Sports Elite</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9008405240<br/>\n    <a href=\"https://z34v4.app.goo.gl/pyn8\" target=\"_blank\">https://z34v4.app.goo.gl/pyn8</a><br/>\n    "
   },
   {
     "name": "Zee Swim Academy",
