@@ -749,11 +749,11 @@
     "lng": 78.38559,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
+      "Beach Volleyball",
       "Cricket",
-      "Football",
-      "Volleyball"
+      "Football"
     ],
-    "info": "\n    <h3>BSporty</h3>\n    <strong>Ratings:</strong> 3.31 [16]<br/>\n    <strong>Sports:</strong> Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9000414422<br/>\n    <a href=\"https://z34v4.app.goo.gl/G1yY\" target=\"_blank\">https://z34v4.app.goo.gl/G1yY</a><br/>\n    "
+    "info": "\n    <h3>BSporty</h3>\n    <strong>Ratings:</strong> 3.31 [16]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Cricket, Football<br/>\n    <strong>Phone:</strong> 9000414422<br/>\n    <a href=\"https://z34v4.app.goo.gl/G1yY\" target=\"_blank\">https://z34v4.app.goo.gl/G1yY</a><br/>\n    "
   },
   {
     "name": "Babu Rao Sagar Cricket Ground",
@@ -4689,11 +4689,11 @@
     "name": "Oyster Swimming Pool",
     "lat": 17.408601,
     "lng": 78.4500938,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Swimming"
     ],
-    "info": "\n    <h3>Oyster Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 85005 06699<br/>\n    <a href=\"https://playo.page.link/ADQ4i\" target=\"_blank\">https://playo.page.link/ADQ4i</a><br/>\n    "
+    "info": "\n    <h3>Oyster Swimming Pool</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 85005 06699<br/>\n    <a href=\"https://playo.page.link/ADQ4i\" target=\"_blank\">https://playo.page.link/ADQ4i</a><br/>\n    "
   },
   {
     "name": "P& T Cricket Ground",
@@ -5450,7 +5450,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>S'n'S Sports Nest</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8143715463<br/>\n    <a href=\"https://z34v4.app.goo.gl/U3dH\" target=\"_blank\">https://z34v4.app.goo.gl/U3dH</a><br/>\n    "
+    "info": "\n    <h3>S'n'S Sports Nest</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8143715463<br/>\n    <a href=\"https://z34v4.app.goo.gl/U3dH\" target=\"_blank\">https://z34v4.app.goo.gl/U3dH</a><br/>\n    "
   },
   {
     "name": "SATS Tennis Courts",
