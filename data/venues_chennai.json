@@ -1198,7 +1198,7 @@
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>Chaos Entertainment</h3>\n    <strong>Ratings:</strong> 4.38 [8]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8072309842<br/>\n    <a href=\"https://z34v4.app.goo.gl/0FVE\" target=\"_blank\">https://z34v4.app.goo.gl/0FVE</a><br/>\n    "
+    "info": "\n    <h3>Chaos Entertainment</h3>\n    <strong>Ratings:</strong> 4.33 [9]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8072309842<br/>\n    <a href=\"https://z34v4.app.goo.gl/0FVE\" target=\"_blank\">https://z34v4.app.goo.gl/0FVE</a><br/>\n    "
   },
   {
     "name": "Chellam Courts",
@@ -1690,7 +1690,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>De BASE 3.0</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 72999 99862<br/>\n    <a href=\"https://playo.page.link/QeKUZ\" target=\"_blank\">https://playo.page.link/QeKUZ</a><br/>\n    "
+    "info": "\n    <h3>De BASE 3.0</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 72999 99862<br/>\n    <a href=\"https://playo.page.link/QeKUZ\" target=\"_blank\">https://playo.page.link/QeKUZ</a><br/>\n    "
   },
   {
     "name": "De BASE Sports Academy",
@@ -3858,9 +3858,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
     "filter_by": [
-      "Football"
+      "Cricket"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MRF Pachaiyappa",
@@ -3868,9 +3868,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
     "filter_by": [
-      "Cricket"
+      "Football"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -4971,7 +4971,7 @@
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>Route 1</h3>\n    <strong>Ratings:</strong> 4.72 [18]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8939226494<br/>\n    <a href=\"https://z34v4.app.goo.gl/GM23\" target=\"_blank\">https://z34v4.app.goo.gl/GM23</a><br/>\n    "
+    "info": "\n    <h3>Route 1</h3>\n    <strong>Ratings:</strong> 4.74 [19]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8939226494<br/>\n    <a href=\"https://z34v4.app.goo.gl/GM23\" target=\"_blank\">https://z34v4.app.goo.gl/GM23</a><br/>\n    "
   },
   {
     "name": "Royal Swimming Pool",
@@ -5236,6 +5236,18 @@
       "Cricket"
     ],
     "info": "\n    <h3>SPIC YMCA Cricket Ground Chennai</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/qaphm\" target=\"_blank\">https://playo.page.link/qaphm</a><br/>\n    "
+  },
+  {
+    "name": "SPS Academy",
+    "lat": 13.1344737,
+    "lng": 80.1182515,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Football",
+      "Tennis"
+    ],
+    "info": "\n    <h3>SPS Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball, Football, Tennis<br/>\n    <strong>Phone:</strong> 9841548092<br/>\n    <a href=\"https://z34v4.app.goo.gl/pWpG\" target=\"_blank\">https://z34v4.app.goo.gl/pWpG</a><br/>\n    "
   },
   {
     "name": "SR BADMINTON ACADEMY",
