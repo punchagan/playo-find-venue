@@ -540,6 +540,17 @@
     "info": "\n    <h3>Arabian Style Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 97002 00381<br/>\n    <a href=\"https://playo.page.link/XRwoj\" target=\"_blank\">https://playo.page.link/XRwoj</a><br/>\n    "
   },
   {
+    "name": "Archminton Sports",
+    "lat": 17.45461,
+    "lng": 78.38636,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Archery",
+      "Badminton"
+    ],
+    "info": "\n    <h3>Archminton Sports</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Archery, Badminton<br/>\n    <strong>Phone:</strong> 8008871828<br/>\n    <a href=\"https://z34v4.app.goo.gl/HXQV\" target=\"_blank\">https://z34v4.app.goo.gl/HXQV</a><br/>\n    "
+  },
+  {
     "name": "Arena 48",
     "lat": 17.46173,
     "lng": 78.368097,
@@ -3857,7 +3868,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>MK's Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.6 [45]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8885667700<br/>\n    <a href=\"https://z34v4.app.goo.gl/vW7B\" target=\"_blank\">https://z34v4.app.goo.gl/vW7B</a><br/>\n    "
+    "info": "\n    <h3>MK's Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.54 [46]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8885667700<br/>\n    <a href=\"https://z34v4.app.goo.gl/vW7B\" target=\"_blank\">https://z34v4.app.goo.gl/vW7B</a><br/>\n    "
   },
   {
     "name": "MLR Basketball Court",
@@ -7041,6 +7052,18 @@
       "Tennis"
     ],
     "info": "\n    <h3>Tennis court5</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/cZq99\" target=\"_blank\">https://playo.page.link/cZq99</a><br/>\n    "
+  },
+  {
+    "name": "Terrace Sports",
+    "lat": 17.47711,
+    "lng": 78.56291,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Football",
+      "Volleyball"
+    ],
+    "info": "\n    <h3>Terrace Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9885081819<br/>\n    <a href=\"https://z34v4.app.goo.gl/v5Dr\" target=\"_blank\">https://z34v4.app.goo.gl/v5Dr</a><br/>\n    "
   },
   {
     "name": "Thapar Stadium",
