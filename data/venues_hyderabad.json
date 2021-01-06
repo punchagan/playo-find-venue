@@ -1545,9 +1545,10 @@
     "filter_by": [
       "Badminton",
       "Cricket",
-      "Football"
+      "Football",
+      "Table Tennis"
     ],
-    "info": "\n    <h3>Chetan Anand Sports Centre</h3>\n    <strong>Ratings:</strong> 4.05 [19]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Football<br/>\n    <strong>Phone:</strong> 9346638733<br/>\n    <a href=\"https://z34v4.app.goo.gl/S9zK\" target=\"_blank\">https://z34v4.app.goo.gl/S9zK</a><br/>\n    "
+    "info": "\n    <h3>Chetan Anand Sports Centre</h3>\n    <strong>Ratings:</strong> 4.05 [19]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9346638733<br/>\n    <a href=\"https://z34v4.app.goo.gl/S9zK\" target=\"_blank\">https://z34v4.app.goo.gl/S9zK</a><br/>\n    "
   },
   {
     "name": "Children's Pool",
@@ -2949,14 +2950,14 @@
     "info": "\n    <h3>HITAM'S BASKETBALL COURT</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> 84182 00074<br/>\n    <a href=\"https://playo.page.link/ioTKZ\" target=\"_blank\">https://playo.page.link/ioTKZ</a><br/>\n    "
   },
   {
-    "name": "HLBC BOX cricket",
-    "lat": 17.411649,
-    "lng": 78.5915234,
+    "name": "HLBC Box Cricket - 1",
+    "lat": 17.40884,
+    "lng": 78.58332,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Cricket"
+      "Football"
     ],
-    "info": "\n    <h3>HLBC BOX cricket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 99597 76384<br/>\n    <a href=\"https://playo.page.link/EHaHC\" target=\"_blank\">https://playo.page.link/EHaHC</a><br/>\n    "
+    "info": "\n    <h3>HLBC Box Cricket - 1</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9959776384<br/>\n    <a href=\"https://z34v4.app.goo.gl/qC4a\" target=\"_blank\">https://z34v4.app.goo.gl/qC4a</a><br/>\n    "
   },
   {
     "name": "HMDA Badminton court",
@@ -7222,11 +7223,11 @@
     "name": "Topfield",
     "lat": 17.3694485,
     "lng": 78.5151914,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Cricket"
     ],
-    "info": "\n    <h3>Topfield</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91608 04778<br/>\n    <a href=\"https://playo.page.link/7WP7N\" target=\"_blank\">https://playo.page.link/7WP7N</a><br/>\n    "
+    "info": "\n    <h3>Topfield</h3>\n    <strong>Ratings:</strong> 3 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91608 04778<br/>\n    <a href=\"https://playo.page.link/7WP7N\" target=\"_blank\">https://playo.page.link/7WP7N</a><br/>\n    "
   },
   {
     "name": "Topstrike",
