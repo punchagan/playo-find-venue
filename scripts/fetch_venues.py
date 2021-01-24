@@ -50,15 +50,13 @@ def fetch_sport_ids():
 
 
 def modify_metadata(venues, clean=True):
-    RETAIN_KEYS = {"name", "icon", "info", "lat", "lng", "filter_by"}
+    RETAIN_KEYS = {"name", "icon", "info", "lat", "lng", "filter_by", "rating", "ratingCount"}
     SPORT_ID_MAP = fetch_sport_ids()
     for venue in venues:
-        rating = max(1, int(float(venue["avgRating"] or 0)))
-        venue[
-            "icon"
-        ] = "https://maps.google.com/mapfiles/kml/paddle/{}-lv.png".format(
-            rating
-        )
+        rating = int(float(venue["avgRating"] or 0))
+        icon = f"{rating}-lv.png" if rating > 0 else "red-square-lv.png"
+        venue["rating"] = rating
+        venue["icon"] = f"https://maps.google.com/mapfiles/kml/paddle/{icon}"
         # Add filter_by
         venue["filter_by"] = sorted(
             [
