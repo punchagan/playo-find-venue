@@ -5195,6 +5195,19 @@
     "info": "\n    <h3>Prime Habitat</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 44 2618 5557<br/>\n    <a href=\"https://playo.page.link/uoVC5\" target=\"_blank\">https://playo.page.link/uoVC5</a><br/>\n    "
   },
   {
+    "name": "Pro Arena",
+    "rating": 0,
+    "lat": 12.9419977,
+    "lng": 80.2115225,
+    "ratingCount": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Pro Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 8148667535<br/>\n    <a href=\"https://z34v4.app.goo.gl/RzNt\" target=\"_blank\">https://z34v4.app.goo.gl/RzNt</a><br/>\n    "
+  },
+  {
     "name": "Pro Tennis Initiative",
     "rating": 0,
     "lat": 12.9844098,
@@ -5226,17 +5239,6 @@
       "Pool"
     ],
     "info": "\n    <h3>QBowling</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 90929 63302<br/>\n    <a href=\"https://playo.page.link/Ri1Si\" target=\"_blank\">https://playo.page.link/Ri1Si</a><br/>\n    "
-  },
-  {
-    "name": "R.C.Badminton Court",
-    "rating": 0,
-    "lat": 12.9463328,
-    "lng": 80.1985863,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>R.C.Badminton Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 98844 48600<br/>\n    <a href=\"https://playo.page.link/sRVrk\" target=\"_blank\">https://playo.page.link/sRVrk</a><br/>\n    "
   },
   {
     "name": "RK Sports Avenue (Badminton Court in Tambaram/ Badminton Court in Selaiyur)",
