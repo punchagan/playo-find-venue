@@ -7753,10 +7753,11 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
+      "Badminton",
       "Football",
       "Tennis"
     ],
-    "info": "\n    <h3>The Pod Sports Center</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Football, Tennis<br/>\n    <strong>Phone:</strong> 9176196777<br/>\n    <a href=\"https://z34v4.app.goo.gl/vLwj\" target=\"_blank\">https://z34v4.app.goo.gl/vLwj</a><br/>\n    "
+    "info": "\n    <h3>The Pod Sports Center</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton, Football, Tennis<br/>\n    <strong>Phone:</strong> 9176196777<br/>\n    <a href=\"https://z34v4.app.goo.gl/vLwj\" target=\"_blank\">https://z34v4.app.goo.gl/vLwj</a><br/>\n    "
   },
   {
     "name": "The Pool",
