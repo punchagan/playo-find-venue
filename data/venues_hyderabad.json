@@ -2182,6 +2182,18 @@
     "info": "\n    <h3>Dreamland Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 93475 07038<br/>\n    <a href=\"https://playo.page.link/t2oQc\" target=\"_blank\">https://playo.page.link/t2oQc</a><br/>\n    "
   },
   {
+    "ratingCount": 2,
+    "name": "Dribble Arena (Mcube mall)",
+    "lat": 17.36938,
+    "lng": 78.4218,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Dribble Arena (Mcube mall)</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8686450921<br/>\n    <a href=\"https://z34v4.app.goo.gl/xNLs\" target=\"_blank\">https://z34v4.app.goo.gl/xNLs</a><br/>\n    "
+  },
+  {
     "name": "Dribble Football",
     "ratingCount": 18,
     "lat": 17.437942,
@@ -5376,7 +5388,7 @@
   },
   {
     "name": "Palla Sports Centre",
-    "ratingCount": 19,
+    "ratingCount": 20,
     "lat": 17.492644,
     "lng": 78.5734572,
     "rating": 4,
@@ -5384,7 +5396,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Palla Sports Centre</h3>\n    <strong>Ratings:</strong> 4.26 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8333016677<br/>\n    <a href=\"https://z34v4.app.goo.gl/73fT\" target=\"_blank\">https://z34v4.app.goo.gl/73fT</a><br/>\n    "
+    "info": "\n    <h3>Palla Sports Centre</h3>\n    <strong>Ratings:</strong> 4.3 [20]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8333016677<br/>\n    <a href=\"https://z34v4.app.goo.gl/73fT\" target=\"_blank\">https://z34v4.app.goo.gl/73fT</a><br/>\n    "
   },
   {
     "name": "Palladium Cricket Ground",
@@ -6217,6 +6229,18 @@
       "Football"
     ],
     "info": "\n    <h3>SKY Pitch</h3>\n    <strong>Ratings:</strong> 4.25 [16]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9866035786<br/>\n    <a href=\"https://z34v4.app.goo.gl/TBXi\" target=\"_blank\">https://z34v4.app.goo.gl/TBXi</a><br/>\n    "
+  },
+  {
+    "ratingCount": 3,
+    "name": "SL Playzone",
+    "lat": 16.820385,
+    "lng": 78.14892,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>SL Playzone</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8074331636<br/>\n    <a href=\"https://z34v4.app.goo.gl/yhrr\" target=\"_blank\">https://z34v4.app.goo.gl/yhrr</a><br/>\n    "
   },
   {
     "name": "SM 6 POCKET SNOOKER PARLOUR",

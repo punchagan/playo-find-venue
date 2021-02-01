@@ -2042,19 +2042,6 @@
     "info": "\n    <h3>ECR beach house</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Pool, Swimming<br/>\n    <strong>Phone:</strong> 90031 09605<br/>\n    <a href=\"https://playo.page.link/rWCQm\" target=\"_blank\">https://playo.page.link/rWCQm</a><br/>\n    "
   },
   {
-    "ratingCount": 4,
-    "name": "East West Pride FC",
-    "lat": 12.822855,
-    "lng": 80.206245,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>East West Pride FC</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 8056030560<br/>\n    <a href=\"https://z34v4.app.goo.gl/4nmM\" target=\"_blank\">https://z34v4.app.goo.gl/4nmM</a><br/>\n    "
-  },
-  {
     "name": "Edition O 30035 Esthell near Malar Hospital",
     "rating": 0,
     "lat": 13.0072267,
@@ -2068,8 +2055,8 @@
   {
     "ratingCount": 1,
     "name": "El Clasico Football Club",
-    "lat": 12.898781,
-    "lng": 80.141389,
+    "lat": 12.8987394,
+    "lng": 80.1416594,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
@@ -2241,6 +2228,34 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [],
     "info": "\n    <h3>F10 Futsal Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 7845550666<br/>\n    <a href=\"https://z34v4.app.goo.gl/D8Uu\" target=\"_blank\">https://z34v4.app.goo.gl/D8Uu</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "F3 Sports City",
+    "lat": 13.13468,
+    "lng": 80.1540219,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Combat Sports",
+      "Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>F3 Sports City</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Combat Sports, Cricket, Football<br/>\n    <strong>Phone:</strong> 9840498792<br/>\n    <a href=\"https://z34v4.app.goo.gl/aMS5\" target=\"_blank\">https://z34v4.app.goo.gl/aMS5</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "F3 Sports City",
+    "lat": 13.13468,
+    "lng": 80.1540219,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Combat Sports",
+      "Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>F3 Sports City</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Combat Sports, Cricket, Football<br/>\n    <strong>Phone:</strong> 9840498792<br/>\n    <a href=\"N/A\" target=\"_blank\">N/A</a><br/>\n    "
   },
   {
     "name": "FASHION ISLAND",
