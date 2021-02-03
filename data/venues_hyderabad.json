@@ -1711,7 +1711,7 @@
   },
   {
     "name": "Chetan Anand Badminton Academy",
-    "ratingCount": 130,
+    "ratingCount": 131,
     "lat": 17.43653,
     "lng": 78.396762,
     "rating": 3,
@@ -1719,7 +1719,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Chetan Anand Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.71 [130]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9885533357<br/>\n    <a href=\"https://z34v4.app.goo.gl/EPI9\" target=\"_blank\">https://z34v4.app.goo.gl/EPI9</a><br/>\n    "
+    "info": "\n    <h3>Chetan Anand Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.69 [131]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9885533357<br/>\n    <a href=\"https://z34v4.app.goo.gl/EPI9\" target=\"_blank\">https://z34v4.app.goo.gl/EPI9</a><br/>\n    "
   },
   {
     "ratingCount": 19,
@@ -6231,16 +6231,14 @@
     "info": "\n    <h3>SKY Pitch</h3>\n    <strong>Ratings:</strong> 4.25 [16]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9866035786<br/>\n    <a href=\"https://z34v4.app.goo.gl/TBXi\" target=\"_blank\">https://z34v4.app.goo.gl/TBXi</a><br/>\n    "
   },
   {
-    "ratingCount": 3,
+    "ratingCount": 4,
     "name": "SL Playzone",
     "lat": 16.820385,
     "lng": 78.14892,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>SL Playzone</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8074331636<br/>\n    <a href=\"https://z34v4.app.goo.gl/yhrr\" target=\"_blank\">https://z34v4.app.goo.gl/yhrr</a><br/>\n    "
+    "filter_by": [],
+    "info": "\n    <h3>SL Playzone</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 8074331636<br/>\n    <a href=\"https://z34v4.app.goo.gl/yhrr\" target=\"_blank\">https://z34v4.app.goo.gl/yhrr</a><br/>\n    "
   },
   {
     "name": "SM 6 POCKET SNOOKER PARLOUR",
@@ -6363,6 +6361,18 @@
       "Pool"
     ],
     "info": "\n    <h3>SQUAT N GOBBLE</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 85209 91234<br/>\n    <a href=\"https://playo.page.link/Mx8Zm\" target=\"_blank\">https://playo.page.link/Mx8Zm</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "name": "SR Battledore Academy",
+    "lat": 17.370687,
+    "lng": 78.560867,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>SR Battledore Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8333016677<br/>\n    <a href=\"https://z34v4.app.goo.gl/Vaja\" target=\"_blank\">https://z34v4.app.goo.gl/Vaja</a><br/>\n    "
   },
   {
     "name": "SR Indoor Swimming Pool",
@@ -8247,6 +8257,16 @@
       "Football"
     ],
     "info": "\n    <h3>Turfside (Tarnaka)</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9949774430<br/>\n    <a href=\"https://z34v4.app.goo.gl/gdWK\" target=\"_blank\">https://z34v4.app.goo.gl/gdWK</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "United Street",
+    "lat": 17.45538,
+    "lng": 78.39304,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>United Street</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 6309275492<br/>\n    <a href=\"https://z34v4.app.goo.gl/nbyT\" target=\"_blank\">https://z34v4.app.goo.gl/nbyT</a><br/>\n    "
   },
   {
     "name": "Universal Swimming Pool",
