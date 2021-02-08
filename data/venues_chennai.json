@@ -3409,16 +3409,6 @@
     "info": "\n    <h3>Indoor Badminton Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/WutjS\" target=\"_blank\">https://playo.page.link/WutjS</a><br/>\n    "
   },
   {
-    "ratingCount": 7,
-    "name": "Indoor Cricket Center",
-    "lat": 12.907099,
-    "lng": 80.194254,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [],
-    "info": "\n    <h3>Indoor Cricket Center</h3>\n    <strong>Ratings:</strong> 4.57 [7]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9840326919<br/>\n    <a href=\"https://z34v4.app.goo.gl/A4Zt\" target=\"_blank\">https://z34v4.app.goo.gl/A4Zt</a><br/>\n    "
-  },
-  {
     "name": "Indoor Squash Court (Private)",
     "rating": 0,
     "lat": 12.9118691,
@@ -3428,6 +3418,26 @@
       "Squash"
     ],
     "info": "\n    <h3>Indoor Squash Court (Private)</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Squash<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/5hNsg\" target=\"_blank\">https://playo.page.link/5hNsg</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Indoor Stumps",
+    "lat": 12.9125146,
+    "lng": 80.1801717,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>Indoor Stumps</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 8939548947<br/>\n    <a href=\"https://z34v4.app.goo.gl/KAse\" target=\"_blank\">https://z34v4.app.goo.gl/KAse</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Indoor Stumps",
+    "lat": 12.9125146,
+    "lng": 80.1801717,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>Indoor Stumps</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9840103196<br/>\n    <a href=\"https://z34v4.app.goo.gl/LnNg\" target=\"_blank\">https://z34v4.app.goo.gl/LnNg</a><br/>\n    "
   },
   {
     "ratingCount": 0,
@@ -4314,9 +4324,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Football"
+      "Cricket"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MRF Pachaiyappa",
@@ -4325,9 +4335,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Cricket"
+      "Football"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -5088,10 +5098,8 @@
     "lng": 80.286704,
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>Playball</h3>\n    <strong>Ratings:</strong> 4.5 [10]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9940152786<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEYx\" target=\"_blank\">https://z34v4.app.goo.gl/xEYx</a><br/>\n    "
+    "filter_by": [],
+    "info": "\n    <h3>Playball</h3>\n    <strong>Ratings:</strong> 4.5 [10]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9940152786<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEYx\" target=\"_blank\">https://z34v4.app.goo.gl/xEYx</a><br/>\n    "
   },
   {
     "name": "Plaza Tranquill Play Ground",
@@ -5567,6 +5575,18 @@
       "Badminton"
     ],
     "info": "\n    <h3>Rohaan Sports Academy</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/sX2J\" target=\"_blank\">https://z34v4.app.goo.gl/sX2J</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Rolling Stone -Sports Arena",
+    "lat": 13.0796631,
+    "lng": 80.2495869,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Rolling Stone -Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9150012771<br/>\n    <a href=\"https://z34v4.app.goo.gl/BBwe\" target=\"_blank\">https://z34v4.app.goo.gl/BBwe</a><br/>\n    "
   },
   {
     "name": "Route 1",
@@ -7341,6 +7361,18 @@
       "Table Tennis"
     ],
     "info": "\n    <h3>Table Tennis Training at Savarirajan T.T.Academy (kodambakkam)</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 94443 75558<br/>\n    <a href=\"https://playo.page.link/Z1aXG\" target=\"_blank\">https://playo.page.link/Z1aXG</a><br/>\n    "
+  },
+  {
+    "ratingCount": 6,
+    "name": "Tackle Futsal",
+    "lat": 13.075757,
+    "lng": 80.195873,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Tackle Futsal</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/boLG\" target=\"_blank\">https://z34v4.app.goo.gl/boLG</a><br/>\n    "
   },
   {
     "name": "Tackles Football Club (Sindhi College)",
