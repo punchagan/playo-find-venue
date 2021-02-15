@@ -830,7 +830,7 @@
   },
   {
     "name": "BRR Badminton Arena",
-    "ratingCount": 94,
+    "ratingCount": 95,
     "lat": 17.490995,
     "lng": 78.449256,
     "rating": 4,
@@ -838,7 +838,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>BRR Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.61 [94]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9705233397<br/>\n    <a href=\"https://z34v4.app.goo.gl/Wfvt\" target=\"_blank\">https://z34v4.app.goo.gl/Wfvt</a><br/>\n    "
+    "info": "\n    <h3>BRR Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.61 [95]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9705233397<br/>\n    <a href=\"https://z34v4.app.goo.gl/Wfvt\" target=\"_blank\">https://z34v4.app.goo.gl/Wfvt</a><br/>\n    "
   },
   {
     "name": "BSR CRICKET GROUNDS",
@@ -1709,7 +1709,7 @@
     "info": "\n    <h3>Chetan Anand Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.67 [132]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9885533357<br/>\n    <a href=\"https://z34v4.app.goo.gl/EPI9\" target=\"_blank\">https://z34v4.app.goo.gl/EPI9</a><br/>\n    "
   },
   {
-    "ratingCount": 21,
+    "ratingCount": 22,
     "name": "Chetan Anand Sports Centre",
     "lat": 17.529308,
     "lng": 78.34748,
@@ -1721,7 +1721,7 @@
       "Football",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Chetan Anand Sports Centre</h3>\n    <strong>Ratings:</strong> 3.9 [21]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9346638733<br/>\n    <a href=\"https://z34v4.app.goo.gl/S9zK\" target=\"_blank\">https://z34v4.app.goo.gl/S9zK</a><br/>\n    "
+    "info": "\n    <h3>Chetan Anand Sports Centre</h3>\n    <strong>Ratings:</strong> 3.73 [22]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9346638733<br/>\n    <a href=\"https://z34v4.app.goo.gl/S9zK\" target=\"_blank\">https://z34v4.app.goo.gl/S9zK</a><br/>\n    "
   },
   {
     "name": "Children's Pool",
@@ -4332,7 +4332,7 @@
   },
   {
     "name": "MK's Badminton Academy",
-    "ratingCount": 47,
+    "ratingCount": 48,
     "lat": 17.4400356,
     "lng": 78.5528774,
     "rating": 3,
@@ -4340,7 +4340,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>MK's Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.49 [47]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8885667700<br/>\n    <a href=\"https://z34v4.app.goo.gl/vW7B\" target=\"_blank\">https://z34v4.app.goo.gl/vW7B</a><br/>\n    "
+    "info": "\n    <h3>MK's Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.52 [48]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8885667700<br/>\n    <a href=\"https://z34v4.app.goo.gl/vW7B\" target=\"_blank\">https://z34v4.app.goo.gl/vW7B</a><br/>\n    "
   },
   {
     "name": "MLR Basketball Court",
@@ -8150,6 +8150,18 @@
       "Football"
     ],
     "info": "\n    <h3>Top Strike</h3>\n    <strong>Ratings:</strong> 3.89 [9]<br/>\n    <strong>Sports:</strong> Basketball, Football<br/>\n    <strong>Phone:</strong> 9133367555<br/>\n    <a href=\"https://z34v4.app.goo.gl/OSuL\" target=\"_blank\">https://z34v4.app.goo.gl/OSuL</a><br/>\n    "
+  },
+  {
+    "ratingCount": 2,
+    "name": "Top in Town",
+    "lat": 17.2851,
+    "lng": 78.53688,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Top in Town</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 8971933336<br/>\n    <a href=\"https://z34v4.app.goo.gl/DDFq\" target=\"_blank\">https://z34v4.app.goo.gl/DDFq</a><br/>\n    "
   },
   {
     "name": "Topfield",
