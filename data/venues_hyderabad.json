@@ -3399,7 +3399,7 @@
   },
   {
     "name": "Hilltop Badminton Academy",
-    "ratingCount": 85,
+    "ratingCount": 86,
     "lat": 17.519404,
     "lng": 78.402384,
     "rating": 4,
@@ -3407,7 +3407,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Hilltop Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.13 [85]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7732083208<br/>\n    <a href=\"https://z34v4.app.goo.gl/QSDr\" target=\"_blank\">https://z34v4.app.goo.gl/QSDr</a><br/>\n    "
+    "info": "\n    <h3>Hilltop Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.13 [86]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7732083208<br/>\n    <a href=\"https://z34v4.app.goo.gl/QSDr\" target=\"_blank\">https://z34v4.app.goo.gl/QSDr</a><br/>\n    "
   },
   {
     "name": "Hitech Cricket Ground HCG",
@@ -7147,6 +7147,19 @@
       "Cricket"
     ],
     "info": "\n    <h3>Sri Raghavendra Sports Estate</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 98660 72133<br/>\n    <a href=\"https://playo.page.link/k8aPL\" target=\"_blank\">https://playo.page.link/k8aPL</a><br/>\n    "
+  },
+  {
+    "ratingCount": 2,
+    "name": "Sri SK Golden Racket",
+    "lat": 17.44558,
+    "lng": 78.39128,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
   },
   {
     "name": "Sri SM Badminton Club",
