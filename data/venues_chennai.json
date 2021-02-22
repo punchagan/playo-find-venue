@@ -3676,6 +3676,18 @@
     "info": "\n    <h3>K2 Badminton Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/SGOu\" target=\"_blank\">https://z34v4.app.goo.gl/SGOu</a><br/>\n    "
   },
   {
+    "name": "K2 Badminton Club",
+    "ratingCount": 1,
+    "lat": 13.019665,
+    "lng": 80.129758,
+    "rating": 2,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>K2 Badminton Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/SGOu\" target=\"_blank\">https://z34v4.app.goo.gl/SGOu</a><br/>\n    "
+  },
+  {
     "name": "KCG volleyball court -1",
     "rating": 5,
     "ratingCount": 1,
@@ -4580,6 +4592,19 @@
     "info": "\n    <h3>Metro Badminton Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 99400 92369<br/>\n    <a href=\"https://playo.page.link/DQoTY\" target=\"_blank\">https://playo.page.link/DQoTY</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "name": "Mithra Sports Academy",
+    "lat": 13.0533233,
+    "lng": 80.1054042,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Football"
+    ],
+    "info": "\n    <h3>Mithra Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 9841255112<br/>\n    <a href=\"https://z34v4.app.goo.gl/SqfE\" target=\"_blank\">https://z34v4.app.goo.gl/SqfE</a><br/>\n    "
+  },
+  {
     "name": "Mogappair Badminton Association",
     "rating": 0,
     "lat": 13.0873673,
@@ -5081,16 +5106,16 @@
     "info": "\n    <h3>Pradheeba Swimingvpool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 98409 46401<br/>\n    <a href=\"https://playo.page.link/dnVbd\" target=\"_blank\">https://playo.page.link/dnVbd</a><br/>\n    "
   },
   {
-    "ratingCount": 0,
+    "ratingCount": 1,
     "name": "Pranav Sports Academy",
-    "lat": 12.9379155,
-    "lng": 80.2045287,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "lat": 12.9380841,
+    "lng": 80.2061293,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>Pranav Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9940065979<br/>\n    <a href=\"https://z34v4.app.goo.gl/MmFL\" target=\"_blank\">https://z34v4.app.goo.gl/MmFL</a><br/>\n    "
+    "info": "\n    <h3>Pranav Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9940065979<br/>\n    <a href=\"https://z34v4.app.goo.gl/VFsT\" target=\"_blank\">https://z34v4.app.goo.gl/VFsT</a><br/>\n    "
   },
   {
     "name": "Precision Tennis Academy",
@@ -6060,18 +6085,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>Sarguru Sports</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 98402 62380<br/>\n    <a href=\"https://playo.page.link/er7vw\" target=\"_blank\">https://playo.page.link/er7vw</a><br/>\n    "
-  },
-  {
-    "name": "Sarguru Sports Academy",
-    "ratingCount": 1,
-    "lat": 13.025352,
-    "lng": 80.1325967,
-    "rating": 2,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Sarguru Sports Academy</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/yRuR\" target=\"_blank\">https://z34v4.app.goo.gl/yRuR</a><br/>\n    "
   },
   {
     "name": "Sarguru Sports Academy",
