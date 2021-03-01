@@ -4259,9 +4259,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Cricket"
+      "Football"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MRF Pachaiyappa",
@@ -4270,9 +4270,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Football"
+      "Cricket"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -4516,14 +4516,15 @@
   },
   {
     "name": "Mayor Radhakrishnan Hockey Stadium",
-    "rating": 0,
+    "rating": 5,
+    "ratingCount": 1,
     "lat": 13.0756315,
     "lng": 80.261527,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>Mayor Radhakrishnan Hockey Stadium</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 44 2819 4104<br/>\n    <a href=\"https://playo.page.link/czroC\" target=\"_blank\">https://playo.page.link/czroC</a><br/>\n    "
+    "info": "\n    <h3>Mayor Radhakrishnan Hockey Stadium</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 44 2819 4104<br/>\n    <a href=\"https://playo.page.link/czroC\" target=\"_blank\">https://playo.page.link/czroC</a><br/>\n    "
   },
   {
     "name": "Mayor Radhakrishnan stadium Volley ball courts",
@@ -5076,14 +5077,14 @@
     "info": "\n    <h3>Planet Adventure's Jus' Play</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 96000 16350<br/>\n    <a href=\"https://playo.page.link/TvpVe\" target=\"_blank\">https://playo.page.link/TvpVe</a><br/>\n    "
   },
   {
-    "ratingCount": 10,
+    "ratingCount": 11,
     "name": "Playball",
     "lat": 13.098521,
     "lng": 80.286704,
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>Playball</h3>\n    <strong>Ratings:</strong> 4.5 [10]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9940152786<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEYx\" target=\"_blank\">https://z34v4.app.goo.gl/xEYx</a><br/>\n    "
+    "info": "\n    <h3>Playball</h3>\n    <strong>Ratings:</strong> 4.55 [11]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9940152786<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEYx\" target=\"_blank\">https://z34v4.app.goo.gl/xEYx</a><br/>\n    "
   },
   {
     "name": "Plaza Tranquill Play Ground",
@@ -5512,6 +5513,19 @@
       "Football"
     ],
     "info": "\n    <h3>Revolt - The Turf War</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Cricket, Football<br/>\n    <strong>Phone:</strong> 7666776663<br/>\n    <a href=\"https://z34v4.app.goo.gl/vHdc\" target=\"_blank\">https://z34v4.app.goo.gl/vHdc</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Revolt Turf",
+    "lat": 13.1158822,
+    "lng": 80.2437235,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Revolt Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 7666776663<br/>\n    <a href=\"https://z34v4.app.goo.gl/zaEb\" target=\"_blank\">https://z34v4.app.goo.gl/zaEb</a><br/>\n    "
   },
   {
     "name": "Rise Academy",
