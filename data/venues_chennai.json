@@ -5764,14 +5764,15 @@
   },
   {
     "name": "SDAT, Tennis Courts",
-    "rating": 0,
+    "rating": 4,
+    "ratingCount": 1,
     "lat": 13.056117,
     "lng": 80.23821,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Tennis"
     ],
-    "info": "\n    <h3>SDAT, Tennis Courts</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 94441 21540<br/>\n    <a href=\"https://playo.page.link/bztqy\" target=\"_blank\">https://playo.page.link/bztqy</a><br/>\n    "
+    "info": "\n    <h3>SDAT, Tennis Courts</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 94441 21540<br/>\n    <a href=\"https://playo.page.link/bztqy\" target=\"_blank\">https://playo.page.link/bztqy</a><br/>\n    "
   },
   {
     "name": "SEA HORSE SWIMMING CLASSES for Children therapeutic swimming disabilities autism or Down\u2019s syndrome.",
