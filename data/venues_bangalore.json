@@ -743,6 +743,18 @@
     "info": "\n    <h3>BMT Sports</h3>\n    <strong>Ratings:</strong> 4.37 [65]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9538810601<br/>\n    <a href=\"https://z34v4.app.goo.gl/AbvQ\" target=\"_blank\">https://z34v4.app.goo.gl/AbvQ</a><br/>\n    "
   },
   {
+    "name": "BRK Sports",
+    "ratingCount": 110,
+    "lat": 13.06015,
+    "lng": 77.608333,
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>BRK Sports</h3>\n    <strong>Ratings:</strong> 3.14 [110]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9742589182<br/>\n    <a href=\"https://z34v4.app.goo.gl/vf2W\" target=\"_blank\">https://z34v4.app.goo.gl/vf2W</a><br/>\n    "
+  },
+  {
     "ratingCount": 17,
     "name": "BSG Arena - BTM Layout",
     "lat": 12.904325,
@@ -957,7 +969,7 @@
     "info": "\n    <h3>Ballal's Badminton Arena - Gubballala</h3>\n    <strong>Ratings:</strong> 4 [220]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/VNn6\" target=\"_blank\">https://z34v4.app.goo.gl/VNn6</a><br/>\n    "
   },
   {
-    "ratingCount": 83,
+    "ratingCount": 84,
     "name": "Ballal's Badminton Arena - Sanjaynagar",
     "lat": 13.028203,
     "lng": 77.576279,
@@ -966,7 +978,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Ballal's Badminton Arena - Sanjaynagar</h3>\n    <strong>Ratings:</strong> 4.47 [83]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9880373773<br/>\n    <a href=\"https://z34v4.app.goo.gl/E4qf\" target=\"_blank\">https://z34v4.app.goo.gl/E4qf</a><br/>\n    "
+    "info": "\n    <h3>Ballal's Badminton Arena - Sanjaynagar</h3>\n    <strong>Ratings:</strong> 4.48 [84]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9880373773<br/>\n    <a href=\"https://z34v4.app.goo.gl/E4qf\" target=\"_blank\">https://z34v4.app.goo.gl/E4qf</a><br/>\n    "
   },
   {
     "name": "Banashankari Badminton Academy",
@@ -2609,7 +2621,7 @@
   },
   {
     "name": "Flying Feathers Badminton Club",
-    "ratingCount": 84,
+    "ratingCount": 85,
     "lat": 12.812258,
     "lng": 77.651174,
     "rating": 3,
@@ -2617,7 +2629,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Flying Feathers Badminton Club</h3>\n    <strong>Ratings:</strong> 3.83 [84]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9591455366<br/>\n    <a href=\"https://z34v4.app.goo.gl/vV9y\" target=\"_blank\">https://z34v4.app.goo.gl/vV9y</a><br/>\n    "
+    "info": "\n    <h3>Flying Feathers Badminton Club</h3>\n    <strong>Ratings:</strong> 3.81 [85]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9591455366<br/>\n    <a href=\"https://z34v4.app.goo.gl/vV9y\" target=\"_blank\">https://z34v4.app.goo.gl/vV9y</a><br/>\n    "
   },
   {
     "name": "FootCrick Arena",
@@ -3954,18 +3966,6 @@
     "info": "\n    <h3>KR inn, Krishnarajapuram</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 80673 59600<br/>\n    <a href=\"https://playo.page.link/kQF8L\" target=\"_blank\">https://playo.page.link/kQF8L</a><br/>\n    "
   },
   {
-    "name": "KSA Badminton Academy",
-    "ratingCount": 110,
-    "lat": 13.06015,
-    "lng": 77.608333,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>KSA Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.14 [110]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/7mUs\" target=\"_blank\">https://z34v4.app.goo.gl/7mUs</a><br/>\n    "
-  },
-  {
     "name": "Kalavedi Sports Center - Bellandur",
     "ratingCount": 46,
     "lat": 12.929402,
@@ -5106,7 +5106,7 @@
   },
   {
     "name": "Nova Badminton Academy - Arehalli",
-    "ratingCount": 213,
+    "ratingCount": 214,
     "lat": 12.911927,
     "lng": 77.542942,
     "rating": 4,
@@ -5114,7 +5114,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Nova Badminton Academy - Arehalli</h3>\n    <strong>Ratings:</strong> 4.02 [213]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8105677809<br/>\n    <a href=\"https://z34v4.app.goo.gl/oyAE\" target=\"_blank\">https://z34v4.app.goo.gl/oyAE</a><br/>\n    "
+    "info": "\n    <h3>Nova Badminton Academy - Arehalli</h3>\n    <strong>Ratings:</strong> 4.02 [214]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8105677809<br/>\n    <a href=\"https://z34v4.app.goo.gl/oyAE\" target=\"_blank\">https://z34v4.app.goo.gl/oyAE</a><br/>\n    "
   },
   {
     "name": "Nova Badminton Academy - Jnanajyothi Nagar",
@@ -7375,19 +7375,6 @@
     "info": "\n    <h3>Sports Sqaure</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football, Tennis<br/>\n    <strong>Phone:</strong> 9886425600<br/>\n    <a href=\"https://z34v4.app.goo.gl/usoX\" target=\"_blank\">https://z34v4.app.goo.gl/usoX</a><br/>\n    "
   },
   {
-    "name": "Sports X (Adventure Sports)",
-    "ratingCount": 12,
-    "lat": 13.041732,
-    "lng": 77.61661,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Adventure Sports",
-      "Archery"
-    ],
-    "info": "\n    <h3>Sports X (Adventure Sports)</h3>\n    <strong>Ratings:</strong> 3.75 [12]<br/>\n    <strong>Sports:</strong> Adventure Sports, Archery<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/oFoD\" target=\"_blank\">https://z34v4.app.goo.gl/oFoD</a><br/>\n    "
-  },
-  {
     "name": "Sports1 Badminton Academy - Girinagar",
     "ratingCount": 75,
     "lat": 12.941574,
@@ -7401,7 +7388,7 @@
     "info": "\n    <h3>Sports1 Badminton Academy - Girinagar</h3>\n    <strong>Ratings:</strong> 2.8 [75]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9731263955<br/>\n    <a href=\"https://z34v4.app.goo.gl/3G5g\" target=\"_blank\">https://z34v4.app.goo.gl/3G5g</a><br/>\n    "
   },
   {
-    "ratingCount": 9,
+    "ratingCount": 10,
     "name": "Sports1 Badminton Academy - Hosakerehalli",
     "lat": 12.926278913885875,
     "lng": 77.53840761066608,
@@ -7410,7 +7397,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sports1 Badminton Academy - Hosakerehalli</h3>\n    <strong>Ratings:</strong> 3.78 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9731263955<br/>\n    <a href=\"https://z34v4.app.goo.gl/6tmn\" target=\"_blank\">https://z34v4.app.goo.gl/6tmn</a><br/>\n    "
+    "info": "\n    <h3>Sports1 Badminton Academy - Hosakerehalli</h3>\n    <strong>Ratings:</strong> 3.5 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9731263955<br/>\n    <a href=\"https://z34v4.app.goo.gl/6tmn\" target=\"_blank\">https://z34v4.app.goo.gl/6tmn</a><br/>\n    "
   },
   {
     "name": "SportsGalore",
@@ -9107,7 +9094,7 @@
   },
   {
     "name": "White Feathers Sports - Nagarbhavi",
-    "ratingCount": 85,
+    "ratingCount": 86,
     "lat": 12.977563,
     "lng": 77.513938,
     "rating": 4,
@@ -9115,7 +9102,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>White Feathers Sports - Nagarbhavi</h3>\n    <strong>Ratings:</strong> 4.71 [85]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7760490964<br/>\n    <a href=\"https://z34v4.app.goo.gl/tka6\" target=\"_blank\">https://z34v4.app.goo.gl/tka6</a><br/>\n    "
+    "info": "\n    <h3>White Feathers Sports - Nagarbhavi</h3>\n    <strong>Ratings:</strong> 4.71 [86]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7760490964<br/>\n    <a href=\"https://z34v4.app.goo.gl/tka6\" target=\"_blank\">https://z34v4.app.goo.gl/tka6</a><br/>\n    "
   },
   {
     "name": "White Peacock - Adanya Badminton Academy",
