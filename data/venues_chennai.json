@@ -2676,14 +2676,15 @@
   },
   {
     "name": "GO Futsal (Velachery)",
-    "rating": 0,
+    "rating": 5,
+    "ratingCount": 1,
     "lat": 12.9791958,
     "lng": 80.2298674,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>GO Futsal (Velachery)</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 87544 06855<br/>\n    <a href=\"https://playo.page.link/TRN7R\" target=\"_blank\">https://playo.page.link/TRN7R</a><br/>\n    "
+    "info": "\n    <h3>GO Futsal (Velachery)</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 87544 06855<br/>\n    <a href=\"https://playo.page.link/TRN7R\" target=\"_blank\">https://playo.page.link/TRN7R</a><br/>\n    "
   },
   {
     "name": "GRACE FOOTBALL COACHING CENTRE",
