@@ -226,14 +226,15 @@
   },
   {
     "name": "Acers Badminton Academy1",
-    "rating": 0,
+    "rating": 4,
+    "ratingCount": 1,
     "lat": 13.0568851,
     "lng": 80.2524373,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Acers Badminton Academy1</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/LLbgG\" target=\"_blank\">https://playo.page.link/LLbgG</a><br/>\n    "
+    "info": "\n    <h3>Acers Badminton Academy1</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/LLbgG\" target=\"_blank\">https://playo.page.link/LLbgG</a><br/>\n    "
   },
   {
     "name": "Acers Badminton Academy2",
@@ -7388,6 +7389,19 @@
       "Football"
     ],
     "info": "\n    <h3>Tackle Futsal</h3>\n    <strong>Ratings:</strong> 4.88 [8]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/boLG\" target=\"_blank\">https://z34v4.app.goo.gl/boLG</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "name": "Tackle Futsal- Iyyapanthangal",
+    "lat": 13.0453307,
+    "lng": 80.1377017,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Tackle Futsal- Iyyapanthangal</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 9841876777<br/>\n    <a href=\"https://z34v4.app.goo.gl/QnPA\" target=\"_blank\">https://z34v4.app.goo.gl/QnPA</a><br/>\n    "
   },
   {
     "name": "Taj Club House",

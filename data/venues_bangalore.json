@@ -1341,7 +1341,7 @@
     "info": "\n    <h3>Best Club</h3>\n    <strong>Ratings:</strong> 3.21 [57]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Cue Sports, Pool, Swimming, Table Tennis, Tennis, Workout, Yoga<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/SFgm\" target=\"_blank\">https://z34v4.app.goo.gl/SFgm</a><br/>\n    "
   },
   {
-    "ratingCount": 52,
+    "ratingCount": 53,
     "name": "Best Shot",
     "lat": 13.106834,
     "lng": 77.567083,
@@ -1350,7 +1350,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Best Shot</h3>\n    <strong>Ratings:</strong> 3.77 [52]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9632075709<br/>\n    <a href=\"https://z34v4.app.goo.gl/BqvL\" target=\"_blank\">https://z34v4.app.goo.gl/BqvL</a><br/>\n    "
+    "info": "\n    <h3>Best Shot</h3>\n    <strong>Ratings:</strong> 3.77 [53]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9632075709<br/>\n    <a href=\"https://z34v4.app.goo.gl/BqvL\" target=\"_blank\">https://z34v4.app.goo.gl/BqvL</a><br/>\n    "
   },
   {
     "name": "Bhaichung Bhutia Football Schools",
@@ -1425,7 +1425,7 @@
   },
   {
     "name": "BreakPoint Pool & Snooker Lounge",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "lat": 12.907942353608119,
     "lng": 77.56100091165673,
     "rating": 5,
@@ -1433,7 +1433,7 @@
     "filter_by": [
       "Pool"
     ],
-    "info": "\n    <h3>BreakPoint Pool & Snooker Lounge</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 9905484818<br/>\n    <a href=\"https://z34v4.app.goo.gl/dMwk\" target=\"_blank\">https://z34v4.app.goo.gl/dMwk</a><br/>\n    "
+    "info": "\n    <h3>BreakPoint Pool & Snooker Lounge</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 9905484818<br/>\n    <a href=\"https://z34v4.app.goo.gl/dMwk\" target=\"_blank\">https://z34v4.app.goo.gl/dMwk</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -5926,7 +5926,7 @@
   },
   {
     "name": "RG Royal Sports Club",
-    "ratingCount": 124,
+    "ratingCount": 125,
     "lat": 13.016954,
     "lng": 77.549112,
     "rating": 3,
@@ -5936,7 +5936,7 @@
       "Gymming",
       "Swimming"
     ],
-    "info": "\n    <h3>RG Royal Sports Club</h3>\n    <strong>Ratings:</strong> 3.78 [124]<br/>\n    <strong>Sports:</strong> Badminton, Gymming, Swimming<br/>\n    <strong>Phone:</strong> 8050541977<br/>\n    <a href=\"https://z34v4.app.goo.gl/eZf1\" target=\"_blank\">https://z34v4.app.goo.gl/eZf1</a><br/>\n    "
+    "info": "\n    <h3>RG Royal Sports Club</h3>\n    <strong>Ratings:</strong> 3.78 [125]<br/>\n    <strong>Sports:</strong> Badminton, Gymming, Swimming<br/>\n    <strong>Phone:</strong> 8050541977<br/>\n    <a href=\"https://z34v4.app.goo.gl/eZf1\" target=\"_blank\">https://z34v4.app.goo.gl/eZf1</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -8682,6 +8682,18 @@
     "info": "\n    <h3>Unified Sports Club</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 9611442335<br/>\n    <a href=\"https://z34v4.app.goo.gl/o3GF\" target=\"_blank\">https://z34v4.app.goo.gl/o3GF</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "United Football Turf",
+    "lat": 13.05037,
+    "lng": 77.646493,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>United Football Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9902531287<br/>\n    <a href=\"https://z34v4.app.goo.gl/cJYU\" target=\"_blank\">https://z34v4.app.goo.gl/cJYU</a><br/>\n    "
+  },
+  {
     "ratingCount": 1,
     "name": "United Sports And Entertainment",
     "lat": 12.876551,
@@ -9384,7 +9396,7 @@
   },
   {
     "name": "iBlitz Sports Club - Hoodi",
-    "ratingCount": 260,
+    "ratingCount": 261,
     "lat": 12.988786,
     "lng": 77.718656,
     "rating": 4,
@@ -9394,7 +9406,7 @@
       "Football",
       "Pool"
     ],
-    "info": "\n    <h3>iBlitz Sports Club - Hoodi</h3>\n    <strong>Ratings:</strong> 4.28 [260]<br/>\n    <strong>Sports:</strong> Badminton, Football, Pool<br/>\n    <strong>Phone:</strong> 9901111217<br/>\n    <a href=\"https://z34v4.app.goo.gl/zyF5\" target=\"_blank\">https://z34v4.app.goo.gl/zyF5</a><br/>\n    "
+    "info": "\n    <h3>iBlitz Sports Club - Hoodi</h3>\n    <strong>Ratings:</strong> 4.28 [261]<br/>\n    <strong>Sports:</strong> Badminton, Football, Pool<br/>\n    <strong>Phone:</strong> 9901111217<br/>\n    <a href=\"https://z34v4.app.goo.gl/zyF5\" target=\"_blank\">https://z34v4.app.goo.gl/zyF5</a><br/>\n    "
   },
   {
     "name": "iSports Arena",

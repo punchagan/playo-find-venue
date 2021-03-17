@@ -901,7 +901,7 @@
     "info": "\n    <h3>Baby Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/yiS67\" target=\"_blank\">https://playo.page.link/yiS67</a><br/>\n    "
   },
   {
-    "ratingCount": 5,
+    "ratingCount": 6,
     "name": "Backyard Drive-in",
     "lat": 17.358863,
     "lng": 78.388012,
@@ -910,7 +910,7 @@
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>Backyard Drive-in</h3>\n    <strong>Ratings:</strong> 4.2 [5]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9849768525<br/>\n    <a href=\"https://z34v4.app.goo.gl/ntyJ\" target=\"_blank\">https://z34v4.app.goo.gl/ntyJ</a><br/>\n    "
+    "info": "\n    <h3>Backyard Drive-in</h3>\n    <strong>Ratings:</strong> 4.33 [6]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9849768525<br/>\n    <a href=\"https://z34v4.app.goo.gl/ntyJ\" target=\"_blank\">https://z34v4.app.goo.gl/ntyJ</a><br/>\n    "
   },
   {
     "name": "Baddam Ram Reddy Cricket Ground(B R R Cricket Ground)",
@@ -7233,7 +7233,7 @@
   },
   {
     "name": "Sri Sai Badminton Stadium",
-    "ratingCount": 304,
+    "ratingCount": 305,
     "lat": 17.489518,
     "lng": 78.380523,
     "rating": 3,
@@ -7243,7 +7243,7 @@
       "Table Tennis",
       "Yoga"
     ],
-    "info": "\n    <h3>Sri Sai Badminton Stadium</h3>\n    <strong>Ratings:</strong> 3.63 [304]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis, Yoga<br/>\n    <strong>Phone:</strong> 9396477227<br/>\n    <a href=\"https://z34v4.app.goo.gl/8qvL\" target=\"_blank\">https://z34v4.app.goo.gl/8qvL</a><br/>\n    "
+    "info": "\n    <h3>Sri Sai Badminton Stadium</h3>\n    <strong>Ratings:</strong> 3.63 [305]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis, Yoga<br/>\n    <strong>Phone:</strong> 9396477227<br/>\n    <a href=\"https://z34v4.app.goo.gl/8qvL\" target=\"_blank\">https://z34v4.app.goo.gl/8qvL</a><br/>\n    "
   },
   {
     "name": "Sri Sai Siri Swimming Pool",
@@ -8628,6 +8628,18 @@
       "Badminton"
     ],
     "info": "\n    <h3>Venu and Murthy Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.73 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7993940189<br/>\n    <a href=\"https://z34v4.app.goo.gl/zLCK\" target=\"_blank\">https://z34v4.app.goo.gl/zLCK</a><br/>\n    "
+  },
+  {
+    "ratingCount": 2,
+    "name": "Venu's Match Point",
+    "lat": 17.388054,
+    "lng": 78.36788,
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Venu's Match Point</h3>\n    <strong>Ratings:</strong> 3.5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9550573513<br/>\n    <a href=\"https://z34v4.app.goo.gl/77k1\" target=\"_blank\">https://z34v4.app.goo.gl/77k1</a><br/>\n    "
   },
   {
     "name": "Venus Vihar Tennis Court",
