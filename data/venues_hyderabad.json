@@ -2480,9 +2480,10 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Table Tennis"
     ],
-    "info": "\n    <h3>Flying Gravity Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8121502301<br/>\n    <a href=\"https://z34v4.app.goo.gl/q9G9\" target=\"_blank\">https://z34v4.app.goo.gl/q9G9</a><br/>\n    "
+    "info": "\n    <h3>Flying Gravity Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 8121502301<br/>\n    <a href=\"https://z34v4.app.goo.gl/q9G9\" target=\"_blank\">https://z34v4.app.goo.gl/q9G9</a><br/>\n    "
   },
   {
     "name": "Flying Lotus",
@@ -3372,18 +3373,6 @@
       "Cricket"
     ],
     "info": "\n    <h3>Hamsa Cricket Ground</h3>\n    <strong>Ratings:</strong> 3.57 [7]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 8885553380<br/>\n    <a href=\"https://z34v4.app.goo.gl/pUmN\" target=\"_blank\">https://z34v4.app.goo.gl/pUmN</a><br/>\n    "
-  },
-  {
-    "ratingCount": 3,
-    "name": "Hangout For Sport",
-    "lat": 17.520138,
-    "lng": 78.382238,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Table Tennis"
-    ],
-    "info": "\n    <h3>Hangout For Sport</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9948968634<br/>\n    <a href=\"https://z34v4.app.goo.gl/kbWh\" target=\"_blank\">https://z34v4.app.goo.gl/kbWh</a><br/>\n    "
   },
   {
     "name": "Hangout Sports",
@@ -4403,7 +4392,7 @@
   },
   {
     "name": "MNR Badminton Courts",
-    "ratingCount": 15,
+    "ratingCount": 16,
     "lat": 17.4909323,
     "lng": 78.5841117,
     "rating": 4,
@@ -4411,17 +4400,17 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>MNR Badminton Courts</h3>\n    <strong>Ratings:</strong> 4.73 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9866938308<br/>\n    <a href=\"https://z34v4.app.goo.gl/3Rdm\" target=\"_blank\">https://z34v4.app.goo.gl/3Rdm</a><br/>\n    "
+    "info": "\n    <h3>MNR Badminton Courts</h3>\n    <strong>Ratings:</strong> 4.75 [16]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9866938308<br/>\n    <a href=\"https://z34v4.app.goo.gl/3Rdm\" target=\"_blank\">https://z34v4.app.goo.gl/3Rdm</a><br/>\n    "
   },
   {
-    "ratingCount": 3,
+    "ratingCount": 4,
     "name": "MPR cricket Academy",
     "lat": 17.495336,
     "lng": 78.420921,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>MPR cricket Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9966448350<br/>\n    <a href=\"https://z34v4.app.goo.gl/u74q\" target=\"_blank\">https://z34v4.app.goo.gl/u74q</a><br/>\n    "
+    "info": "\n    <h3>MPR cricket Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9966448350<br/>\n    <a href=\"https://z34v4.app.goo.gl/u74q\" target=\"_blank\">https://z34v4.app.goo.gl/u74q</a><br/>\n    "
   },
   {
     "name": "MPS Cricket Ground",
@@ -6924,7 +6913,7 @@
     "info": "\n    <h3>Sixer Zone</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Table Tennis<br/>\n    <strong>Phone:</strong> 9066551122<br/>\n    <a href=\"https://z34v4.app.goo.gl/9dbg\" target=\"_blank\">https://z34v4.app.goo.gl/9dbg</a><br/>\n    "
   },
   {
-    "ratingCount": 23,
+    "ratingCount": 24,
     "name": "Skanda Badminton",
     "lat": 17.374496,
     "lng": 78.554698,
@@ -6933,7 +6922,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Skanda Badminton</h3>\n    <strong>Ratings:</strong> 4.7 [23]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9854011818<br/>\n    <a href=\"https://z34v4.app.goo.gl/btuc\" target=\"_blank\">https://z34v4.app.goo.gl/btuc</a><br/>\n    "
+    "info": "\n    <h3>Skanda Badminton</h3>\n    <strong>Ratings:</strong> 4.71 [24]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9854011818<br/>\n    <a href=\"https://z34v4.app.goo.gl/btuc\" target=\"_blank\">https://z34v4.app.goo.gl/btuc</a><br/>\n    "
   },
   {
     "name": "Skykings Football Academy",
@@ -7207,7 +7196,7 @@
     "info": "\n    <h3>Sri Raghavendra Sports Estate</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 98660 72133<br/>\n    <a href=\"https://playo.page.link/k8aPL\" target=\"_blank\">https://playo.page.link/k8aPL</a><br/>\n    "
   },
   {
-    "ratingCount": 12,
+    "ratingCount": 13,
     "name": "Sri SK Golden Racket",
     "lat": 17.44558,
     "lng": 78.39128,
@@ -7217,7 +7206,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
+    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [13]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
   },
   {
     "name": "Sri SM Badminton Club",
