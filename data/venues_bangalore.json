@@ -1932,7 +1932,7 @@
     "info": "\n    <h3>DHI Sports - Badminton</h3>\n    <strong>Ratings:</strong> 2.5 [247]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9742220232<br/>\n    <a href=\"https://z34v4.app.goo.gl/3tsf\" target=\"_blank\">https://z34v4.app.goo.gl/3tsf</a><br/>\n    "
   },
   {
-    "ratingCount": 3,
+    "ratingCount": 4,
     "name": "DHI Sports Center",
     "lat": 12.8858751,
     "lng": 77.5970203,
@@ -1944,7 +1944,7 @@
       "Table Tennis",
       "Tennis"
     ],
-    "info": "\n    <h3>DHI Sports Center</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Basketball, Football, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 9742220232<br/>\n    <a href=\"https://z34v4.app.goo.gl/s5vm\" target=\"_blank\">https://z34v4.app.goo.gl/s5vm</a><br/>\n    "
+    "info": "\n    <h3>DHI Sports Center</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Basketball, Football, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 9742220232<br/>\n    <a href=\"https://z34v4.app.goo.gl/s5vm\" target=\"_blank\">https://z34v4.app.goo.gl/s5vm</a><br/>\n    "
   },
   {
     "ratingCount": 3,
@@ -3217,21 +3217,6 @@
     "info": "\n    <h3>Guru Sports Club</h3>\n    <strong>Ratings:</strong> 4.26 [34]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/AZa6\" target=\"_blank\">https://z34v4.app.goo.gl/AZa6</a><br/>\n    "
   },
   {
-    "ratingCount": 24,
-    "name": "Gurukul Sports",
-    "lat": 12.956003,
-    "lng": 77.730295,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Pool",
-      "Swimming",
-      "Table Tennis"
-    ],
-    "info": "\n    <h3>Gurukul Sports</h3>\n    <strong>Ratings:</strong> 4.04 [24]<br/>\n    <strong>Sports:</strong> Badminton, Pool, Swimming, Table Tennis<br/>\n    <strong>Phone:</strong> 7338282567<br/>\n    <a href=\"https://z34v4.app.goo.gl/WTZH\" target=\"_blank\">https://z34v4.app.goo.gl/WTZH</a><br/>\n    "
-  },
-  {
     "ratingCount": 1,
     "name": "Gurukul Sports - Cricket Ground",
     "lat": 12.951737,
@@ -3254,6 +3239,21 @@
       "Football"
     ],
     "info": "\n    <h3>Gurukul Sports - Football and Cricket</h3>\n    <strong>Ratings:</strong> 2 [4]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7338282567<br/>\n    <a href=\"https://z34v4.app.goo.gl/D6AT\" target=\"_blank\">https://z34v4.app.goo.gl/D6AT</a><br/>\n    "
+  },
+  {
+    "ratingCount": 24,
+    "name": "Gurukul Sports Academy",
+    "lat": 12.956003,
+    "lng": 77.730295,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Pool",
+      "Swimming",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Gurukul Sports Academy</h3>\n    <strong>Ratings:</strong> 4.04 [24]<br/>\n    <strong>Sports:</strong> Badminton, Pool, Swimming, Table Tennis<br/>\n    <strong>Phone:</strong> 7338282567<br/>\n    <a href=\"https://z34v4.app.goo.gl/UkWH\" target=\"_blank\">https://z34v4.app.goo.gl/UkWH</a><br/>\n    "
   },
   {
     "name": "HAL Cricket Ground",
@@ -4957,7 +4957,7 @@
   },
   {
     "name": "Namma Sports",
-    "ratingCount": 215,
+    "ratingCount": 216,
     "lat": 12.930562,
     "lng": 77.513748,
     "rating": 3,
@@ -4965,7 +4965,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Namma Sports</h3>\n    <strong>Ratings:</strong> 3.59 [215]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9886059981<br/>\n    <a href=\"https://z34v4.app.goo.gl/xCCW\" target=\"_blank\">https://z34v4.app.goo.gl/xCCW</a><br/>\n    "
+    "info": "\n    <h3>Namma Sports</h3>\n    <strong>Ratings:</strong> 3.6 [216]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9886059981<br/>\n    <a href=\"https://z34v4.app.goo.gl/xCCW\" target=\"_blank\">https://z34v4.app.goo.gl/xCCW</a><br/>\n    "
   },
   {
     "name": "Namma Sports Village",
@@ -5113,15 +5113,15 @@
   },
   {
     "name": "Nova Badminton Academy - Jnanajyothi Nagar",
-    "ratingCount": 134,
+    "ratingCount": 136,
     "lat": 12.952514,
     "lng": 77.49379,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Nova Badminton Academy - Jnanajyothi Nagar</h3>\n    <strong>Ratings:</strong> 3.99 [134]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9901365056<br/>\n    <a href=\"https://z34v4.app.goo.gl/2nff\" target=\"_blank\">https://z34v4.app.goo.gl/2nff</a><br/>\n    "
+    "info": "\n    <h3>Nova Badminton Academy - Jnanajyothi Nagar</h3>\n    <strong>Ratings:</strong> 4 [136]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9901365056<br/>\n    <a href=\"https://z34v4.app.goo.gl/2nff\" target=\"_blank\">https://z34v4.app.goo.gl/2nff</a><br/>\n    "
   },
   {
     "ratingCount": 76,
@@ -5320,8 +5320,8 @@
   {
     "name": "PK Sports",
     "ratingCount": 81,
-    "lat": 12.92915,
-    "lng": 77.703285,
+    "lat": 12.929428490979834,
+    "lng": 77.70341888420572,
     "rating": 3,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
@@ -5331,7 +5331,7 @@
       "Table Tennis",
       "Volleyball"
     ],
-    "info": "\n    <h3>PK Sports</h3>\n    <strong>Ratings:</strong> 3.65 [81]<br/>\n    <strong>Sports:</strong> Basketball, Football, Swimming, Table Tennis, Volleyball<br/>\n    <strong>Phone:</strong> 7829631999<br/>\n    <a href=\"https://z34v4.app.goo.gl/kYfr\" target=\"_blank\">https://z34v4.app.goo.gl/kYfr</a><br/>\n    "
+    "info": "\n    <h3>PK Sports</h3>\n    <strong>Ratings:</strong> 3.65 [81]<br/>\n    <strong>Sports:</strong> Basketball, Football, Swimming, Table Tennis, Volleyball<br/>\n    <strong>Phone:</strong> 7829631999<br/>\n    <a href=\"https://z34v4.app.goo.gl/MPNk\" target=\"_blank\">https://z34v4.app.goo.gl/MPNk</a><br/>\n    "
   },
   {
     "name": "PLAY 365",
@@ -5770,6 +5770,18 @@
     "info": "\n    <h3>Pragathi Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.31 [160]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7022207993<br/>\n    <a href=\"https://z34v4.app.goo.gl/r1TJ\" target=\"_blank\">https://z34v4.app.goo.gl/r1TJ</a><br/>\n    "
   },
   {
+    "name": "Prakash Badminton Academy",
+    "rating": 5,
+    "lat": 12.904445219505655,
+    "lng": 77.55221455515381,
+    "ratingCount": 1,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Prakash Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9845104264<br/>\n    <a href=\"https://z34v4.app.goo.gl/9Esk\" target=\"_blank\">https://z34v4.app.goo.gl/9Esk</a><br/>\n    "
+  },
+  {
     "name": "Prakash Tennis Academy",
     "ratingCount": 11,
     "lat": 12.8921894,
@@ -6202,6 +6214,18 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
     "info": "\n    <h3>Red Riders Sports</h3>\n    <strong>Ratings:</strong> 4.21 [14]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9916185050<br/>\n    <a href=\"https://z34v4.app.goo.gl/Ru74\" target=\"_blank\">https://z34v4.app.goo.gl/Ru74</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Red Toss Cricket",
+    "lat": 12.899232,
+    "lng": 77.686384,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket"
+    ],
+    "info": "\n    <h3>Red Toss Cricket</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9438031999<br/>\n    <a href=\"https://z34v4.app.goo.gl/Cnbr\" target=\"_blank\">https://z34v4.app.goo.gl/Cnbr</a><br/>\n    "
   },
   {
     "name": "Redbridge International Academy",
