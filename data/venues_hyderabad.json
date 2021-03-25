@@ -4581,9 +4581,10 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Swimming"
     ],
-    "info": "\n    <h3>Manikonda Sports Arena</h3>\n    <strong>Ratings:</strong> 4.33 [24]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9550767866<br/>\n    <a href=\"https://z34v4.app.goo.gl/K1aD\" target=\"_blank\">https://z34v4.app.goo.gl/K1aD</a><br/>\n    "
+    "info": "\n    <h3>Manikonda Sports Arena</h3>\n    <strong>Ratings:</strong> 4.33 [24]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9550767866<br/>\n    <a href=\"https://z34v4.app.goo.gl/K1aD\" target=\"_blank\">https://z34v4.app.goo.gl/K1aD</a><br/>\n    "
   },
   {
     "name": "Manikonda Sports Club",
@@ -7196,7 +7197,7 @@
     "info": "\n    <h3>Sri Raghavendra Sports Estate</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 98660 72133<br/>\n    <a href=\"https://playo.page.link/k8aPL\" target=\"_blank\">https://playo.page.link/k8aPL</a><br/>\n    "
   },
   {
-    "ratingCount": 13,
+    "ratingCount": 14,
     "name": "Sri SK Golden Racket",
     "lat": 17.44558,
     "lng": 78.39128,
@@ -7206,7 +7207,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [13]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
+    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [14]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
   },
   {
     "name": "Sri SM Badminton Club",
