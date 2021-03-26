@@ -1596,6 +1596,18 @@
     "info": "\n    <h3>Colosseum Badminton Cycling</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/Snddf\" target=\"_blank\">https://playo.page.link/Snddf</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "Common Wealth Sports Academy",
+    "lat": 13.0411115,
+    "lng": 80.1882957,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Common Wealth Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9500009459<br/>\n    <a href=\"https://z34v4.app.goo.gl/cwsJ\" target=\"_blank\">https://z34v4.app.goo.gl/cwsJ</a><br/>\n    "
+  },
+  {
     "name": "Competitive Edge Tennis Academy",
     "rating": 0,
     "lat": 12.8478508,
@@ -4320,9 +4332,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Football"
+      "Cricket"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MRF Pachaiyappa",
@@ -4331,9 +4343,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Cricket"
+      "Football"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -5769,14 +5781,15 @@
   },
   {
     "name": "SBC Shuttle Club",
-    "rating": 0,
+    "rating": 5,
+    "ratingCount": 1,
     "lat": 12.9143004,
     "lng": 80.1755438,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SBC Shuttle Club</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/tbZJo\" target=\"_blank\">https://playo.page.link/tbZJo</a><br/>\n    "
+    "info": "\n    <h3>SBC Shuttle Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/tbZJo\" target=\"_blank\">https://playo.page.link/tbZJo</a><br/>\n    "
   },
   {
     "name": "SCBC Badminton Academy",
@@ -7436,6 +7449,18 @@
       "Football"
     ],
     "info": "\n    <h3>Tackle Futsal</h3>\n    <strong>Ratings:</strong> 4.88 [8]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/boLG\" target=\"_blank\">https://z34v4.app.goo.gl/boLG</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Tackle Futsal _ VR Mall",
+    "lat": 13.0805465,
+    "lng": 80.1949433,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Tackle Futsal _ VR Mall</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/u7CU\" target=\"_blank\">https://z34v4.app.goo.gl/u7CU</a><br/>\n    "
   },
   {
     "ratingCount": 2,
