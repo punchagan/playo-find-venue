@@ -623,7 +623,7 @@
   },
   {
     "name": "Arena 48",
-    "ratingCount": 42,
+    "ratingCount": 43,
     "lat": 17.46173,
     "lng": 78.368097,
     "rating": 4,
@@ -633,7 +633,7 @@
       "Football",
       "Yoga"
     ],
-    "info": "\n    <h3>Arena 48</h3>\n    <strong>Ratings:</strong> 4.17 [42]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Football, Yoga<br/>\n    <strong>Phone:</strong> 9553224848<br/>\n    <a href=\"https://z34v4.app.goo.gl/1AM4\" target=\"_blank\">https://z34v4.app.goo.gl/1AM4</a><br/>\n    "
+    "info": "\n    <h3>Arena 48</h3>\n    <strong>Ratings:</strong> 4.14 [43]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Football, Yoga<br/>\n    <strong>Phone:</strong> 9553224848<br/>\n    <a href=\"https://z34v4.app.goo.gl/1AM4\" target=\"_blank\">https://z34v4.app.goo.gl/1AM4</a><br/>\n    "
   },
   {
     "name": "Army Golf Course",
@@ -4614,7 +4614,7 @@
   },
   {
     "name": "Manikonda Sports Club",
-    "ratingCount": 126,
+    "ratingCount": 127,
     "lat": 17.4040689,
     "lng": 78.3729301,
     "rating": 3,
@@ -4623,7 +4623,7 @@
       "Badminton",
       "Basketball"
     ],
-    "info": "\n    <h3>Manikonda Sports Club</h3>\n    <strong>Ratings:</strong> 3.65 [126]<br/>\n    <strong>Sports:</strong> Badminton, Basketball<br/>\n    <strong>Phone:</strong> 8096910063<br/>\n    <a href=\"https://z34v4.app.goo.gl/oGXA\" target=\"_blank\">https://z34v4.app.goo.gl/oGXA</a><br/>\n    "
+    "info": "\n    <h3>Manikonda Sports Club</h3>\n    <strong>Ratings:</strong> 3.66 [127]<br/>\n    <strong>Sports:</strong> Badminton, Basketball<br/>\n    <strong>Phone:</strong> 8096910063<br/>\n    <a href=\"https://z34v4.app.goo.gl/oGXA\" target=\"_blank\">https://z34v4.app.goo.gl/oGXA</a><br/>\n    "
   },
   {
     "name": "Manoj Reddy Swimming Pool",
@@ -6933,11 +6933,8 @@
     "lng": 78.58845,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Beach Volleyball",
-      "Table Tennis"
-    ],
-    "info": "\n    <h3>Sixer Zone</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Table Tennis<br/>\n    <strong>Phone:</strong> 9066551122<br/>\n    <a href=\"https://z34v4.app.goo.gl/9dbg\" target=\"_blank\">https://z34v4.app.goo.gl/9dbg</a><br/>\n    "
+    "filter_by": [],
+    "info": "\n    <h3>Sixer Zone</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9066551122<br/>\n    <a href=\"https://z34v4.app.goo.gl/9dbg\" target=\"_blank\">https://z34v4.app.goo.gl/9dbg</a><br/>\n    "
   },
   {
     "ratingCount": 24,
@@ -7223,7 +7220,7 @@
     "info": "\n    <h3>Sri Raghavendra Sports Estate</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 98660 72133<br/>\n    <a href=\"https://playo.page.link/k8aPL\" target=\"_blank\">https://playo.page.link/k8aPL</a><br/>\n    "
   },
   {
-    "ratingCount": 23,
+    "ratingCount": 25,
     "name": "Sri SK Golden Racket",
     "lat": 17.44558,
     "lng": 78.39128,
@@ -7233,7 +7230,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [23]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
+    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [25]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
   },
   {
     "name": "Sri SM Badminton Club",
