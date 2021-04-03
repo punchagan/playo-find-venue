@@ -3281,14 +3281,15 @@
   },
   {
     "name": "IIT Madras Tennis Courts",
-    "rating": 0,
+    "rating": 5,
+    "ratingCount": 1,
     "lat": 12.9875553,
     "lng": 80.2311971,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Tennis"
     ],
-    "info": "\n    <h3>IIT Madras Tennis Courts</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/wE2Zb\" target=\"_blank\">https://playo.page.link/wE2Zb</a><br/>\n    "
+    "info": "\n    <h3>IIT Madras Tennis Courts</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/wE2Zb\" target=\"_blank\">https://playo.page.link/wE2Zb</a><br/>\n    "
   },
   {
     "name": "IIT Madras Volleyball Court 2",
@@ -4058,6 +4059,19 @@
     "info": "\n    <h3>Lakshmi Diesel Sales & Service</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 44 2489 5509<br/>\n    <a href=\"https://playo.page.link/uaJSZ\" target=\"_blank\">https://playo.page.link/uaJSZ</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "Lal Sports Academy",
+    "lat": 12.9518722,
+    "lng": 80.1696667,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Volleyball"
+    ],
+    "info": "\n    <h3>Lal Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Volleyball<br/>\n    <strong>Phone:</strong> 9176871984<br/>\n    <a href=\"https://z34v4.app.goo.gl/5AfA\" target=\"_blank\">https://z34v4.app.goo.gl/5AfA</a><br/>\n    "
+  },
+  {
     "name": "Le Royal M\u00e9ridien Chennai",
     "rating": 0,
     "lat": 13.0066522,
@@ -4332,9 +4346,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Cricket"
+      "Football"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MRF Pachaiyappa",
@@ -4343,9 +4357,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Football"
+      "Cricket"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",

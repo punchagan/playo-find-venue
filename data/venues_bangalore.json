@@ -190,6 +190,18 @@
     "info": "\n    <h3>Accolades Badminton & Sports Academy</h3>\n    <strong>Ratings:</strong> 3.8 [206]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9380683734<br/>\n    <a href=\"https://z34v4.app.goo.gl/9VXB\" target=\"_blank\">https://z34v4.app.goo.gl/9VXB</a><br/>\n    "
   },
   {
+    "ratingCount": 11,
+    "name": "Ace Battledore",
+    "lat": 13.110098385799455,
+    "lng": 77.55402337076139,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Ace Battledore</h3>\n    <strong>Ratings:</strong> 4.09 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8884404456<br/>\n    <a href=\"https://z34v4.app.goo.gl/6M3o\" target=\"_blank\">https://z34v4.app.goo.gl/6M3o</a><br/>\n    "
+  },
+  {
     "name": "Achieve & Cherish",
     "ratingCount": 84,
     "lat": 12.881394,
@@ -319,10 +331,9 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton",
-      "Football",
-      "Swimming"
+      "Football"
     ],
-    "info": "\n    <h3>Ahalya Sports Arena</h3>\n    <strong>Ratings:</strong> 4.31 [232]<br/>\n    <strong>Sports:</strong> Badminton, Football, Swimming<br/>\n    <strong>Phone:</strong> 9880941111<br/>\n    <a href=\"https://z34v4.app.goo.gl/BeMe\" target=\"_blank\">https://z34v4.app.goo.gl/BeMe</a><br/>\n    "
+    "info": "\n    <h3>Ahalya Sports Arena</h3>\n    <strong>Ratings:</strong> 4.31 [232]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 9880941111<br/>\n    <a href=\"https://z34v4.app.goo.gl/BeMe\" target=\"_blank\">https://z34v4.app.goo.gl/BeMe</a><br/>\n    "
   },
   {
     "name": "Ajmera Basketball Court",
@@ -495,7 +506,7 @@
     "info": "\n    <h3>Annu Sportz Complex</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9900296390<br/>\n    <a href=\"https://z34v4.app.goo.gl/zGLw\" target=\"_blank\">https://z34v4.app.goo.gl/zGLw</a><br/>\n    "
   },
   {
-    "ratingCount": 185,
+    "ratingCount": 186,
     "name": "Aptha Badminton Academy",
     "lat": 12.90857,
     "lng": 77.553275,
@@ -505,7 +516,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Aptha Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.76 [185]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9880770202<br/>\n    <a href=\"https://z34v4.app.goo.gl/1Czz\" target=\"_blank\">https://z34v4.app.goo.gl/1Czz</a><br/>\n    "
+    "info": "\n    <h3>Aptha Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.76 [186]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9880770202<br/>\n    <a href=\"https://z34v4.app.goo.gl/1Czz\" target=\"_blank\">https://z34v4.app.goo.gl/1Czz</a><br/>\n    "
   },
   {
     "name": "Aquila Sports Arena",
@@ -779,7 +790,7 @@
     "info": "\n    <h3>BSG Arena - CV Raman Nagar</h3>\n    <strong>Ratings:</strong> 2.95 [21]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9448901392<br/>\n    <a href=\"https://z34v4.app.goo.gl/EmR9\" target=\"_blank\">https://z34v4.app.goo.gl/EmR9</a><br/>\n    "
   },
   {
-    "ratingCount": 46,
+    "ratingCount": 47,
     "name": "Baddyzone - Haralur",
     "lat": 12.899443,
     "lng": 77.655408,
@@ -788,7 +799,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Baddyzone - Haralur</h3>\n    <strong>Ratings:</strong> 4.41 [46]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9032526301<br/>\n    <a href=\"https://z34v4.app.goo.gl/EwWf\" target=\"_blank\">https://z34v4.app.goo.gl/EwWf</a><br/>\n    "
+    "info": "\n    <h3>Baddyzone - Haralur</h3>\n    <strong>Ratings:</strong> 4.4 [47]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9032526301<br/>\n    <a href=\"https://z34v4.app.goo.gl/EwWf\" target=\"_blank\">https://z34v4.app.goo.gl/EwWf</a><br/>\n    "
   },
   {
     "ratingCount": 43,
@@ -1425,7 +1436,7 @@
   },
   {
     "name": "BreakPoint Pool & Snooker Lounge",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "lat": 12.907942353608119,
     "lng": 77.56100091165673,
     "rating": 5,
@@ -1433,7 +1444,7 @@
     "filter_by": [
       "Pool"
     ],
-    "info": "\n    <h3>BreakPoint Pool & Snooker Lounge</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 9905484818<br/>\n    <a href=\"https://z34v4.app.goo.gl/dMwk\" target=\"_blank\">https://z34v4.app.goo.gl/dMwk</a><br/>\n    "
+    "info": "\n    <h3>BreakPoint Pool & Snooker Lounge</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 9905484818<br/>\n    <a href=\"https://z34v4.app.goo.gl/dMwk\" target=\"_blank\">https://z34v4.app.goo.gl/dMwk</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -2295,6 +2306,18 @@
       "Badminton"
     ],
     "info": "\n    <h3>East Cultural Association</h3>\n    <strong>Ratings:</strong> 1 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 80 2526 2058<br/>\n    <a href=\"https://playo.page.link/JgoZx\" target=\"_blank\">https://playo.page.link/JgoZx</a><br/>\n    "
+  },
+  {
+    "name": "Eesha Badminton Academy",
+    "ratingCount": 30,
+    "lat": 12.917348608781685,
+    "lng": 77.58501619917169,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Eesha Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.43 [30]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8660021325<br/>\n    <a href=\"https://z34v4.app.goo.gl/3FKK\" target=\"_blank\">https://z34v4.app.goo.gl/3FKK</a><br/>\n    "
   },
   {
     "name": "Ekalavya Premier Badminton Academy",
@@ -3878,7 +3901,7 @@
   },
   {
     "name": "Jnana Soudha Badminton Club",
-    "ratingCount": 265,
+    "ratingCount": 266,
     "lat": 12.968487310794192,
     "lng": 77.51886090824924,
     "rating": 3,
@@ -3886,7 +3909,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Jnana Soudha Badminton Club</h3>\n    <strong>Ratings:</strong> 3.7 [265]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9900581182<br/>\n    <a href=\"https://z34v4.app.goo.gl/urKp\" target=\"_blank\">https://z34v4.app.goo.gl/urKp</a><br/>\n    "
+    "info": "\n    <h3>Jnana Soudha Badminton Club</h3>\n    <strong>Ratings:</strong> 3.7 [266]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9900581182<br/>\n    <a href=\"https://z34v4.app.goo.gl/urKp\" target=\"_blank\">https://z34v4.app.goo.gl/urKp</a><br/>\n    "
   },
   {
     "ratingCount": 23,
@@ -5800,12 +5823,12 @@
     "rating": 4,
     "lat": 12.904445219505655,
     "lng": 77.55221455515381,
-    "ratingCount": 8,
+    "ratingCount": 11,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Prakash Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.5 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9845104264<br/>\n    <a href=\"https://z34v4.app.goo.gl/9Esk\" target=\"_blank\">https://z34v4.app.goo.gl/9Esk</a><br/>\n    "
+    "info": "\n    <h3>Prakash Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.45 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9845104264<br/>\n    <a href=\"https://z34v4.app.goo.gl/9Esk\" target=\"_blank\">https://z34v4.app.goo.gl/9Esk</a><br/>\n    "
   },
   {
     "name": "Prakash Tennis Academy",
@@ -5860,7 +5883,7 @@
   },
   {
     "name": "Pro Sports Arena",
-    "ratingCount": 41,
+    "ratingCount": 42,
     "lat": 13.07185,
     "lng": 77.654246,
     "rating": 4,
@@ -5868,7 +5891,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Pro Sports Arena</h3>\n    <strong>Ratings:</strong> 4.9 [41]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8296118881<br/>\n    <a href=\"https://z34v4.app.goo.gl/mE5i\" target=\"_blank\">https://z34v4.app.goo.gl/mE5i</a><br/>\n    "
+    "info": "\n    <h3>Pro Sports Arena</h3>\n    <strong>Ratings:</strong> 4.9 [42]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8296118881<br/>\n    <a href=\"https://z34v4.app.goo.gl/mE5i\" target=\"_blank\">https://z34v4.app.goo.gl/mE5i</a><br/>\n    "
   },
   {
     "ratingCount": 15,
@@ -6406,12 +6429,12 @@
     "info": "\n    <h3>SAMA - The Soccer Turf</h3>\n    <strong>Ratings:</strong> 3.24 [17]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7259563693<br/>\n    <a href=\"https://z34v4.app.goo.gl/3GPd\" target=\"_blank\">https://z34v4.app.goo.gl/3GPd</a><br/>\n    "
   },
   {
-    "ratingCount": 14,
+    "ratingCount": 15,
     "name": "SKN Sports Club",
     "lat": 13.076409,
     "lng": 77.623027,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton",
       "Chess",
@@ -6419,7 +6442,7 @@
       "Table Tennis",
       "Tennis"
     ],
-    "info": "\n    <h3>SKN Sports Club</h3>\n    <strong>Ratings:</strong> 4.14 [14]<br/>\n    <strong>Sports:</strong> Badminton, Chess, Football, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 8431395193<br/>\n    <a href=\"https://z34v4.app.goo.gl/6egx\" target=\"_blank\">https://z34v4.app.goo.gl/6egx</a><br/>\n    "
+    "info": "\n    <h3>SKN Sports Club</h3>\n    <strong>Ratings:</strong> 3.93 [15]<br/>\n    <strong>Sports:</strong> Badminton, Chess, Football, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 8431395193<br/>\n    <a href=\"https://z34v4.app.goo.gl/6egx\" target=\"_blank\">https://z34v4.app.goo.gl/6egx</a><br/>\n    "
   },
   {
     "ratingCount": 222,
@@ -6613,7 +6636,7 @@
     "info": "\n    <h3>Sastha Pools Swimming Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 98809 28853<br/>\n    <a href=\"https://playo.page.link/6y3Lz\" target=\"_blank\">https://playo.page.link/6y3Lz</a><br/>\n    "
   },
   {
-    "ratingCount": 120,
+    "ratingCount": 121,
     "name": "Score Bengaluru Sports Park",
     "lat": 12.881847,
     "lng": 77.636866,
@@ -6626,7 +6649,7 @@
       "Football",
       "Swimming"
     ],
-    "info": "\n    <h3>Score Bengaluru Sports Park</h3>\n    <strong>Ratings:</strong> 3.83 [120]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Beach Volleyball, Football, Swimming<br/>\n    <strong>Phone:</strong> 9880333233<br/>\n    <a href=\"https://z34v4.app.goo.gl/GVXB\" target=\"_blank\">https://z34v4.app.goo.gl/GVXB</a><br/>\n    "
+    "info": "\n    <h3>Score Bengaluru Sports Park</h3>\n    <strong>Ratings:</strong> 3.83 [121]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Beach Volleyball, Football, Swimming<br/>\n    <strong>Phone:</strong> 9880333233<br/>\n    <a href=\"https://z34v4.app.goo.gl/GVXB\" target=\"_blank\">https://z34v4.app.goo.gl/GVXB</a><br/>\n    "
   },
   {
     "name": "Selenite Sports Academy",
@@ -6756,7 +6779,7 @@
   },
   {
     "name": "Shuttle Mania",
-    "ratingCount": 14,
+    "ratingCount": 15,
     "lat": 13.063785966692427,
     "lng": 77.56902221267244,
     "rating": 4,
@@ -6764,7 +6787,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Shuttle Mania</h3>\n    <strong>Ratings:</strong> 4.71 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9611111527<br/>\n    <a href=\"https://z34v4.app.goo.gl/qR1C\" target=\"_blank\">https://z34v4.app.goo.gl/qR1C</a><br/>\n    "
+    "info": "\n    <h3>Shuttle Mania</h3>\n    <strong>Ratings:</strong> 4.73 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9611111527<br/>\n    <a href=\"https://z34v4.app.goo.gl/qR1C\" target=\"_blank\">https://z34v4.app.goo.gl/qR1C</a><br/>\n    "
   },
   {
     "name": "Shuttle Shots",
@@ -6780,7 +6803,7 @@
   },
   {
     "name": "Shuttle Zone Badminton Academy",
-    "ratingCount": 290,
+    "ratingCount": 291,
     "lat": 12.860002,
     "lng": 77.589634,
     "rating": 3,
@@ -6788,7 +6811,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Shuttle Zone Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.36 [290]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/Shpx\" target=\"_blank\">https://z34v4.app.goo.gl/Shpx</a><br/>\n    "
+    "info": "\n    <h3>Shuttle Zone Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.36 [291]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/Shpx\" target=\"_blank\">https://z34v4.app.goo.gl/Shpx</a><br/>\n    "
   },
   {
     "name": "Shuttle court",
@@ -7332,7 +7355,7 @@
   },
   {
     "name": "Sportive Badminton Academy - Horamavu",
-    "ratingCount": 198,
+    "ratingCount": 199,
     "lat": 13.035198,
     "lng": 77.665346,
     "rating": 4,
@@ -7340,7 +7363,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sportive Badminton Academy - Horamavu</h3>\n    <strong>Ratings:</strong> 4.11 [198]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/ZwZE\" target=\"_blank\">https://z34v4.app.goo.gl/ZwZE</a><br/>\n    "
+    "info": "\n    <h3>Sportive Badminton Academy - Horamavu</h3>\n    <strong>Ratings:</strong> 4.1 [199]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/ZwZE\" target=\"_blank\">https://z34v4.app.goo.gl/ZwZE</a><br/>\n    "
   },
   {
     "name": "Sportive Badminton Arena - HSR Layout",
@@ -7356,7 +7379,7 @@
   },
   {
     "name": "Sports Alley",
-    "ratingCount": 346,
+    "ratingCount": 347,
     "lat": 12.876948,
     "lng": 77.605271,
     "rating": 3,
@@ -7365,7 +7388,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Sports Alley</h3>\n    <strong>Ratings:</strong> 3.42 [346]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 8867765115<br/>\n    <a href=\"https://z34v4.app.goo.gl/RVZi\" target=\"_blank\">https://z34v4.app.goo.gl/RVZi</a><br/>\n    "
+    "info": "\n    <h3>Sports Alley</h3>\n    <strong>Ratings:</strong> 3.42 [347]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 8867765115<br/>\n    <a href=\"https://z34v4.app.goo.gl/RVZi\" target=\"_blank\">https://z34v4.app.goo.gl/RVZi</a><br/>\n    "
   },
   {
     "ratingCount": 10,
@@ -7433,7 +7456,7 @@
     "info": "\n    <h3>Sports1 Badminton Academy - Girinagar</h3>\n    <strong>Ratings:</strong> 2.8 [75]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9731263955<br/>\n    <a href=\"https://z34v4.app.goo.gl/3G5g\" target=\"_blank\">https://z34v4.app.goo.gl/3G5g</a><br/>\n    "
   },
   {
-    "ratingCount": 13,
+    "ratingCount": 14,
     "name": "Sports1 Badminton Academy - Hosakerehalli",
     "lat": 12.926278913885875,
     "lng": 77.53840761066608,
@@ -7442,7 +7465,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sports1 Badminton Academy - Hosakerehalli</h3>\n    <strong>Ratings:</strong> 3.54 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9731263955<br/>\n    <a href=\"https://z34v4.app.goo.gl/6tmn\" target=\"_blank\">https://z34v4.app.goo.gl/6tmn</a><br/>\n    "
+    "info": "\n    <h3>Sports1 Badminton Academy - Hosakerehalli</h3>\n    <strong>Ratings:</strong> 3.64 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9731263955<br/>\n    <a href=\"https://z34v4.app.goo.gl/6tmn\" target=\"_blank\">https://z34v4.app.goo.gl/6tmn</a><br/>\n    "
   },
   {
     "name": "SportsGalore",
@@ -7742,7 +7765,7 @@
   },
   {
     "name": "Sunshine Badminton Academy - Nagavara",
-    "ratingCount": 320,
+    "ratingCount": 321,
     "lat": 13.053476,
     "lng": 77.615501,
     "rating": 4,
@@ -7750,7 +7773,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sunshine Badminton Academy - Nagavara</h3>\n    <strong>Ratings:</strong> 4.12 [320]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9494505064<br/>\n    <a href=\"https://z34v4.app.goo.gl/BJ6S\" target=\"_blank\">https://z34v4.app.goo.gl/BJ6S</a><br/>\n    "
+    "info": "\n    <h3>Sunshine Badminton Academy - Nagavara</h3>\n    <strong>Ratings:</strong> 4.11 [321]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9494505064<br/>\n    <a href=\"https://z34v4.app.goo.gl/BJ6S\" target=\"_blank\">https://z34v4.app.goo.gl/BJ6S</a><br/>\n    "
   },
   {
     "name": "Super Park Sports",
@@ -7875,7 +7898,7 @@
   },
   {
     "name": "Synergy Badminton Club",
-    "ratingCount": 52,
+    "ratingCount": 53,
     "lat": 13.075333,
     "lng": 77.631861,
     "rating": 4,
@@ -7883,7 +7906,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Synergy Badminton Club</h3>\n    <strong>Ratings:</strong> 4.15 [52]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9880903061<br/>\n    <a href=\"https://z34v4.app.goo.gl/Kuc4\" target=\"_blank\">https://z34v4.app.goo.gl/Kuc4</a><br/>\n    "
+    "info": "\n    <h3>Synergy Badminton Club</h3>\n    <strong>Ratings:</strong> 4.09 [53]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9880903061<br/>\n    <a href=\"https://z34v4.app.goo.gl/Kuc4\" target=\"_blank\">https://z34v4.app.goo.gl/Kuc4</a><br/>\n    "
   },
   {
     "name": "T G CRICKET PITCH",
@@ -8401,7 +8424,7 @@
   },
   {
     "name": "The Sports Club Bengaluru",
-    "ratingCount": 618,
+    "ratingCount": 619,
     "lat": 12.889769,
     "lng": 77.570759,
     "rating": 3,
@@ -8410,7 +8433,7 @@
       "Badminton",
       "Swimming"
     ],
-    "info": "\n    <h3>The Sports Club Bengaluru</h3>\n    <strong>Ratings:</strong> 3.96 [618]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9880572955<br/>\n    <a href=\"https://z34v4.app.goo.gl/Bzxn\" target=\"_blank\">https://z34v4.app.goo.gl/Bzxn</a><br/>\n    "
+    "info": "\n    <h3>The Sports Club Bengaluru</h3>\n    <strong>Ratings:</strong> 3.96 [619]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9880572955<br/>\n    <a href=\"https://z34v4.app.goo.gl/Bzxn\" target=\"_blank\">https://z34v4.app.goo.gl/Bzxn</a><br/>\n    "
   },
   {
     "ratingCount": 12,
@@ -8682,7 +8705,7 @@
     "info": "\n    <h3>Tulip Swiming Pool</h3>\n    <strong>Ratings:</strong> 1 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/tSTg3\" target=\"_blank\">https://playo.page.link/tSTg3</a><br/>\n    "
   },
   {
-    "ratingCount": 111,
+    "ratingCount": 112,
     "name": "Tumkur Badminton Academy",
     "lat": 13.336752,
     "lng": 77.112526,
@@ -8691,7 +8714,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Tumkur Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.77 [111]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9632779292<br/>\n    <a href=\"https://z34v4.app.goo.gl/3wMb\" target=\"_blank\">https://z34v4.app.goo.gl/3wMb</a><br/>\n    "
+    "info": "\n    <h3>Tumkur Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.77 [112]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9632779292<br/>\n    <a href=\"https://z34v4.app.goo.gl/3wMb\" target=\"_blank\">https://z34v4.app.goo.gl/3wMb</a><br/>\n    "
   },
   {
     "name": "Turf Wars",
