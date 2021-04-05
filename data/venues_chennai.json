@@ -2901,6 +2901,18 @@
     "info": "\n    <h3>Goal And Bowl@91</h3>\n    <strong>Ratings:</strong> 2.88 [8]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9840070091<br/>\n    <a href=\"https://z34v4.app.goo.gl/TaUm\" target=\"_blank\">https://z34v4.app.goo.gl/TaUm</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "name": "Goal-Den Sports Arena",
+    "lat": 12.9074074,
+    "lng": 80.1988767,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Goal-Den Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8825458088<br/>\n    <a href=\"https://z34v4.app.goo.gl/vuPN\" target=\"_blank\">https://z34v4.app.goo.gl/vuPN</a><br/>\n    "
+  },
+  {
     "name": "Gokulam Park Sabari OMR Hotel",
     "rating": 0,
     "lat": 12.8421429,
@@ -4812,14 +4824,15 @@
   },
   {
     "name": "Netfliq Badminton Academy",
-    "rating": 0,
+    "rating": 4,
+    "ratingCount": 1,
     "lat": 12.9528995,
     "lng": 80.2087373,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Netfliq Badminton Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397 220 004<br/>\n    <a href=\"https://playo.page.link/jQPos\" target=\"_blank\">https://playo.page.link/jQPos</a><br/>\n    "
+    "info": "\n    <h3>Netfliq Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397 220 004<br/>\n    <a href=\"https://playo.page.link/jQPos\" target=\"_blank\">https://playo.page.link/jQPos</a><br/>\n    "
   },
   {
     "name": "Netz Cricket",
@@ -4934,6 +4947,21 @@
       "Football"
     ],
     "info": "\n    <h3>OMR Futsal Arena (Turf)</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 96000 93205<br/>\n    <a href=\"https://playo.page.link/uX1vN\" target=\"_blank\">https://playo.page.link/uX1vN</a><br/>\n    "
+  },
+  {
+    "name": "OMR Sports Arena",
+    "ratingCount": 11,
+    "lat": 12.90762,
+    "lng": 80.228112,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Cricket",
+      "Football",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>OMR Sports Arena</h3>\n    <strong>Ratings:</strong> 4.36 [11]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9600093205<br/>\n    <a href=\"https://z34v4.app.goo.gl/MDCq\" target=\"_blank\">https://z34v4.app.goo.gl/MDCq</a><br/>\n    "
   },
   {
     "name": "Olympia opaline tennis court",
