@@ -2287,15 +2287,16 @@
   },
   {
     "name": "Eagle Sports Indoor Academy",
-    "rating": 0,
+    "rating": 5,
+    "ratingCount": 1,
     "lat": 17.4979186,
     "lng": 78.4703147,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Eagle Sports Indoor Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 92470 24000<br/>\n    <a href=\"https://playo.page.link/yWzWh\" target=\"_blank\">https://playo.page.link/yWzWh</a><br/>\n    "
+    "info": "\n    <h3>Eagle Sports Indoor Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 92470 24000<br/>\n    <a href=\"https://playo.page.link/yWzWh\" target=\"_blank\">https://playo.page.link/yWzWh</a><br/>\n    "
   },
   {
     "name": "Eastwood Sports",
@@ -4963,7 +4964,7 @@
   },
   {
     "name": "NVK Sports Arena",
-    "ratingCount": 138,
+    "ratingCount": 139,
     "lat": 17.466975,
     "lng": 78.372118,
     "rating": 3,
@@ -4971,7 +4972,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>NVK Sports Arena</h3>\n    <strong>Ratings:</strong> 3.91 [138]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9391077077<br/>\n    <a href=\"https://z34v4.app.goo.gl/4W6F\" target=\"_blank\">https://z34v4.app.goo.gl/4W6F</a><br/>\n    "
+    "info": "\n    <h3>NVK Sports Arena</h3>\n    <strong>Ratings:</strong> 3.92 [139]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9391077077<br/>\n    <a href=\"https://z34v4.app.goo.gl/4W6F\" target=\"_blank\">https://z34v4.app.goo.gl/4W6F</a><br/>\n    "
   },
   {
     "name": "NVK Tennis Academy, Kondapur",
