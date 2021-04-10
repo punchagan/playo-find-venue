@@ -35,16 +35,16 @@
     "info": "\n    <h3>4S Shuttle Smash Sports Studio - Managed by Flick Sport Center</h3>\n    <strong>Ratings:</strong> 3.87 [205]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9743504189<br/>\n    <a href=\"https://z34v4.app.goo.gl/q1nf\" target=\"_blank\">https://z34v4.app.goo.gl/q1nf</a><br/>\n    "
   },
   {
-    "ratingCount": 9,
+    "ratingCount": 10,
     "name": "A & D Sports",
     "lat": 12.863869,
     "lng": 77.616232,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>A & D Sports</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8050306037<br/>\n    <a href=\"https://z34v4.app.goo.gl/9PDP\" target=\"_blank\">https://z34v4.app.goo.gl/9PDP</a><br/>\n    "
+    "info": "\n    <h3>A & D Sports</h3>\n    <strong>Ratings:</strong> 4.8 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8050306037<br/>\n    <a href=\"https://z34v4.app.goo.gl/9PDP\" target=\"_blank\">https://z34v4.app.goo.gl/9PDP</a><br/>\n    "
   },
   {
     "name": "A1 Sports",
@@ -2096,7 +2096,7 @@
     "info": "\n    <h3>Decathlon Whitefield</h3>\n    <strong>Ratings:</strong> 4.18 [11]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/tJ5E\" target=\"_blank\">https://z34v4.app.goo.gl/tJ5E</a><br/>\n    "
   },
   {
-    "ratingCount": 7,
+    "ratingCount": 8,
     "name": "Dee Sports - Bommanahalli",
     "lat": 12.897381,
     "lng": 77.621996,
@@ -2109,7 +2109,7 @@
       "Swimming",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Dee Sports - Bommanahalli</h3>\n    <strong>Ratings:</strong> 3.86 [7]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Football, Swimming, Table Tennis<br/>\n    <strong>Phone:</strong> 9986354494<br/>\n    <a href=\"https://z34v4.app.goo.gl/Tzb5\" target=\"_blank\">https://z34v4.app.goo.gl/Tzb5</a><br/>\n    "
+    "info": "\n    <h3>Dee Sports - Bommanahalli</h3>\n    <strong>Ratings:</strong> 3.5 [8]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Football, Swimming, Table Tennis<br/>\n    <strong>Phone:</strong> 9986354494<br/>\n    <a href=\"https://z34v4.app.goo.gl/Tzb5\" target=\"_blank\">https://z34v4.app.goo.gl/Tzb5</a><br/>\n    "
   },
   {
     "name": "Defence Colony Children's Park",
@@ -3373,7 +3373,21 @@
   },
   {
     "ratingCount": 2,
-    "name": "Highline Sports - Indoor Badminton Academy",
+    "name": "Hennur Banasawadi Cosmopolitan Club",
+    "lat": 13.021663,
+    "lng": 77.642878,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Squash",
+      "Tennis"
+    ],
+    "info": "\n    <h3>Hennur Banasawadi Cosmopolitan Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Squash, Tennis<br/>\n    <strong>Phone:</strong> 9972840863<br/>\n    <a href=\"https://z34v4.app.goo.gl/SoeA\" target=\"_blank\">https://z34v4.app.goo.gl/SoeA</a><br/>\n    "
+  },
+  {
+    "ratingCount": 2,
+    "name": "Highline Sports Indoor Badminton Academy - Mahadevapura",
     "lat": 12.996959,
     "lng": 77.684337,
     "rating": 5,
@@ -3381,19 +3395,19 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Highline Sports - Indoor Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8095055559<br/>\n    <a href=\"https://z34v4.app.goo.gl/rMBb\" target=\"_blank\">https://z34v4.app.goo.gl/rMBb</a><br/>\n    "
+    "info": "\n    <h3>Highline Sports Indoor Badminton Academy - Mahadevapura</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8095055559<br/>\n    <a href=\"https://z34v4.app.goo.gl/eLnT\" target=\"_blank\">https://z34v4.app.goo.gl/eLnT</a><br/>\n    "
   },
   {
-    "name": "Highline Sports Indoor Badminton Academy",
+    "name": "Highline Sports Indoor Badminton Academy - NRI Layout",
     "ratingCount": 265,
-    "lat": 13.0279451,
-    "lng": 77.6774406,
+    "lat": 13.027964253244154,
+    "lng": 77.67730460567562,
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Highline Sports Indoor Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.73 [265]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9341188001<br/>\n    <a href=\"https://z34v4.app.goo.gl/iG1G\" target=\"_blank\">https://z34v4.app.goo.gl/iG1G</a><br/>\n    "
+    "info": "\n    <h3>Highline Sports Indoor Badminton Academy - NRI Layout</h3>\n    <strong>Ratings:</strong> 4.73 [265]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9341188001<br/>\n    <a href=\"https://z34v4.app.goo.gl/pt2r\" target=\"_blank\">https://z34v4.app.goo.gl/pt2r</a><br/>\n    "
   },
   {
     "name": "Hills Sports & Badminton Academy",
@@ -4930,7 +4944,7 @@
     "info": "\n    <h3>NGV Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 80 2570 2247<br/>\n    <a href=\"https://playo.page.link/GnWkr\" target=\"_blank\">https://playo.page.link/GnWkr</a><br/>\n    "
   },
   {
-    "ratingCount": 53,
+    "ratingCount": 54,
     "name": "NRC Badminton Arena",
     "lat": 12.937688,
     "lng": 77.569563,
@@ -4939,7 +4953,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>NRC Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.32 [53]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9620483815<br/>\n    <a href=\"https://z34v4.app.goo.gl/cfgi\" target=\"_blank\">https://z34v4.app.goo.gl/cfgi</a><br/>\n    "
+    "info": "\n    <h3>NRC Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.3 [54]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9620483815<br/>\n    <a href=\"https://z34v4.app.goo.gl/cfgi\" target=\"_blank\">https://z34v4.app.goo.gl/cfgi</a><br/>\n    "
   },
   {
     "name": "NTTF NEC Basket Ball Court",
@@ -5599,10 +5613,9 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton",
-      "Swimming",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Play Plus</h3>\n    <strong>Ratings:</strong> 4.88 [51]<br/>\n    <strong>Sports:</strong> Badminton, Swimming, Table Tennis<br/>\n    <strong>Phone:</strong> 9605838931<br/>\n    <a href=\"https://z34v4.app.goo.gl/RDgS\" target=\"_blank\">https://z34v4.app.goo.gl/RDgS</a><br/>\n    "
+    "info": "\n    <h3>Play Plus</h3>\n    <strong>Ratings:</strong> 4.88 [51]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9605838931<br/>\n    <a href=\"https://z34v4.app.goo.gl/RDgS\" target=\"_blank\">https://z34v4.app.goo.gl/RDgS</a><br/>\n    "
   },
   {
     "ratingCount": 8,
