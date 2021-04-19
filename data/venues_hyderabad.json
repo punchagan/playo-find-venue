@@ -5459,18 +5459,6 @@
     "info": "\n    <h3>Palladium Cricket Ground</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 99490 70594<br/>\n    <a href=\"https://playo.page.link/awGZk\" target=\"_blank\">https://playo.page.link/awGZk</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
-    "name": "Park N Play",
-    "lat": 17.496669,
-    "lng": 78.56608,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>Park N Play</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9177774440<br/>\n    <a href=\"https://z34v4.app.goo.gl/DGna\" target=\"_blank\">https://z34v4.app.goo.gl/DGna</a><br/>\n    "
-  },
-  {
     "name": "Patel Play Ground",
     "rating": 0,
     "lat": 17.3505349,
@@ -7042,6 +7030,18 @@
       "Swimming"
     ],
     "info": "\n    <h3>Splash in Swimming Pool</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 9912122250<br/>\n    <a href=\"https://z34v4.app.goo.gl/1aGw\" target=\"_blank\">https://z34v4.app.goo.gl/1aGw</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "name": "Spofit",
+    "lat": 17.496669,
+    "lng": 78.56608,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Spofit</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9177774440<br/>\n    <a href=\"https://z34v4.app.goo.gl/DGna\" target=\"_blank\">https://z34v4.app.goo.gl/DGna</a><br/>\n    "
   },
   {
     "ratingCount": 39,
