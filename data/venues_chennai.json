@@ -1065,6 +1065,18 @@
     "info": "\n    <h3>Bethesda Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 98409 73331<br/>\n    <a href=\"https://playo.page.link/fo4pe\" target=\"_blank\">https://playo.page.link/fo4pe</a><br/>\n    "
   },
   {
+    "ratingCount": 2,
+    "name": "Beyond Wickets",
+    "lat": 12.9028368,
+    "lng": 80.2330431,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Beyond Wickets</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9566252121<br/>\n    <a href=\"https://z34v4.app.goo.gl/pRj8\" target=\"_blank\">https://z34v4.app.goo.gl/pRj8</a><br/>\n    "
+  },
+  {
     "name": "Bhavan's Rajaji Vidyashram",
     "rating": 0,
     "lat": 13.0842603,
@@ -5644,6 +5656,18 @@
       "Basketball"
     ],
     "info": "\n    <h3>Rec Basket Ball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/85Uj8\" target=\"_blank\">https://playo.page.link/85Uj8</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Red Feathers Badminton Academy",
+    "lat": 13.0994171,
+    "lng": 80.1358318,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Red Feathers Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9962450465<br/>\n    <a href=\"https://z34v4.app.goo.gl/JCDK\" target=\"_blank\">https://z34v4.app.goo.gl/JCDK</a><br/>\n    "
   },
   {
     "name": "Red15 Entertainment (Snooker/Billiards/Table Tennis/Pool Game)",
