@@ -3790,6 +3790,18 @@
     "info": "\n    <h3>K2 Badminton Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/SGOu\" target=\"_blank\">https://z34v4.app.goo.gl/SGOu</a><br/>\n    "
   },
   {
+    "name": "K2 Badminton Club",
+    "ratingCount": 1,
+    "lat": 13.019665,
+    "lng": 80.129758,
+    "rating": 2,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>K2 Badminton Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/SGOu\" target=\"_blank\">https://z34v4.app.goo.gl/SGOu</a><br/>\n    "
+  },
+  {
     "name": "KCG volleyball court -1",
     "rating": 5,
     "ratingCount": 1,
@@ -5230,6 +5242,18 @@
     "info": "\n    <h3>Planet Adventure's Jus' Play</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 96000 16350<br/>\n    <a href=\"https://playo.page.link/TvpVe\" target=\"_blank\">https://playo.page.link/TvpVe</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "name": "PlayFactory 24x7",
+    "lat": 13.0931242,
+    "lng": 80.1044769,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>PlayFactory 24x7</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9445745993<br/>\n    <a href=\"https://z34v4.app.goo.gl/NRPi\" target=\"_blank\">https://z34v4.app.goo.gl/NRPi</a><br/>\n    "
+  },
+  {
     "name": "Plaza Tranquill Play Ground",
     "rating": 0,
     "lat": 12.9464828,
@@ -6286,18 +6310,6 @@
     "info": "\n    <h3>Sarguru Sports Academy</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/yRuR\" target=\"_blank\">https://z34v4.app.goo.gl/yRuR</a><br/>\n    "
   },
   {
-    "name": "Sarguru Sports Academy",
-    "ratingCount": 1,
-    "lat": 13.025352,
-    "lng": 80.1325967,
-    "rating": 2,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Sarguru Sports Academy</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/yRuR\" target=\"_blank\">https://z34v4.app.goo.gl/yRuR</a><br/>\n    "
-  },
-  {
     "name": "Sasha Badminton Academy",
     "ratingCount": 3,
     "lat": 13.0212664,
@@ -6626,6 +6638,18 @@
       "Badminton"
     ],
     "info": "\n    <h3>Skills Badminton Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 96555 62995<br/>\n    <a href=\"https://playo.page.link/Zybjv\" target=\"_blank\">https://playo.page.link/Zybjv</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Skyarc Badminton Academy",
+    "lat": 13.1385775,
+    "lng": 80.241487,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Skyarc Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9042900954<br/>\n    <a href=\"https://z34v4.app.goo.gl/ssqQ\" target=\"_blank\">https://z34v4.app.goo.gl/ssqQ</a><br/>\n    "
   },
   {
     "name": "Skylap Badminton",
