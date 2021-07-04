@@ -149,7 +149,7 @@
     "info": "\n    <h3>ACZ Tennis Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/eDRxg\" target=\"_blank\">https://playo.page.link/eDRxg</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
+    "ratingCount": 2,
     "name": "AG SPORTS CLUB",
     "lat": 17.51089,
     "lng": 78.37727,
@@ -161,7 +161,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>AG SPORTS CLUB</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9440767868<br/>\n    <a href=\"https://z34v4.app.goo.gl/kKVo\" target=\"_blank\">https://z34v4.app.goo.gl/kKVo</a><br/>\n    "
+    "info": "\n    <h3>AG SPORTS CLUB</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9440767868<br/>\n    <a href=\"https://z34v4.app.goo.gl/kKVo\" target=\"_blank\">https://z34v4.app.goo.gl/kKVo</a><br/>\n    "
   },
   {
     "name": "AGA Tennis Academy",
@@ -3127,7 +3127,7 @@
     "info": "\n    <h3>Gagan Mahal Grounds</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/QmVLY\" target=\"_blank\">https://playo.page.link/QmVLY</a><br/>\n    "
   },
   {
-    "ratingCount": 10,
+    "ratingCount": 12,
     "name": "Gamers Den",
     "lat": 17.408842,
     "lng": 78.386871,
@@ -3138,7 +3138,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Gamers Den</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8919051572<br/>\n    <a href=\"https://z34v4.app.goo.gl/xpfu\" target=\"_blank\">https://z34v4.app.goo.gl/xpfu</a><br/>\n    "
+    "info": "\n    <h3>Gamers Den</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8919051572<br/>\n    <a href=\"https://z34v4.app.goo.gl/xpfu\" target=\"_blank\">https://z34v4.app.goo.gl/xpfu</a><br/>\n    "
   },
   {
     "name": "Gandhi Medical College Girls Basket Ball Court",
@@ -4441,7 +4441,7 @@
     "info": "\n    <h3>Lions Club volley Ball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/G5Dnb\" target=\"_blank\">https://playo.page.link/G5Dnb</a><br/>\n    "
   },
   {
-    "ratingCount": 2,
+    "ratingCount": 3,
     "name": "Lokspor Arena @ Spin",
     "lat": 17.455599,
     "lng": 78.385462,
@@ -4452,7 +4452,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Lokspor Arena @ Spin</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100010990<br/>\n    <a href=\"https://z34v4.app.goo.gl/yQwH\" target=\"_blank\">https://z34v4.app.goo.gl/yQwH</a><br/>\n    "
+    "info": "\n    <h3>Lokspor Arena @ Spin</h3>\n    <strong>Ratings:</strong> 4 [3]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100010990<br/>\n    <a href=\"https://z34v4.app.goo.gl/yQwH\" target=\"_blank\">https://z34v4.app.goo.gl/yQwH</a><br/>\n    "
   },
   {
     "ratingCount": 38,
@@ -6729,6 +6729,18 @@
     "info": "\n    <h3>SL Playzone</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8074331636<br/>\n    <a href=\"https://z34v4.app.goo.gl/yhrr\" target=\"_blank\">https://z34v4.app.goo.gl/yhrr</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "name": "SLV Badminton Academy",
+    "lat": 17.518799,
+    "lng": 78.3816118,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>SLV Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9928743456<br/>\n    <a href=\"https://z34v4.app.goo.gl/gnYz\" target=\"_blank\">https://z34v4.app.goo.gl/gnYz</a><br/>\n    "
+  },
+  {
     "name": "SM 6 POCKET SNOOKER PARLOUR",
     "rating": 0,
     "lat": 17.3997341,
@@ -7528,7 +7540,7 @@
     "info": "\n    <h3>Speed Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.92 [39]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9966449455<br/>\n    <a href=\"https://z34v4.app.goo.gl/FY64\" target=\"_blank\">https://z34v4.app.goo.gl/FY64</a><br/>\n    "
   },
   {
-    "ratingCount": 12,
+    "ratingCount": 14,
     "name": "Spin Table Tennis Arena & PS5 gaming",
     "lat": 17.40388,
     "lng": 78.40858,
@@ -7537,7 +7549,7 @@
     "filter_by": [
       "Table Tennis"
     ],
-    "info": "\n    <h3>Spin Table Tennis Arena & PS5 gaming</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9390243251<br/>\n    <a href=\"https://z34v4.app.goo.gl/K2FA\" target=\"_blank\">https://z34v4.app.goo.gl/K2FA</a><br/>\n    "
+    "info": "\n    <h3>Spin Table Tennis Arena & PS5 gaming</h3>\n    <strong>Ratings:</strong> 5 [14]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9390243251<br/>\n    <a href=\"https://z34v4.app.goo.gl/K2FA\" target=\"_blank\">https://z34v4.app.goo.gl/K2FA</a><br/>\n    "
   },
   {
     "name": "Splash",
