@@ -4216,7 +4216,7 @@
   },
   {
     "name": "KLV Badminton Club",
-    "ratingCount": 297,
+    "ratingCount": 298,
     "lat": 17.491991,
     "lng": 78.380317,
     "rating": 4,
@@ -4225,7 +4225,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>KLV Badminton Club</h3>\n    <strong>Ratings:</strong> 4.48 [297]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9246548196<br/>\n    <a href=\"https://z34v4.app.goo.gl/kwMR\" target=\"_blank\">https://z34v4.app.goo.gl/kwMR</a><br/>\n    "
+    "info": "\n    <h3>KLV Badminton Club</h3>\n    <strong>Ratings:</strong> 4.48 [298]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9246548196<br/>\n    <a href=\"https://z34v4.app.goo.gl/kwMR\" target=\"_blank\">https://z34v4.app.goo.gl/kwMR</a><br/>\n    "
   },
   {
     "name": "KMK TENNIS ACADEMY",
@@ -6857,6 +6857,18 @@
     "info": "\n    <h3>SMR swimming pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/4XuAy\" target=\"_blank\">https://playo.page.link/4XuAy</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "SN Sports Zone",
+    "lat": 17.37998,
+    "lng": 78.56947,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>SN Sports Zone</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8522931716<br/>\n    <a href=\"https://z34v4.app.goo.gl/qnfi\" target=\"_blank\">https://z34v4.app.goo.gl/qnfi</a><br/>\n    "
+  },
+  {
     "name": "SPORTS VILLAGE",
     "rating": 0,
     "lat": 17.417258,
@@ -8865,6 +8877,19 @@
       "Swimming"
     ],
     "info": "\n    <h3>The Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 40 4848 1234<br/>\n    <a href=\"https://playo.page.link/3huCv\" target=\"_blank\">https://playo.page.link/3huCv</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "name": "The Turf",
+    "lat": 17.50894,
+    "lng": 78.33589,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>The Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7093693864<br/>\n    <a href=\"https://z34v4.app.goo.gl/AwXE\" target=\"_blank\">https://z34v4.app.goo.gl/AwXE</a><br/>\n    "
   },
   {
     "name": "The Wall Cricket Ground & Academy",
