@@ -1606,6 +1606,18 @@
     "info": "\n    <h3>C3 - Cherry Cricket Club</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 77992 43397<br/>\n    <a href=\"https://playo.page.link/s1mpK\" target=\"_blank\">https://playo.page.link/s1mpK</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "name": "C5 SPORTS ARENA",
+    "lat": 17.33737,
+    "lng": 78.53835,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>C5 SPORTS ARENA</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9030096566<br/>\n    <a href=\"https://z34v4.app.goo.gl/Yhzi\" target=\"_blank\">https://z34v4.app.goo.gl/Yhzi</a><br/>\n    "
+  },
+  {
     "name": "CA Football Field",
     "rating": 0,
     "lat": 17.4260427,
@@ -3120,15 +3132,15 @@
   },
   {
     "name": "GVK Tennis Academy",
-    "rating": 4,
-    "ratingCount": 1,
+    "rating": 3,
+    "ratingCount": 2,
     "lat": 17.4288884,
     "lng": 78.416072,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Tennis"
     ],
-    "info": "\n    <h3>GVK Tennis Academy</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 83319 63880<br/>\n    <a href=\"https://playo.page.link/e6MJX\" target=\"_blank\">https://playo.page.link/e6MJX</a><br/>\n    "
+    "info": "\n    <h3>GVK Tennis Academy</h3>\n    <strong>Ratings:</strong> 3.5 [2]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 83319 63880<br/>\n    <a href=\"https://playo.page.link/e6MJX\" target=\"_blank\">https://playo.page.link/e6MJX</a><br/>\n    "
   },
   {
     "name": "GaMeX",
@@ -7842,7 +7854,7 @@
   },
   {
     "name": "Sri SM Badminton Club",
-    "ratingCount": 188,
+    "ratingCount": 189,
     "lat": 17.461513,
     "lng": 78.361574,
     "rating": 4,
@@ -7850,7 +7862,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sri SM Badminton Club</h3>\n    <strong>Ratings:</strong> 4.16 [188]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8555845789<br/>\n    <a href=\"https://z34v4.app.goo.gl/N3aH\" target=\"_blank\">https://z34v4.app.goo.gl/N3aH</a><br/>\n    "
+    "info": "\n    <h3>Sri SM Badminton Club</h3>\n    <strong>Ratings:</strong> 4.17 [189]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8555845789<br/>\n    <a href=\"https://z34v4.app.goo.gl/N3aH\" target=\"_blank\">https://z34v4.app.goo.gl/N3aH</a><br/>\n    "
   },
   {
     "name": "Sri Sai Badminton Stadium",

@@ -12,7 +12,7 @@
     "info": "\n    <h3>21.B Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/pQwyi\" target=\"_blank\">https://playo.page.link/pQwyi</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
+    "ratingCount": 2,
     "name": "33 Yards",
     "lat": 13.144637,
     "lng": 80.104034,
@@ -22,7 +22,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>33 Yards</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8807866717<br/>\n    <a href=\"https://z34v4.app.goo.gl/kVfZ\" target=\"_blank\">https://z34v4.app.goo.gl/kVfZ</a><br/>\n    "
+    "info": "\n    <h3>33 Yards</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8807866717<br/>\n    <a href=\"https://z34v4.app.goo.gl/kVfZ\" target=\"_blank\">https://z34v4.app.goo.gl/kVfZ</a><br/>\n    "
   },
   {
     "name": "360 Plus Club",
@@ -2804,6 +2804,18 @@
     "info": "\n    <h3>Game on terrace football and cricket</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 99403 91008<br/>\n    <a href=\"https://playo.page.link/QNN3S\" target=\"_blank\">https://playo.page.link/QNN3S</a><br/>\n    "
   },
   {
+    "name": "Gamez to Fly Badminton Academy",
+    "ratingCount": 4,
+    "lat": 13.031597,
+    "lng": 80.15954,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Gamez to Fly Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9789909852<br/>\n    <a href=\"https://z34v4.app.goo.gl/aWD4\" target=\"_blank\">https://z34v4.app.goo.gl/aWD4</a><br/>\n    "
+  },
+  {
     "name": "Gandhi Nagar Club",
     "rating": 0,
     "lat": 13.0100285,
@@ -3575,7 +3587,7 @@
   },
   {
     "name": "Jai Hindh Badminton Academy",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "lat": 13.0293328,
     "lng": 80.1817648,
     "rating": 4,
@@ -3583,7 +3595,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Jai Hindh Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.33 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/IZHK\" target=\"_blank\">https://z34v4.app.goo.gl/IZHK</a><br/>\n    "
+    "info": "\n    <h3>Jai Hindh Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.43 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/IZHK\" target=\"_blank\">https://z34v4.app.goo.gl/IZHK</a><br/>\n    "
   },
   {
     "name": "Jai Kasthuri Arranganadhan Sports Academy",
