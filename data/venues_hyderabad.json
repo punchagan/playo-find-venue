@@ -329,18 +329,6 @@
     "info": "\n    <h3>Abhiram Cricket County</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket, Swimming<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/imh3S\" target=\"_blank\">https://playo.page.link/imh3S</a><br/>\n    "
   },
   {
-    "name": "Ace Sports Club",
-    "ratingCount": 267,
-    "lat": 17.485739,
-    "lng": 78.374957,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Ace Sports Club</h3>\n    <strong>Ratings:</strong> 4.02 [267]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9963441616<br/>\n    <a href=\"https://z34v4.app.goo.gl/HhPG\" target=\"_blank\">https://z34v4.app.goo.gl/HhPG</a><br/>\n    "
-  },
-  {
     "name": "Ace Tennis Academy",
     "ratingCount": 6,
     "lat": 17.4347511,
@@ -3989,6 +3977,18 @@
   },
   {
     "ratingCount": 1,
+    "name": "Indian Badminton Academy",
+    "lat": 17.39803,
+    "lng": 78.36936,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Indian Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9849048586<br/>\n    <a href=\"https://z34v4.app.goo.gl/enHh\" target=\"_blank\">https://z34v4.app.goo.gl/enHh</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
     "name": "Indiana Cricket Academy",
     "lat": 17.48081,
     "lng": 78.41432,
@@ -4296,6 +4296,19 @@
       "Badminton"
     ],
     "info": "\n    <h3>KVR Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.94 [16]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8008800511<br/>\n    <a href=\"https://z34v4.app.goo.gl/aAdW\" target=\"_blank\">https://z34v4.app.goo.gl/aAdW</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "name": "Karnival",
+    "lat": 17.47793,
+    "lng": 78.47323,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Beach Volleyball",
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Karnival</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket<br/>\n    <strong>Phone:</strong> 9182176835<br/>\n    <a href=\"https://z34v4.app.goo.gl/yCFj\" target=\"_blank\">https://z34v4.app.goo.gl/yCFj</a><br/>\n    "
   },
   {
     "name": "Kayns Badminton Arena and Gym",
@@ -6293,7 +6306,7 @@
   },
   {
     "name": "RRC Multipurpose Indoor Stadium",
-    "ratingCount": 28,
+    "ratingCount": 29,
     "lat": 17.43941,
     "lng": 78.51474,
     "rating": 4,
@@ -6301,7 +6314,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>RRC Multipurpose Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.11 [28]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7680910999<br/>\n    <a href=\"https://z34v4.app.goo.gl/XS6i\" target=\"_blank\">https://z34v4.app.goo.gl/XS6i</a><br/>\n    "
+    "info": "\n    <h3>RRC Multipurpose Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.14 [29]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7680910999<br/>\n    <a href=\"https://z34v4.app.goo.gl/XS6i\" target=\"_blank\">https://z34v4.app.goo.gl/XS6i</a><br/>\n    "
   },
   {
     "name": "RRC Swimming Pool Vishwamanya Swimming Academy",
@@ -7294,6 +7307,18 @@
     "info": "\n    <h3>Shallal farmhouse</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 92468 85350<br/>\n    <a href=\"https://playo.page.link/3kwUE\" target=\"_blank\">https://playo.page.link/3kwUE</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "name": "Shashidhar Badminton Academy",
+    "lat": 17.526279,
+    "lng": 78.543425,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Shashidhar Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9398170220<br/>\n    <a href=\"https://z34v4.app.goo.gl/pBwg\" target=\"_blank\">https://z34v4.app.goo.gl/pBwg</a><br/>\n    "
+  },
+  {
     "name": "Shiv Shankar Football Stadium",
     "rating": 0,
     "lat": 17.3794131,
@@ -7840,7 +7865,7 @@
     "info": "\n    <h3>Sri Raghavendra Sports Estate</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 98660 72133<br/>\n    <a href=\"https://playo.page.link/k8aPL\" target=\"_blank\">https://playo.page.link/k8aPL</a><br/>\n    "
   },
   {
-    "ratingCount": 30,
+    "ratingCount": 31,
     "name": "Sri SK Golden Racket",
     "lat": 17.44558,
     "lng": 78.39128,
@@ -7850,7 +7875,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [30]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
+    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [31]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
   },
   {
     "name": "Sri SM Badminton Club",
@@ -10026,6 +10051,19 @@
       "Cricket"
     ],
     "info": "\n    <h3>Yellaiah Cricket Ground</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9052223677<br/>\n    <a href=\"https://playo.page.link/YQycC\" target=\"_blank\">https://playo.page.link/YQycC</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Ysportz Arena",
+    "lat": 17.50016,
+    "lng": 78.59306,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Ysportz Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9951707076<br/>\n    <a href=\"https://z34v4.app.goo.gl/FypD\" target=\"_blank\">https://z34v4.app.goo.gl/FypD</a><br/>\n    "
   },
   {
     "name": "Zaheer Memorial Volleyball Court",
