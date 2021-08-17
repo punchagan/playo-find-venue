@@ -23,7 +23,7 @@
   },
   {
     "name": "36 Racquet Badminton Academy",
-    "ratingCount": 83,
+    "ratingCount": 84,
     "lat": 17.431244,
     "lng": 78.542041,
     "rating": 4,
@@ -31,7 +31,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>36 Racquet Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.36 [83]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9490633636<br/>\n    <a href=\"https://z34v4.app.goo.gl/mycW\" target=\"_blank\">https://z34v4.app.goo.gl/mycW</a><br/>\n    "
+    "info": "\n    <h3>36 Racquet Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.37 [84]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9490633636<br/>\n    <a href=\"https://z34v4.app.goo.gl/mycW\" target=\"_blank\">https://z34v4.app.goo.gl/mycW</a><br/>\n    "
   },
   {
     "name": "5 Sports Indoor Badminton Club",
@@ -6723,6 +6723,19 @@
     "info": "\n    <h3>Roshika swimming pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 93923 85610<br/>\n    <a href=\"https://playo.page.link/F22dT\" target=\"_blank\">https://playo.page.link/F22dT</a><br/>\n    "
   },
   {
+    "ratingCount": 2,
+    "name": "Royal Sports Arena",
+    "lat": 17.3757,
+    "lng": 78.53839,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Royal Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8121809390<br/>\n    <a href=\"https://z34v4.app.goo.gl/8Wi1\" target=\"_blank\">https://z34v4.app.goo.gl/8Wi1</a><br/>\n    "
+  },
+  {
     "name": "Runway 9",
     "ratingCount": 3,
     "lat": 17.5351483,
@@ -8357,9 +8370,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
-      "Football"
+      "Football",
+      "Volleyball"
     ],
-    "info": "\n    <h3>Swing Zone</h3>\n    <strong>Ratings:</strong> 4.5 [14]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9700546599<br/>\n    <a href=\"https://z34v4.app.goo.gl/yQB6\" target=\"_blank\">https://z34v4.app.goo.gl/yQB6</a><br/>\n    "
+    "info": "\n    <h3>Swing Zone</h3>\n    <strong>Ratings:</strong> 4.5 [14]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9700546599<br/>\n    <a href=\"https://z34v4.app.goo.gl/yQB6\" target=\"_blank\">https://z34v4.app.goo.gl/yQB6</a><br/>\n    "
   },
   {
     "name": "T V R Sports Club And Resorts",
@@ -9480,7 +9494,7 @@
     "info": "\n    <h3>VSK Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.33 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7386688874<br/>\n    <a href=\"https://z34v4.app.goo.gl/HThL\" target=\"_blank\">https://z34v4.app.goo.gl/HThL</a><br/>\n    "
   },
   {
-    "ratingCount": 5,
+    "ratingCount": 6,
     "name": "VV BOX CRICKET",
     "lat": 17.378,
     "lng": 78.55637,
@@ -9490,7 +9504,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>VV BOX CRICKET</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8106484372<br/>\n    <a href=\"https://z34v4.app.goo.gl/ST3H\" target=\"_blank\">https://z34v4.app.goo.gl/ST3H</a><br/>\n    "
+    "info": "\n    <h3>VV BOX CRICKET</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8106484372<br/>\n    <a href=\"https://z34v4.app.goo.gl/ST3H\" target=\"_blank\">https://z34v4.app.goo.gl/ST3H</a><br/>\n    "
   },
   {
     "name": "Vardhaman Cricket Ground",
