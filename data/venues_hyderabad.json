@@ -1781,6 +1781,19 @@
     "info": "\n    <h3>Cage Cricket</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/keDsx\" target=\"_blank\">https://playo.page.link/keDsx</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "Cairo Box Cricket",
+    "lat": 17.38897,
+    "lng": 78.56233,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Cairo Box Cricket</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8106910030<br/>\n    <a href=\"https://z34v4.app.goo.gl/BS3V\" target=\"_blank\">https://z34v4.app.goo.gl/BS3V</a><br/>\n    "
+  },
+  {
     "name": "Carlton Badminton",
     "rating": 0,
     "lat": 17.4314277,
@@ -5223,7 +5236,7 @@
     "info": "\n    <h3>Melgiri Cricket Ground</h3>\n    <strong>Ratings:</strong> 3.75 [4]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/SoT2\" target=\"_blank\">https://z34v4.app.goo.gl/SoT2</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
+    "ratingCount": 2,
     "name": "Metro Sports Lounge",
     "lat": 17.385155,
     "lng": 78.558228,
@@ -5234,7 +5247,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Metro Sports Lounge</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9859856677<br/>\n    <a href=\"https://z34v4.app.goo.gl/fFGu\" target=\"_blank\">https://z34v4.app.goo.gl/fFGu</a><br/>\n    "
+    "info": "\n    <h3>Metro Sports Lounge</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9859856677<br/>\n    <a href=\"https://z34v4.app.goo.gl/fFGu\" target=\"_blank\">https://z34v4.app.goo.gl/fFGu</a><br/>\n    "
   },
   {
     "name": "Metro Swimming Pool",
