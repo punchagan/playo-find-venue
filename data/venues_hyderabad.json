@@ -1781,17 +1781,17 @@
     "info": "\n    <h3>Cage Cricket</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/keDsx\" target=\"_blank\">https://playo.page.link/keDsx</a><br/>\n    "
   },
   {
-    "ratingCount": 0,
+    "ratingCount": 1,
     "name": "Cairo Box Cricket",
     "lat": 17.38897,
     "lng": 78.56233,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Cairo Box Cricket</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8106910030<br/>\n    <a href=\"https://z34v4.app.goo.gl/BS3V\" target=\"_blank\">https://z34v4.app.goo.gl/BS3V</a><br/>\n    "
+    "info": "\n    <h3>Cairo Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8106910030<br/>\n    <a href=\"https://z34v4.app.goo.gl/BS3V\" target=\"_blank\">https://z34v4.app.goo.gl/BS3V</a><br/>\n    "
   },
   {
     "name": "Carlton Badminton",
@@ -3240,18 +3240,6 @@
     "info": "\n    <h3>Ganesh Raman Tennis Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 80191 12865<br/>\n    <a href=\"https://playo.page.link/4AqKF\" target=\"_blank\">https://playo.page.link/4AqKF</a><br/>\n    "
   },
   {
-    "name": "Ganguly Prasad Badminton Academy",
-    "ratingCount": 4,
-    "lat": 17.2321556,
-    "lng": 78.5820714,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Ganguly Prasad Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.25 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9632800557<br/>\n    <a href=\"https://z34v4.app.goo.gl/BLtC\" target=\"_blank\">https://z34v4.app.goo.gl/BLtC</a><br/>\n    "
-  },
-  {
     "ratingCount": 4,
     "name": "Ganna Rahul(GR) Cricket Ground",
     "lat": 17.364585,
@@ -4038,7 +4026,7 @@
     "info": "\n    <h3>INFY Volleyball Courts</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/iSqkf\" target=\"_blank\">https://playo.page.link/iSqkf</a><br/>\n    "
   },
   {
-    "ratingCount": 10,
+    "ratingCount": 11,
     "name": "Indian Badminton Academy",
     "lat": 17.39803,
     "lng": 78.36936,
@@ -4047,7 +4035,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Indian Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.8 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9849048586<br/>\n    <a href=\"https://z34v4.app.goo.gl/enHh\" target=\"_blank\">https://z34v4.app.goo.gl/enHh</a><br/>\n    "
+    "info": "\n    <h3>Indian Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.82 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9849048586<br/>\n    <a href=\"https://z34v4.app.goo.gl/enHh\" target=\"_blank\">https://z34v4.app.goo.gl/enHh</a><br/>\n    "
   },
   {
     "ratingCount": 1,
@@ -4554,6 +4542,19 @@
     "info": "\n    <h3>Legala Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 091000 41019<br/>\n    <a href=\"https://playo.page.link/ym9Wf\" target=\"_blank\">https://playo.page.link/ym9Wf</a><br/>\n    "
   },
   {
+    "ratingCount": 2,
+    "name": "Leo 11 Sports Ground and Academy",
+    "lat": 17.39972,
+    "lng": 78.40716,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Leo 11 Sports Ground and Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9666972207<br/>\n    <a href=\"https://z34v4.app.goo.gl/VRjp\" target=\"_blank\">https://z34v4.app.goo.gl/VRjp</a><br/>\n    "
+  },
+  {
     "name": "Lepaksh Badminton Court",
     "ratingCount": 26,
     "lat": 17.357488,
@@ -4829,6 +4830,19 @@
       "Basketball"
     ],
     "info": "\n    <h3>MGIT Baseketball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/Xf7Rw\" target=\"_blank\">https://playo.page.link/Xf7Rw</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "MIDFIELD SPORTS ARENA",
+    "lat": 17.34113,
+    "lng": 78.42672,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>MIDFIELD SPORTS ARENA</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8143155915<br/>\n    <a href=\"https://z34v4.app.goo.gl/oaju\" target=\"_blank\">https://z34v4.app.goo.gl/oaju</a><br/>\n    "
   },
   {
     "name": "MK's Badminton Academy",
@@ -5518,18 +5532,6 @@
       "Cricket"
     ],
     "info": "\n    <h3>Narapally Cricket Ground</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 78939 36373<br/>\n    <a href=\"https://playo.page.link/6rPz7\" target=\"_blank\">https://playo.page.link/6rPz7</a><br/>\n    "
-  },
-  {
-    "ratingCount": 16,
-    "name": "Near Me Indoor Games",
-    "lat": 17.400527,
-    "lng": 78.380873,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Table Tennis"
-    ],
-    "info": "\n    <h3>Near Me Indoor Games</h3>\n    <strong>Ratings:</strong> 5 [16]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9381128940<br/>\n    <a href=\"https://z34v4.app.goo.gl/TsUc\" target=\"_blank\">https://z34v4.app.goo.gl/TsUc</a><br/>\n    "
   },
   {
     "name": "Nehru Ground Nehru Nagar",
