@@ -1818,17 +1818,17 @@
     "info": "\n    <h3>Carnival Club Badminton Court</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Badminton, Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/w750\" target=\"_blank\">https://z34v4.app.goo.gl/w750</a><br/>\n    "
   },
   {
-    "ratingCount": 0,
+    "ratingCount": 1,
     "name": "Caspian Sports Arena",
     "lat": 17.31699,
     "lng": 78.54884,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Volleyball"
     ],
-    "info": "\n    <h3>Caspian Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 7093109393<br/>\n    <a href=\"https://z34v4.app.goo.gl/7Y1K\" target=\"_blank\">https://z34v4.app.goo.gl/7Y1K</a><br/>\n    "
+    "info": "\n    <h3>Caspian Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 7093109393<br/>\n    <a href=\"https://z34v4.app.goo.gl/7Y1K\" target=\"_blank\">https://z34v4.app.goo.gl/7Y1K</a><br/>\n    "
   },
   {
     "name": "Central Cricket Ground",
@@ -4120,6 +4120,18 @@
     "info": "\n    <h3>J S Reddy Gardens</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/sgqZK\" target=\"_blank\">https://playo.page.link/sgqZK</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "name": "J.S Box Cricket",
+    "lat": 17.36787,
+    "lng": 78.55299,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>J.S Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8106785974<br/>\n    <a href=\"https://z34v4.app.goo.gl/paEu\" target=\"_blank\">https://z34v4.app.goo.gl/paEu</a><br/>\n    "
+  },
+  {
     "name": "JBO Swimming Pool",
     "rating": 0,
     "lat": 17.3548847,
@@ -5091,7 +5103,7 @@
   },
   {
     "name": "Manikonda Sports Club",
-    "ratingCount": 132,
+    "ratingCount": 133,
     "lat": 17.4040689,
     "lng": 78.3729301,
     "rating": 3,
@@ -5100,7 +5112,7 @@
       "Badminton",
       "Swimming"
     ],
-    "info": "\n    <h3>Manikonda Sports Club</h3>\n    <strong>Ratings:</strong> 3.62 [132]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 8096910063<br/>\n    <a href=\"https://z34v4.app.goo.gl/oGXA\" target=\"_blank\">https://z34v4.app.goo.gl/oGXA</a><br/>\n    "
+    "info": "\n    <h3>Manikonda Sports Club</h3>\n    <strong>Ratings:</strong> 3.61 [133]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 8096910063<br/>\n    <a href=\"https://z34v4.app.goo.gl/oGXA\" target=\"_blank\">https://z34v4.app.goo.gl/oGXA</a><br/>\n    "
   },
   {
     "name": "Manoj Reddy Swimming Pool",
