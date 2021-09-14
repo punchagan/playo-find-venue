@@ -2215,6 +2215,18 @@
     "info": "\n    <h3>Eprodix Badmiton Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/U6ZZ7\" target=\"_blank\">https://playo.page.link/U6ZZ7</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "Estilio Academy, Tennis",
+    "lat": 13.0961246,
+    "lng": 80.2194493,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Tennis"
+    ],
+    "info": "\n    <h3>Estilio Academy, Tennis</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 9841599720<br/>\n    <a href=\"https://z34v4.app.goo.gl/6JTY\" target=\"_blank\">https://z34v4.app.goo.gl/6JTY</a><br/>\n    "
+  },
+  {
     "ratingCount": 2,
     "name": "Estilio Sports Academy - OMR",
     "lat": 12.953763,
@@ -2329,6 +2341,19 @@
       "Football"
     ],
     "info": "\n    <h3>FC Madras Football Academy (formerly Mahogany)1</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 98844 80480<br/>\n    <a href=\"https://playo.page.link/VhofP\" target=\"_blank\">https://playo.page.link/VhofP</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "FC Marina",
+    "lat": 12.8946789,
+    "lng": 80.1990601,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>FC Marina</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 6369802470<br/>\n    <a href=\"https://z34v4.app.goo.gl/gJQs\" target=\"_blank\">https://z34v4.app.goo.gl/gJQs</a><br/>\n    "
   },
   {
     "name": "FC square sporting arena",
@@ -3076,6 +3101,18 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
     "filter_by": [],
     "info": "\n    <h3>Hawkeye Indoor Nets</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/XyUn\" target=\"_blank\">https://z34v4.app.goo.gl/XyUn</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Healthy Sports",
+    "lat": 13.0466641,
+    "lng": 80.2182026,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Healthy Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9003419705<br/>\n    <a href=\"https://z34v4.app.goo.gl/M5YQ\" target=\"_blank\">https://z34v4.app.goo.gl/M5YQ</a><br/>\n    "
   },
   {
     "name": "Herkley",
@@ -4425,9 +4462,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Football"
+      "Cricket"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MRF Pachaiyappa",
@@ -4436,9 +4473,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Cricket"
+      "Football"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -8286,17 +8323,17 @@
     "info": "\n    <h3>Turf Rabonna</h3>\n    <strong>Ratings:</strong> 5 [20]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7904262226<br/>\n    <a href=\"https://z34v4.app.goo.gl/49u8\" target=\"_blank\">https://z34v4.app.goo.gl/49u8</a><br/>\n    "
   },
   {
-    "ratingCount": 0,
+    "ratingCount": 1,
     "name": "Turf Trident",
     "lat": 13.1223612,
     "lng": 80.1867609,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Turf Trident</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 9043291992<br/>\n    <a href=\"https://z34v4.app.goo.gl/N1Bu\" target=\"_blank\">https://z34v4.app.goo.gl/N1Bu</a><br/>\n    "
+    "info": "\n    <h3>Turf Trident</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 9043291992<br/>\n    <a href=\"https://z34v4.app.goo.gl/N1Bu\" target=\"_blank\">https://z34v4.app.goo.gl/N1Bu</a><br/>\n    "
   },
   {
     "name": "Turtles Swim School",
