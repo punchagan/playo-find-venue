@@ -4277,6 +4277,18 @@
     "info": "\n    <h3>Love All Tennis Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 44 4359 8630<br/>\n    <a href=\"https://playo.page.link/BZcQ2\" target=\"_blank\">https://playo.page.link/BZcQ2</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "Love all Badminton Academy",
+    "lat": 13.0904662,
+    "lng": 80.1671939,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Love all Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9994460029<br/>\n    <a href=\"https://z34v4.app.goo.gl/3H5B\" target=\"_blank\">https://z34v4.app.goo.gl/3H5B</a><br/>\n    "
+  },
+  {
     "name": "Loyola Cricket Ground",
     "rating": 0,
     "lat": 13.0590898,
@@ -8174,6 +8186,19 @@
     "info": "\n    <h3>The Sevens Sports Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/Bzvw\" target=\"_blank\">https://z34v4.app.goo.gl/Bzvw</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "name": "The Trident",
+    "lat": 13.1223612,
+    "lng": 80.1867609,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>The Trident</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 9043291992<br/>\n    <a href=\"https://z34v4.app.goo.gl/GGn3\" target=\"_blank\">https://z34v4.app.goo.gl/GGn3</a><br/>\n    "
+  },
+  {
     "name": "The breaking Zone",
     "rating": 0,
     "lat": 12.9533004,
@@ -8360,19 +8385,6 @@
       "Football"
     ],
     "info": "\n    <h3>Turf Rabonna</h3>\n    <strong>Ratings:</strong> 5 [21]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7904262226<br/>\n    <a href=\"https://z34v4.app.goo.gl/49u8\" target=\"_blank\">https://z34v4.app.goo.gl/49u8</a><br/>\n    "
-  },
-  {
-    "ratingCount": 1,
-    "name": "Turf Trident",
-    "lat": 13.1223612,
-    "lng": 80.1867609,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Turf Trident</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 9043291992<br/>\n    <a href=\"https://z34v4.app.goo.gl/N1Bu\" target=\"_blank\">https://z34v4.app.goo.gl/N1Bu</a><br/>\n    "
   },
   {
     "name": "Turtles Swim School",
