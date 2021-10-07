@@ -4266,16 +4266,16 @@
     "info": "\n    <h3>Local Badminton Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/pFTrt\" target=\"_blank\">https://playo.page.link/pFTrt</a><br/>\n    "
   },
   {
-    "ratingCount": 0,
+    "ratingCount": 2,
     "name": "Love All Sports School",
     "lat": 13.0904662,
     "lng": 80.1671939,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Love All Sports School</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9994460029<br/>\n    <a href=\"https://z34v4.app.goo.gl/SbtS\" target=\"_blank\">https://z34v4.app.goo.gl/SbtS</a><br/>\n    "
+    "info": "\n    <h3>Love All Sports School</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9994460029<br/>\n    <a href=\"https://z34v4.app.goo.gl/SbtS\" target=\"_blank\">https://z34v4.app.goo.gl/SbtS</a><br/>\n    "
   },
   {
     "name": "Love All Tennis Academy",
@@ -8545,6 +8545,20 @@
       "Volleyball"
     ],
     "info": "\n    <h3>VIT Volleyball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/cKca2\" target=\"_blank\">https://playo.page.link/cKca2</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "VSP Smash Academy",
+    "lat": 13.143467,
+    "lng": 80.2545101,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>VSP Smash Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9884051936<br/>\n    <a href=\"https://z34v4.app.goo.gl/8JxV\" target=\"_blank\">https://z34v4.app.goo.gl/8JxV</a><br/>\n    "
   },
   {
     "name": "VV International School Of Swimming",
