@@ -8743,14 +8743,15 @@
   },
   {
     "name": "Volley Ball Court",
-    "rating": 0,
+    "rating": 5,
+    "ratingCount": 1,
     "lat": 13.0961766,
     "lng": 80.2141173,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Volleyball"
     ],
-    "info": "\n    <h3>Volley Ball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/vZpUw\" target=\"_blank\">https://playo.page.link/vZpUw</a><br/>\n    "
+    "info": "\n    <h3>Volley Ball Court</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/vZpUw\" target=\"_blank\">https://playo.page.link/vZpUw</a><br/>\n    "
   },
   {
     "name": "Volley Ball Court2",
