@@ -1927,7 +1927,7 @@
     "info": "\n    <h3>De BASE Sports Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 81220 03383<br/>\n    <a href=\"https://playo.page.link/iEyQs\" target=\"_blank\">https://playo.page.link/iEyQs</a><br/>\n    "
   },
   {
-    "ratingCount": 8,
+    "ratingCount": 9,
     "name": "De Base 3.0",
     "lat": 13.123846,
     "lng": 80.14043,
@@ -1936,7 +1936,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>De Base 3.0</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939931263<br/>\n    <a href=\"https://z34v4.app.goo.gl/rFzA\" target=\"_blank\">https://z34v4.app.goo.gl/rFzA</a><br/>\n    "
+    "info": "\n    <h3>De Base 3.0</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939931263<br/>\n    <a href=\"https://z34v4.app.goo.gl/rFzA\" target=\"_blank\">https://z34v4.app.goo.gl/rFzA</a><br/>\n    "
   },
   {
     "name": "De Base Badminton Academy",
@@ -2554,7 +2554,7 @@
   },
   {
     "name": "Flying Feathers Badminton Academy,Virugambakkam",
-    "ratingCount": 9,
+    "ratingCount": 10,
     "lat": 13.05281,
     "lng": 80.19313,
     "rating": 4,
@@ -2562,7 +2562,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Flying Feathers Badminton Academy,Virugambakkam</h3>\n    <strong>Ratings:</strong> 4.89 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944227709<br/>\n    <a href=\"https://z34v4.app.goo.gl/6sBT\" target=\"_blank\">https://z34v4.app.goo.gl/6sBT</a><br/>\n    "
+    "info": "\n    <h3>Flying Feathers Badminton Academy,Virugambakkam</h3>\n    <strong>Ratings:</strong> 4.9 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944227709<br/>\n    <a href=\"https://z34v4.app.goo.gl/6sBT\" target=\"_blank\">https://z34v4.app.goo.gl/6sBT</a><br/>\n    "
   },
   {
     "name": "Flying Lotus Swimming Training Center",
@@ -2754,6 +2754,18 @@
       "Football"
     ],
     "info": "\n    <h3>GO Futsal (Velachery)</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 87544 06855<br/>\n    <a href=\"https://playo.page.link/TRN7R\" target=\"_blank\">https://playo.page.link/TRN7R</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "name": "GPS Badminton Academy",
+    "lat": 12.9517287,
+    "lng": 80.2351667,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>GPS Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9176777173<br/>\n    <a href=\"https://z34v4.app.goo.gl/825x\" target=\"_blank\">https://z34v4.app.goo.gl/825x</a><br/>\n    "
   },
   {
     "name": "GRACE FOOTBALL COACHING CENTRE",
@@ -3970,9 +3982,10 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Pool"
     ],
-    "info": "\n    <h3>Kavin's Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9884540054<br/>\n    <a href=\"https://z34v4.app.goo.gl/RstW\" target=\"_blank\">https://z34v4.app.goo.gl/RstW</a><br/>\n    "
+    "info": "\n    <h3>Kavin's Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Pool<br/>\n    <strong>Phone:</strong> 9884540054<br/>\n    <a href=\"https://z34v4.app.goo.gl/RstW\" target=\"_blank\">https://z34v4.app.goo.gl/RstW</a><br/>\n    "
   },
   {
     "name": "Kaycee",
@@ -7661,8 +7674,21 @@
     "info": "\n    <h3>Table Tennis Training at Savarirajan T.T.Academy (kodambakkam)</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 94443 75558<br/>\n    <a href=\"https://playo.page.link/Z1aXG\" target=\"_blank\">https://playo.page.link/Z1aXG</a><br/>\n    "
   },
   {
-    "ratingCount": 10,
-    "name": "Tackle Futsal",
+    "ratingCount": 5,
+    "name": "Tackle Futsal - Ayyappanthangal",
+    "lat": 13.0453307,
+    "lng": 80.1377017,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Tackle Futsal - Ayyappanthangal</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9841876777<br/>\n    <a href=\"https://z34v4.app.goo.gl/EdsH\" target=\"_blank\">https://z34v4.app.goo.gl/EdsH</a><br/>\n    "
+  },
+  {
+    "ratingCount": 11,
+    "name": "Tackle Futsal - Rohini Silver Screens",
     "lat": 13.075757,
     "lng": 80.195873,
     "rating": 4,
@@ -7671,11 +7697,11 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Tackle Futsal</h3>\n    <strong>Ratings:</strong> 4.9 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/boLG\" target=\"_blank\">https://z34v4.app.goo.gl/boLG</a><br/>\n    "
+    "info": "\n    <h3>Tackle Futsal - Rohini Silver Screens</h3>\n    <strong>Ratings:</strong> 4.91 [11]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/gc1z\" target=\"_blank\">https://z34v4.app.goo.gl/gc1z</a><br/>\n    "
   },
   {
     "ratingCount": 4,
-    "name": "Tackle Futsal,  VR Mall",
+    "name": "Tackle Futsal - VR Chennai",
     "lat": 13.0805465,
     "lng": 80.1949433,
     "rating": 4,
@@ -7684,20 +7710,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Tackle Futsal,  VR Mall</h3>\n    <strong>Ratings:</strong> 4.5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/htaY\" target=\"_blank\">https://z34v4.app.goo.gl/htaY</a><br/>\n    "
-  },
-  {
-    "ratingCount": 5,
-    "name": "Tackle Futsal- Ayyapanthangal",
-    "lat": 13.0453307,
-    "lng": 80.1377017,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Tackle Futsal- Ayyapanthangal</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 9841876777<br/>\n    <a href=\"https://z34v4.app.goo.gl/LJFY\" target=\"_blank\">https://z34v4.app.goo.gl/LJFY</a><br/>\n    "
+    "info": "\n    <h3>Tackle Futsal - VR Chennai</h3>\n    <strong>Ratings:</strong> 4.5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/PUKR\" target=\"_blank\">https://z34v4.app.goo.gl/PUKR</a><br/>\n    "
   },
   {
     "ratingCount": 3,
@@ -9047,6 +9060,18 @@
     "info": "\n    <h3>Woodlands Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 44 4911 3111<br/>\n    <a href=\"https://playo.page.link/jBEbe\" target=\"_blank\">https://playo.page.link/jBEbe</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "XcourTT",
+    "lat": 12.9876828,
+    "lng": 80.1993507,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>XcourTT</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9952037667<br/>\n    <a href=\"https://z34v4.app.goo.gl/nMwQ\" target=\"_blank\">https://z34v4.app.goo.gl/nMwQ</a><br/>\n    "
+  },
+  {
     "name": "Xtra time football turf",
     "rating": 0,
     "lat": 12.9396771,
@@ -9135,7 +9160,7 @@
     "info": "\n    <h3>YMCA Volleyball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/YzfXr\" target=\"_blank\">https://playo.page.link/YzfXr</a><br/>\n    "
   },
   {
-    "ratingCount": 5,
+    "ratingCount": 8,
     "name": "Yak Sports Academy",
     "lat": 13.0211632,
     "lng": 80.1690651,
@@ -9143,9 +9168,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
-      "Football"
+      "Football",
+      "Tennis"
     ],
-    "info": "\n    <h3>Yak Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8668055139<br/>\n    <a href=\"https://z34v4.app.goo.gl/nmzu\" target=\"_blank\">https://z34v4.app.goo.gl/nmzu</a><br/>\n    "
+    "info": "\n    <h3>Yak Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Tennis<br/>\n    <strong>Phone:</strong> 8668055139<br/>\n    <a href=\"https://z34v4.app.goo.gl/nmzu\" target=\"_blank\">https://z34v4.app.goo.gl/nmzu</a><br/>\n    "
   },
   {
     "name": "Yedidhya Tennis Center",
