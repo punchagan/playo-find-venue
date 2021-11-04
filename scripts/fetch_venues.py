@@ -24,9 +24,7 @@ def fetch_venues(city):
     while True:
         print("Fetching page {}...".format(page), flush=True)
         url = URL.format(page=page, **LOCATIONS[city])
-        response = requests.get(
-            url, headers={"Authorization": PLAYO_AUTH}
-        ).json()
+        response = requests.get(url, headers={"Authorization": PLAYO_AUTH}).json()
         venues_ = response.get("list", [])
         if len(venues_):
             venues.extend(venues_)
@@ -43,9 +41,7 @@ def fetch_sport_ids():
     url = "https://playo.co/venues/bengaluru/sports/all"
     soup = BeautifulSoup(requests.get(url).text, "html.parser")
     return {
-        element.findChild("img")
-        .attrs["src"]
-        .split("/")[-2]: element.text.strip()
+        element.findChild("img").attrs["src"].split("/")[-2]: element.text.strip()
         for element in soup.select(".one-sport-filter")
     }
 
@@ -60,11 +56,7 @@ def modify_metadata(venues, clean=True):
         venue["icon"] = f"https://maps.google.com/mapfiles/kml/paddle/{icon}"
         # Add filter_by
         venue["filter_by"] = sorted(
-            [
-                SPORT_ID_MAP[s["sportId"]]
-                for s in venue["sports"]
-                if s["sportId"] in SPORT_ID_MAP
-            ]
+            [SPORT_ID_MAP[s["sportId"]] for s in venue["sports"] if s["sportId"] in SPORT_ID_MAP]
         )
         venue["all_sports"] = ", ".join(venue["filter_by"])
         # Add info
@@ -72,8 +64,7 @@ def modify_metadata(venues, clean=True):
 
     if clean:
         venues = [
-            {key: value for key, value in venue.items() if key in RETAIN_KEYS}
-            for venue in venues
+            {key: value for key, value in venue.items() if key in RETAIN_KEYS} for venue in venues
         ]
 
     return sorted(venues, key=lambda x: x["name"])
@@ -97,9 +88,7 @@ def get_info(venue):
 def main(city, clean=True):
     print("Fetching venues for {}".format(city.capitalize()), flush=True)
     venues = modify_metadata(filter_inactive(fetch_venues(city)), clean=clean)
-    venues_persist_path = join(
-        HERE, "..", "data", "venues_{}.json".format(city)
-    )
+    venues_persist_path = join(HERE, "..", "data", "venues_{}.json".format(city))
     with open(venues_persist_path, "w") as f:
         json.dump(venues, f, indent=2)
 
@@ -118,6 +107,5 @@ if __name__ == "__main__":
 
         with ThreadPoolExecutor(max_workers=5) as executor:
             future_to_city = {
-                executor.submit(main, city, not args.full): city
-                for city in LOCATIONS.keys()
+                executor.submit(main, city, not args.full): city for city in LOCATIONS.keys()
             }
