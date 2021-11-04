@@ -34,6 +34,7 @@ def fetch_venues(city):
         if not page or page == -1:
             break
 
+    print("Found {n} venues in {city}".format(n=len(venues), city=city))
     return venues
 
 
