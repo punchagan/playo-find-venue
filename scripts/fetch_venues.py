@@ -32,11 +32,11 @@ def fetch_venues(city):
         if not page or page == -1:
             break
 
-    print("Found {n} venues in {city}".format(n=len(venues), city=city))
+    print("Found {n} venues in {city}".format(n=len(venues), city=city), flush=True)
     return venues
 
 
-def fetch_sport_ids():
+def fetch_sport_ids(debug=False):
     print("Fetching sport id map...", flush=True)
     url = "https://playo.co/venues/bengaluru/sports/all"
     soup = BeautifulSoup(requests.get(url).text, "lxml")
@@ -44,11 +44,14 @@ def fetch_sport_ids():
         element.findChild("img").attrs["src"].split("/")[-2]: element.text.strip()
         for element in soup.select(".one-sport-filter")
     }
+    if debug:
+        print("Sport IDs: {sport_ids}".format(sport_ids=sport_ids), flush=True)
+    return sport_ids
 
 
-def modify_metadata(venues, clean=True):
+def modify_metadata(venues, clean=True, debug=False):
     RETAIN_KEYS = {"name", "icon", "info", "lat", "lng", "filter_by", "rating", "ratingCount"}
-    SPORT_ID_MAP = fetch_sport_ids()
+    SPORT_ID_MAP = fetch_sport_ids(debug=debug)
     for venue in venues:
         rating = int(float(venue["avgRating"] or 0))
         icon = f"{rating}-lv.png" if rating > 0 else "red-square-lv.png"
@@ -85,10 +88,14 @@ def get_info(venue):
     return info.format_map(defaultdict(lambda: "N/A", venue))
 
 
-def main(city, clean=True):
+def main(city, clean=True, debug=False):
     print("Fetching venues for {}".format(city.capitalize()), flush=True)
-    venues = modify_metadata(filter_inactive(fetch_venues(city)), clean=clean)
+    venues = modify_metadata(filter_inactive(fetch_venues(city)), clean=clean, debug=debug)
+    if debug:
+        print("Cleaned {n} venues in {city}".format(n=len(venues), city=city), flush=True)
     venues_persist_path = join(HERE, "..", "data", "venues_{}.json".format(city))
+    if debug:
+        print(json.dumps(venues, indent=2), flush=True)
     with open(venues_persist_path, "w") as f:
         json.dump(venues, f, indent=2)
 
@@ -98,14 +105,16 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--full", action="store_true")
+    parser.add_argument("--debug", action="store_true")
     parser.add_argument("city", choices=list(LOCATIONS.keys()) + ["all"])
     args = parser.parse_args()
     if args.city != "all":
-        main(args.city, not args.full)
+        main(args.city, not args.full, args.debug)
     else:
         from concurrent.futures import ThreadPoolExecutor
 
         with ThreadPoolExecutor(max_workers=5) as executor:
             future_to_city = {
-                executor.submit(main, city, not args.full): city for city in LOCATIONS.keys()
+                executor.submit(main, city, not args.full, args.debug): city
+                for city in LOCATIONS.keys()
             }
