@@ -39,8 +39,8 @@ def fetch_venues(city):
 def fetch_sport_ids():
     print("Fetching sport id map...", flush=True)
     url = "https://playo.co/venues/bengaluru/sports/all"
-    soup = BeautifulSoup(requests.get(url).text, "html.parser")
-    return {
+    soup = BeautifulSoup(requests.get(url).text, "lxml")
+    sport_ids = {
         element.findChild("img").attrs["src"].split("/")[-2]: element.text.strip()
         for element in soup.select(".one-sport-filter")
     }
