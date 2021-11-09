@@ -37,6 +37,18 @@
     "info": "\n    <h3>360 Plus Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 73389 43812<br/>\n    <a href=\"https://playo.page.link/vT1XS\" target=\"_blank\">https://playo.page.link/vT1XS</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "4 Lions Badminton Academy",
+    "lat": 13.0483812,
+    "lng": 80.1448726,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>4 Lions Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305304111<br/>\n    <a href=\"https://z34v4.app.goo.gl/GCwm\" target=\"_blank\">https://z34v4.app.goo.gl/GCwm</a><br/>\n    "
+  },
+  {
     "name": "A' Block Hostel Basketball Court",
     "rating": 0,
     "lat": 12.8439557,
@@ -1223,6 +1235,18 @@
       "Badminton"
     ],
     "info": "\n    <h3>CJ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 91235 60940<br/>\n    <a href=\"https://playo.page.link/B5Hfg\" target=\"_blank\">https://playo.page.link/B5Hfg</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "CMA Badminton Court",
+    "lat": 12.9368575,
+    "lng": 80.1434092,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>CMA Badminton Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939449169<br/>\n    <a href=\"https://z34v4.app.goo.gl/5q4z\" target=\"_blank\">https://z34v4.app.goo.gl/5q4z</a><br/>\n    "
   },
   {
     "name": "CSJ Sports Academy",
@@ -5902,7 +5926,7 @@
     "info": "\n    <h3>Rush</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Football<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/mIZA\" target=\"_blank\">https://z34v4.app.goo.gl/mIZA</a><br/>\n    "
   },
   {
-    "ratingCount": 7,
+    "ratingCount": 8,
     "name": "Rush Madras",
     "lat": 13.025831,
     "lng": 80.254211,
@@ -5914,7 +5938,7 @@
       "Box Cricket",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Rush Madras</h3>\n    <strong>Ratings:</strong> 4.14 [7]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 8667693341<br/>\n    <a href=\"https://z34v4.app.goo.gl/JrNm\" target=\"_blank\">https://z34v4.app.goo.gl/JrNm</a><br/>\n    "
+    "info": "\n    <h3>Rush Madras</h3>\n    <strong>Ratings:</strong> 4 [8]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 8667693341<br/>\n    <a href=\"https://z34v4.app.goo.gl/JrNm\" target=\"_blank\">https://z34v4.app.goo.gl/JrNm</a><br/>\n    "
   },
   {
     "name": "S M SPORTS ARENA",
@@ -6675,7 +6699,7 @@
     "info": "\n    <h3>Shuttle Court2</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/yBkvD\" target=\"_blank\">https://playo.page.link/yBkvD</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
+    "ratingCount": 2,
     "name": "Shuttle Kings Academy",
     "lat": 13.021055,
     "lng": 80.259314,
@@ -6684,7 +6708,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Shuttle Kings Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9500067265<br/>\n    <a href=\"https://z34v4.app.goo.gl/17um\" target=\"_blank\">https://z34v4.app.goo.gl/17um</a><br/>\n    "
+    "info": "\n    <h3>Shuttle Kings Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9500067265<br/>\n    <a href=\"https://z34v4.app.goo.gl/17um\" target=\"_blank\">https://z34v4.app.goo.gl/17um</a><br/>\n    "
   },
   {
     "name": "Shuttlers Badminton Academy",
@@ -8995,14 +9019,14 @@
   {
     "name": "Whistle - Urban Sports Hub",
     "rating": 5,
-    "ratingCount": 2,
+    "ratingCount": 3,
     "lat": 13.0629082,
     "lng": 80.2499776,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Whistle - Urban Sports Hub</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 04448622822<br/>\n    <a href=\"https://playo.page.link/W1qRG\" target=\"_blank\">https://playo.page.link/W1qRG</a><br/>\n    "
+    "info": "\n    <h3>Whistle - Urban Sports Hub</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 04448622822<br/>\n    <a href=\"https://playo.page.link/W1qRG\" target=\"_blank\">https://playo.page.link/W1qRG</a><br/>\n    "
   },
   {
     "name": "White Feather Babminton Club",
