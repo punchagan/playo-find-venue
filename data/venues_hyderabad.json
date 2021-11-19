@@ -12,14 +12,15 @@
   },
   {
     "name": "2TB Basketball Court",
-    "rating": 0,
+    "rating": 3,
+    "ratingCount": 1,
     "lat": 17.4587269,
     "lng": 78.5162169,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Basketball"
     ],
-    "info": "\n    <h3>2TB Basketball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/bhhx4\" target=\"_blank\">https://playo.page.link/bhhx4</a><br/>\n    "
+    "info": "\n    <h3>2TB Basketball Court</h3>\n    <strong>Ratings:</strong> 3 [1]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/bhhx4\" target=\"_blank\">https://playo.page.link/bhhx4</a><br/>\n    "
   },
   {
     "name": "36 Racquet Badminton Academy",
@@ -81,17 +82,17 @@
   },
   {
     "name": "A Ground Osmania University",
-    "rating": 5,
+    "rating": 4,
     "lat": 17.4237784,
     "lng": 78.5313116,
-    "ratingCount": 1,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "ratingCount": 2,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Basketball",
       "Cricket",
       "Swimming"
     ],
-    "info": "\n    <h3>A Ground Osmania University</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Basketball, Cricket, Swimming<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://playo.page.link/3ui2j\" target=\"_blank\">https://playo.page.link/3ui2j</a><br/>\n    "
+    "info": "\n    <h3>A Ground Osmania University</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Basketball, Cricket, Swimming<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://playo.page.link/3ui2j\" target=\"_blank\">https://playo.page.link/3ui2j</a><br/>\n    "
   },
   {
     "name": "ABBAS UNION FOOTBALL CLUB",
@@ -1099,14 +1100,15 @@
   },
   {
     "name": "Badminton Court9",
-    "rating": 0,
+    "rating": 3,
+    "ratingCount": 1,
     "lat": 17.3911027,
     "lng": 78.5345381,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Badminton Court9</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/S7bRJ\" target=\"_blank\">https://playo.page.link/S7bRJ</a><br/>\n    "
+    "info": "\n    <h3>Badminton Court9</h3>\n    <strong>Ratings:</strong> 3 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/S7bRJ\" target=\"_blank\">https://playo.page.link/S7bRJ</a><br/>\n    "
   },
   {
     "name": "Badminton Hall",
@@ -1875,18 +1877,18 @@
     "info": "\n    <h3>Chandanagar Basket Ball Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> 97179 89684<br/>\n    <a href=\"https://playo.page.link/kBa6H\" target=\"_blank\">https://playo.page.link/kBa6H</a><br/>\n    "
   },
   {
-    "ratingCount": 10,
+    "ratingCount": 11,
     "name": "Cheeryal Sports Zone",
     "lat": 17.51001,
     "lng": 78.62824,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Beach Volleyball",
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Cheeryal Sports Zone</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7799774481<br/>\n    <a href=\"https://z34v4.app.goo.gl/xzF3\" target=\"_blank\">https://z34v4.app.goo.gl/xzF3</a><br/>\n    "
+    "info": "\n    <h3>Cheeryal Sports Zone</h3>\n    <strong>Ratings:</strong> 4.82 [11]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7799774481<br/>\n    <a href=\"https://z34v4.app.goo.gl/xzF3\" target=\"_blank\">https://z34v4.app.goo.gl/xzF3</a><br/>\n    "
   },
   {
     "name": "Chetan Anand Badminton Academy",
@@ -2474,14 +2476,15 @@
   },
   {
     "name": "EFLU Badminton Court",
-    "rating": 0,
+    "rating": 3,
+    "ratingCount": 1,
     "lat": 17.4245475,
     "lng": 78.524615,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>EFLU Badminton Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/DP4xC\" target=\"_blank\">https://playo.page.link/DP4xC</a><br/>\n    "
+    "info": "\n    <h3>EFLU Badminton Court</h3>\n    <strong>Ratings:</strong> 3 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/DP4xC\" target=\"_blank\">https://playo.page.link/DP4xC</a><br/>\n    "
   },
   {
     "name": "Eagle Sports Indoor Academy",
@@ -4052,10 +4055,11 @@
   },
   {
     "name": "IICT Wolleyball Court",
-    "rating": 0,
+    "rating": 3,
     "lat": 17.4206429,
     "lng": 78.5439262,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "ratingCount": 1,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Basketball",
       "Cricket",
@@ -4063,7 +4067,7 @@
       "Tennis",
       "Volleyball"
     ],
-    "info": "\n    <h3>IICT Wolleyball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Basketball, Cricket, Foosball, Tennis, Volleyball<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://playo.page.link/JpFUt\" target=\"_blank\">https://playo.page.link/JpFUt</a><br/>\n    "
+    "info": "\n    <h3>IICT Wolleyball Court</h3>\n    <strong>Ratings:</strong> 3 [1]<br/>\n    <strong>Sports:</strong> Basketball, Cricket, Foosball, Tennis, Volleyball<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://playo.page.link/JpFUt\" target=\"_blank\">https://playo.page.link/JpFUt</a><br/>\n    "
   },
   {
     "name": "IMT Volleyball Court",
@@ -4530,18 +4534,18 @@
     "info": "\n    <h3>LCG</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/Fm9wt\" target=\"_blank\">https://playo.page.link/Fm9wt</a><br/>\n    "
   },
   {
-    "ratingCount": 2,
+    "ratingCount": 3,
     "name": "LEIAN CENTER",
     "lat": 17.54802,
     "lng": 78.36306,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football",
       "Volleyball"
     ],
-    "info": "\n    <h3>LEIAN CENTER</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9246218063<br/>\n    <a href=\"https://z34v4.app.goo.gl/hDaf\" target=\"_blank\">https://z34v4.app.goo.gl/hDaf</a><br/>\n    "
+    "info": "\n    <h3>LEIAN CENTER</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9246218063<br/>\n    <a href=\"https://z34v4.app.goo.gl/hDaf\" target=\"_blank\">https://z34v4.app.goo.gl/hDaf</a><br/>\n    "
   },
   {
     "name": "Lake View Tennis Academy",
@@ -4939,7 +4943,7 @@
   },
   {
     "name": "MK's Badminton Academy",
-    "ratingCount": 60,
+    "ratingCount": 61,
     "lat": 17.4400356,
     "lng": 78.5528774,
     "rating": 3,
@@ -4947,7 +4951,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>MK's Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.5 [60]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8885667700<br/>\n    <a href=\"https://z34v4.app.goo.gl/vW7B\" target=\"_blank\">https://z34v4.app.goo.gl/vW7B</a><br/>\n    "
+    "info": "\n    <h3>MK's Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.52 [61]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8885667700<br/>\n    <a href=\"https://z34v4.app.goo.gl/vW7B\" target=\"_blank\">https://z34v4.app.goo.gl/vW7B</a><br/>\n    "
   },
   {
     "name": "MLR Basketball Court",
@@ -5820,17 +5824,17 @@
     "info": "\n    <h3>Olympia Pools</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 99644 68286<br/>\n    <a href=\"https://playo.page.link/XdbfU\" target=\"_blank\">https://playo.page.link/XdbfU</a><br/>\n    "
   },
   {
-    "ratingCount": 4,
+    "ratingCount": 5,
     "name": "Olympia Zone",
     "lat": 17.48489,
     "lng": 78.3564,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Olympia Zone</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7331106065<br/>\n    <a href=\"https://z34v4.app.goo.gl/PXsS\" target=\"_blank\">https://z34v4.app.goo.gl/PXsS</a><br/>\n    "
+    "info": "\n    <h3>Olympia Zone</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7331106065<br/>\n    <a href=\"https://z34v4.app.goo.gl/PXsS\" target=\"_blank\">https://z34v4.app.goo.gl/PXsS</a><br/>\n    "
   },
   {
     "name": "Olympic Gym And Swimming Pool",
@@ -8004,7 +8008,7 @@
       "Badminton",
       "Swimming"
     ],
-    "info": "\n    <h3>Sree Gayathri Pacific Blue</h3>\n    <strong>Ratings:</strong> 3.55 [51]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9849373823<br/>\n    <a href=\"https://z34v4.app.goo.gl/c5pk\" target=\"_blank\">https://z34v4.app.goo.gl/c5pk</a><br/>\n    "
+    "info": "\n    <h3>Sree Gayathri Pacific Blue</h3>\n    <strong>Ratings:</strong> 3.55 [51]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9849690687<br/>\n    <a href=\"https://z34v4.app.goo.gl/c5pk\" target=\"_blank\">https://z34v4.app.goo.gl/c5pk</a><br/>\n    "
   },
   {
     "ratingCount": 63,
@@ -9097,7 +9101,7 @@
     "info": "\n    <h3>Thapar Stadium</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/15za3\" target=\"_blank\">https://playo.page.link/15za3</a><br/>\n    "
   },
   {
-    "ratingCount": 12,
+    "ratingCount": 13,
     "name": "The Big Ball Arena",
     "lat": 17.435574,
     "lng": 78.452269,
@@ -9107,7 +9111,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>The Big Ball Arena</h3>\n    <strong>Ratings:</strong> 4.17 [12]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7893243813<br/>\n    <a href=\"https://z34v4.app.goo.gl/wBgU\" target=\"_blank\">https://z34v4.app.goo.gl/wBgU</a><br/>\n    "
+    "info": "\n    <h3>The Big Ball Arena</h3>\n    <strong>Ratings:</strong> 4.08 [13]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7893243813<br/>\n    <a href=\"https://z34v4.app.goo.gl/wBgU\" target=\"_blank\">https://z34v4.app.goo.gl/wBgU</a><br/>\n    "
   },
   {
     "name": "The Hyderabad Cricket Association1",
@@ -9205,7 +9209,7 @@
     "info": "\n    <h3>The Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 40 4848 1234<br/>\n    <a href=\"https://playo.page.link/3huCv\" target=\"_blank\">https://playo.page.link/3huCv</a><br/>\n    "
   },
   {
-    "ratingCount": 15,
+    "ratingCount": 16,
     "name": "The Turf",
     "lat": 17.50894,
     "lng": 78.33589,
@@ -9215,7 +9219,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>The Turf</h3>\n    <strong>Ratings:</strong> 4.87 [15]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7093693864<br/>\n    <a href=\"https://z34v4.app.goo.gl/AwXE\" target=\"_blank\">https://z34v4.app.goo.gl/AwXE</a><br/>\n    "
+    "info": "\n    <h3>The Turf</h3>\n    <strong>Ratings:</strong> 4.75 [16]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7093693864<br/>\n    <a href=\"https://z34v4.app.goo.gl/AwXE\" target=\"_blank\">https://z34v4.app.goo.gl/AwXE</a><br/>\n    "
   },
   {
     "name": "The Wall Cricket Ground & Academy",
