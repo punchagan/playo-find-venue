@@ -3074,6 +3074,18 @@
     "info": "\n    <h3>Green Coconut Resort</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 44 2747 2036<br/>\n    <a href=\"https://playo.page.link/3LP1Y\" target=\"_blank\">https://playo.page.link/3LP1Y</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "Green Feathers Sports Academy",
+    "lat": 12.9111089,
+    "lng": 80.0901272,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Green Feathers Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840853144<br/>\n    <a href=\"https://z34v4.app.goo.gl/31gv\" target=\"_blank\">https://z34v4.app.goo.gl/31gv</a><br/>\n    "
+  },
+  {
     "name": "Green Meadows Resort",
     "rating": 0,
     "lat": 12.9609572,
@@ -3873,18 +3885,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>K's Sports Arena</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 96770 47704<br/>\n    <a href=\"https://playo.page.link/zu17d\" target=\"_blank\">https://playo.page.link/zu17d</a><br/>\n    "
-  },
-  {
-    "name": "K2 Badminton Club",
-    "ratingCount": 1,
-    "lat": 13.019665,
-    "lng": 80.129758,
-    "rating": 2,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>K2 Badminton Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/SGOu\" target=\"_blank\">https://z34v4.app.goo.gl/SGOu</a><br/>\n    "
   },
   {
     "name": "K2 Badminton Club",
@@ -7765,6 +7765,19 @@
     "info": "\n    <h3>Tackle Futsal - VR Chennai</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/PUKR\" target=\"_blank\">https://z34v4.app.goo.gl/PUKR</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "Tackle Futsal-Kattupakkam",
+    "lat": 13.0524126,
+    "lng": 80.0784007,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Tackle Futsal-Kattupakkam</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9841876777<br/>\n    <a href=\"https://z34v4.app.goo.gl/Jkk5\" target=\"_blank\">https://z34v4.app.goo.gl/Jkk5</a><br/>\n    "
+  },
+  {
     "ratingCount": 3,
     "name": "Tackle Town Turf",
     "lat": 12.939408,
@@ -8062,6 +8075,18 @@
       "Volleyball"
     ],
     "info": "\n    <h3>The Box Bong</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Handball, Volleyball<br/>\n    <strong>Phone:</strong> 9840532250<br/>\n    <a href=\"https://z34v4.app.goo.gl/dBGB\" target=\"_blank\">https://z34v4.app.goo.gl/dBGB</a><br/>\n    "
+  },
+  {
+    "name": "The Colosseum Iyyapanthangal",
+    "rating": 5,
+    "ratingCount": 1,
+    "lat": 13.0507548,
+    "lng": 80.1313415,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>The Colosseum Iyyapanthangal</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 44 4856 3545<br/>\n    <a href=\"https://playo.page.link/2dbge\" target=\"_blank\">https://playo.page.link/2dbge</a><br/>\n    "
   },
   {
     "name": "The Colosseum Iyyapanthangal",
@@ -9212,7 +9237,7 @@
     "info": "\n    <h3>YMCA Volleyball Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/YzfXr\" target=\"_blank\">https://playo.page.link/YzfXr</a><br/>\n    "
   },
   {
-    "ratingCount": 10,
+    "ratingCount": 12,
     "name": "Yak Sports Academy",
     "lat": 13.0224276,
     "lng": 80.1697858,
@@ -9223,7 +9248,7 @@
       "Football",
       "Tennis"
     ],
-    "info": "\n    <h3>Yak Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Tennis<br/>\n    <strong>Phone:</strong> 8668055139<br/>\n    <a href=\"https://z34v4.app.goo.gl/nmzu\" target=\"_blank\">https://z34v4.app.goo.gl/nmzu</a><br/>\n    "
+    "info": "\n    <h3>Yak Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Tennis<br/>\n    <strong>Phone:</strong> 8668055139<br/>\n    <a href=\"https://z34v4.app.goo.gl/nmzu\" target=\"_blank\">https://z34v4.app.goo.gl/nmzu</a><br/>\n    "
   },
   {
     "name": "Yedidhya Tennis Center",
