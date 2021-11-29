@@ -498,6 +498,19 @@
     "info": "\n    <h3>Arena Badminton Court, Li Ning Showroom</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 89396 44744<br/>\n    <a href=\"https://playo.page.link/x7uEX\" target=\"_blank\">https://playo.page.link/x7uEX</a><br/>\n    "
   },
   {
+    "name": "Arena Sports Inc",
+    "rating": 5,
+    "lat": 12.9419977,
+    "lng": 80.2115225,
+    "ratingCount": 1,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Arena Sports Inc</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 8148667535<br/>\n    <a href=\"https://z34v4.app.goo.gl/c2JB\" target=\"_blank\">https://z34v4.app.goo.gl/c2JB</a><br/>\n    "
+  },
+  {
     "name": "Arena badminton court and fitness centre",
     "rating": 0,
     "lat": 12.913001,
@@ -5525,19 +5538,6 @@
       "Swimming"
     ],
     "info": "\n    <h3>Prime Habitat</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 44 2618 5557<br/>\n    <a href=\"https://playo.page.link/uoVC5\" target=\"_blank\">https://playo.page.link/uoVC5</a><br/>\n    "
-  },
-  {
-    "name": "Pro Arena",
-    "rating": 5,
-    "lat": 12.9419977,
-    "lng": 80.2115225,
-    "ratingCount": 1,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Pro Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 8148667535<br/>\n    <a href=\"https://z34v4.app.goo.gl/RzNt\" target=\"_blank\">https://z34v4.app.goo.gl/RzNt</a><br/>\n    "
   },
   {
     "name": "Pro Tennis Initiative",
