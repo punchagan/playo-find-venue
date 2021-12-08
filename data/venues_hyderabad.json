@@ -24,7 +24,7 @@
   },
   {
     "name": "36 Racquet Badminton Academy",
-    "ratingCount": 89,
+    "ratingCount": 90,
     "lat": 17.431244,
     "lng": 78.542041,
     "rating": 4,
@@ -32,7 +32,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>36 Racquet Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.35 [89]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9490633636<br/>\n    <a href=\"https://z34v4.app.goo.gl/mycW\" target=\"_blank\">https://z34v4.app.goo.gl/mycW</a><br/>\n    "
+    "info": "\n    <h3>36 Racquet Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.36 [90]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9490633636<br/>\n    <a href=\"https://z34v4.app.goo.gl/mycW\" target=\"_blank\">https://z34v4.app.goo.gl/mycW</a><br/>\n    "
   },
   {
     "name": "5 Sports Indoor Badminton Club",
@@ -5985,14 +5985,27 @@
     "info": "\n    <h3>Oxygen Sports Village</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 81060 35556<br/>\n    <a href=\"https://playo.page.link/H8vct\" target=\"_blank\">https://playo.page.link/H8vct</a><br/>\n    "
   },
   {
-    "ratingCount": 6,
+    "ratingCount": 1,
+    "name": "Oxygreen Box Cricket",
+    "lat": 17.50123,
+    "lng": 78.35635,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Oxygreen Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7730848888<br/>\n    <a href=\"https://z34v4.app.goo.gl/UWPz\" target=\"_blank\">https://z34v4.app.goo.gl/UWPz</a><br/>\n    "
+  },
+  {
+    "ratingCount": 7,
     "name": "Oxygreen Cricket Academy",
     "lat": 17.50324,
     "lng": 78.357423,
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>Oxygreen Cricket Academy</h3>\n    <strong>Ratings:</strong> 4.67 [6]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 7730848888<br/>\n    <a href=\"https://z34v4.app.goo.gl/dpGW\" target=\"_blank\">https://z34v4.app.goo.gl/dpGW</a><br/>\n    "
+    "info": "\n    <h3>Oxygreen Cricket Academy</h3>\n    <strong>Ratings:</strong> 4.71 [7]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 7730848888<br/>\n    <a href=\"https://z34v4.app.goo.gl/dpGW\" target=\"_blank\">https://z34v4.app.goo.gl/dpGW</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -7317,6 +7330,18 @@
       "Swimming"
     ],
     "info": "\n    <h3>SYS Cricket Ground</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket, Swimming<br/>\n    <strong>Phone:</strong> 96405 60333<br/>\n    <a href=\"https://playo.page.link/kg75f\" target=\"_blank\">https://playo.page.link/kg75f</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "name": "SZ cricket ground",
+    "lat": 17.35242,
+    "lng": 78.29902,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Cricket"
+    ],
+    "info": "\n    <h3>SZ cricket ground</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/mskd\" target=\"_blank\">https://z34v4.app.goo.gl/mskd</a><br/>\n    "
   },
   {
     "ratingCount": 0,
