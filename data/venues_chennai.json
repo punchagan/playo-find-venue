@@ -159,6 +159,19 @@
     "info": "\n    <h3>AGH Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 91717 95576<br/>\n    <a href=\"https://playo.page.link/ghpsf\" target=\"_blank\">https://playo.page.link/ghpsf</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "AIEMA Estilio",
+    "lat": 13.0942214,
+    "lng": 80.1719593,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>AIEMA Estilio</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8124670715<br/>\n    <a href=\"https://z34v4.app.goo.gl/URM5\" target=\"_blank\">https://z34v4.app.goo.gl/URM5</a><br/>\n    "
+  },
+  {
     "name": "AJS Sports Arena",
     "ratingCount": 30,
     "lat": 12.903842,
@@ -2887,7 +2900,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Game Of Turfs</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840358887<br/>\n    <a href=\"https://z34v4.app.goo.gl/He94\" target=\"_blank\">https://z34v4.app.goo.gl/He94</a><br/>\n    "
+    "info": "\n    <h3>Game Of Turfs</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840358887<br/>\n    <a href=\"https://z34v4.app.goo.gl/tnZk\" target=\"_blank\">https://z34v4.app.goo.gl/tnZk</a><br/>\n    "
   },
   {
     "name": "Game On",
@@ -3008,7 +3021,7 @@
     "info": "\n    <h3>GoSport Tennis & Football Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Tennis<br/>\n    <strong>Phone:</strong> 9841599720<br/>\n    <a href=\"https://z34v4.app.goo.gl/NGB7\" target=\"_blank\">https://z34v4.app.goo.gl/NGB7</a><br/>\n    "
   },
   {
-    "ratingCount": 10,
+    "ratingCount": 11,
     "name": "Goal And Bowl@91",
     "lat": 12.970649,
     "lng": 80.196428,
@@ -3018,7 +3031,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Goal And Bowl@91</h3>\n    <strong>Ratings:</strong> 3.2 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840070091<br/>\n    <a href=\"https://z34v4.app.goo.gl/TaUm\" target=\"_blank\">https://z34v4.app.goo.gl/TaUm</a><br/>\n    "
+    "info": "\n    <h3>Goal And Bowl@91</h3>\n    <strong>Ratings:</strong> 3.27 [11]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840070091<br/>\n    <a href=\"https://z34v4.app.goo.gl/TaUm\" target=\"_blank\">https://z34v4.app.goo.gl/TaUm</a><br/>\n    "
   },
   {
     "ratingCount": 1,
@@ -4573,9 +4586,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Football"
+      "Cricket"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MRF Pachaiyappa",
@@ -4584,9 +4597,9 @@
     "lng": 80.2324485,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Cricket"
+      "Football"
     ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
