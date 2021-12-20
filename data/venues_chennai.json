@@ -1287,18 +1287,6 @@
     "info": "\n    <h3>CJ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 91235 60940<br/>\n    <a href=\"https://playo.page.link/B5Hfg\" target=\"_blank\">https://playo.page.link/B5Hfg</a><br/>\n    "
   },
   {
-    "ratingCount": 0,
-    "name": "CMA Badminton Court",
-    "lat": 12.9368575,
-    "lng": 80.1434092,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>CMA Badminton Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939449169<br/>\n    <a href=\"https://z34v4.app.goo.gl/5q4z\" target=\"_blank\">https://z34v4.app.goo.gl/5q4z</a><br/>\n    "
-  },
-  {
     "name": "CSJ Sports Academy",
     "ratingCount": 3,
     "lat": 12.961512,
@@ -2890,7 +2878,7 @@
     "info": "\n    <h3>GSA Squash Academy</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Squash<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/oxveS\" target=\"_blank\">https://playo.page.link/oxveS</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
+    "ratingCount": 2,
     "name": "Game Of Turfs",
     "lat": 13.0824891,
     "lng": 80.1671688,
@@ -2900,7 +2888,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Game Of Turfs</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840358887<br/>\n    <a href=\"https://z34v4.app.goo.gl/tnZk\" target=\"_blank\">https://z34v4.app.goo.gl/tnZk</a><br/>\n    "
+    "info": "\n    <h3>Game Of Turfs</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840358887<br/>\n    <a href=\"https://z34v4.app.goo.gl/tnZk\" target=\"_blank\">https://z34v4.app.goo.gl/tnZk</a><br/>\n    "
   },
   {
     "name": "Game On",
@@ -3032,6 +3020,18 @@
       "Football"
     ],
     "info": "\n    <h3>Goal And Bowl@91</h3>\n    <strong>Ratings:</strong> 3.27 [11]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840070091<br/>\n    <a href=\"https://z34v4.app.goo.gl/TaUm\" target=\"_blank\">https://z34v4.app.goo.gl/TaUm</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Goal and Bowl II",
+    "lat": 12.970649,
+    "lng": 80.196428,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Goal and Bowl II</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9840070091<br/>\n    <a href=\"https://z34v4.app.goo.gl/QMYM\" target=\"_blank\">https://z34v4.app.goo.gl/QMYM</a><br/>\n    "
   },
   {
     "ratingCount": 1,
