@@ -8270,14 +8270,15 @@
   },
   {
     "name": "Sri Vaishnavi Cricket Ground (SVCG)",
-    "rating": 0,
+    "rating": 5,
+    "ratingCount": 1,
     "lat": 17.410368,
     "lng": 78.2887349,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Cricket"
     ],
-    "info": "\n    <h3>Sri Vaishnavi Cricket Ground (SVCG)</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 90000 77766<br/>\n    <a href=\"https://playo.page.link/Tu6jc\" target=\"_blank\">https://playo.page.link/Tu6jc</a><br/>\n    "
+    "info": "\n    <h3>Sri Vaishnavi Cricket Ground (SVCG)</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 90000 77766<br/>\n    <a href=\"https://playo.page.link/Tu6jc\" target=\"_blank\">https://playo.page.link/Tu6jc</a><br/>\n    "
   },
   {
     "ratingCount": 1,
