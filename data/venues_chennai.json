@@ -1277,14 +1277,14 @@
   {
     "name": "CJ Badminton Academy",
     "rating": 4,
-    "ratingCount": 1,
+    "ratingCount": 2,
     "lat": 12.984613,
     "lng": 80.201943,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>CJ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 91235 60940<br/>\n    <a href=\"https://playo.page.link/B5Hfg\" target=\"_blank\">https://playo.page.link/B5Hfg</a><br/>\n    "
+    "info": "\n    <h3>CJ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 91235 60940<br/>\n    <a href=\"https://playo.page.link/B5Hfg\" target=\"_blank\">https://playo.page.link/B5Hfg</a><br/>\n    "
   },
   {
     "name": "CSJ Sports Academy",
@@ -6886,6 +6886,18 @@
       "Badminton"
     ],
     "info": "\n    <h3>Skyarc Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9042900954<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Jkn\" target=\"_blank\">https://z34v4.app.goo.gl/5Jkn</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "name": "Skyarc Badminton Academy, Kolathur",
+    "lat": 13.1268262,
+    "lng": 80.2031018,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Skyarc Badminton Academy, Kolathur</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9514300971<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEGL\" target=\"_blank\">https://z34v4.app.goo.gl/xEGL</a><br/>\n    "
   },
   {
     "name": "Skylap Badminton",
