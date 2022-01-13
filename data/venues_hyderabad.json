@@ -1818,7 +1818,7 @@
     "info": "\n    <h3>Carnival Club Badminton Court</h3>\n    <strong>Ratings:</strong> 3.8 [5]<br/>\n    <strong>Sports:</strong> Badminton, Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/w750\" target=\"_blank\">https://z34v4.app.goo.gl/w750</a><br/>\n    "
   },
   {
-    "ratingCount": 3,
+    "ratingCount": 4,
     "name": "Caspian Sports Arena",
     "lat": 17.31699,
     "lng": 78.54884,
@@ -1828,7 +1828,7 @@
       "Box Cricket",
       "Volleyball"
     ],
-    "info": "\n    <h3>Caspian Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 7093109393<br/>\n    <a href=\"https://z34v4.app.goo.gl/7Y1K\" target=\"_blank\">https://z34v4.app.goo.gl/7Y1K</a><br/>\n    "
+    "info": "\n    <h3>Caspian Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 7093109393<br/>\n    <a href=\"https://z34v4.app.goo.gl/7Y1K\" target=\"_blank\">https://z34v4.app.goo.gl/7Y1K</a><br/>\n    "
   },
   {
     "name": "Central Cricket Ground",
@@ -1902,7 +1902,7 @@
   },
   {
     "name": "Chetan Anand Badminton Academy",
-    "ratingCount": 145,
+    "ratingCount": 146,
     "lat": 17.43653,
     "lng": 78.396762,
     "rating": 3,
@@ -1910,7 +1910,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Chetan Anand Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.59 [145]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9885533357<br/>\n    <a href=\"https://z34v4.app.goo.gl/EPI9\" target=\"_blank\">https://z34v4.app.goo.gl/EPI9</a><br/>\n    "
+    "info": "\n    <h3>Chetan Anand Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.6 [146]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9885533357<br/>\n    <a href=\"https://z34v4.app.goo.gl/EPI9\" target=\"_blank\">https://z34v4.app.goo.gl/EPI9</a><br/>\n    "
   },
   {
     "ratingCount": 29,
@@ -5969,6 +5969,19 @@
       "Football"
     ],
     "info": "\n    <h3>Olympia Zone</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7331106065<br/>\n    <a href=\"https://z34v4.app.goo.gl/PXsS\" target=\"_blank\">https://z34v4.app.goo.gl/PXsS</a><br/>\n    "
+  },
+  {
+    "ratingCount": 2,
+    "name": "Olympian Football & Box-Cricket Turf",
+    "lat": 17.50243,
+    "lng": 78.55527,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Olympian Football & Box-Cricket Turf</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9392684081<br/>\n    <a href=\"https://z34v4.app.goo.gl/xvae\" target=\"_blank\">https://z34v4.app.goo.gl/xvae</a><br/>\n    "
   },
   {
     "name": "Olympic Gym And Swimming Pool",
