@@ -2766,7 +2766,7 @@
   },
   {
     "name": "Flying Lotus",
-    "ratingCount": 134,
+    "ratingCount": 135,
     "lat": 17.40669,
     "lng": 78.43146,
     "rating": 4,
@@ -2774,7 +2774,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Flying Lotus</h3>\n    <strong>Ratings:</strong> 4.47 [134]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7337447665<br/>\n    <a href=\"https://z34v4.app.goo.gl/Z3cq\" target=\"_blank\">https://z34v4.app.goo.gl/Z3cq</a><br/>\n    "
+    "info": "\n    <h3>Flying Lotus</h3>\n    <strong>Ratings:</strong> 4.47 [135]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7337447665<br/>\n    <a href=\"https://z34v4.app.goo.gl/Z3cq\" target=\"_blank\">https://z34v4.app.goo.gl/Z3cq</a><br/>\n    "
   },
   {
     "name": "Focus High School, Darulshifa Campus",
@@ -3847,7 +3847,7 @@
     "info": "\n    <h3>Hangout Sports</h3>\n    <strong>Ratings:</strong> 3.5 [2]<br/>\n    <strong>Sports:</strong> Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 9515153333<br/>\n    <a href=\"https://z34v4.app.goo.gl/4e1W\" target=\"_blank\">https://z34v4.app.goo.gl/4e1W</a><br/>\n    "
   },
   {
-    "ratingCount": 22,
+    "ratingCount": 23,
     "name": "Happening 97",
     "lat": 17.455926,
     "lng": 78.396553,
@@ -3857,7 +3857,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Happening 97</h3>\n    <strong>Ratings:</strong> 4.59 [22]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9704589797<br/>\n    <a href=\"https://z34v4.app.goo.gl/FE5y\" target=\"_blank\">https://z34v4.app.goo.gl/FE5y</a><br/>\n    "
+    "info": "\n    <h3>Happening 97</h3>\n    <strong>Ratings:</strong> 4.61 [23]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9704589797<br/>\n    <a href=\"https://z34v4.app.goo.gl/FE5y\" target=\"_blank\">https://z34v4.app.goo.gl/FE5y</a><br/>\n    "
   },
   {
     "name": "Harsha Cricket Ground",
@@ -5934,6 +5934,20 @@
       "Swimming"
     ],
     "info": "\n    <h3>Oasis Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 40 6553 3225<br/>\n    <a href=\"https://playo.page.link/pMKKm\" target=\"_blank\">https://playo.page.link/pMKKm</a><br/>\n    "
+  },
+  {
+    "ratingCount": 26,
+    "name": "Offside",
+    "lat": 17.5262,
+    "lng": 78.54363,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football",
+      "Rugby"
+    ],
+    "info": "\n    <h3>Offside</h3>\n    <strong>Ratings:</strong> 5 [26]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Rugby<br/>\n    <strong>Phone:</strong> 8919487723<br/>\n    <a href=\"https://z34v4.app.goo.gl/FbS8\" target=\"_blank\">https://z34v4.app.goo.gl/FbS8</a><br/>\n    "
   },
   {
     "name": "Olympia Cricket Ground",
@@ -8302,17 +8316,17 @@
     "info": "\n    <h3>Sri Raghavendra Sports Estate</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 98660 72133<br/>\n    <a href=\"https://playo.page.link/k8aPL\" target=\"_blank\">https://playo.page.link/k8aPL</a><br/>\n    "
   },
   {
-    "ratingCount": 39,
+    "ratingCount": 40,
     "name": "Sri SK Golden Racket",
     "lat": 17.44558,
     "lng": 78.39128,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 5 [39]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
+    "info": "\n    <h3>Sri SK Golden Racket</h3>\n    <strong>Ratings:</strong> 4.95 [40]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9618809285<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Zyd\" target=\"_blank\">https://z34v4.app.goo.gl/5Zyd</a><br/>\n    "
   },
   {
     "name": "Sri SM Badminton Club",
