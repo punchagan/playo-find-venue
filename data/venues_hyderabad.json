@@ -234,6 +234,18 @@
     "info": "\n    <h3>AR Cricket Ground</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 96666 99915<br/>\n    <a href=\"https://playo.page.link/F4hN9\" target=\"_blank\">https://playo.page.link/F4hN9</a><br/>\n    "
   },
   {
+    "ratingCount": 4,
+    "name": "AS SPORTS CLUB",
+    "lat": 17.5139,
+    "lng": 78.57913,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>AS SPORTS CLUB</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8919335477<br/>\n    <a href=\"https://z34v4.app.goo.gl/LY3b\" target=\"_blank\">https://z34v4.app.goo.gl/LY3b</a><br/>\n    "
+  },
+  {
     "name": "ASPC Shuttle Court",
     "rating": 0,
     "lat": 17.4797654,
@@ -649,7 +661,7 @@
     "info": "\n    <h3>Arabian Style Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 97002 00381<br/>\n    <a href=\"https://playo.page.link/XRwoj\" target=\"_blank\">https://playo.page.link/XRwoj</a><br/>\n    "
   },
   {
-    "ratingCount": 31,
+    "ratingCount": 32,
     "name": "Archminton Sports",
     "lat": 17.45461,
     "lng": 78.38636,
@@ -659,7 +671,7 @@
       "Archery",
       "Badminton"
     ],
-    "info": "\n    <h3>Archminton Sports</h3>\n    <strong>Ratings:</strong> 4.48 [31]<br/>\n    <strong>Sports:</strong> Archery, Badminton<br/>\n    <strong>Phone:</strong> 8008871828<br/>\n    <a href=\"https://z34v4.app.goo.gl/HXQV\" target=\"_blank\">https://z34v4.app.goo.gl/HXQV</a><br/>\n    "
+    "info": "\n    <h3>Archminton Sports</h3>\n    <strong>Ratings:</strong> 4.5 [32]<br/>\n    <strong>Sports:</strong> Archery, Badminton<br/>\n    <strong>Phone:</strong> 8008871828<br/>\n    <a href=\"https://z34v4.app.goo.gl/HXQV\" target=\"_blank\">https://z34v4.app.goo.gl/HXQV</a><br/>\n    "
   },
   {
     "name": "Arena 48",
@@ -5286,7 +5298,7 @@
   },
   {
     "name": "Manikonda Sports Club",
-    "ratingCount": 141,
+    "ratingCount": 142,
     "lat": 17.4040689,
     "lng": 78.3729301,
     "rating": 3,
@@ -5294,7 +5306,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Manikonda Sports Club</h3>\n    <strong>Ratings:</strong> 3.52 [141]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8096910063<br/>\n    <a href=\"https://z34v4.app.goo.gl/oGXA\" target=\"_blank\">https://z34v4.app.goo.gl/oGXA</a><br/>\n    "
+    "info": "\n    <h3>Manikonda Sports Club</h3>\n    <strong>Ratings:</strong> 3.53 [142]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8096910063<br/>\n    <a href=\"https://z34v4.app.goo.gl/oGXA\" target=\"_blank\">https://z34v4.app.goo.gl/oGXA</a><br/>\n    "
   },
   {
     "name": "Manoj Reddy Swimming Pool",
@@ -7781,7 +7793,7 @@
   },
   {
     "name": "Shooting Stars Club",
-    "ratingCount": 28,
+    "ratingCount": 29,
     "lat": 17.4511621,
     "lng": 78.384429,
     "rating": 4,
@@ -7790,7 +7802,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Shooting Stars Club</h3>\n    <strong>Ratings:</strong> 4.46 [28]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9700173150<br/>\n    <a href=\"https://z34v4.app.goo.gl/4phe\" target=\"_blank\">https://z34v4.app.goo.gl/4phe</a><br/>\n    "
+    "info": "\n    <h3>Shooting Stars Club</h3>\n    <strong>Ratings:</strong> 4.45 [29]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9700173150<br/>\n    <a href=\"https://z34v4.app.goo.gl/4phe\" target=\"_blank\">https://z34v4.app.goo.gl/4phe</a><br/>\n    "
   },
   {
     "name": "Shourya Badminton Academy",
