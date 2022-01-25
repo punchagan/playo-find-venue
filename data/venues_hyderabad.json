@@ -1793,7 +1793,7 @@
     "info": "\n    <h3>Cage Cricket</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/keDsx\" target=\"_blank\">https://playo.page.link/keDsx</a><br/>\n    "
   },
   {
-    "ratingCount": 5,
+    "ratingCount": 6,
     "name": "Cairo Box Cricket",
     "lat": 17.38897,
     "lng": 78.56233,
@@ -1803,7 +1803,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Cairo Box Cricket</h3>\n    <strong>Ratings:</strong> 4 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8019137997<br/>\n    <a href=\"https://z34v4.app.goo.gl/BS3V\" target=\"_blank\">https://z34v4.app.goo.gl/BS3V</a><br/>\n    "
+    "info": "\n    <h3>Cairo Box Cricket</h3>\n    <strong>Ratings:</strong> 4.17 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8019137997<br/>\n    <a href=\"https://z34v4.app.goo.gl/BS3V\" target=\"_blank\">https://z34v4.app.goo.gl/BS3V</a><br/>\n    "
   },
   {
     "name": "Carlton Badminton",
@@ -3223,6 +3223,21 @@
       "Cricket"
     ],
     "info": "\n    <h3>GRIET Cricket Ground</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/a5zx4\" target=\"_blank\">https://playo.page.link/a5zx4</a><br/>\n    "
+  },
+  {
+    "ratingCount": 10,
+    "name": "GRM Stratos Tightend Arena (Jeedimetla)",
+    "lat": 17.5194,
+    "lng": 78.43974,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Box Cricket",
+      "Skates",
+      "Volleyball"
+    ],
+    "info": "\n    <h3>GRM Stratos Tightend Arena (Jeedimetla)</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Skates, Volleyball<br/>\n    <strong>Phone:</strong> 9100441653<br/>\n    <a href=\"https://z34v4.app.goo.gl/Nc46\" target=\"_blank\">https://z34v4.app.goo.gl/Nc46</a><br/>\n    "
   },
   {
     "ratingCount": 1,
@@ -5585,18 +5600,6 @@
     "info": "\n    <h3>My Home Jewel Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 77996 51033<br/>\n    <a href=\"https://playo.page.link/ZcY2F\" target=\"_blank\">https://playo.page.link/ZcY2F</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
-    "name": "Myra indoor Swimming Pool",
-    "lat": 17.39595,
-    "lng": 78.36376,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Swimming"
-    ],
-    "info": "\n    <h3>Myra indoor Swimming Pool</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 7207299245<br/>\n    <a href=\"https://z34v4.app.goo.gl/wFzB\" target=\"_blank\">https://z34v4.app.goo.gl/wFzB</a><br/>\n    "
-  },
-  {
     "name": "NAVANEETHA VOLLEY BALL COURT",
     "rating": 0,
     "lat": 17.314067,
@@ -5948,18 +5951,18 @@
     "info": "\n    <h3>Oasis Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 40 6553 3225<br/>\n    <a href=\"https://playo.page.link/pMKKm\" target=\"_blank\">https://playo.page.link/pMKKm</a><br/>\n    "
   },
   {
-    "ratingCount": 26,
+    "ratingCount": 29,
     "name": "Offside",
     "lat": 17.5262,
     "lng": 78.54363,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football",
       "Rugby"
     ],
-    "info": "\n    <h3>Offside</h3>\n    <strong>Ratings:</strong> 5 [26]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Rugby<br/>\n    <strong>Phone:</strong> 8919487723<br/>\n    <a href=\"https://z34v4.app.goo.gl/YNia\" target=\"_blank\">https://z34v4.app.goo.gl/YNia</a><br/>\n    "
+    "info": "\n    <h3>Offside</h3>\n    <strong>Ratings:</strong> 4.86 [29]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Rugby<br/>\n    <strong>Phone:</strong> 8919487723<br/>\n    <a href=\"https://z34v4.app.goo.gl/YNia\" target=\"_blank\">https://z34v4.app.goo.gl/YNia</a><br/>\n    "
   },
   {
     "name": "Olympia Cricket Ground",
@@ -7213,7 +7216,7 @@
     "info": "\n    <h3>SL Sports Box Cricket</h3>\n    <strong>Ratings:</strong> 4.71 [14]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8897159550<br/>\n    <a href=\"https://z34v4.app.goo.gl/iTkD\" target=\"_blank\">https://z34v4.app.goo.gl/iTkD</a><br/>\n    "
   },
   {
-    "ratingCount": 20,
+    "ratingCount": 21,
     "name": "SLV Badminton Academy",
     "lat": 17.518799,
     "lng": 78.3816118,
@@ -7222,7 +7225,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SLV Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.55 [20]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9928743456<br/>\n    <a href=\"https://z34v4.app.goo.gl/gnYz\" target=\"_blank\">https://z34v4.app.goo.gl/gnYz</a><br/>\n    "
+    "info": "\n    <h3>SLV Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.57 [21]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9928743456<br/>\n    <a href=\"https://z34v4.app.goo.gl/gnYz\" target=\"_blank\">https://z34v4.app.goo.gl/gnYz</a><br/>\n    "
   },
   {
     "name": "SM 6 POCKET SNOOKER PARLOUR",
@@ -7697,18 +7700,6 @@
     "info": "\n    <h3>Sea Blue's Swimming Pool</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 88855 56786<br/>\n    <a href=\"https://playo.page.link/ugPQj\" target=\"_blank\">https://playo.page.link/ugPQj</a><br/>\n    "
   },
   {
-    "name": "Seasons Indoor Swimming Pool Kondapur",
-    "rating": 5,
-    "ratingCount": 1,
-    "lat": 17.46991,
-    "lng": 78.36501,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Swimming"
-    ],
-    "info": "\n    <h3>Seasons Indoor Swimming Pool Kondapur</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 9949177122<br/>\n    <a href=\"https://playo.page.link/FhKZk\" target=\"_blank\">https://playo.page.link/FhKZk</a><br/>\n    "
-  },
-  {
     "name": "Seven Star Badminton Academy",
     "ratingCount": 34,
     "lat": 17.367426,
@@ -7744,16 +7735,16 @@
     "info": "\n    <h3>Shallal farmhouse</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 92468 85350<br/>\n    <a href=\"https://playo.page.link/3kwUE\" target=\"_blank\">https://playo.page.link/3kwUE</a><br/>\n    "
   },
   {
-    "ratingCount": 3,
+    "ratingCount": 4,
     "name": "Shashidhar Badminton Academy",
     "lat": 17.526279,
     "lng": 78.543425,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Shashidhar Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9398170220<br/>\n    <a href=\"https://z34v4.app.goo.gl/pBwg\" target=\"_blank\">https://z34v4.app.goo.gl/pBwg</a><br/>\n    "
+    "info": "\n    <h3>Shashidhar Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.25 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9398170220<br/>\n    <a href=\"https://z34v4.app.goo.gl/pBwg\" target=\"_blank\">https://z34v4.app.goo.gl/pBwg</a><br/>\n    "
   },
   {
     "name": "Shiv Shankar Football Stadium",
@@ -8491,21 +8482,6 @@
       "Volleyball"
     ],
     "info": "\n    <h3>Stratos Tightend Arena</h3>\n    <strong>Ratings:</strong> 4.6 [43]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Cricket, Cycling, Football, Skates, Volleyball<br/>\n    <strong>Phone:</strong> 8008831133<br/>\n    <a href=\"https://z34v4.app.goo.gl/QPDz\" target=\"_blank\">https://z34v4.app.goo.gl/QPDz</a><br/>\n    "
-  },
-  {
-    "ratingCount": 8,
-    "name": "Stratos Tightend Arena GRM",
-    "lat": 17.5194,
-    "lng": 78.43974,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Basketball",
-      "Box Cricket",
-      "Skates",
-      "Volleyball"
-    ],
-    "info": "\n    <h3>Stratos Tightend Arena GRM</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Skates, Volleyball<br/>\n    <strong>Phone:</strong> 9100441653<br/>\n    <a href=\"https://z34v4.app.goo.gl/HJBE\" target=\"_blank\">https://z34v4.app.goo.gl/HJBE</a><br/>\n    "
   },
   {
     "name": "Strike Zone",
@@ -10592,7 +10568,7 @@
     "info": "\n    <h3>YSR Aracade Badminton Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 97004 51137<br/>\n    <a href=\"https://playo.page.link/8spoq\" target=\"_blank\">https://playo.page.link/8spoq</a><br/>\n    "
   },
   {
-    "ratingCount": 13,
+    "ratingCount": 14,
     "name": "YVM Sports Haven",
     "lat": 17.46098,
     "lng": 78.54195,
@@ -10602,7 +10578,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>YVM Sports Haven</h3>\n    <strong>Ratings:</strong> 4.92 [13]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9030353837<br/>\n    <a href=\"https://z34v4.app.goo.gl/MGio\" target=\"_blank\">https://z34v4.app.goo.gl/MGio</a><br/>\n    "
+    "info": "\n    <h3>YVM Sports Haven</h3>\n    <strong>Ratings:</strong> 4.93 [14]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9030353837<br/>\n    <a href=\"https://z34v4.app.goo.gl/MGio\" target=\"_blank\">https://z34v4.app.goo.gl/MGio</a><br/>\n    "
   },
   {
     "name": "Yaba Swimming Pool",
