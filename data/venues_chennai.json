@@ -322,6 +322,18 @@
     "info": "\n    <h3>Achievers badminton club</h3>\n    <strong>Ratings:</strong> 3.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/msLp\" target=\"_blank\">https://z34v4.app.goo.gl/msLp</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "name": "Aditya Sports Academy",
+    "lat": 13.155611,
+    "lng": 80.2357141,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Aditya Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9150276999<br/>\n    <a href=\"https://z34v4.app.goo.gl/cZka\" target=\"_blank\">https://z34v4.app.goo.gl/cZka</a><br/>\n    "
+  },
+  {
     "name": "Alan Tennis Academy",
     "rating": 0,
     "lat": 13.012041,
@@ -8646,18 +8658,6 @@
       "Football"
     ],
     "info": "\n    <h3>V Square Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9066667890<br/>\n    <a href=\"https://z34v4.app.goo.gl/dS3s\" target=\"_blank\">https://z34v4.app.goo.gl/dS3s</a><br/>\n    "
-  },
-  {
-    "ratingCount": 0,
-    "name": "V1 Badminton Academy",
-    "lat": 13.155611,
-    "lng": 80.2357141,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>V1 Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9150276999<br/>\n    <a href=\"https://z34v4.app.goo.gl/e4Mg\" target=\"_blank\">https://z34v4.app.goo.gl/e4Mg</a><br/>\n    "
   },
   {
     "name": "VB Cricket Academy",
