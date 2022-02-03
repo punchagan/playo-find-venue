@@ -1030,7 +1030,7 @@
   },
   {
     "name": "Baseline Sports",
-    "ratingCount": 405,
+    "ratingCount": 406,
     "lat": 12.961272,
     "lng": 77.514564,
     "rating": 4,
@@ -1038,7 +1038,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Baseline Sports</h3>\n    <strong>Ratings:</strong> 4.17 [405]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9108705005<br/>\n    <a href=\"https://z34v4.app.goo.gl/9FB5\" target=\"_blank\">https://z34v4.app.goo.gl/9FB5</a><br/>\n    "
+    "info": "\n    <h3>Baseline Sports</h3>\n    <strong>Ratings:</strong> 4.17 [406]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9108705005<br/>\n    <a href=\"https://z34v4.app.goo.gl/9FB5\" target=\"_blank\">https://z34v4.app.goo.gl/9FB5</a><br/>\n    "
   },
   {
     "name": "Basketball Court",
@@ -1637,9 +1637,10 @@
     "filter_by": [
       "Badminton",
       "Box Cricket",
-      "Football"
+      "Football",
+      "Swimming"
     ],
-    "info": "\n    <h3>Coolulu TurfPark Koramangala</h3>\n    <strong>Ratings:</strong> 3.98 [123]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9790513417<br/>\n    <a href=\"https://z34v4.app.goo.gl/Ffxy\" target=\"_blank\">https://z34v4.app.goo.gl/Ffxy</a><br/>\n    "
+    "info": "\n    <h3>Coolulu TurfPark Koramangala</h3>\n    <strong>Ratings:</strong> 3.98 [123]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Swimming<br/>\n    <strong>Phone:</strong> 9790513417<br/>\n    <a href=\"https://z34v4.app.goo.gl/Ffxy\" target=\"_blank\">https://z34v4.app.goo.gl/Ffxy</a><br/>\n    "
   },
   {
     "name": "Country Club",
@@ -2506,7 +2507,7 @@
   },
   {
     "name": "Free Hitz",
-    "ratingCount": 196,
+    "ratingCount": 197,
     "lat": 13.024802,
     "lng": 77.603744,
     "rating": 4,
@@ -2514,7 +2515,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Free Hitz</h3>\n    <strong>Ratings:</strong> 4.25 [196]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8296861410<br/>\n    <a href=\"https://z34v4.app.goo.gl/yeCg\" target=\"_blank\">https://z34v4.app.goo.gl/yeCg</a><br/>\n    "
+    "info": "\n    <h3>Free Hitz</h3>\n    <strong>Ratings:</strong> 4.25 [197]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8296861410<br/>\n    <a href=\"https://z34v4.app.goo.gl/yeCg\" target=\"_blank\">https://z34v4.app.goo.gl/yeCg</a><br/>\n    "
   },
   {
     "name": "Free Kick Sports Arena - Frazer Town",
@@ -3879,16 +3880,16 @@
   },
   {
     "name": "Kings Arena",
-    "ratingCount": 62,
+    "ratingCount": 3,
     "lat": 12.976092591198118,
     "lng": 77.50387804276693,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Kings Arena</h3>\n    <strong>Ratings:</strong> 3.48 [62]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8088394744<br/>\n    <a href=\"https://z34v4.app.goo.gl/etmK\" target=\"_blank\">https://z34v4.app.goo.gl/etmK</a><br/>\n    "
+    "info": "\n    <h3>Kings Arena</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8088394744<br/>\n    <a href=\"https://z34v4.app.goo.gl/etmK\" target=\"_blank\">https://z34v4.app.goo.gl/etmK</a><br/>\n    "
   },
   {
     "name": "Kings Court Badminton Academy",
@@ -6078,7 +6079,7 @@
     "info": "\n    <h3>SPR Nisarga Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.32 [173]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6362469241<br/>\n    <a href=\"https://z34v4.app.goo.gl/DCdv\" target=\"_blank\">https://z34v4.app.goo.gl/DCdv</a><br/>\n    "
   },
   {
-    "ratingCount": 29,
+    "ratingCount": 30,
     "name": "SSBA Badminton Academy",
     "lat": 12.898142,
     "lng": 77.52774,
@@ -6087,7 +6088,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SSBA Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.34 [29]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9606238092<br/>\n    <a href=\"https://z34v4.app.goo.gl/GvnZ\" target=\"_blank\">https://z34v4.app.goo.gl/GvnZ</a><br/>\n    "
+    "info": "\n    <h3>SSBA Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.37 [30]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9606238092<br/>\n    <a href=\"https://z34v4.app.goo.gl/GvnZ\" target=\"_blank\">https://z34v4.app.goo.gl/GvnZ</a><br/>\n    "
   },
   {
     "ratingCount": 5,
@@ -6505,7 +6506,7 @@
   },
   {
     "name": "Skyline Sports Academy",
-    "ratingCount": 100,
+    "ratingCount": 101,
     "lat": 12.903945,
     "lng": 77.505453,
     "rating": 3,
@@ -6513,7 +6514,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Skyline Sports Academy</h3>\n    <strong>Ratings:</strong> 3.92 [100]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7676777776<br/>\n    <a href=\"https://z34v4.app.goo.gl/cM1K\" target=\"_blank\">https://z34v4.app.goo.gl/cM1K</a><br/>\n    "
+    "info": "\n    <h3>Skyline Sports Academy</h3>\n    <strong>Ratings:</strong> 3.92 [101]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7676777776<br/>\n    <a href=\"https://z34v4.app.goo.gl/cM1K\" target=\"_blank\">https://z34v4.app.goo.gl/cM1K</a><br/>\n    "
   },
   {
     "ratingCount": 49,
@@ -8771,7 +8772,7 @@
     "info": "\n    <h3>Yeshwanthpur Feathers Academy</h3>\n    <strong>Ratings:</strong> 3.3 [124]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9945146824<br/>\n    <a href=\"https://z34v4.app.goo.gl/6dAq\" target=\"_blank\">https://z34v4.app.goo.gl/6dAq</a><br/>\n    "
   },
   {
-    "ratingCount": 36,
+    "ratingCount": 37,
     "name": "YuVe Champions Academy for Badminton",
     "lat": 13.080384159462776,
     "lng": 77.63178502944893,
@@ -8780,7 +8781,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>YuVe Champions Academy for Badminton</h3>\n    <strong>Ratings:</strong> 4.75 [36]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9945255133<br/>\n    <a href=\"https://z34v4.app.goo.gl/B9BJ\" target=\"_blank\">https://z34v4.app.goo.gl/B9BJ</a><br/>\n    "
+    "info": "\n    <h3>YuVe Champions Academy for Badminton</h3>\n    <strong>Ratings:</strong> 4.76 [37]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9945255133<br/>\n    <a href=\"https://z34v4.app.goo.gl/B9BJ\" target=\"_blank\">https://z34v4.app.goo.gl/B9BJ</a><br/>\n    "
   },
   {
     "name": "Yuva Vikas Basketball Court",

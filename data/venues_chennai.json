@@ -239,7 +239,7 @@
     "info": "\n    <h3>ASR Shuttle Club</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 87547 87126<br/>\n    <a href=\"https://playo.page.link/Rqnvp\" target=\"_blank\">https://playo.page.link/Rqnvp</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
+    "ratingCount": 2,
     "name": "ASR Sports Academy",
     "lat": 13.0910154,
     "lng": 80.1996737,
@@ -248,7 +248,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>ASR Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9884417236<br/>\n    <a href=\"https://z34v4.app.goo.gl/fQog\" target=\"_blank\">https://z34v4.app.goo.gl/fQog</a><br/>\n    "
+    "info": "\n    <h3>ASR Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9884417236<br/>\n    <a href=\"https://z34v4.app.goo.gl/fQog\" target=\"_blank\">https://z34v4.app.goo.gl/fQog</a><br/>\n    "
   },
   {
     "name": "ASR Sports Academy",
@@ -1046,19 +1046,6 @@
       "Basketball"
     ],
     "info": "\n    <h3>Basketball court7</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/bVcpV\" target=\"_blank\">https://playo.page.link/bVcpV</a><br/>\n    "
-  },
-  {
-    "ratingCount": 0,
-    "name": "Battle Knights",
-    "lat": 13.0228252,
-    "lng": 80.1464804,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Battle Knights</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9962262686<br/>\n    <a href=\"https://z34v4.app.goo.gl/VxjJ\" target=\"_blank\">https://z34v4.app.goo.gl/VxjJ</a><br/>\n    "
   },
   {
     "name": "Battledore Badminton Club",
@@ -6926,16 +6913,16 @@
     "info": "\n    <h3>Skyarc Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9042900954<br/>\n    <a href=\"https://z34v4.app.goo.gl/5Jkn\" target=\"_blank\">https://z34v4.app.goo.gl/5Jkn</a><br/>\n    "
   },
   {
-    "ratingCount": 0,
+    "ratingCount": 1,
     "name": "Skyarc Badminton Academy, Kolathur",
     "lat": 13.1268262,
     "lng": 80.2031018,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Skyarc Badminton Academy, Kolathur</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9514300971<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEGL\" target=\"_blank\">https://z34v4.app.goo.gl/xEGL</a><br/>\n    "
+    "info": "\n    <h3>Skyarc Badminton Academy, Kolathur</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9514300971<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEGL\" target=\"_blank\">https://z34v4.app.goo.gl/xEGL</a><br/>\n    "
   },
   {
     "name": "Skylap Badminton",
