@@ -1,0 +1,48 @@
+#!/usr/bin/env python3
+"""Script to get date-wise snapshots of the data."""
+
+import calendar
+import glob
+import os
+import shutil
+import subprocess
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(HERE, "..", "data")
+OUTPUT_DIR = os.path.join(HERE, "..", "snapshots")
+
+
+def month_range(start, end):
+    year, month = start
+    year_, month_ = end
+    while (year, month) <= (year_, month_):
+        yield (year, month)
+        month = (month + 1) % 13
+        if month == 0:
+            year += 1
+            month += 1
+
+
+def checkout_month(year, month, data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
+    _, day = calendar.monthrange(year, month)
+    date = f"{year}-{month:02}-{day:02}"
+    command = ["git", "rev-list", "-n", "1", f'--before="{date}"', "master"]
+    commit = subprocess.check_output(command).strip()
+    shutil.rmtree(data_dir)
+    subprocess.check_call(["git", "checkout", "-q", commit, "--", DATA_DIR])
+    for path in glob.glob(f"{data_dir}/venues*.json"):
+        name = os.path.basename(path)
+        dst = os.path.join(OUTPUT_DIR, name.replace(".json", f"_{date}.json"))
+        shutil.copy(path, dst)
+
+
+if __name__ == "__main__":
+    from datetime import datetime
+
+    START = (2018, 2)
+    now = datetime.now()
+    end = (now.year, now.month)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    print(f"Creating snapshot from {START} to {end}")
+    for date in month_range(START, end):
+        checkout_month(*date)
