@@ -50,7 +50,18 @@ def fetch_sport_ids(debug=False):
 
 
 def modify_metadata(venues, clean=True, debug=False):
-    RETAIN_KEYS = {"name", "icon", "info", "lat", "lng", "filter_by", "rating", "ratingCount"}
+    RETAIN_KEYS = {
+        "name",
+        "icon",
+        "info",
+        "lat",
+        "lng",
+        "filter_by",
+        "rating",
+        "ratingCount",
+        "deferLink",
+        "fullLink",
+    }
     SPORT_ID_MAP = fetch_sport_ids(debug=debug)
     for venue in venues:
         rating = int(float(venue["avgRating"] or 0))
