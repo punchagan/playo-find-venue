@@ -57,6 +57,7 @@ def modify_metadata(venues, clean=True, debug=False):
         "lat",
         "lng",
         "filter_by",
+        "avgRating",
         "rating",
         "ratingCount",
         "deferLink",
