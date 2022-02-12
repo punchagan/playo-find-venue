@@ -22,8 +22,7 @@ def month_range(start, end):
             month += 1
 
 
-def checkout_month(year, month, data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
-    day = 1
+def checkout(year, month, day=1, data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
     date = f"{year}-{month:02}-{day:02}"
     command = ["git", "rev-list", "-n", "1", f'--before="{date}"', "master"]
     commit = subprocess.check_output(command).strip()
@@ -44,4 +43,4 @@ if __name__ == "__main__":
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     print(f"Creating snapshot from {START} to {end}")
     for date in month_range(START, end):
-        checkout_month(*date)
+        checkout(*date)
