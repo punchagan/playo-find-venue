@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Script to get date-wise snapshots of the data."""
 
-import calendar
 import glob
 import os
 import shutil
@@ -24,7 +23,7 @@ def month_range(start, end):
 
 
 def checkout_month(year, month, data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
-    _, day = calendar.monthrange(year, month)
+    day = 1
     date = f"{year}-{month:02}-{day:02}"
     command = ["git", "rev-list", "-n", "1", f'--before="{date}"', "master"]
     commit = subprocess.check_output(command).strip()
@@ -39,7 +38,7 @@ def checkout_month(year, month, data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
 if __name__ == "__main__":
     from datetime import datetime
 
-    START = (2018, 2)
+    START = (2018, 3)
     now = datetime.now()
     end = (now.year, now.month)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
