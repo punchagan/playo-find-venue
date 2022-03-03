@@ -288,6 +288,21 @@
     "info": "\n    <h3>ANWEA Tennis Court</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/pMu16\" target=\"_blank\">https://playo.page.link/pMu16</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "ASR Badminton Academy",
+    "ratingCount": 0,
+    "deferLink": "https://z34v4.app.goo.gl/8KdD",
+    "fullLink": "https://playo.co/venue/?venueId=7430f7fd-7cc1-44b5-98af-7ebef671f411",
+    "lat": 13.1163734,
+    "lng": 80.2425091,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>ASR Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9884417236<br/>\n    <a href=\"https://z34v4.app.goo.gl/8KdD\" target=\"_blank\">https://z34v4.app.goo.gl/8KdD</a><br/>\n    "
+  },
+  {
     "name": "ASR Shuttle Club",
     "rating": 0,
     "deferLink": "https://playo.page.link/Rqnvp",
@@ -5096,17 +5111,18 @@
   },
   {
     "name": "KMC Volleyball Court.",
-    "rating": 0,
+    "rating": 5,
     "deferLink": "https://playo.page.link/CMZWW",
     "fullLink": "https://playo.co/venue/?venueId=3fc8a9b0-0bfe-40cd-b98b-b526d6363909",
+    "avgRating": 5,
+    "ratingCount": 1,
     "lat": 13.0768268,
     "lng": 80.2443596,
-    "avgRating": null,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Volleyball"
     ],
-    "info": "\n    <h3>KMC Volleyball Court.</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/CMZWW\" target=\"_blank\">https://playo.page.link/CMZWW</a><br/>\n    "
+    "info": "\n    <h3>KMC Volleyball Court.</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/CMZWW\" target=\"_blank\">https://playo.page.link/CMZWW</a><br/>\n    "
   },
   {
     "name": "KV CLRI basketball court",
@@ -9445,7 +9461,7 @@
     "avgRating": 5,
     "name": "Sun Indoor Sports Academy",
     "fullLink": "https://playo.co/venue?venueId=6bc3c61d-04c8-4ab6-8d6c-f28226cfcf91",
-    "deferLink": "https://z34v4.app.goo.gl/pTQC",
+    "deferLink": "https://z34v4.app.goo.gl/dMAZ",
     "lat": 13.1731804,
     "lng": 80.2943559,
     "rating": 5,
@@ -9454,7 +9470,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Sun Indoor Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7667447444<br/>\n    <a href=\"https://z34v4.app.goo.gl/pTQC\" target=\"_blank\">https://z34v4.app.goo.gl/pTQC</a><br/>\n    "
+    "info": "\n    <h3>Sun Indoor Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7667447444<br/>\n    <a href=\"https://z34v4.app.goo.gl/dMAZ\" target=\"_blank\">https://z34v4.app.goo.gl/dMAZ</a><br/>\n    "
   },
   {
     "name": "Sun Sports Academy",
