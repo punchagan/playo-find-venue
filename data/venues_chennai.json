@@ -4069,19 +4069,19 @@
     "info": "\n    <h3>Hawkeye Indoor Nets</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/XyUn\" target=\"_blank\">https://z34v4.app.goo.gl/XyUn</a><br/>\n    "
   },
   {
-    "ratingCount": 2,
-    "avgRating": 5,
+    "ratingCount": 3,
+    "avgRating": 4,
     "name": "Healthy Sports",
     "fullLink": "https://playo.co/venue?venueId=f1c45b37-b3fd-413f-939d-c6e27f217e5d",
     "deferLink": "https://z34v4.app.goo.gl/M5YQ",
     "lat": 13.0466641,
     "lng": 80.2182026,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Table Tennis"
     ],
-    "info": "\n    <h3>Healthy Sports</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9003419705<br/>\n    <a href=\"https://z34v4.app.goo.gl/M5YQ\" target=\"_blank\">https://z34v4.app.goo.gl/M5YQ</a><br/>\n    "
+    "info": "\n    <h3>Healthy Sports</h3>\n    <strong>Ratings:</strong> 4 [3]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9003419705<br/>\n    <a href=\"https://z34v4.app.goo.gl/M5YQ\" target=\"_blank\">https://z34v4.app.goo.gl/M5YQ</a><br/>\n    "
   },
   {
     "name": "Herkley",
@@ -5065,6 +5065,21 @@
     "info": "\n    <h3>K2 Badminton Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/SGOu\" target=\"_blank\">https://z34v4.app.goo.gl/SGOu</a><br/>\n    "
   },
   {
+    "avgRating": 2,
+    "name": "K2 Badminton Club",
+    "ratingCount": 1,
+    "deferLink": "https://z34v4.app.goo.gl/SGOu",
+    "fullLink": "https://playo.co/venue/?venueId=9258c8a4-195d-4317-b94d-526278a73eeb",
+    "lat": 13.019665,
+    "lng": 80.129758,
+    "rating": 2,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>K2 Badminton Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/SGOu\" target=\"_blank\">https://z34v4.app.goo.gl/SGOu</a><br/>\n    "
+  },
+  {
     "name": "KCG volleyball court -1",
     "rating": 5,
     "deferLink": "https://playo.page.link/oRvjv",
@@ -5862,20 +5877,6 @@
   {
     "name": "MRF Pachaiyappa",
     "rating": 0,
-    "deferLink": "https://playo.page.link/62e98",
-    "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
-    "lat": 13.0720289,
-    "lng": 80.2324485,
-    "avgRating": null,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Cricket"
-    ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
-  },
-  {
-    "name": "MRF Pachaiyappa",
-    "rating": 0,
     "deferLink": "https://playo.page.link/DzNJ3",
     "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
     "lat": 13.0720289,
@@ -5886,6 +5887,20 @@
       "Football"
     ],
     "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+  },
+  {
+    "name": "MRF Pachaiyappa",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/62e98",
+    "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
+    "lat": 13.0720289,
+    "lng": 80.2324485,
+    "avgRating": null,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket"
+    ],
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -9144,8 +9159,8 @@
     "name": "Spartan Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=029bd359-b0c4-43ef-aa73-aa275cd351ba",
     "deferLink": "https://z34v4.app.goo.gl/Gqnf",
-    "lat": 13.0331255,
-    "lng": 80.1134558,
+    "lat": 13.027209205682489,
+    "lng": 80.15732308410286,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
@@ -10400,21 +10415,6 @@
       "Volleyball"
     ],
     "info": "\n    <h3>The Box Bong</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Handball, Volleyball<br/>\n    <strong>Phone:</strong> 9840532250<br/>\n    <a href=\"https://z34v4.app.goo.gl/dBGB\" target=\"_blank\">https://z34v4.app.goo.gl/dBGB</a><br/>\n    "
-  },
-  {
-    "name": "The Colosseum Iyyapanthangal",
-    "rating": 5,
-    "deferLink": "https://playo.page.link/2dbge",
-    "fullLink": "https://playo.co/venue/?venueId=b039fad6-b878-4ab7-9055-4815805e7dae",
-    "avgRating": 5,
-    "ratingCount": 1,
-    "lat": 13.0507548,
-    "lng": 80.1313415,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>The Colosseum Iyyapanthangal</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 44 4856 3545<br/>\n    <a href=\"https://playo.page.link/2dbge\" target=\"_blank\">https://playo.page.link/2dbge</a><br/>\n    "
   },
   {
     "name": "The Colosseum Iyyapanthangal",
