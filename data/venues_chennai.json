@@ -5537,6 +5537,22 @@
     "info": "\n    <h3>LIC PLAY GROUND</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/WZDmM\" target=\"_blank\">https://playo.page.link/WZDmM</a><br/>\n    "
   },
   {
+    "ratingCount": 0,
+    "avgRating": 0,
+    "name": "Lagazon",
+    "fullLink": "https://playo.co/venue?venueId=1001a109-cbad-4413-b313-d47119bf7f67",
+    "deferLink": "https://z34v4.app.goo.gl/XiRq",
+    "lat": 13.1196954,
+    "lng": 80.0870226,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Lagazon</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7338801883<br/>\n    <a href=\"https://z34v4.app.goo.gl/XiRq\" target=\"_blank\">https://z34v4.app.goo.gl/XiRq</a><br/>\n    "
+  },
+  {
     "name": "Lakshmi Diesel Sales & Service",
     "rating": 0,
     "deferLink": "https://playo.page.link/uaJSZ",
@@ -5925,20 +5941,6 @@
   {
     "name": "MRF Pachaiyappa",
     "rating": 0,
-    "deferLink": "https://playo.page.link/DzNJ3",
-    "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
-    "lat": 13.0720289,
-    "lng": 80.2324485,
-    "avgRating": null,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
-  },
-  {
-    "name": "MRF Pachaiyappa",
-    "rating": 0,
     "deferLink": "https://playo.page.link/62e98",
     "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
     "lat": 13.0720289,
@@ -5949,6 +5951,20 @@
       "Cricket"
     ],
     "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+  },
+  {
+    "name": "MRF Pachaiyappa",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/DzNJ3",
+    "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
+    "lat": 13.0720289,
+    "lng": 80.2324485,
+    "avgRating": null,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -8984,15 +9000,15 @@
     "rating": 3,
     "deferLink": "https://playo.page.link/ytdMi",
     "fullLink": "https://playo.co/venue/?venueId=d643eb06-2e0c-44d2-a692-28516987c6bf",
-    "avgRating": 3,
-    "ratingCount": 7,
+    "avgRating": 3.25,
+    "ratingCount": 8,
     "lat": 12.9490301,
     "lng": 80.235783,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Smasher 2.0 Sports & Arts Academy</h3>\n    <strong>Ratings:</strong> 3 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6374164119<br/>\n    <a href=\"https://playo.page.link/ytdMi\" target=\"_blank\">https://playo.page.link/ytdMi</a><br/>\n    "
+    "info": "\n    <h3>Smasher 2.0 Sports & Arts Academy</h3>\n    <strong>Ratings:</strong> 3.25 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6374164119<br/>\n    <a href=\"https://playo.page.link/ytdMi\" target=\"_blank\">https://playo.page.link/ytdMi</a><br/>\n    "
   },
   {
     "name": "Smasher Sports Academy",
