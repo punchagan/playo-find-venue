@@ -11193,17 +11193,18 @@
   },
   {
     "name": "Swimming Pool1",
-    "rating": 0,
+    "rating": 5,
     "deferLink": "https://playo.page.link/myo3b",
     "fullLink": "https://playo.co/venue/?venueId=99b3af1f-dbbd-4ad7-9afa-3e64b314abe9",
+    "avgRating": 5,
+    "ratingCount": 1,
     "lat": 17.5158369,
     "lng": 78.3937155,
-    "avgRating": null,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Swimming"
     ],
-    "info": "\n    <h3>Swimming Pool1</h3>\n    <strong>Ratings:</strong> None [N/A]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 40 4013 8981<br/>\n    <a href=\"https://playo.page.link/myo3b\" target=\"_blank\">https://playo.page.link/myo3b</a><br/>\n    "
+    "info": "\n    <h3>Swimming Pool1</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 40 4013 8981<br/>\n    <a href=\"https://playo.page.link/myo3b\" target=\"_blank\">https://playo.page.link/myo3b</a><br/>\n    "
   },
   {
     "name": "Swimming Pool3",
@@ -12182,7 +12183,7 @@
     "avgRating": 3.38,
     "name": "Tightend@Chillout",
     "fullLink": "https://playo.co/venue?venueId=1f450581-be22-41d5-a71a-88131b09523f",
-    "deferLink": "https://z34v4.app.goo.gl/15PJ",
+    "deferLink": "https://z34v4.app.goo.gl/1Ckp",
     "lat": 17.53174,
     "lng": 78.39329,
     "rating": 3,
@@ -12191,7 +12192,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Tightend@Chillout</h3>\n    <strong>Ratings:</strong> 3.38 [24]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9703799998<br/>\n    <a href=\"https://z34v4.app.goo.gl/15PJ\" target=\"_blank\">https://z34v4.app.goo.gl/15PJ</a><br/>\n    "
+    "info": "\n    <h3>Tightend@Chillout</h3>\n    <strong>Ratings:</strong> 3.38 [24]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9703799998<br/>\n    <a href=\"https://z34v4.app.goo.gl/1Ckp\" target=\"_blank\">https://z34v4.app.goo.gl/1Ckp</a><br/>\n    "
   },
   {
     "ratingCount": 2,
