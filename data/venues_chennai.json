@@ -2835,20 +2835,20 @@
   },
   {
     "name": "Dolphin Sports Academy",
-    "rating": 5,
+    "rating": 4,
     "deferLink": "https://playo.page.link/eEmXA",
     "fullLink": "https://playo.co/venue/?venueId=90415c2f-2a71-43e3-8311-0800ee5eddfd",
-    "avgRating": 5,
-    "ratingCount": 1,
+    "avgRating": 4.5,
+    "ratingCount": 2,
     "lat": 13.1207051,
     "lng": 80.1415197,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton",
       "Football",
       "Swimming"
     ],
-    "info": "\n    <h3>Dolphin Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Football, Swimming<br/>\n    <strong>Phone:</strong> 99400 24967<br/>\n    <a href=\"https://playo.page.link/eEmXA\" target=\"_blank\">https://playo.page.link/eEmXA</a><br/>\n    "
+    "info": "\n    <h3>Dolphin Sports Academy</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Football, Swimming<br/>\n    <strong>Phone:</strong> 99400 24967<br/>\n    <a href=\"https://playo.page.link/eEmXA\" target=\"_blank\">https://playo.page.link/eEmXA</a><br/>\n    "
   },
   {
     "name": "Don Bosco Foot ball Ground",
@@ -2942,6 +2942,36 @@
       "Badminton"
     ],
     "info": "\n    <h3>East Coast Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9894464383<br/>\n    <a href=\"https://z34v4.app.goo.gl/8Svz\" target=\"_blank\">https://z34v4.app.goo.gl/8Svz</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "avgRating": 0,
+    "name": "Ecosport",
+    "fullLink": "https://playo.co/venue?venueId=8307d68e-1058-415f-8273-b5e34129cdf9",
+    "deferLink": "https://z34v4.app.goo.gl/QDLv",
+    "lat": 12.99244295899565,
+    "lng": 80.09754767709659,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Ecosport</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9043331209<br/>\n    <a href=\"https://z34v4.app.goo.gl/QDLv\" target=\"_blank\">https://z34v4.app.goo.gl/QDLv</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "avgRating": 0,
+    "name": "Ecosport",
+    "fullLink": "https://playo.co/venue?venueId=8307d68e-1058-415f-8273-b5e34129cdf9",
+    "deferLink": "https://z34v4.app.goo.gl/QDLv",
+    "lat": 12.99244295899565,
+    "lng": 80.09754767709659,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Ecosport</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9043331209<br/>\n    <a href=\"https://z34v4.app.goo.gl/QDLv\" target=\"_blank\">https://z34v4.app.goo.gl/QDLv</a><br/>\n    "
   },
   {
     "name": "Edition O 30035 Esthell near Malar Hospital",
@@ -5356,21 +5386,6 @@
     "info": "\n    <h3>K2 Badminton Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/SGOu\" target=\"_blank\">https://z34v4.app.goo.gl/SGOu</a><br/>\n    "
   },
   {
-    "avgRating": 2,
-    "name": "K2 Badminton Club",
-    "ratingCount": 1,
-    "deferLink": "https://z34v4.app.goo.gl/SGOu",
-    "fullLink": "https://playo.co/venue/?venueId=9258c8a4-195d-4317-b94d-526278a73eeb",
-    "lat": 13.019665,
-    "lng": 80.129758,
-    "rating": 2,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>K2 Badminton Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/SGOu\" target=\"_blank\">https://z34v4.app.goo.gl/SGOu</a><br/>\n    "
-  },
-  {
     "name": "KCG volleyball court -1",
     "rating": 5,
     "deferLink": "https://playo.page.link/oRvjv",
@@ -6677,6 +6692,21 @@
       "Swimming"
     ],
     "info": "\n    <h3>Mermaid Swimming Pools</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 44 2815 5498<br/>\n    <a href=\"https://playo.page.link/kDpft\" target=\"_blank\">https://playo.page.link/kDpft</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "avgRating": 5,
+    "name": "Merryland Sports Academy",
+    "fullLink": "https://playo.co/venue?venueId=2b6cca3a-a75d-47e1-a5e8-947e7dd11bba",
+    "deferLink": "https://z34v4.app.goo.gl/6NzB",
+    "lat": 13.155463,
+    "lng": 80.248969,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Merryland Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840048363<br/>\n    <a href=\"https://z34v4.app.goo.gl/6NzB\" target=\"_blank\">https://z34v4.app.goo.gl/6NzB</a><br/>\n    "
   },
   {
     "name": "Metro Badminton Court",
