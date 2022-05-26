@@ -396,15 +396,15 @@
     "rating": 3,
     "deferLink": "https://playo.page.link/YqS7j",
     "fullLink": "https://playo.co/venue/?venueId=3a145aae-9972-487c-ac1c-ddaad59deea8",
-    "avgRating": 3.67,
-    "ratingCount": 3,
+    "avgRating": 3.75,
+    "ratingCount": 4,
     "lat": 13.0550564,
     "lng": 80.2286286,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Acers Badminton Academy2</h3>\n    <strong>Ratings:</strong> 3.67 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/YqS7j\" target=\"_blank\">https://playo.page.link/YqS7j</a><br/>\n    "
+    "info": "\n    <h3>Acers Badminton Academy2</h3>\n    <strong>Ratings:</strong> 3.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/YqS7j\" target=\"_blank\">https://playo.page.link/YqS7j</a><br/>\n    "
   },
   {
     "name": "Aces Badminton Club",
@@ -11198,6 +11198,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>The Mylapore Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 44 2499 5315<br/>\n    <a href=\"https://playo.page.link/MXPce\" target=\"_blank\">https://playo.page.link/MXPce</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "avgRating": 0,
+    "name": "The Nets",
+    "fullLink": "https://playo.co/venue?venueId=55266fe2-b6af-4d3e-b425-f28ddb252e6c",
+    "deferLink": "https://z34v4.app.goo.gl/4dDS",
+    "lat": 13.131893273503824,
+    "lng": 80.15542586167219,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>The Nets</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9043363933<br/>\n    <a href=\"https://z34v4.app.goo.gl/4dDS\" target=\"_blank\">https://z34v4.app.goo.gl/4dDS</a><br/>\n    "
   },
   {
     "name": "The Olympiad",
