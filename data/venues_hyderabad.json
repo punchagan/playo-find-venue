@@ -1673,6 +1673,21 @@
     "info": "\n    <h3>Basket Ball Court1</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/ubmHG\" target=\"_blank\">https://playo.page.link/ubmHG</a><br/>\n    "
   },
   {
+    "name": "Basket Ball Court1",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/ubmHG",
+    "fullLink": "https://playo.co/venue/?venueId=0f909f79-6c3b-4a65-bd8b-a069542260a8",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "lat": 17.4275301,
+    "lng": 78.4448628,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Basketball"
+    ],
+    "info": "\n    <h3>Basket Ball Court1</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/ubmHG\" target=\"_blank\">https://playo.page.link/ubmHG</a><br/>\n    "
+  },
+  {
     "name": "Basket Ball Court12",
     "rating": 0,
     "deferLink": "https://playo.page.link/Yagwh",
@@ -4468,21 +4483,6 @@
     "info": "\n    <h3>Gagan Mahal Grounds</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/QmVLY\" target=\"_blank\">https://playo.page.link/QmVLY</a><br/>\n    "
   },
   {
-    "name": "Gagan Mahal Grounds",
-    "rating": 0,
-    "deferLink": "https://playo.page.link/QmVLY",
-    "fullLink": "https://playo.co/venue/?venueId=f5ff62c5-dd6a-4d0e-9e39-1dc2f2e0d79d",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 17.4079957,
-    "lng": 78.4801671,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>Gagan Mahal Grounds</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/QmVLY\" target=\"_blank\">https://playo.page.link/QmVLY</a><br/>\n    "
-  },
-  {
     "ratingCount": 10,
     "avgRating": 5,
     "name": "Game On (Raidurg)",
@@ -6405,6 +6405,45 @@
       "Tennis"
     ],
     "info": "\n    <h3>Lanco Hills Tennis Courts</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 99080 87898<br/>\n    <a href=\"https://playo.page.link/hPQvX\" target=\"_blank\">https://playo.page.link/hPQvX</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "avgRating": 5,
+    "name": "Laser Shooter - Begumpet",
+    "fullLink": "https://playo.co/venue?venueId=18dccb6e-5b32-43ab-b70f-f10fb2dd5fcc",
+    "deferLink": "https://z34v4.app.goo.gl/qsQ6",
+    "lat": 17.44324,
+    "lng": 78.47895,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>Laser Shooter - Begumpet</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 7702113131<br/>\n    <a href=\"https://z34v4.app.goo.gl/qsQ6\" target=\"_blank\">https://z34v4.app.goo.gl/qsQ6</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "avgRating": 5,
+    "name": "Laser Shooter - Jubilee Hills",
+    "fullLink": "https://playo.co/venue?venueId=544adee3-3742-44e0-9dd6-3fe83205b1cf",
+    "deferLink": "https://z34v4.app.goo.gl/XUDb",
+    "lat": 17.453159,
+    "lng": 78.40659,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>Laser Shooter - Jubilee Hills</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 7337011313<br/>\n    <a href=\"https://z34v4.app.goo.gl/XUDb\" target=\"_blank\">https://z34v4.app.goo.gl/XUDb</a><br/>\n    "
+  },
+  {
+    "ratingCount": 0,
+    "avgRating": 0,
+    "name": "Laser Shooter - Prasads Imax",
+    "fullLink": "https://playo.co/venue?venueId=28697d9f-4585-4052-a45e-f7049d22c456",
+    "deferLink": "https://z34v4.app.goo.gl/2A6i",
+    "lat": 17.41274,
+    "lng": 78.46599,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>Laser Shooter - Prasads Imax</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 7702431313<br/>\n    <a href=\"https://z34v4.app.goo.gl/2A6i\" target=\"_blank\">https://z34v4.app.goo.gl/2A6i</a><br/>\n    "
   },
   {
     "name": "Lawn Tennis",
@@ -8664,8 +8703,8 @@
     "info": "\n    <h3>Playmax Interactive</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 40 2373 1554<br/>\n    <a href=\"https://playo.page.link/xX8g4\" target=\"_blank\">https://playo.page.link/xX8g4</a><br/>\n    "
   },
   {
-    "ratingCount": 17,
-    "avgRating": 4.88,
+    "ratingCount": 18,
+    "avgRating": 4.83,
     "name": "Playtime Silpa Park",
     "fullLink": "https://playo.co/venue?venueId=118aeef6-bfa3-4d2f-b5b5-dd8ff19a43db",
     "deferLink": "https://z34v4.app.goo.gl/cSAk",
@@ -8676,11 +8715,11 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Playtime Silpa Park</h3>\n    <strong>Ratings:</strong> 4.88 [17]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9100735065<br/>\n    <a href=\"https://z34v4.app.goo.gl/cSAk\" target=\"_blank\">https://z34v4.app.goo.gl/cSAk</a><br/>\n    "
+    "info": "\n    <h3>Playtime Silpa Park</h3>\n    <strong>Ratings:</strong> 4.83 [18]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9100735065<br/>\n    <a href=\"https://z34v4.app.goo.gl/cSAk\" target=\"_blank\">https://z34v4.app.goo.gl/cSAk</a><br/>\n    "
   },
   {
-    "ratingCount": 9,
-    "avgRating": 3.89,
+    "ratingCount": 10,
+    "avgRating": 3.9,
     "name": "Playtime Sports Club",
     "fullLink": "https://playo.co/venue?venueId=2f55caba-4f1d-48fd-842c-07ef2be18b3f",
     "deferLink": "https://z34v4.app.goo.gl/ujvB",
@@ -8692,7 +8731,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Playtime Sports Club</h3>\n    <strong>Ratings:</strong> 3.89 [9]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9398165065<br/>\n    <a href=\"https://z34v4.app.goo.gl/ujvB\" target=\"_blank\">https://z34v4.app.goo.gl/ujvB</a><br/>\n    "
+    "info": "\n    <h3>Playtime Sports Club</h3>\n    <strong>Ratings:</strong> 3.9 [10]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9398165065<br/>\n    <a href=\"https://z34v4.app.goo.gl/ujvB\" target=\"_blank\">https://z34v4.app.goo.gl/ujvB</a><br/>\n    "
   },
   {
     "avgRating": 4.67,
@@ -8802,8 +8841,8 @@
     "info": "\n    <h3>Premier Indu Aranya Football Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball, Football, Swimming<br/>\n    <strong>Phone:</strong> 6300117173<br/>\n    <a href=\"https://playo.page.link/JMNJ3\" target=\"_blank\">https://playo.page.link/JMNJ3</a><br/>\n    "
   },
   {
-    "ratingCount": 8,
-    "avgRating": 4.88,
+    "ratingCount": 20,
+    "avgRating": 4.9,
     "name": "Prime Hitex Sports Arena",
     "fullLink": "https://playo.co/venue?venueId=32f0c6cc-0eac-49e5-98ab-2c4a4b5d8102",
     "deferLink": "https://z34v4.app.goo.gl/n4sa",
@@ -8815,7 +8854,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Prime Hitex Sports Arena</h3>\n    <strong>Ratings:</strong> 4.88 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 6309709763<br/>\n    <a href=\"https://z34v4.app.goo.gl/n4sa\" target=\"_blank\">https://z34v4.app.goo.gl/n4sa</a><br/>\n    "
+    "info": "\n    <h3>Prime Hitex Sports Arena</h3>\n    <strong>Ratings:</strong> 4.9 [20]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 6309709763<br/>\n    <a href=\"https://z34v4.app.goo.gl/n4sa\" target=\"_blank\">https://z34v4.app.goo.gl/n4sa</a><br/>\n    "
   },
   {
     "name": "Prime Swimming Pool",
@@ -9604,18 +9643,18 @@
   },
   {
     "ratingCount": 7,
-    "avgRating": 4.71,
+    "avgRating": 5,
     "name": "S'n'S Sports Nest",
     "fullLink": "https://playo.co/venue?venueId=84d7f47e-2831-4d13-902a-53f12595bfe7",
     "deferLink": "https://z34v4.app.goo.gl/U3dH",
     "lat": 17.543915,
     "lng": 78.367519,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>S'n'S Sports Nest</h3>\n    <strong>Ratings:</strong> 4.71 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8143715463<br/>\n    <a href=\"https://z34v4.app.goo.gl/U3dH\" target=\"_blank\">https://z34v4.app.goo.gl/U3dH</a><br/>\n    "
+    "info": "\n    <h3>S'n'S Sports Nest</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8143715463<br/>\n    <a href=\"https://z34v4.app.goo.gl/U3dH\" target=\"_blank\">https://z34v4.app.goo.gl/U3dH</a><br/>\n    "
   },
   {
     "name": "SATS Tennis Courts",
@@ -10010,9 +10049,9 @@
     "info": "\n    <h3>SR Table Tennis</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 7989018218<br/>\n    <a href=\"https://z34v4.app.goo.gl/NyDc\" target=\"_blank\">https://z34v4.app.goo.gl/NyDc</a><br/>\n    "
   },
   {
-    "avgRating": 4.16,
+    "avgRating": 4.15,
     "name": "SRI SM BADMINTON CLUB ( GAME INN)",
-    "ratingCount": 200,
+    "ratingCount": 201,
     "deferLink": "https://z34v4.app.goo.gl/X4HH",
     "fullLink": "https://playo.co/venue/?venueId=15ff9a86-ddcb-4464-a069-72c92e394283",
     "lat": 17.461513,
@@ -10022,7 +10061,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SRI SM BADMINTON CLUB ( GAME INN)</h3>\n    <strong>Ratings:</strong> 4.16 [200]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8555845789<br/>\n    <a href=\"https://z34v4.app.goo.gl/X4HH\" target=\"_blank\">https://z34v4.app.goo.gl/X4HH</a><br/>\n    "
+    "info": "\n    <h3>SRI SM BADMINTON CLUB ( GAME INN)</h3>\n    <strong>Ratings:</strong> 4.15 [201]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8555845789<br/>\n    <a href=\"https://z34v4.app.goo.gl/X4HH\" target=\"_blank\">https://z34v4.app.goo.gl/X4HH</a><br/>\n    "
   },
   {
     "ratingCount": 9,
@@ -10974,9 +11013,9 @@
     "info": "\n    <h3>Sportsvilla</h3>\n    <strong>Ratings:</strong> 4.24 [33]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 7993385253<br/>\n    <a href=\"https://z34v4.app.goo.gl/m7vf\" target=\"_blank\">https://z34v4.app.goo.gl/m7vf</a><br/>\n    "
   },
   {
-    "avgRating": 4.54,
+    "avgRating": 4.41,
     "name": "Sportz Pride",
-    "ratingCount": 26,
+    "ratingCount": 27,
     "deferLink": "https://z34v4.app.goo.gl/YEGt",
     "fullLink": "https://playo.co/venue/?venueId=9d2548e1-7f94-41e4-bd06-8ded372f54f2",
     "lat": 17.4564,
@@ -10987,7 +11026,7 @@
       "Beach Volleyball",
       "Box Cricket"
     ],
-    "info": "\n    <h3>Sportz Pride</h3>\n    <strong>Ratings:</strong> 4.54 [26]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket<br/>\n    <strong>Phone:</strong> 9493222441<br/>\n    <a href=\"https://z34v4.app.goo.gl/YEGt\" target=\"_blank\">https://z34v4.app.goo.gl/YEGt</a><br/>\n    "
+    "info": "\n    <h3>Sportz Pride</h3>\n    <strong>Ratings:</strong> 4.41 [27]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket<br/>\n    <strong>Phone:</strong> 9493222441<br/>\n    <a href=\"https://z34v4.app.goo.gl/YEGt\" target=\"_blank\">https://z34v4.app.goo.gl/YEGt</a><br/>\n    "
   },
   {
     "ratingCount": 4,
@@ -11251,7 +11290,7 @@
   {
     "avgRating": 3.57,
     "name": "Sri Sai Badminton Stadium",
-    "ratingCount": 322,
+    "ratingCount": 323,
     "deferLink": "https://z34v4.app.goo.gl/8qvL",
     "fullLink": "https://playo.co/venue/?venueId=3765c1ad-455e-47dc-b94b-34760cfd9ba6",
     "lat": 17.489518,
@@ -11263,7 +11302,7 @@
       "Table Tennis",
       "Yoga"
     ],
-    "info": "\n    <h3>Sri Sai Badminton Stadium</h3>\n    <strong>Ratings:</strong> 3.57 [322]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis, Yoga<br/>\n    <strong>Phone:</strong> 9396477227<br/>\n    <a href=\"https://z34v4.app.goo.gl/8qvL\" target=\"_blank\">https://z34v4.app.goo.gl/8qvL</a><br/>\n    "
+    "info": "\n    <h3>Sri Sai Badminton Stadium</h3>\n    <strong>Ratings:</strong> 3.57 [323]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis, Yoga<br/>\n    <strong>Phone:</strong> 9396477227<br/>\n    <a href=\"https://z34v4.app.goo.gl/8qvL\" target=\"_blank\">https://z34v4.app.goo.gl/8qvL</a><br/>\n    "
   },
   {
     "name": "Sri Sai Siri Swimming Pool",
@@ -13206,8 +13245,8 @@
     "name": "V Sportzz",
     "fullLink": "https://playo.co/venue?venueId=c45613d3-546d-4a53-8d00-660d2340b4d9",
     "deferLink": "https://z34v4.app.goo.gl/h9dg",
-    "lat": 17.45922,
-    "lng": 78.39726,
+    "lat": 17.45877,
+    "lng": 78.39571,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
