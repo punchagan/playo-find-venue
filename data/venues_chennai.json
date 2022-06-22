@@ -557,18 +557,18 @@
   },
   {
     "name": "Anna University Swimming Pool",
-    "rating": 0,
+    "rating": 5,
     "deferLink": "https://playo.page.link/S4xyG",
     "fullLink": "https://playo.co/venue/?venueId=8dbee887-4ac6-4764-a3d0-24e3e6c6adbc",
-    "avgRating": 0,
-    "ratingCount": 0,
+    "avgRating": 5,
+    "ratingCount": 1,
     "lat": 13.0117512,
     "lng": 80.2349499,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Swimming"
     ],
-    "info": "\n    <h3>Anna University Swimming Pool</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 98416 31365<br/>\n    <a href=\"https://playo.page.link/S4xyG\" target=\"_blank\">https://playo.page.link/S4xyG</a><br/>\n    "
+    "info": "\n    <h3>Anna University Swimming Pool</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 98416 31365<br/>\n    <a href=\"https://playo.page.link/S4xyG\" target=\"_blank\">https://playo.page.link/S4xyG</a><br/>\n    "
   },
   {
     "name": "Anna University Tennis Court",
@@ -9505,6 +9505,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Smasher</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9514320766<br/>\n    <a href=\"https://z34v4.app.goo.gl/hAjR\" target=\"_blank\">https://z34v4.app.goo.gl/hAjR</a><br/>\n    "
+  },
+  {
+    "name": "Smasher 2.0 Sports & Arts Academy",
+    "rating": 3,
+    "deferLink": "https://playo.page.link/ytdMi",
+    "fullLink": "https://playo.co/venue/?venueId=d643eb06-2e0c-44d2-a692-28516987c6bf",
+    "avgRating": 3.4,
+    "ratingCount": 10,
+    "lat": 12.9490301,
+    "lng": 80.235783,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Smasher 2.0 Sports & Arts Academy</h3>\n    <strong>Ratings:</strong> 3.4 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6374164119<br/>\n    <a href=\"https://playo.page.link/ytdMi\" target=\"_blank\">https://playo.page.link/ytdMi</a><br/>\n    "
   },
   {
     "name": "Smasher Sports Academy",
