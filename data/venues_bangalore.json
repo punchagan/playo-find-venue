@@ -1397,7 +1397,7 @@
   {
     "avgRating": 4.17,
     "name": "Baseline Sports",
-    "ratingCount": 411,
+    "ratingCount": 412,
     "deferLink": "https://z34v4.app.goo.gl/9FB5",
     "fullLink": "https://playo.co/venue/?venueId=662dbe4a-062f-464e-a94d-f0885c4aab71",
     "lat": 12.961272,
@@ -1407,7 +1407,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Baseline Sports</h3>\n    <strong>Ratings:</strong> 4.17 [411]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9108705005<br/>\n    <a href=\"https://z34v4.app.goo.gl/9FB5\" target=\"_blank\">https://z34v4.app.goo.gl/9FB5</a><br/>\n    "
+    "info": "\n    <h3>Baseline Sports</h3>\n    <strong>Ratings:</strong> 4.17 [412]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9108705005<br/>\n    <a href=\"https://z34v4.app.goo.gl/9FB5\" target=\"_blank\">https://z34v4.app.goo.gl/9FB5</a><br/>\n    "
   },
   {
     "name": "Basketball Court",
@@ -2155,6 +2155,21 @@
     "info": "\n    <h3>Coolulu TurfPark Koramangala</h3>\n    <strong>Ratings:</strong> 4.02 [137]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9790513417<br/>\n    <a href=\"https://z34v4.app.goo.gl/hvib\" target=\"_blank\">https://z34v4.app.goo.gl/hvib</a><br/>\n    "
   },
   {
+    "ratingCount": 3,
+    "avgRating": 5,
+    "name": "Cosmos Cricket Training Center",
+    "fullLink": "https://playo.co/venue?venueId=8888d079-86cd-481c-a0f2-54d45b678603",
+    "deferLink": "https://z34v4.app.goo.gl/nKJW",
+    "lat": 12.80650156902651,
+    "lng": 77.41140724662817,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Cosmos Cricket Training Center</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 7483291922<br/>\n    <a href=\"https://z34v4.app.goo.gl/nKJW\" target=\"_blank\">https://z34v4.app.goo.gl/nKJW</a><br/>\n    "
+  },
+  {
     "name": "Country Club",
     "rating": 0,
     "deferLink": "https://playo.page.link/tnEpZ",
@@ -2346,9 +2361,10 @@
       "Badminton",
       "Box Cricket",
       "Football",
-      "Swimming"
+      "Swimming",
+      "Table Tennis"
     ],
-    "info": "\n    <h3>DD Sports Arena</h3>\n    <strong>Ratings:</strong> 4.03 [35]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Swimming<br/>\n    <strong>Phone:</strong> 6361886350<br/>\n    <a href=\"https://z34v4.app.goo.gl/xaSz\" target=\"_blank\">https://z34v4.app.goo.gl/xaSz</a><br/>\n    "
+    "info": "\n    <h3>DD Sports Arena</h3>\n    <strong>Ratings:</strong> 4.03 [35]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Swimming, Table Tennis<br/>\n    <strong>Phone:</strong> 6361886350<br/>\n    <a href=\"https://z34v4.app.goo.gl/xaSz\" target=\"_blank\">https://z34v4.app.goo.gl/xaSz</a><br/>\n    "
   },
   {
     "avgRating": 2.47,
@@ -2727,13 +2743,13 @@
     "fullLink": "https://playo.co/venue/?venueId=3c25e654-7f6a-43ae-ad14-0c4e517181ca",
     "lat": 13.027120829079314,
     "lng": 77.55362383558302,
-    "avgRating": 4.87,
-    "ratingCount": 47,
+    "avgRating": 4.88,
+    "ratingCount": 48,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Eagles Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.87 [47]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9008844073<br/>\n    <a href=\"https://z34v4.app.goo.gl/b4gB\" target=\"_blank\">https://z34v4.app.goo.gl/b4gB</a><br/>\n    "
+    "info": "\n    <h3>Eagles Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.88 [48]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9008844073<br/>\n    <a href=\"https://z34v4.app.goo.gl/b4gB\" target=\"_blank\">https://z34v4.app.goo.gl/b4gB</a><br/>\n    "
   },
   {
     "name": "East Cultural Association",
@@ -3604,8 +3620,8 @@
     "info": "\n    <h3>GameOn Sports - The Football Turf</h3>\n    <strong>Ratings:</strong> 5 [11]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8867573858<br/>\n    <a href=\"https://z34v4.app.goo.gl/Wd8S\" target=\"_blank\">https://z34v4.app.goo.gl/Wd8S</a><br/>\n    "
   },
   {
-    "ratingCount": 11,
-    "avgRating": 4.91,
+    "ratingCount": 12,
+    "avgRating": 4.92,
     "name": "Gameloop Multisport Turf by Gameflix",
     "fullLink": "https://playo.co/venue?venueId=0636cc2d-7696-4357-bd86-a3de1c219b5c",
     "deferLink": "https://z34v4.app.goo.gl/oDrt",
@@ -3618,7 +3634,7 @@
       "Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Gameloop Multisport Turf by Gameflix</h3>\n    <strong>Ratings:</strong> 4.91 [11]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket, Football<br/>\n    <strong>Phone:</strong> 8921697378<br/>\n    <a href=\"https://z34v4.app.goo.gl/oDrt\" target=\"_blank\">https://z34v4.app.goo.gl/oDrt</a><br/>\n    "
+    "info": "\n    <h3>Gameloop Multisport Turf by Gameflix</h3>\n    <strong>Ratings:</strong> 4.92 [12]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket, Football<br/>\n    <strong>Phone:</strong> 8921697378<br/>\n    <a href=\"https://z34v4.app.goo.gl/oDrt\" target=\"_blank\">https://z34v4.app.goo.gl/oDrt</a><br/>\n    "
   },
   {
     "ratingCount": 162,
@@ -3849,9 +3865,9 @@
     "info": "\n    <h3>Golden Fins Sports Club - NRI Layout</h3>\n    <strong>Ratings:</strong> 4.35 [23]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8296089545<br/>\n    <a href=\"https://z34v4.app.goo.gl/o4eP\" target=\"_blank\">https://z34v4.app.goo.gl/o4eP</a><br/>\n    "
   },
   {
-    "avgRating": 4.33,
+    "avgRating": 4.32,
     "name": "Golden Leg",
-    "ratingCount": 76,
+    "ratingCount": 77,
     "deferLink": "https://z34v4.app.goo.gl/9Bxf",
     "fullLink": "https://playo.co/venue/?venueId=4e8e06c2-54df-45ae-9d79-ca72f253790e",
     "lat": 12.923268,
@@ -3862,7 +3878,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Golden Leg</h3>\n    <strong>Ratings:</strong> 4.33 [76]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9900054880<br/>\n    <a href=\"https://z34v4.app.goo.gl/9Bxf\" target=\"_blank\">https://z34v4.app.goo.gl/9Bxf</a><br/>\n    "
+    "info": "\n    <h3>Golden Leg</h3>\n    <strong>Ratings:</strong> 4.32 [77]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9900054880<br/>\n    <a href=\"https://z34v4.app.goo.gl/9Bxf\" target=\"_blank\">https://z34v4.app.goo.gl/9Bxf</a><br/>\n    "
   },
   {
     "avgRating": 3.87,
@@ -4547,9 +4563,9 @@
     "info": "\n    <h3>JK Snooker Zone</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 99862 17741<br/>\n    <a href=\"https://playo.page.link/bqxQQ\" target=\"_blank\">https://playo.page.link/bqxQQ</a><br/>\n    "
   },
   {
-    "avgRating": 4.38,
+    "avgRating": 4.39,
     "name": "JP Badminton Academy - Sanjaynagar",
-    "ratingCount": 209,
+    "ratingCount": 210,
     "deferLink": "https://z34v4.app.goo.gl/YBtN",
     "fullLink": "https://playo.co/venue/?venueId=f34b6353-4620-418d-8c97-abe6825dd7d8",
     "lat": 13.032988,
@@ -4559,7 +4575,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>JP Badminton Academy - Sanjaynagar</h3>\n    <strong>Ratings:</strong> 4.38 [209]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/YBtN\" target=\"_blank\">https://z34v4.app.goo.gl/YBtN</a><br/>\n    "
+    "info": "\n    <h3>JP Badminton Academy - Sanjaynagar</h3>\n    <strong>Ratings:</strong> 4.39 [210]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"https://z34v4.app.goo.gl/YBtN\" target=\"_blank\">https://z34v4.app.goo.gl/YBtN</a><br/>\n    "
   },
   {
     "ratingCount": 67,
@@ -4713,8 +4729,8 @@
     "info": "\n    <h3>Joy Sports Academy - Fusion Sports</h3>\n    <strong>Ratings:</strong> 4.55 [31]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9986921124<br/>\n    <a href=\"https://z34v4.app.goo.gl/X3PU\" target=\"_blank\">https://z34v4.app.goo.gl/X3PU</a><br/>\n    "
   },
   {
-    "ratingCount": 5,
-    "avgRating": 3.6,
+    "ratingCount": 6,
+    "avgRating": 3.83,
     "name": "Just Dribble",
     "fullLink": "https://playo.co/venue?venueId=dab3fe83-8155-42ca-b631-443d9cc127dc",
     "deferLink": "https://z34v4.app.goo.gl/qhMB",
@@ -4727,7 +4743,7 @@
       "Basketball",
       "Football"
     ],
-    "info": "\n    <h3>Just Dribble</h3>\n    <strong>Ratings:</strong> 3.6 [5]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Football<br/>\n    <strong>Phone:</strong> 9663851888<br/>\n    <a href=\"https://z34v4.app.goo.gl/qhMB\" target=\"_blank\">https://z34v4.app.goo.gl/qhMB</a><br/>\n    "
+    "info": "\n    <h3>Just Dribble</h3>\n    <strong>Ratings:</strong> 3.83 [6]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Football<br/>\n    <strong>Phone:</strong> 9663851888<br/>\n    <a href=\"https://z34v4.app.goo.gl/qhMB\" target=\"_blank\">https://z34v4.app.goo.gl/qhMB</a><br/>\n    "
   },
   {
     "avgRating": 3.8,
@@ -5296,8 +5312,8 @@
     "info": "\n    <h3>Leading Cricket Academy</h3>\n    <strong>Ratings:</strong> 4.63 [35]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9930888120<br/>\n    <a href=\"https://z34v4.app.goo.gl/puy9\" target=\"_blank\">https://z34v4.app.goo.gl/puy9</a><br/>\n    "
   },
   {
-    "ratingCount": 34,
-    "avgRating": 4.21,
+    "ratingCount": 35,
+    "avgRating": 4.23,
     "name": "Lecaprio Arena",
     "fullLink": "https://playo.co/venue?venueId=34d63da6-f0ea-4f2f-8877-eeb056f1c6bc",
     "deferLink": "https://z34v4.app.goo.gl/ak9v",
@@ -5311,7 +5327,7 @@
       "Football",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Lecaprio Arena</h3>\n    <strong>Ratings:</strong> 4.21 [34]<br/>\n    <strong>Sports:</strong> Badminton, Foosball, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 6364834834<br/>\n    <a href=\"https://z34v4.app.goo.gl/ak9v\" target=\"_blank\">https://z34v4.app.goo.gl/ak9v</a><br/>\n    "
+    "info": "\n    <h3>Lecaprio Arena</h3>\n    <strong>Ratings:</strong> 4.23 [35]<br/>\n    <strong>Sports:</strong> Badminton, Foosball, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 6364834834<br/>\n    <a href=\"https://z34v4.app.goo.gl/ak9v\" target=\"_blank\">https://z34v4.app.goo.gl/ak9v</a><br/>\n    "
   },
   {
     "avgRating": 3.67,
@@ -5666,9 +5682,9 @@
     "info": "\n    <h3>Maagniv Sports Academy</h3>\n    <strong>Ratings:</strong> 4.55 [55]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9980151415<br/>\n    <a href=\"https://z34v4.app.goo.gl/h6SC\" target=\"_blank\">https://z34v4.app.goo.gl/h6SC</a><br/>\n    "
   },
   {
-    "avgRating": 4.15,
+    "avgRating": 4.16,
     "name": "Machaxi - AJ Sports",
-    "ratingCount": 97,
+    "ratingCount": 98,
     "deferLink": "https://z34v4.app.goo.gl/R1h9",
     "fullLink": "https://playo.co/venue/?venueId=bbfe4756-1eb9-4e40-8894-e9ae91b49fe8",
     "lat": 12.926475,
@@ -5678,7 +5694,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Machaxi - AJ Sports</h3>\n    <strong>Ratings:</strong> 4.15 [97]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9678458562<br/>\n    <a href=\"https://z34v4.app.goo.gl/R1h9\" target=\"_blank\">https://z34v4.app.goo.gl/R1h9</a><br/>\n    "
+    "info": "\n    <h3>Machaxi - AJ Sports</h3>\n    <strong>Ratings:</strong> 4.16 [98]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9678458562<br/>\n    <a href=\"https://z34v4.app.goo.gl/R1h9\" target=\"_blank\">https://z34v4.app.goo.gl/R1h9</a><br/>\n    "
   },
   {
     "avgRating": 4.25,
@@ -6958,7 +6974,7 @@
     "info": "\n    <h3>Play Zone - Bellandur</h3>\n    <strong>Ratings:</strong> 4.37 [307]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9008536885<br/>\n    <a href=\"https://z34v4.app.goo.gl/Spr7\" target=\"_blank\">https://z34v4.app.goo.gl/Spr7</a><br/>\n    "
   },
   {
-    "ratingCount": 99,
+    "ratingCount": 100,
     "avgRating": 4.31,
     "name": "Play Zone - Indiranagar",
     "fullLink": "https://playo.co/venue?venueId=61b14687-d236-4c81-916f-167ff1867041",
@@ -6970,7 +6986,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Play Zone - Indiranagar</h3>\n    <strong>Ratings:</strong> 4.31 [99]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7676766570<br/>\n    <a href=\"https://z34v4.app.goo.gl/WWJB\" target=\"_blank\">https://z34v4.app.goo.gl/WWJB</a><br/>\n    "
+    "info": "\n    <h3>Play Zone - Indiranagar</h3>\n    <strong>Ratings:</strong> 4.31 [100]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7676766570<br/>\n    <a href=\"https://z34v4.app.goo.gl/WWJB\" target=\"_blank\">https://z34v4.app.goo.gl/WWJB</a><br/>\n    "
   },
   {
     "avgRating": 3.97,
@@ -7843,8 +7859,8 @@
     "info": "\n    <h3>SAMA - The Soccer Turf</h3>\n    <strong>Ratings:</strong> 2.96 [25]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7259563693<br/>\n    <a href=\"https://z34v4.app.goo.gl/3GPd\" target=\"_blank\">https://z34v4.app.goo.gl/3GPd</a><br/>\n    "
   },
   {
-    "ratingCount": 25,
-    "avgRating": 4.36,
+    "ratingCount": 26,
+    "avgRating": 4.38,
     "name": "SKVM Active Orbit",
     "fullLink": "https://playo.co/venue?venueId=7156cce6-30cb-4855-91b2-25674c113c4d",
     "deferLink": "https://z34v4.app.goo.gl/w9PF",
@@ -7856,7 +7872,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>SKVM Active Orbit</h3>\n    <strong>Ratings:</strong> 4.36 [25]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 8197445584<br/>\n    <a href=\"https://z34v4.app.goo.gl/w9PF\" target=\"_blank\">https://z34v4.app.goo.gl/w9PF</a><br/>\n    "
+    "info": "\n    <h3>SKVM Active Orbit</h3>\n    <strong>Ratings:</strong> 4.38 [26]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 8197445584<br/>\n    <a href=\"https://z34v4.app.goo.gl/w9PF\" target=\"_blank\">https://z34v4.app.goo.gl/w9PF</a><br/>\n    "
   },
   {
     "avgRating": 4.08,
@@ -8025,7 +8041,7 @@
     "info": "\n    <h3>Savio's Snooker Academy</h3>\n    <strong>Ratings:</strong> 4.23 [13]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 9916783090<br/>\n    <a href=\"https://z34v4.app.goo.gl/yfxJ\" target=\"_blank\">https://z34v4.app.goo.gl/yfxJ</a><br/>\n    "
   },
   {
-    "ratingCount": 171,
+    "ratingCount": 172,
     "avgRating": 3.74,
     "name": "Score Bengaluru Sports Park",
     "fullLink": "https://playo.co/venue?venueId=353218b0-36cc-427c-aeed-4bfc51b7c9a0",
@@ -8042,7 +8058,7 @@
       "Football",
       "Swimming"
     ],
-    "info": "\n    <h3>Score Bengaluru Sports Park</h3>\n    <strong>Ratings:</strong> 3.74 [171]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Beach Volleyball, Box Cricket, Football, Swimming<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://z34v4.app.goo.gl/GVXB\" target=\"_blank\">https://z34v4.app.goo.gl/GVXB</a><br/>\n    "
+    "info": "\n    <h3>Score Bengaluru Sports Park</h3>\n    <strong>Ratings:</strong> 3.74 [172]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Beach Volleyball, Box Cricket, Football, Swimming<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://z34v4.app.goo.gl/GVXB\" target=\"_blank\">https://z34v4.app.goo.gl/GVXB</a><br/>\n    "
   },
   {
     "avgRating": 4.95,
@@ -8137,8 +8153,8 @@
     "info": "\n    <h3>SheenSports Academy</h3>\n    <strong>Ratings:</strong> 4.5 [4]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 9606332222<br/>\n    <a href=\"https://z34v4.app.goo.gl/kMR5\" target=\"_blank\">https://z34v4.app.goo.gl/kMR5</a><br/>\n    "
   },
   {
-    "ratingCount": 11,
-    "avgRating": 4.27,
+    "ratingCount": 12,
+    "avgRating": 4.33,
     "name": "Shlok Sports Village",
     "fullLink": "https://playo.co/venue?venueId=3895d1e8-c3ba-4b61-83d4-5d72eb1939a3",
     "deferLink": "https://z34v4.app.goo.gl/NWST",
@@ -8156,7 +8172,7 @@
       "Throwball",
       "Volleyball"
     ],
-    "info": "\n    <h3>Shlok Sports Village</h3>\n    <strong>Ratings:</strong> 4.27 [11]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Football, Swimming, Tennis, Throwball, Volleyball<br/>\n    <strong>Phone:</strong> 9108230789<br/>\n    <a href=\"https://z34v4.app.goo.gl/NWST\" target=\"_blank\">https://z34v4.app.goo.gl/NWST</a><br/>\n    "
+    "info": "\n    <h3>Shlok Sports Village</h3>\n    <strong>Ratings:</strong> 4.33 [12]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Football, Swimming, Tennis, Throwball, Volleyball<br/>\n    <strong>Phone:</strong> 9108230789<br/>\n    <a href=\"https://z34v4.app.goo.gl/NWST\" target=\"_blank\">https://z34v4.app.goo.gl/NWST</a><br/>\n    "
   },
   {
     "ratingCount": 19,
@@ -8598,7 +8614,7 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>Snooker Room</h3>\n    <strong>Ratings:</strong> 4 [6]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9731887050<br/>\n    <a href=\"https://z34v4.app.goo.gl/yJ64\" target=\"_blank\">https://z34v4.app.goo.gl/yJ64</a><br/>\n    "
+    "info": "\n    <h3>Snooker Room</h3>\n    <strong>Ratings:</strong> 4 [6]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9916717744<br/>\n    <a href=\"https://z34v4.app.goo.gl/yJ64\" target=\"_blank\">https://z34v4.app.goo.gl/yJ64</a><br/>\n    "
   },
   {
     "name": "Snooker Zone",
@@ -8776,20 +8792,20 @@
     "info": "\n    <h3>SportZone+</h3>\n    <strong>Ratings:</strong> 4.5 [32]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Football, Tennis, Throwball, Volleyball<br/>\n    <strong>Phone:</strong> 9833475874<br/>\n    <a href=\"https://z34v4.app.goo.gl/PS6R\" target=\"_blank\">https://z34v4.app.goo.gl/PS6R</a><br/>\n    "
   },
   {
-    "ratingCount": 11,
-    "avgRating": 3.91,
+    "ratingCount": 12,
+    "avgRating": 4,
     "name": "Sportexx",
     "fullLink": "https://playo.co/venue?venueId=9eb74740-7d7d-49b5-91b5-0a7c380a9d35",
     "deferLink": "https://z34v4.app.goo.gl/FwMw",
     "lat": 13.060248012110447,
     "lng": 77.60347466568358,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton",
       "Swimming"
     ],
-    "info": "\n    <h3>Sportexx</h3>\n    <strong>Ratings:</strong> 3.91 [11]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9538482121<br/>\n    <a href=\"https://z34v4.app.goo.gl/FwMw\" target=\"_blank\">https://z34v4.app.goo.gl/FwMw</a><br/>\n    "
+    "info": "\n    <h3>Sportexx</h3>\n    <strong>Ratings:</strong> 4 [12]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9538482121<br/>\n    <a href=\"https://z34v4.app.goo.gl/FwMw\" target=\"_blank\">https://z34v4.app.goo.gl/FwMw</a><br/>\n    "
   },
   {
     "avgRating": 3.41,
@@ -9453,6 +9469,21 @@
       "Cricket"
     ],
     "info": "\n    <h3>T G CRICKET PITCH</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 98867 77669<br/>\n    <a href=\"https://playo.page.link/aFNd4\" target=\"_blank\">https://playo.page.link/aFNd4</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "T-Square Arena",
+    "ratingCount": 4,
+    "deferLink": "https://z34v4.app.goo.gl/HfMQ",
+    "fullLink": "https://playo.co/venue/?venueId=1c5a4e9d-a0d7-4ca4-b375-496c156f1539",
+    "lat": 13.02270246191697,
+    "lng": 77.65808121400345,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>T-Square Arena</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9740566260<br/>\n    <a href=\"https://z34v4.app.goo.gl/HfMQ\" target=\"_blank\">https://z34v4.app.goo.gl/HfMQ</a><br/>\n    "
   },
   {
     "avgRating": 3.16,
@@ -10392,19 +10423,19 @@
     "info": "\n    <h3>Transform Tennis Academy1</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 96868 45333<br/>\n    <a href=\"https://playo.page.link/hLD73\" target=\"_blank\">https://playo.page.link/hLD73</a><br/>\n    "
   },
   {
-    "ratingCount": 9,
-    "avgRating": 5,
+    "ratingCount": 10,
+    "avgRating": 4.6,
     "name": "Trisha Vinod's Bouncing Balls Tennis Academy",
     "fullLink": "https://playo.co/venue?venueId=d5537a1f-9872-4529-b413-13891d4e0a4b",
     "lat": 12.981662849811947,
     "lng": 77.67405641311338,
     "deferLink": "https://z34v4.app.goo.gl/XLKK",
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Tennis"
     ],
-    "info": "\n    <h3>Trisha Vinod's Bouncing Balls Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 6363777194<br/>\n    <a href=\"https://z34v4.app.goo.gl/XLKK\" target=\"_blank\">https://z34v4.app.goo.gl/XLKK</a><br/>\n    "
+    "info": "\n    <h3>Trisha Vinod's Bouncing Balls Tennis Academy</h3>\n    <strong>Ratings:</strong> 4.6 [10]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 6363777194<br/>\n    <a href=\"https://z34v4.app.goo.gl/XLKK\" target=\"_blank\">https://z34v4.app.goo.gl/XLKK</a><br/>\n    "
   },
   {
     "name": "True Bounce Football Academy - Whitefield",
@@ -10639,8 +10670,8 @@
     "info": "\n    <h3>V3 Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.36 [108]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9481438030<br/>\n    <a href=\"https://z34v4.app.goo.gl/cck7\" target=\"_blank\">https://z34v4.app.goo.gl/cck7</a><br/>\n    "
   },
   {
-    "ratingCount": 174,
-    "avgRating": 4.14,
+    "ratingCount": 176,
+    "avgRating": 4.15,
     "name": "VFive Badminton & Aquatic Center",
     "fullLink": "https://playo.co/venue?venueId=cd5542bc-e94d-453b-86b7-76f9ecaaec03",
     "deferLink": "https://z34v4.app.goo.gl/wkkC",
@@ -10652,7 +10683,7 @@
       "Badminton",
       "Swimming"
     ],
-    "info": "\n    <h3>VFive Badminton & Aquatic Center</h3>\n    <strong>Ratings:</strong> 4.14 [174]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9108644442<br/>\n    <a href=\"https://z34v4.app.goo.gl/wkkC\" target=\"_blank\">https://z34v4.app.goo.gl/wkkC</a><br/>\n    "
+    "info": "\n    <h3>VFive Badminton & Aquatic Center</h3>\n    <strong>Ratings:</strong> 4.15 [176]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9108644442<br/>\n    <a href=\"https://z34v4.app.goo.gl/wkkC\" target=\"_blank\">https://z34v4.app.goo.gl/wkkC</a><br/>\n    "
   },
   {
     "ratingCount": 45,
@@ -11073,9 +11104,9 @@
     "info": "\n    <h3>White Feather Sports Arena - Ullal</h3>\n    <strong>Ratings:</strong> 4.81 [148]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9886892112<br/>\n    <a href=\"https://z34v4.app.goo.gl/huFz\" target=\"_blank\">https://z34v4.app.goo.gl/huFz</a><br/>\n    "
   },
   {
-    "avgRating": 4.65,
+    "avgRating": 4.63,
     "name": "White Feathers Sports - Nagarbhavi",
-    "ratingCount": 106,
+    "ratingCount": 107,
     "deferLink": "https://z34v4.app.goo.gl/tka6",
     "fullLink": "https://playo.co/venue/?venueId=b0614b0d-75d8-4513-9a38-33ee8b19b0e5",
     "lat": 12.977563,
@@ -11085,7 +11116,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>White Feathers Sports - Nagarbhavi</h3>\n    <strong>Ratings:</strong> 4.65 [106]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7760490964<br/>\n    <a href=\"https://z34v4.app.goo.gl/tka6\" target=\"_blank\">https://z34v4.app.goo.gl/tka6</a><br/>\n    "
+    "info": "\n    <h3>White Feathers Sports - Nagarbhavi</h3>\n    <strong>Ratings:</strong> 4.63 [107]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7760490964<br/>\n    <a href=\"https://z34v4.app.goo.gl/tka6\" target=\"_blank\">https://z34v4.app.goo.gl/tka6</a><br/>\n    "
   },
   {
     "avgRating": 3.76,
