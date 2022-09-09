@@ -5828,8 +5828,8 @@
     "name": "Lal Sports Academy",
     "fullLink": "https://playo.co/venue?venueId=19ee97fa-20c0-482c-bb83-83bff4b09e1d",
     "deferLink": "https://z34v4.app.goo.gl/5AfA",
-    "lat": 12.9518722,
-    "lng": 80.1696667,
+    "lat": 12.9643735,
+    "lng": 80.177328,
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
@@ -6254,21 +6254,6 @@
   {
     "name": "MRF Pachaiyappa",
     "rating": 0,
-    "deferLink": "https://playo.page.link/62e98",
-    "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 13.0720289,
-    "lng": 80.2324485,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Cricket"
-    ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
-  },
-  {
-    "name": "MRF Pachaiyappa",
-    "rating": 0,
     "deferLink": "https://playo.page.link/DzNJ3",
     "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
     "avgRating": 0,
@@ -6280,6 +6265,21 @@
       "Football"
     ],
     "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+  },
+  {
+    "name": "MRF Pachaiyappa",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/62e98",
+    "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "lat": 13.0720289,
+    "lng": 80.2324485,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket"
+    ],
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -9159,6 +9159,21 @@
     "info": "\n    <h3>Shine Sports Promotion Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 89393 93959<br/>\n    <a href=\"https://playo.page.link/in17e\" target=\"_blank\">https://playo.page.link/in17e</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Shot Multisport Academy",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=de98782b-2bf0-43ec-8ff5-c1efd878ffac",
+    "deferLink": "https://z34v4.app.goo.gl/vp25",
+    "lat": 12.9472664,
+    "lng": 80.2529772,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Shot Multisport Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9092935102<br/>\n    <a href=\"https://z34v4.app.goo.gl/vp25\" target=\"_blank\">https://z34v4.app.goo.gl/vp25</a><br/>\n    "
+  },
+  {
     "ratingCount": 3,
     "avgRating": 4.67,
     "name": "Shree Sports Academy",
@@ -11316,7 +11331,7 @@
     "info": "\n    <h3>The Mylapore Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 44 2499 5315<br/>\n    <a href=\"https://playo.page.link/MXPce\" target=\"_blank\">https://playo.page.link/MXPce</a><br/>\n    "
   },
   {
-    "ratingCount": 2,
+    "ratingCount": 3,
     "avgRating": 5,
     "name": "The Nets",
     "fullLink": "https://playo.co/venue?venueId=55266fe2-b6af-4d3e-b425-f28ddb252e6c",
@@ -11328,7 +11343,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>The Nets</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9043363933<br/>\n    <a href=\"https://z34v4.app.goo.gl/4dDS\" target=\"_blank\">https://z34v4.app.goo.gl/4dDS</a><br/>\n    "
+    "info": "\n    <h3>The Nets</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9043363933<br/>\n    <a href=\"https://z34v4.app.goo.gl/4dDS\" target=\"_blank\">https://z34v4.app.goo.gl/4dDS</a><br/>\n    "
   },
   {
     "name": "The Olympiad",
