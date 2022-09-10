@@ -9169,9 +9169,11 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Basketball",
+      "Box Cricket"
     ],
-    "info": "\n    <h3>Shot Multisport Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9092935102<br/>\n    <a href=\"https://z34v4.app.goo.gl/vp25\" target=\"_blank\">https://z34v4.app.goo.gl/vp25</a><br/>\n    "
+    "info": "\n    <h3>Shot Multisport Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket<br/>\n    <strong>Phone:</strong> 9092935102<br/>\n    <a href=\"https://z34v4.app.goo.gl/vp25\" target=\"_blank\">https://z34v4.app.goo.gl/vp25</a><br/>\n    "
   },
   {
     "ratingCount": 3,
