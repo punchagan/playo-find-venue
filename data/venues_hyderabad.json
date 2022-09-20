@@ -6589,6 +6589,21 @@
     "info": "\n    <h3>Lawn Tennis court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/sfsD3\" target=\"_blank\">https://playo.page.link/sfsD3</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "avgRating": 5,
+    "name": "Le Bestow Snooker Club",
+    "fullLink": "https://playo.co/venue?venueId=1a00ab90-b3c5-4811-9493-9c6251126179",
+    "deferLink": "https://z34v4.app.goo.gl/JM7s",
+    "lat": 17.45513,
+    "lng": 78.38015,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Le Bestow Snooker Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9100009049<br/>\n    <a href=\"https://z34v4.app.goo.gl/JM7s\" target=\"_blank\">https://z34v4.app.goo.gl/JM7s</a><br/>\n    "
+  },
+  {
     "name": "Legala Sports Arena",
     "rating": 5,
     "deferLink": "https://playo.page.link/ym9Wf",
@@ -7846,9 +7861,10 @@
     "rating": 3,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Swimming"
     ],
-    "info": "\n    <h3>NN Praxis Ftiness Hub</h3>\n    <strong>Ratings:</strong> 3.85 [33]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8877234234<br/>\n    <a href=\"https://z34v4.app.goo.gl/3cVe\" target=\"_blank\">https://z34v4.app.goo.gl/3cVe</a><br/>\n    "
+    "info": "\n    <h3>NN Praxis Ftiness Hub</h3>\n    <strong>Ratings:</strong> 3.85 [33]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 8877234234<br/>\n    <a href=\"https://z34v4.app.goo.gl/3cVe\" target=\"_blank\">https://z34v4.app.goo.gl/3cVe</a><br/>\n    "
   },
   {
     "name": "NPA Swimming Pool",
