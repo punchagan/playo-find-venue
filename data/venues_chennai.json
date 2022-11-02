@@ -234,56 +234,43 @@
     "info": "\n    <h3>ANWEA Tennis Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/pMu16\" target=\"_blank\">https://playo.page.link/pMu16</a><br/>\n    "
   },
   {
+    "ratingCount": 5,
     "avgRating": 5,
-    "name": "ASR Badminton Academy",
-    "ratingCount": 2,
-    "deferLink": "https://z34v4.app.goo.gl/8KdD",
-    "fullLink": "https://playo.co/venue/?venueId=7430f7fd-7cc1-44b5-98af-7ebef671f411",
-    "lat": 13.1163734,
-    "lng": 80.2425091,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [],
-    "info": "\n    <h3>ASR Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9884417236<br/>\n    <a href=\"https://z34v4.app.goo.gl/8KdD\" target=\"_blank\">https://z34v4.app.goo.gl/8KdD</a><br/>\n    "
-  },
-  {
-    "name": "ASR Shuttle Club",
-    "rating": 0,
-    "deferLink": "https://playo.page.link/Rqnvp",
-    "fullLink": "https://playo.co/venue/?venueId=adcbd89e-9ed6-4cfa-97c4-9257808ab3e7",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 13.0463627,
-    "lng": 80.0912212,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [],
-    "info": "\n    <h3>ASR Shuttle Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 87547 87126<br/>\n    <a href=\"https://playo.page.link/Rqnvp\" target=\"_blank\">https://playo.page.link/Rqnvp</a><br/>\n    "
-  },
-  {
-    "ratingCount": 4,
-    "avgRating": 5,
-    "name": "ASR Sports Academy",
+    "name": "ASR Sports Academy - Anna Nagar",
     "fullLink": "https://playo.co/venue?venueId=662a766f-b45b-4cd7-bb3f-b559e33eae0d",
-    "deferLink": "https://z34v4.app.goo.gl/fQog",
-    "lat": 13.0910154,
-    "lng": 80.1996737,
+    "deferLink": "https://z34v4.app.goo.gl/8DZa",
+    "lat": 13.09077146681526,
+    "lng": 80.20001784320745,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>ASR Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9884417236<br/>\n    <a href=\"https://z34v4.app.goo.gl/fQog\" target=\"_blank\">https://z34v4.app.goo.gl/fQog</a><br/>\n    "
+    "info": "\n    <h3>ASR Sports Academy - Anna Nagar</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9884417236<br/>\n    <a href=\"https://z34v4.app.goo.gl/8DZa\" target=\"_blank\">https://z34v4.app.goo.gl/8DZa</a><br/>\n    "
   },
   {
     "avgRating": 2.5,
-    "name": "ASR Sports Academy",
+    "name": "ASR Sports Academy - Kolathur",
     "ratingCount": 2,
-    "deferLink": "https://z34v4.app.goo.gl/Lr3X",
+    "deferLink": "https://z34v4.app.goo.gl/ffyK",
     "fullLink": "https://playo.co/venue/?venueId=9bc50004-55f1-4163-9a70-43e2c5421b38",
     "lat": 13.125026,
     "lng": 80.21142,
     "rating": 2,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>ASR Sports Academy</h3>\n    <strong>Ratings:</strong> 2.5 [2]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/Lr3X\" target=\"_blank\">https://z34v4.app.goo.gl/Lr3X</a><br/>\n    "
+    "info": "\n    <h3>ASR Sports Academy - Kolathur</h3>\n    <strong>Ratings:</strong> 2.5 [2]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9884417236<br/>\n    <a href=\"https://z34v4.app.goo.gl/ffyK\" target=\"_blank\">https://z34v4.app.goo.gl/ffyK</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "ASR Sports Academy - Perambur",
+    "ratingCount": 3,
+    "deferLink": "https://z34v4.app.goo.gl/1Zh2",
+    "fullLink": "https://playo.co/venue/?venueId=7430f7fd-7cc1-44b5-98af-7ebef671f411",
+    "lat": 13.11644555885721,
+    "lng": 80.2448668014499,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>ASR Sports Academy - Perambur</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9884417236<br/>\n    <a href=\"https://z34v4.app.goo.gl/1Zh2\" target=\"_blank\">https://z34v4.app.goo.gl/1Zh2</a><br/>\n    "
   },
   {
     "avgRating": 3.43,
@@ -2548,6 +2535,19 @@
     "info": "\n    <h3>Ecosport</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9043331209<br/>\n    <a href=\"https://z34v4.app.goo.gl/QDLv\" target=\"_blank\">https://z34v4.app.goo.gl/QDLv</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "avgRating": 5,
+    "name": "Ecosport",
+    "fullLink": "https://playo.co/venue?venueId=8307d68e-1058-415f-8273-b5e34129cdf9",
+    "deferLink": "https://z34v4.app.goo.gl/QDLv",
+    "lat": 12.99244295899565,
+    "lng": 80.09754767709659,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>Ecosport</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9043331209<br/>\n    <a href=\"https://z34v4.app.goo.gl/QDLv\" target=\"_blank\">https://z34v4.app.goo.gl/QDLv</a><br/>\n    "
+  },
+  {
     "name": "Edition O 30035 Esthell near Malar Hospital",
     "rating": 0,
     "deferLink": "https://playo.page.link/kvCxZ",
@@ -2860,17 +2860,17 @@
     "info": "\n    <h3>Falcon Badminton Academy \u2003</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
-    "ratingCount": 28,
-    "avgRating": 3.96,
+    "ratingCount": 30,
+    "avgRating": 4.03,
     "name": "Falcon Sports Arena",
     "fullLink": "https://playo.co/venue?venueId=67ad8716-bbd9-46d4-8cef-910986b15336",
     "deferLink": "https://z34v4.app.goo.gl/mnae",
     "lat": 12.953804853410643,
     "lng": 80.24127684142974,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>Falcon Sports Arena</h3>\n    <strong>Ratings:</strong> 3.96 [28]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9952992629<br/>\n    <a href=\"https://z34v4.app.goo.gl/mnae\" target=\"_blank\">https://z34v4.app.goo.gl/mnae</a><br/>\n    "
+    "info": "\n    <h3>Falcon Sports Arena</h3>\n    <strong>Ratings:</strong> 4.03 [30]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9952992629<br/>\n    <a href=\"https://z34v4.app.goo.gl/mnae\" target=\"_blank\">https://z34v4.app.goo.gl/mnae</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -9644,19 +9644,6 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [],
     "info": "\n    <h3>The Box Bong</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9840532250<br/>\n    <a href=\"https://z34v4.app.goo.gl/dBGB\" target=\"_blank\">https://z34v4.app.goo.gl/dBGB</a><br/>\n    "
-  },
-  {
-    "name": "The Colosseum Iyyapanthangal",
-    "rating": 5,
-    "deferLink": "https://playo.page.link/2dbge",
-    "fullLink": "https://playo.co/venue/?venueId=b039fad6-b878-4ab7-9055-4815805e7dae",
-    "avgRating": 5,
-    "ratingCount": 1,
-    "lat": 13.0507548,
-    "lng": 80.1313415,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [],
-    "info": "\n    <h3>The Colosseum Iyyapanthangal</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 44 4856 3545<br/>\n    <a href=\"https://playo.page.link/2dbge\" target=\"_blank\">https://playo.page.link/2dbge</a><br/>\n    "
   },
   {
     "name": "The Colosseum Iyyapanthangal",
