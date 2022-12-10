@@ -1356,13 +1356,13 @@
     "rating": 4,
     "deferLink": "https://z34v4.app.goo.gl/c8F9",
     "fullLink": "https://playo.co/venue/?venueId=b0fadf2e-376e-4421-9a8a-e99dafd56465",
-    "avgRating": 4,
-    "ratingCount": 8,
+    "avgRating": 4.11,
+    "ratingCount": 9,
     "lat": 12.913472,
     "lng": 80.2287307,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>Bwings Badminton Arena</h3>\n    <strong>Ratings:</strong> 4 [8]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9003110515<br/>\n    <a href=\"https://z34v4.app.goo.gl/c8F9\" target=\"_blank\">https://z34v4.app.goo.gl/c8F9</a><br/>\n    "
+    "info": "\n    <h3>Bwings Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.11 [9]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9003110515<br/>\n    <a href=\"https://z34v4.app.goo.gl/c8F9\" target=\"_blank\">https://z34v4.app.goo.gl/c8F9</a><br/>\n    "
   },
   {
     "name": "CEG Basket ball court",
@@ -4082,8 +4082,8 @@
     "info": "\n    <h3>Impact Snooker</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 44 4353 5483<br/>\n    <a href=\"https://playo.page.link/p8UoG\" target=\"_blank\">https://playo.page.link/p8UoG</a><br/>\n    "
   },
   {
-    "ratingCount": 14,
-    "avgRating": 3.64,
+    "ratingCount": 15,
+    "avgRating": 3.67,
     "name": "Impulz Sports Club",
     "fullLink": "https://playo.co/venue?venueId=f282451a-6635-47b4-93a7-6566d9aa7424",
     "deferLink": "https://z34v4.app.goo.gl/47Yp",
@@ -4092,7 +4092,7 @@
     "rating": 3,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>Impulz Sports Club</h3>\n    <strong>Ratings:</strong> 3.64 [14]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9003224425<br/>\n    <a href=\"https://z34v4.app.goo.gl/47Yp\" target=\"_blank\">https://z34v4.app.goo.gl/47Yp</a><br/>\n    "
+    "info": "\n    <h3>Impulz Sports Club</h3>\n    <strong>Ratings:</strong> 3.67 [15]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9003224425<br/>\n    <a href=\"https://z34v4.app.goo.gl/47Yp\" target=\"_blank\">https://z34v4.app.goo.gl/47Yp</a><br/>\n    "
   },
   {
     "name": "India Pistons ground",
@@ -5293,19 +5293,6 @@
   {
     "name": "MRF Pachaiyappa",
     "rating": 0,
-    "deferLink": "https://playo.page.link/62e98",
-    "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 13.0720289,
-    "lng": 80.2324485,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
-  },
-  {
-    "name": "MRF Pachaiyappa",
-    "rating": 0,
     "deferLink": "https://playo.page.link/DzNJ3",
     "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
     "avgRating": 0,
@@ -5315,6 +5302,19 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [],
     "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+  },
+  {
+    "name": "MRF Pachaiyappa",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/62e98",
+    "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "lat": 13.0720289,
+    "lng": 80.2324485,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -5720,8 +5720,8 @@
     "info": "\n    <h3>Metro Badminton Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 99400 92369<br/>\n    <a href=\"https://playo.page.link/DQoTY\" target=\"_blank\">https://playo.page.link/DQoTY</a><br/>\n    "
   },
   {
-    "ratingCount": 24,
-    "avgRating": 4.83,
+    "ratingCount": 25,
+    "avgRating": 4.84,
     "name": "Mithraa Sports Academy",
     "fullLink": "https://playo.co/venue?venueId=65b7281e-baba-441a-b8da-1722957437a1",
     "deferLink": "https://z34v4.app.goo.gl/3P1h",
@@ -5730,7 +5730,7 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>Mithraa Sports Academy</h3>\n    <strong>Ratings:</strong> 4.83 [24]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9841255112<br/>\n    <a href=\"https://z34v4.app.goo.gl/3P1h\" target=\"_blank\">https://z34v4.app.goo.gl/3P1h</a><br/>\n    "
+    "info": "\n    <h3>Mithraa Sports Academy</h3>\n    <strong>Ratings:</strong> 4.84 [25]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9841255112<br/>\n    <a href=\"https://z34v4.app.goo.gl/3P1h\" target=\"_blank\">https://z34v4.app.goo.gl/3P1h</a><br/>\n    "
   },
   {
     "name": "Mogappair Badminton Association",
