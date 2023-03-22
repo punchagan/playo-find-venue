@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 
-from collections import defaultdict
 import json
 import os
+from collections import defaultdict
 from os.path import abspath, dirname, join
 
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
 
 PLAYO_AUTH = os.getenv("PLAYO_AUTH", "")
 assert len(PLAYO_AUTH) > 0, "Please set PLAYO_AUTH env var"
