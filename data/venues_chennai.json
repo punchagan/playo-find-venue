@@ -3385,12 +3385,12 @@
     "deferLink": "https://playo.page.link/TRN7R",
     "fullLink": "https://playo.co/venue/?venueId=31b07db2-9fb4-400f-aa3a-d338e7c8b915",
     "avgRating": 5,
-    "ratingCount": 1,
+    "ratingCount": 2,
     "lat": 12.9791958,
     "lng": 80.2298674,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>GO Futsal (Velachery)</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 87544 06855<br/>\n    <a href=\"https://playo.page.link/TRN7R\" target=\"_blank\">https://playo.page.link/TRN7R</a><br/>\n    "
+    "info": "\n    <h3>GO Futsal (Velachery)</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 87544 06855<br/>\n    <a href=\"https://playo.page.link/TRN7R\" target=\"_blank\">https://playo.page.link/TRN7R</a><br/>\n    "
   },
   {
     "ratingCount": 15,
@@ -5759,9 +5759,9 @@
     "info": "\n    <h3>Marshland Cricket Academy</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 8122094437<br/>\n    <a href=\"https://z34v4.app.goo.gl/fxXU\" target=\"_blank\">https://z34v4.app.goo.gl/fxXU</a><br/>\n    "
   },
   {
-    "avgRating": 4.33,
+    "avgRating": 4.2,
     "name": "Match Point Academy",
-    "ratingCount": 9,
+    "ratingCount": 10,
     "deferLink": "https://z34v4.app.goo.gl/CsQe",
     "fullLink": "https://playo.co/venue/?venueId=d28243ce-eb68-4acd-b53c-b4ae42b8222b",
     "lat": 12.9546656,
@@ -5769,7 +5769,7 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>Match Point Academy</h3>\n    <strong>Ratings:</strong> 4.33 [9]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 8667751529<br/>\n    <a href=\"https://z34v4.app.goo.gl/CsQe\" target=\"_blank\">https://z34v4.app.goo.gl/CsQe</a><br/>\n    "
+    "info": "\n    <h3>Match Point Academy</h3>\n    <strong>Ratings:</strong> 4.2 [10]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 8667751529<br/>\n    <a href=\"https://z34v4.app.goo.gl/CsQe\" target=\"_blank\">https://z34v4.app.goo.gl/CsQe</a><br/>\n    "
   },
   {
     "name": "Mayajaal Swimming Pool",
@@ -5876,7 +5876,7 @@
     "info": "\n    <h3>Metro Badminton Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 99400 92369<br/>\n    <a href=\"https://playo.page.link/DQoTY\" target=\"_blank\">https://playo.page.link/DQoTY</a><br/>\n    "
   },
   {
-    "ratingCount": 35,
+    "ratingCount": 36,
     "avgRating": 4.86,
     "name": "Mithraa Sports Academy",
     "fullLink": "https://playo.co/venue?venueId=65b7281e-baba-441a-b8da-1722957437a1",
@@ -5886,7 +5886,7 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
-    "info": "\n    <h3>Mithraa Sports Academy</h3>\n    <strong>Ratings:</strong> 4.86 [35]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9841255112<br/>\n    <a href=\"https://z34v4.app.goo.gl/3P1h\" target=\"_blank\">https://z34v4.app.goo.gl/3P1h</a><br/>\n    "
+    "info": "\n    <h3>Mithraa Sports Academy</h3>\n    <strong>Ratings:</strong> 4.86 [36]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9841255112<br/>\n    <a href=\"https://z34v4.app.goo.gl/3P1h\" target=\"_blank\">https://z34v4.app.goo.gl/3P1h</a><br/>\n    "
   },
   {
     "name": "Mogappair Badminton Association",
@@ -7720,6 +7720,19 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [],
     "info": "\n    <h3>School of Sports - The Pitch</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 9789991818<br/>\n    <a href=\"https://z34v4.app.goo.gl/ycF6\" target=\"_blank\">https://z34v4.app.goo.gl/ycF6</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Score Vels Pallavaram",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=d77b992a-b487-4bc2-b7e7-0558a115bdcf",
+    "deferLink": "https://z34v4.app.goo.gl/WPVn",
+    "lat": 12.9651211,
+    "lng": 80.1681533,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [],
+    "info": "\n    <h3>Score Vels Pallavaram</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> <br/>\n    <strong>Phone:</strong> 7710081557<br/>\n    <a href=\"https://z34v4.app.goo.gl/WPVn\" target=\"_blank\">https://z34v4.app.goo.gl/WPVn</a><br/>\n    "
   },
   {
     "ratingCount": 5,
