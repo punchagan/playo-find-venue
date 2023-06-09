@@ -40,14 +40,18 @@ def fetch_sport_ids(debug=False):
     print("Fetching sport id map...", flush=True)
     url = "https://playo.co/venues/bengaluru/sports/all"
     soup = BeautifulSoup(requests.get(url).text, "lxml")
-    sport_ids = {
-        element.findChild("img").attrs["src"].split("/")[-2]: element.text.strip()
-        for element in soup.select(".one-sport-filter")
-    }
+
+    scripts = [s for s in soup.find_all("script") if s.attrs.get("id") == "__NEXT_DATA__"]
+    if len(scripts) == 0:
+        return {}
+
+    text = scripts[-1].text
+    sport_ids = (
+        json.loads(text).get("props", {}).get("pageProps", {}).get("allSports", {}).get("list", [])
+    )
     if debug:
         print("Sport IDs: {sport_ids}".format(sport_ids=sport_ids), flush=True)
-    assert len(sport_ids) > 0, "Could not fetch sport IDs"
-    return sport_ids
+    return {sport["sportId"]: sport["name"] for sport in sport_ids}
 
 
 def modify_metadata(venues, clean=True, debug=False):
@@ -65,6 +69,7 @@ def modify_metadata(venues, clean=True, debug=False):
         "fullLink",
     }
     SPORT_ID_MAP = fetch_sport_ids(debug=debug)
+    assert SPORT_ID_MAP, "Could not fetch Sport IDs"
     for venue in venues:
         rating = int(float(venue["avgRating"] or 0))
         icon = f"{rating}-lv.png" if rating > 0 else "red-square-lv.png"
