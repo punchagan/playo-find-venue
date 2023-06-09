@@ -46,6 +46,7 @@ def fetch_sport_ids(debug=False):
     }
     if debug:
         print("Sport IDs: {sport_ids}".format(sport_ids=sport_ids), flush=True)
+    assert len(sport_ids) > 0, "Could not fetch sport IDs"
     return sport_ids
 
 
