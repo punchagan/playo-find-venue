@@ -2740,18 +2740,18 @@
   },
   {
     "name": "DB SPORTS ACADEMY",
-    "rating": 0,
+    "rating": 5,
     "deferLink": "https://playo.page.link/EsgPC",
     "fullLink": "https://playo.co/venue/?venueId=e25940d7-51cd-48df-84ca-655d42b94796",
-    "avgRating": 0,
-    "ratingCount": 0,
+    "avgRating": 5,
+    "ratingCount": 1,
     "lat": 12.9142805,
     "lng": 80.1901538,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>DB SPORTS ACADEMY</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 99626 63939<br/>\n    <a href=\"https://playo.page.link/EsgPC\" target=\"_blank\">https://playo.page.link/EsgPC</a><br/>\n    "
+    "info": "\n    <h3>DB SPORTS ACADEMY</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 99626 63939<br/>\n    <a href=\"https://playo.page.link/EsgPC\" target=\"_blank\">https://playo.page.link/EsgPC</a><br/>\n    "
   },
   {
     "name": "DC sprorts. Academy",
@@ -4038,19 +4038,19 @@
     "info": "\n    <h3>GRACE FOOTBALL COACHING CENTRE</h3>\n    <strong>Ratings:</strong> 1 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 98431 79091<br/>\n    <a href=\"https://playo.page.link/UidRj\" target=\"_blank\">https://playo.page.link/UidRj</a><br/>\n    "
   },
   {
-    "avgRating": 1,
+    "avgRating": 3,
     "name": "GRAND SLAM TENNIS",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "deferLink": "https://z34v4.app.goo.gl/b43T",
     "fullLink": "https://playo.co/venue/?venueId=9ddce3dd-aa85-41f6-b1c4-f85b1b6b2fc8",
     "lat": 12.960628,
     "lng": 80.254277,
-    "rating": 1,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Tennis"
     ],
-    "info": "\n    <h3>GRAND SLAM TENNIS</h3>\n    <strong>Ratings:</strong> 1 [1]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/b43T\" target=\"_blank\">https://z34v4.app.goo.gl/b43T</a><br/>\n    "
+    "info": "\n    <h3>GRAND SLAM TENNIS</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 7358507204<br/>\n    <a href=\"https://z34v4.app.goo.gl/b43T\" target=\"_blank\">https://z34v4.app.goo.gl/b43T</a><br/>\n    "
   },
   {
     "name": "GRIFFON ACADEMY OF MUSIC AND BADMINTON",
@@ -5564,8 +5564,8 @@
     "info": "\n    <h3>KMC Volleyball Court.</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/CMZWW\" target=\"_blank\">https://playo.page.link/CMZWW</a><br/>\n    "
   },
   {
-    "ratingCount": 18,
-    "avgRating": 4.94,
+    "ratingCount": 19,
+    "avgRating": 4.95,
     "name": "KSB Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=b147ef05-d06c-469c-80f6-09870f46f376",
     "deferLink": "https://z34v4.app.goo.gl/yzzh",
@@ -5576,7 +5576,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>KSB Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.94 [18]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8148342060<br/>\n    <a href=\"https://z34v4.app.goo.gl/yzzh\" target=\"_blank\">https://z34v4.app.goo.gl/yzzh</a><br/>\n    "
+    "info": "\n    <h3>KSB Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.95 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8148342060<br/>\n    <a href=\"https://z34v4.app.goo.gl/yzzh\" target=\"_blank\">https://z34v4.app.goo.gl/yzzh</a><br/>\n    "
   },
   {
     "name": "KV CLRI basketball court",
@@ -7121,7 +7121,7 @@
   {
     "avgRating": 5,
     "name": "Ncage",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=e05e2519-f6d8-4cdd-90c1-abe28224356f",
     "deferLink": "https://z34v4.app.goo.gl/3gwo",
     "lat": 12.976837,
@@ -7132,7 +7132,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Ncage</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8925284640<br/>\n    <a href=\"https://z34v4.app.goo.gl/3gwo\" target=\"_blank\">https://z34v4.app.goo.gl/3gwo</a><br/>\n    "
+    "info": "\n    <h3>Ncage</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8925284640<br/>\n    <a href=\"https://z34v4.app.goo.gl/3gwo\" target=\"_blank\">https://z34v4.app.goo.gl/3gwo</a><br/>\n    "
   },
   {
     "name": "Netfliq Badminton Academy",
@@ -9744,6 +9744,24 @@
       "Badminton"
     ],
     "info": "\n    <h3>Smashers Badminton Academy - Mugalivakkam</h3>\n    <strong>Ratings:</strong> 4.93 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9551079223<br/>\n    <a href=\"https://z34v4.app.goo.gl/FYLN\" target=\"_blank\">https://z34v4.app.goo.gl/FYLN</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Smashit Sports Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=cbd806e4-ffd6-4864-aafa-5e43d44c1ef6",
+    "deferLink": "https://z34v4.app.goo.gl/Na57",
+    "lat": 12.90223957815895,
+    "lng": 80.1454174846586,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Cricket Nets",
+      "Football",
+      "Tennis"
+    ],
+    "info": "\n    <h3>Smashit Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Tennis<br/>\n    <strong>Phone:</strong> 7358162113<br/>\n    <a href=\"https://z34v4.app.goo.gl/Na57\" target=\"_blank\">https://z34v4.app.goo.gl/Na57</a><br/>\n    "
   },
   {
     "ratingCount": 4,
