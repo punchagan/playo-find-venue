@@ -2027,7 +2027,7 @@
   {
     "avgRating": 5,
     "name": "Champz Turf",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "fullLink": "https://playo.co/venue?venueId=a0d7dfd3-099a-404e-8ed8-49236ccf86a6",
     "deferLink": "https://z34v4.app.goo.gl/B7fM",
     "lat": 13.029244627707266,
@@ -2040,7 +2040,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Champz Turf</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9791020580<br/>\n    <a href=\"https://z34v4.app.goo.gl/B7fM\" target=\"_blank\">https://z34v4.app.goo.gl/B7fM</a><br/>\n    "
+    "info": "\n    <h3>Champz Turf</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9791020580<br/>\n    <a href=\"https://z34v4.app.goo.gl/B7fM\" target=\"_blank\">https://z34v4.app.goo.gl/B7fM</a><br/>\n    "
   },
   {
     "name": "Chandra Table Tennis Academy",
@@ -2386,6 +2386,21 @@
       "Volleyball"
     ],
     "info": "\n    <h3>CoachDirect</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Chess, Cricket, Football, Hockey, Volleyball<br/>\n    <strong>Phone:</strong> 98862 82200<br/>\n    <a href=\"https://playo.page.link/QaNhn\" target=\"_blank\">https://playo.page.link/QaNhn</a><br/>\n    "
+  },
+  {
+    "name": "Colosseum Badminton Cycling",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/Snddf",
+    "fullLink": "https://playo.co/venue/?venueId=86d9e075-5318-4165-9744-530303cc8699",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "lat": 13.0507648,
+    "lng": 80.1312438,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Colosseum Badminton Cycling</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/Snddf\" target=\"_blank\">https://playo.page.link/Snddf</a><br/>\n    "
   },
   {
     "name": "Colosseum Badminton Cycling",
@@ -5002,6 +5017,21 @@
       "Cricket"
     ],
     "info": "\n    <h3>India Pistons ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/FYAxC\" target=\"_blank\">https://playo.page.link/FYAxC</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Indian Badminton Court",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=9c5485b0-a153-4c3b-b301-a6d612d8d1c9",
+    "deferLink": "https://z34v4.app.goo.gl/BSUY",
+    "lat": 13.029258,
+    "lng": 80.236053,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Indian Badminton Court</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9884790046<br/>\n    <a href=\"https://z34v4.app.goo.gl/BSUY\" target=\"_blank\">https://z34v4.app.goo.gl/BSUY</a><br/>\n    "
   },
   {
     "name": "Indian Squash Academy",
@@ -8586,19 +8616,19 @@
     "info": "\n    <h3>SBC Shuttle Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/tbZJo\" target=\"_blank\">https://playo.page.link/tbZJo</a><br/>\n    "
   },
   {
-    "ratingCount": 6,
-    "avgRating": 3,
+    "ratingCount": 7,
+    "avgRating": 2.71,
     "name": "SCBC Jai Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=b7159384-bb9e-4353-b1ea-0002c0c4292d",
     "deferLink": "https://z34v4.app.goo.gl/x8LQ",
     "lat": 12.9791727,
     "lng": 80.1829356,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 2,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SCBC Jai Badminton Academy</h3>\n    <strong>Ratings:</strong> 3 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9941058323<br/>\n    <a href=\"https://z34v4.app.goo.gl/x8LQ\" target=\"_blank\">https://z34v4.app.goo.gl/x8LQ</a><br/>\n    "
+    "info": "\n    <h3>SCBC Jai Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.71 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9941058323<br/>\n    <a href=\"https://z34v4.app.goo.gl/x8LQ\" target=\"_blank\">https://z34v4.app.goo.gl/x8LQ</a><br/>\n    "
   },
   {
     "name": "SDAT Badminton Academy",
@@ -10790,6 +10820,21 @@
     "info": "\n    <h3>THE Railway Officers Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 44 2826 0898<br/>\n    <a href=\"https://playo.page.link/y8eCc\" target=\"_blank\">https://playo.page.link/y8eCc</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "TLK Sports Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=48998f96-ad13-43b7-b310-dd33f5729413",
+    "deferLink": "https://z34v4.app.goo.gl/Amft",
+    "lat": 13.045149843037626,
+    "lng": 80.07892125767249,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>TLK Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7558101280<br/>\n    <a href=\"https://z34v4.app.goo.gl/Amft\" target=\"_blank\">https://z34v4.app.goo.gl/Amft</a><br/>\n    "
+  },
+  {
     "name": "TLK Sports Academy | 4 Synthetic Court | Badminton Coaching",
     "rating": 5,
     "deferLink": "https://playo.page.link/Z98G7",
@@ -11419,21 +11464,6 @@
       "Football"
     ],
     "info": "\n    <h3>The Box Bong Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840532250<br/>\n    <a href=\"https://z34v4.app.goo.gl/nkuj\" target=\"_blank\">https://z34v4.app.goo.gl/nkuj</a><br/>\n    "
-  },
-  {
-    "name": "The Colosseum Iyyapanthangal",
-    "rating": 5,
-    "deferLink": "https://playo.page.link/2dbge",
-    "fullLink": "https://playo.co/venue/?venueId=b039fad6-b878-4ab7-9055-4815805e7dae",
-    "avgRating": 5,
-    "ratingCount": 1,
-    "lat": 13.0507548,
-    "lng": 80.1313415,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>The Colosseum Iyyapanthangal</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 44 4856 3545<br/>\n    <a href=\"https://playo.page.link/2dbge\" target=\"_blank\">https://playo.page.link/2dbge</a><br/>\n    "
   },
   {
     "name": "The Colosseum Iyyapanthangal",
