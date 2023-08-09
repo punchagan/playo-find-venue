@@ -10462,14 +10462,14 @@
     "deferLink": "https://playo.page.link/xCc7W",
     "fullLink": "https://playo.co/venue/?venueId=03fcd633-ec3d-459c-a0df-f5ce14ed9b03",
     "avgRating": 4,
-    "ratingCount": 3,
+    "ratingCount": 4,
     "lat": 13.0279634,
     "lng": 80.1894933,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sunshine Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 91524 39080<br/>\n    <a href=\"https://playo.page.link/xCc7W\" target=\"_blank\">https://playo.page.link/xCc7W</a><br/>\n    "
+    "info": "\n    <h3>Sunshine Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 91524 39080<br/>\n    <a href=\"https://playo.page.link/xCc7W\" target=\"_blank\">https://playo.page.link/xCc7W</a><br/>\n    "
   },
   {
     "ratingCount": 5,
@@ -11796,6 +11796,27 @@
       "Snooker"
     ],
     "info": "\n    <h3>The breaking Zone</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pool, Snooker<br/>\n    <strong>Phone:</strong> 98404 97099<br/>\n    <a href=\"https://playo.page.link/1y1YJ\" target=\"_blank\">https://playo.page.link/1y1YJ</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Thiram Sports Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=b4629529-882a-4fcb-922a-7793aba20f75",
+    "deferLink": "https://z34v4.app.goo.gl/VUhQ",
+    "lat": 12.865524279182855,
+    "lng": 80.22541302023674,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Cricket Nets",
+      "Football",
+      "Paddle Tennis",
+      "Skates",
+      "Volleyball"
+    ],
+    "info": "\n    <h3>Thiram Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Paddle Tennis, Skates, Volleyball<br/>\n    <strong>Phone:</strong> 8925462223<br/>\n    <a href=\"https://z34v4.app.goo.gl/VUhQ\" target=\"_blank\">https://z34v4.app.goo.gl/VUhQ</a><br/>\n    "
   },
   {
     "name": "Thomas Sports View",
