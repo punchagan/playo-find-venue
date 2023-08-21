@@ -1262,23 +1262,6 @@
     "info": "\n    <h3>BNR badminton courts</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 62817 78989<br/>\n    <a href=\"https://playo.page.link/axR19\" target=\"_blank\">https://playo.page.link/axR19</a><br/>\n    "
   },
   {
-    "avgRating": 4.62,
-    "name": "BRR Sports Arena",
-    "ratingCount": 100,
-    "deferLink": "https://z34v4.app.goo.gl/sjnU",
-    "fullLink": "https://playo.co/venue/?venueId=b3e4157e-05e8-4ffa-92e9-854cd8eab787",
-    "lat": 17.600105000058594,
-    "lng": 78.41275019733918,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Beach Volleyball",
-      "Box Cricket"
-    ],
-    "info": "\n    <h3>BRR Sports Arena</h3>\n    <strong>Ratings:</strong> 4.62 [100]<br/>\n    <strong>Sports:</strong> Badminton, Beach Volleyball, Box Cricket<br/>\n    <strong>Phone:</strong> 9705233397<br/>\n    <a href=\"https://z34v4.app.goo.gl/sjnU\" target=\"_blank\">https://z34v4.app.goo.gl/sjnU</a><br/>\n    "
-  },
-  {
     "name": "BSR CRICKET GROUNDS",
     "rating": 3,
     "deferLink": "https://playo.page.link/kFxGd",
@@ -2703,7 +2686,7 @@
     "info": "\n    <h3>Children's Pool</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/qBdaE\" target=\"_blank\">https://playo.page.link/qBdaE</a><br/>\n    "
   },
   {
-    "ratingCount": 6,
+    "ratingCount": 7,
     "avgRating": 5,
     "name": "Chillax Box Cricket",
     "fullLink": "https://playo.co/venue?venueId=0644baa4-c0dc-46cf-b181-366803e03ffb",
@@ -2715,7 +2698,7 @@
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Chillax Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8686210815<br/>\n    <a href=\"https://z34v4.app.goo.gl/s6NU\" target=\"_blank\">https://z34v4.app.goo.gl/s6NU</a><br/>\n    "
+    "info": "\n    <h3>Chillax Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8686210815<br/>\n    <a href=\"https://z34v4.app.goo.gl/s6NU\" target=\"_blank\">https://z34v4.app.goo.gl/s6NU</a><br/>\n    "
   },
   {
     "ratingCount": 37,
@@ -5906,6 +5889,23 @@
     "info": "\n    <h3>Hyderabad Sporting</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 85500 09926<br/>\n    <a href=\"https://playo.page.link/79t8x\" target=\"_blank\">https://playo.page.link/79t8x</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "avgRating": 5,
+    "name": "Hyderabadi Treats Games Ka Adda",
+    "fullLink": "https://playo.co/venue?venueId=0f37a68a-7103-4b00-abd4-2b3c72472b75",
+    "deferLink": "https://z34v4.app.goo.gl/3cvU",
+    "lat": 17.469920595736948,
+    "lng": 78.36016756471409,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Bowling Machine",
+      "Snooker",
+      "eSports"
+    ],
+    "info": "\n    <h3>Hyderabadi Treats Games Ka Adda</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Bowling Machine, Snooker, eSports<br/>\n    <strong>Phone:</strong> 9100569359<br/>\n    <a href=\"https://z34v4.app.goo.gl/3cvU\" target=\"_blank\">https://z34v4.app.goo.gl/3cvU</a><br/>\n    "
+  },
+  {
     "name": "Hyundai Basket Ball Court",
     "rating": 0,
     "deferLink": "https://playo.page.link/vSusJ",
@@ -7373,6 +7373,22 @@
     "info": "\n    <h3>MGIT Baseketball Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/Xf7Rw\" target=\"_blank\">https://playo.page.link/Xf7Rw</a><br/>\n    "
   },
   {
+    "ratingCount": 9,
+    "avgRating": 5,
+    "name": "MIDFIELD SPORTS ARENA",
+    "fullLink": "https://playo.co/venue?venueId=54ce1539-6f12-4b61-b708-b3a4ef2b9dbd",
+    "deferLink": "https://z34v4.app.goo.gl/oaju",
+    "lat": 17.34113,
+    "lng": 78.42672,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>MIDFIELD SPORTS ARENA</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8143155915<br/>\n    <a href=\"https://z34v4.app.goo.gl/oaju\" target=\"_blank\">https://z34v4.app.goo.gl/oaju</a><br/>\n    "
+  },
+  {
     "avgRating": 3.75,
     "name": "MK's Badminton Academy",
     "ratingCount": 80,
@@ -8013,21 +8029,6 @@
     "info": "\n    <h3>Mrcp Cricket Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/4cLqa\" target=\"_blank\">https://playo.page.link/4cLqa</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
-    "avgRating": 4,
-    "name": "Msk Cricket Ground",
-    "fullLink": "https://playo.co/venue?venueId=091e0989-5293-4b84-b852-97dfa8d3c83b",
-    "deferLink": "https://z34v4.app.goo.gl/S3UM",
-    "lat": 17.41025,
-    "lng": 78.27432,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Cricket"
-    ],
-    "info": "\n    <h3>Msk Cricket Ground</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9676012505<br/>\n    <a href=\"https://z34v4.app.goo.gl/S3UM\" target=\"_blank\">https://z34v4.app.goo.gl/S3UM</a><br/>\n    "
-  },
-  {
     "ratingCount": 2,
     "avgRating": 3,
     "name": "Msports Cricket Park Ground",
@@ -8228,7 +8229,7 @@
   {
     "avgRating": 3.7,
     "name": "NVK Sports Arena",
-    "ratingCount": 212,
+    "ratingCount": 213,
     "deferLink": "https://z34v4.app.goo.gl/4W6F",
     "fullLink": "https://playo.co/venue/?venueId=b101b480-fb46-4d6d-9b14-4920e985be82",
     "lat": 17.466975,
@@ -8238,7 +8239,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>NVK Sports Arena</h3>\n    <strong>Ratings:</strong> 3.7 [212]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9391077077<br/>\n    <a href=\"https://z34v4.app.goo.gl/4W6F\" target=\"_blank\">https://z34v4.app.goo.gl/4W6F</a><br/>\n    "
+    "info": "\n    <h3>NVK Sports Arena</h3>\n    <strong>Ratings:</strong> 3.7 [213]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9391077077<br/>\n    <a href=\"https://z34v4.app.goo.gl/4W6F\" target=\"_blank\">https://z34v4.app.goo.gl/4W6F</a><br/>\n    "
   },
   {
     "name": "NVK Tennis Academy, Kondapur",
@@ -9421,7 +9422,7 @@
     "info": "\n    <h3>Pro Ace Tennis Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 99082 02175<br/>\n    <a href=\"https://playo.page.link/oLrKn\" target=\"_blank\">https://playo.page.link/oLrKn</a><br/>\n    "
   },
   {
-    "ratingCount": 46,
+    "ratingCount": 47,
     "avgRating": 4.83,
     "name": "Pro Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=9a4201e7-b7ea-47b2-9705-6d774d46906f",
@@ -9433,7 +9434,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Pro Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.83 [46]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8639577249<br/>\n    <a href=\"https://z34v4.app.goo.gl/a2Uh\" target=\"_blank\">https://z34v4.app.goo.gl/a2Uh</a><br/>\n    "
+    "info": "\n    <h3>Pro Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.83 [47]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8639577249<br/>\n    <a href=\"https://z34v4.app.goo.gl/a2Uh\" target=\"_blank\">https://z34v4.app.goo.gl/a2Uh</a><br/>\n    "
   },
   {
     "name": "Pro Tennis Academy Mahendrahills Maredpally",
@@ -9700,7 +9701,7 @@
   {
     "avgRating": 4.22,
     "name": "RRC Multipurpose Indoor Stadium",
-    "ratingCount": 73,
+    "ratingCount": 74,
     "deferLink": "https://z34v4.app.goo.gl/XS6i",
     "fullLink": "https://playo.co/venue/?venueId=73c130da-65fb-4bd3-af49-62c0b11e4b48",
     "lat": 17.43941,
@@ -9710,7 +9711,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>RRC Multipurpose Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.22 [73]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9491111211<br/>\n    <a href=\"https://z34v4.app.goo.gl/XS6i\" target=\"_blank\">https://z34v4.app.goo.gl/XS6i</a><br/>\n    "
+    "info": "\n    <h3>RRC Multipurpose Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.22 [74]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9491111211<br/>\n    <a href=\"https://z34v4.app.goo.gl/XS6i\" target=\"_blank\">https://z34v4.app.goo.gl/XS6i</a><br/>\n    "
   },
   {
     "name": "RRC Swimming Pool Vishwamanya Swimming Academy",
