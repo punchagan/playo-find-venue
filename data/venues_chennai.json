@@ -6522,21 +6522,6 @@
   {
     "name": "MRF Pachaiyappa",
     "rating": 0,
-    "deferLink": "https://playo.page.link/62e98",
-    "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 13.0720289,
-    "lng": 80.2324485,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Cricket"
-    ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
-  },
-  {
-    "name": "MRF Pachaiyappa",
-    "rating": 0,
     "deferLink": "https://playo.page.link/DzNJ3",
     "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
     "avgRating": 0,
@@ -6548,6 +6533,21 @@
       "Football"
     ],
     "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
+  },
+  {
+    "name": "MRF Pachaiyappa",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/62e98",
+    "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "lat": 13.0720289,
+    "lng": 80.2324485,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket"
+    ],
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -11069,7 +11069,7 @@
     "info": "\n    <h3>Tackle Futsal - Rohini Silver Screens</h3>\n    <strong>Ratings:</strong> 4.53 [17]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9486656405<br/>\n    <a href=\"https://z34v4.app.goo.gl/zG6w\" target=\"_blank\">https://z34v4.app.goo.gl/zG6w</a><br/>\n    "
   },
   {
-    "ratingCount": 3,
+    "ratingCount": 4,
     "avgRating": 5,
     "name": "Tackle Futsal - Rohini Theatre Turf 2",
     "fullLink": "https://playo.co/venue?venueId=e7383ff4-fa46-41fb-81d2-d2b15b287a8b",
@@ -11082,7 +11082,7 @@
       "Box Cricket",
       "Cricket Nets"
     ],
-    "info": "\n    <h3>Tackle Futsal - Rohini Theatre Turf 2</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 9841876777<br/>\n    <a href=\"https://z34v4.app.goo.gl/RWqT\" target=\"_blank\">https://z34v4.app.goo.gl/RWqT</a><br/>\n    "
+    "info": "\n    <h3>Tackle Futsal - Rohini Theatre Turf 2</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 9841876777<br/>\n    <a href=\"https://z34v4.app.goo.gl/RWqT\" target=\"_blank\">https://z34v4.app.goo.gl/RWqT</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -11209,22 +11209,19 @@
     "info": "\n    <h3>Team Tennia South</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/gJVqP\" target=\"_blank\">https://playo.page.link/gJVqP</a><br/>\n    "
   },
   {
-    "avgRating": 4.2,
+    "avgRating": 5,
     "name": "Tejesh Sports Academy",
-    "ratingCount": 5,
-    "deferLink": "https://z34v4.app.goo.gl/E0bR",
-    "fullLink": "https://playo.co/venue/?venueId=a77d7f2c-7ec0-4d69-8859-607750255fb3",
-    "lat": 12.9684828,
-    "lng": 80.2037596,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=c59dfc1f-e5cc-403b-a5f8-ffa3cf224cc1",
+    "deferLink": "https://z34v4.app.goo.gl/7HWA",
+    "lat": 12.968327193484715,
+    "lng": 80.20598335585322,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Badminton",
-      "Cricket",
-      "Table Tennis",
-      "Tennis"
+      "Badminton"
     ],
-    "info": "\n    <h3>Tejesh Sports Academy</h3>\n    <strong>Ratings:</strong> 4.2 [5]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/E0bR\" target=\"_blank\">https://z34v4.app.goo.gl/E0bR</a><br/>\n    "
+    "info": "\n    <h3>Tejesh Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9962077572<br/>\n    <a href=\"https://z34v4.app.goo.gl/7HWA\" target=\"_blank\">https://z34v4.app.goo.gl/7HWA</a><br/>\n    "
   },
   {
     "name": "Ten sportz village",
