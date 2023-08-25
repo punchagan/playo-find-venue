@@ -2027,7 +2027,7 @@
   {
     "avgRating": 5,
     "name": "Champz Turf",
-    "ratingCount": 8,
+    "ratingCount": 9,
     "fullLink": "https://playo.co/venue?venueId=a0d7dfd3-099a-404e-8ed8-49236ccf86a6",
     "deferLink": "https://z34v4.app.goo.gl/B7fM",
     "lat": 13.029244627707266,
@@ -2040,7 +2040,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Champz Turf</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9791020580<br/>\n    <a href=\"https://z34v4.app.goo.gl/B7fM\" target=\"_blank\">https://z34v4.app.goo.gl/B7fM</a><br/>\n    "
+    "info": "\n    <h3>Champz Turf</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9791020580<br/>\n    <a href=\"https://z34v4.app.goo.gl/B7fM\" target=\"_blank\">https://z34v4.app.goo.gl/B7fM</a><br/>\n    "
   },
   {
     "name": "Chandra Table Tennis Academy",
@@ -3771,6 +3771,22 @@
       "Badminton"
     ],
     "info": "\n    <h3>Flybounz Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 95662 14477<br/>\n    <a href=\"https://playo.page.link/VgMTq\" target=\"_blank\">https://playo.page.link/VgMTq</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Flying Birdies",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=7f5b235f-007e-429d-b965-7c3dd4dba283",
+    "deferLink": "https://z34v4.app.goo.gl/fv48",
+    "lat": 13.09090641265476,
+    "lng": 80.17880792872774,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Squash"
+    ],
+    "info": "\n    <h3>Flying Birdies</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Squash<br/>\n    <strong>Phone:</strong> 9092237723<br/>\n    <a href=\"https://z34v4.app.goo.gl/fv48\" target=\"_blank\">https://z34v4.app.goo.gl/fv48</a><br/>\n    "
   },
   {
     "avgRating": 4.56,
@@ -6522,21 +6538,6 @@
   {
     "name": "MRF Pachaiyappa",
     "rating": 0,
-    "deferLink": "https://playo.page.link/DzNJ3",
-    "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 13.0720289,
-    "lng": 80.2324485,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
-  },
-  {
-    "name": "MRF Pachaiyappa",
-    "rating": 0,
     "deferLink": "https://playo.page.link/62e98",
     "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
     "avgRating": 0,
@@ -6548,6 +6549,21 @@
       "Cricket"
     ],
     "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+  },
+  {
+    "name": "MRF Pachaiyappa",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/DzNJ3",
+    "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "lat": 13.0720289,
+    "lng": 80.2324485,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
