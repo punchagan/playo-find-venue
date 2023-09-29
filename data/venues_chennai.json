@@ -12577,9 +12577,11 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Cricket Nets"
+      "Box Cricket",
+      "Cricket Nets",
+      "Football"
     ],
-    "info": "\n    <h3>Vijay Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 7550040555<br/>\n    <a href=\"https://z34v4.app.goo.gl/CgF1\" target=\"_blank\">https://z34v4.app.goo.gl/CgF1</a><br/>\n    "
+    "info": "\n    <h3>Vijay Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7550040555<br/>\n    <a href=\"https://z34v4.app.goo.gl/CgF1\" target=\"_blank\">https://z34v4.app.goo.gl/CgF1</a><br/>\n    "
   },
   {
     "avgRating": 2,
