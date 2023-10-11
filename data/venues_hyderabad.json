@@ -143,7 +143,7 @@
   {
     "avgRating": 4.04,
     "name": "A-zone Sports",
-    "ratingCount": 193,
+    "ratingCount": 194,
     "deferLink": "https://z34v4.app.goo.gl/SP3w",
     "fullLink": "https://playo.co/venue/?venueId=f1a6fbb6-8441-404a-a49a-95119979cc37",
     "lat": 17.474139925727787,
@@ -153,7 +153,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>A-zone Sports</h3>\n    <strong>Ratings:</strong> 4.04 [193]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9133755567<br/>\n    <a href=\"https://z34v4.app.goo.gl/SP3w\" target=\"_blank\">https://z34v4.app.goo.gl/SP3w</a><br/>\n    "
+    "info": "\n    <h3>A-zone Sports</h3>\n    <strong>Ratings:</strong> 4.04 [194]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9133755567<br/>\n    <a href=\"https://z34v4.app.goo.gl/SP3w\" target=\"_blank\">https://z34v4.app.goo.gl/SP3w</a><br/>\n    "
   },
   {
     "name": "ABBAS UNION FOOTBALL CLUB",
@@ -2603,6 +2603,23 @@
     "info": "\n    <h3>Chase Skating & Fitness Club</h3>\n    <strong>Ratings:</strong> 4.27 [11]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Skates<br/>\n    <strong>Phone:</strong> 9000646777<br/>\n    <a href=\"https://z34v4.app.goo.gl/KoQQ\" target=\"_blank\">https://z34v4.app.goo.gl/KoQQ</a><br/>\n    "
   },
   {
+    "ratingCount": 11,
+    "avgRating": 4.82,
+    "name": "Cheeryal Sports Zone",
+    "fullLink": "https://playo.co/venue?venueId=e5625b3c-d7af-455e-8921-7447178790a1",
+    "deferLink": "https://z34v4.app.goo.gl/xzF3",
+    "lat": 17.51001,
+    "lng": 78.62824,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Beach Volleyball",
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Cheeryal Sports Zone</h3>\n    <strong>Ratings:</strong> 4.82 [11]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7799774481<br/>\n    <a href=\"https://z34v4.app.goo.gl/xzF3\" target=\"_blank\">https://z34v4.app.goo.gl/xzF3</a><br/>\n    "
+  },
+  {
     "avgRating": 3.53,
     "name": "Chetan Anand Badminton Academy",
     "ratingCount": 186,
@@ -4777,20 +4794,20 @@
     "info": "\n    <h3>Game On (Raidurg)</h3>\n    <strong>Ratings:</strong> 4.78 [18]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9573392748<br/>\n    <a href=\"https://z34v4.app.goo.gl/UHSc\" target=\"_blank\">https://z34v4.app.goo.gl/UHSc</a><br/>\n    "
   },
   {
-    "ratingCount": 0,
-    "avgRating": 0,
+    "ratingCount": 1,
+    "avgRating": 5,
     "name": "Game Onn Box Cricket @ Moula Ali",
     "fullLink": "https://playo.co/venue?venueId=1c7d45b9-726a-4d69-86e8-0a1bbec18725",
     "deferLink": "https://z34v4.app.goo.gl/3WCG",
     "lat": 17.462572134719053,
     "lng": 78.56436212602227,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Game Onn Box Cricket @ Moula Ali</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9959882933<br/>\n    <a href=\"https://z34v4.app.goo.gl/3WCG\" target=\"_blank\">https://z34v4.app.goo.gl/3WCG</a><br/>\n    "
+    "info": "\n    <h3>Game Onn Box Cricket @ Moula Ali</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9959882933<br/>\n    <a href=\"https://z34v4.app.goo.gl/3WCG\" target=\"_blank\">https://z34v4.app.goo.gl/3WCG</a><br/>\n    "
   },
   {
     "ratingCount": 62,
@@ -5734,9 +5751,9 @@
     "info": "\n    <h3>HotFut (Begumpet)</h3>\n    <strong>Ratings:</strong> 4.6 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9177766005<br/>\n    <a href=\"https://z34v4.app.goo.gl/Qtei\" target=\"_blank\">https://z34v4.app.goo.gl/Qtei</a><br/>\n    "
   },
   {
-    "avgRating": 3.93,
+    "avgRating": 3.88,
     "name": "HotFut (Gachibowli)",
-    "ratingCount": 15,
+    "ratingCount": 16,
     "deferLink": "https://z34v4.app.goo.gl/FSLT",
     "fullLink": "https://playo.co/venue/?venueId=39dcba76-4897-435d-8d52-49174af02f51",
     "lat": 17.4356255,
@@ -5747,7 +5764,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>HotFut (Gachibowli)</h3>\n    <strong>Ratings:</strong> 3.93 [15]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100096655<br/>\n    <a href=\"https://z34v4.app.goo.gl/FSLT\" target=\"_blank\">https://z34v4.app.goo.gl/FSLT</a><br/>\n    "
+    "info": "\n    <h3>HotFut (Gachibowli)</h3>\n    <strong>Ratings:</strong> 3.88 [16]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100096655<br/>\n    <a href=\"https://z34v4.app.goo.gl/FSLT\" target=\"_blank\">https://z34v4.app.goo.gl/FSLT</a><br/>\n    "
   },
   {
     "avgRating": 4.15,
@@ -5983,8 +6000,8 @@
     "info": "\n    <h3>INFY Volleyball Courts</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/iSqkf\" target=\"_blank\">https://playo.page.link/iSqkf</a><br/>\n    "
   },
   {
-    "ratingCount": 52,
-    "avgRating": 4.12,
+    "ratingCount": 53,
+    "avgRating": 4.13,
     "name": "Indian Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=547cf3f7-776d-449d-90f6-c405abb7b669",
     "deferLink": "https://z34v4.app.goo.gl/enHh",
@@ -5995,7 +6012,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Indian Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.12 [52]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9849048586<br/>\n    <a href=\"https://z34v4.app.goo.gl/enHh\" target=\"_blank\">https://z34v4.app.goo.gl/enHh</a><br/>\n    "
+    "info": "\n    <h3>Indian Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.13 [53]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9849048586<br/>\n    <a href=\"https://z34v4.app.goo.gl/enHh\" target=\"_blank\">https://z34v4.app.goo.gl/enHh</a><br/>\n    "
   },
   {
     "ratingCount": 1,
@@ -8205,21 +8222,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>NVK Sports Arena</h3>\n    <strong>Ratings:</strong> 3.71 [222]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9391077077<br/>\n    <a href=\"https://z34v4.app.goo.gl/4W6F\" target=\"_blank\">https://z34v4.app.goo.gl/4W6F</a><br/>\n    "
-  },
-  {
-    "name": "NVK Tennis Academy, Kondapur",
-    "rating": 3,
-    "deferLink": "https://playo.page.link/hafb1",
-    "fullLink": "https://playo.co/venue/?venueId=65579ae6-e89b-4b57-9027-8792050925f9",
-    "avgRating": 3,
-    "ratingCount": 2,
-    "lat": 17.4669099,
-    "lng": 78.3720486,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Table Tennis"
-    ],
-    "info": "\n    <h3>NVK Tennis Academy, Kondapur</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 98493 31595<br/>\n    <a href=\"https://playo.page.link/hafb1\" target=\"_blank\">https://playo.page.link/hafb1</a><br/>\n    "
   },
   {
     "ratingCount": 6,
@@ -10790,7 +10792,7 @@
   {
     "avgRating": 4.12,
     "name": "SRI SM BADMINTON CLUB (GAME INN)",
-    "ratingCount": 267,
+    "ratingCount": 268,
     "deferLink": "https://z34v4.app.goo.gl/6aBH",
     "fullLink": "https://playo.co/venue/?venueId=15ff9a86-ddcb-4464-a069-72c92e394283",
     "lat": 17.461513,
@@ -10800,7 +10802,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SRI SM BADMINTON CLUB (GAME INN)</h3>\n    <strong>Ratings:</strong> 4.12 [267]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8555845789<br/>\n    <a href=\"https://z34v4.app.goo.gl/6aBH\" target=\"_blank\">https://z34v4.app.goo.gl/6aBH</a><br/>\n    "
+    "info": "\n    <h3>SRI SM BADMINTON CLUB (GAME INN)</h3>\n    <strong>Ratings:</strong> 4.12 [268]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8555845789<br/>\n    <a href=\"https://z34v4.app.goo.gl/6aBH\" target=\"_blank\">https://z34v4.app.goo.gl/6aBH</a><br/>\n    "
   },
   {
     "ratingCount": 13,
