@@ -3452,7 +3452,7 @@
     "info": "\n    <h3>Faculty Ball-Badminton Court</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/fBtGQ\" target=\"_blank\">https://playo.page.link/fBtGQ</a><br/>\n    "
   },
   {
-    "ratingCount": 128,
+    "ratingCount": 129,
     "avgRating": 4.54,
     "name": "Falcon Sports Arena",
     "fullLink": "https://playo.co/venue?venueId=67ad8716-bbd9-46d4-8cef-910986b15336",
@@ -3464,7 +3464,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Falcon Sports Arena</h3>\n    <strong>Ratings:</strong> 4.54 [128]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952992629<br/>\n    <a href=\"https://z34v4.app.goo.gl/mnae\" target=\"_blank\">https://z34v4.app.goo.gl/mnae</a><br/>\n    "
+    "info": "\n    <h3>Falcon Sports Arena</h3>\n    <strong>Ratings:</strong> 4.54 [129]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952992629<br/>\n    <a href=\"https://z34v4.app.goo.gl/mnae\" target=\"_blank\">https://z34v4.app.goo.gl/mnae</a><br/>\n    "
   },
   {
     "ratingCount": 5,
@@ -6696,15 +6696,15 @@
     "rating": 4,
     "deferLink": "https://playo.page.link/uUnX4",
     "fullLink": "https://playo.co/venue/?venueId=14c2b74b-2760-4ff8-8a79-4efdc1b374bd",
-    "avgRating": 4.73,
-    "ratingCount": 11,
+    "avgRating": 4.75,
+    "ratingCount": 12,
     "lat": 12.951783,
     "lng": 80.187862,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Magros Badminton Club</h3>\n    <strong>Ratings:</strong> 4.73 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 96000 34903<br/>\n    <a href=\"https://playo.page.link/uUnX4\" target=\"_blank\">https://playo.page.link/uUnX4</a><br/>\n    "
+    "info": "\n    <h3>Magros Badminton Club</h3>\n    <strong>Ratings:</strong> 4.75 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 96000 34903<br/>\n    <a href=\"https://playo.page.link/uUnX4\" target=\"_blank\">https://playo.page.link/uUnX4</a><br/>\n    "
   },
   {
     "name": "Mahogany Football Academy (YMCA Spic, Nandanam)",
@@ -8970,15 +8970,15 @@
     "info": "\n    <h3>SS International Swimming Pool</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 98413 66629<br/>\n    <a href=\"https://playo.page.link/YC4vg\" target=\"_blank\">https://playo.page.link/YC4vg</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "SS Sportz Village",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=110aaf83-d856-4a3c-bdf9-15510f0105f7",
     "deferLink": "https://z34v4.app.goo.gl/gBWs",
     "lat": 12.985946130368133,
     "lng": 80.11477318465799,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton",
       "Bowling Machine",
@@ -8988,7 +8988,7 @@
       "Skates",
       "Swimming"
     ],
-    "info": "\n    <h3>SS Sportz Village</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Bowling Machine, Box Cricket, Cricket Nets, Football, Skates, Swimming<br/>\n    <strong>Phone:</strong> 9677055560<br/>\n    <a href=\"https://z34v4.app.goo.gl/gBWs\" target=\"_blank\">https://z34v4.app.goo.gl/gBWs</a><br/>\n    "
+    "info": "\n    <h3>SS Sportz Village</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Bowling Machine, Box Cricket, Cricket Nets, Football, Skates, Swimming<br/>\n    <strong>Phone:</strong> 9677055560<br/>\n    <a href=\"https://z34v4.app.goo.gl/gBWs\" target=\"_blank\">https://z34v4.app.goo.gl/gBWs</a><br/>\n    "
   },
   {
     "name": "STROKERS ARENA",
@@ -10710,8 +10710,8 @@
     "rating": 4,
     "deferLink": "https://playo.page.link/5RKcS",
     "fullLink": "https://playo.co/venue/?venueId=49bab0aa-977d-4cca-991c-f41a2b43bce7",
-    "avgRating": 4.5,
-    "ratingCount": 8,
+    "avgRating": 4.56,
+    "ratingCount": 9,
     "lat": 12.956648,
     "lng": 80.191574,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
@@ -10719,7 +10719,7 @@
       "Badminton",
       "Football"
     ],
-    "info": "\n    <h3>Synergo Sports Academy</h3>\n    <strong>Ratings:</strong> 4.5 [8]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 99165 15514<br/>\n    <a href=\"https://playo.page.link/5RKcS\" target=\"_blank\">https://playo.page.link/5RKcS</a><br/>\n    "
+    "info": "\n    <h3>Synergo Sports Academy</h3>\n    <strong>Ratings:</strong> 4.56 [9]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 99165 15514<br/>\n    <a href=\"https://playo.page.link/5RKcS\" target=\"_blank\">https://playo.page.link/5RKcS</a><br/>\n    "
   },
   {
     "name": "T.Nagar Ladies Club - Tennis Court",
@@ -11059,21 +11059,21 @@
     "info": "\n    <h3>Tackle Futsal - Dev Sports and Crossfit</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7200434700<br/>\n    <a href=\"https://z34v4.app.goo.gl/wYZ4\" target=\"_blank\">https://z34v4.app.goo.gl/wYZ4</a><br/>\n    "
   },
   {
-    "avgRating": 3.67,
+    "avgRating": 4,
     "name": "Tackle Futsal - FC Marina",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=389f0c86-3542-4de5-847f-5f68dad6f77c",
     "deferLink": "https://z34v4.app.goo.gl/Xgk4",
     "lat": 12.93746847908451,
     "lng": 80.19406549319748,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Tackle Futsal - FC Marina</h3>\n    <strong>Ratings:</strong> 3.67 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9884225777<br/>\n    <a href=\"https://z34v4.app.goo.gl/Xgk4\" target=\"_blank\">https://z34v4.app.goo.gl/Xgk4</a><br/>\n    "
+    "info": "\n    <h3>Tackle Futsal - FC Marina</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9884225777<br/>\n    <a href=\"https://z34v4.app.goo.gl/Xgk4\" target=\"_blank\">https://z34v4.app.goo.gl/Xgk4</a><br/>\n    "
   },
   {
     "ratingCount": 10,
@@ -11913,11 +11913,11 @@
       "Box Cricket",
       "Cricket Nets",
       "Football",
-      "Paddle Tennis",
+      "Padel",
       "Skates",
       "Volleyball"
     ],
-    "info": "\n    <h3>Thiram Sports Academy</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Paddle Tennis, Skates, Volleyball<br/>\n    <strong>Phone:</strong> 8925462223<br/>\n    <a href=\"https://z34v4.app.goo.gl/VUhQ\" target=\"_blank\">https://z34v4.app.goo.gl/VUhQ</a><br/>\n    "
+    "info": "\n    <h3>Thiram Sports Academy</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Padel, Skates, Volleyball<br/>\n    <strong>Phone:</strong> 8925462223<br/>\n    <a href=\"https://z34v4.app.goo.gl/VUhQ\" target=\"_blank\">https://z34v4.app.goo.gl/VUhQ</a><br/>\n    "
   },
   {
     "name": "Thomas Sports View",
@@ -13047,7 +13047,7 @@
   {
     "avgRating": 5,
     "name": "Wingz Sports Academy",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "fullLink": "https://playo.co/venue?venueId=48928dcd-4ecd-4b10-95b2-78e2524e4713",
     "deferLink": "https://z34v4.app.goo.gl/Q5wb",
     "lat": 12.7984822,
@@ -13057,7 +13057,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Wingz Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7845780223<br/>\n    <a href=\"https://z34v4.app.goo.gl/Q5wb\" target=\"_blank\">https://z34v4.app.goo.gl/Q5wb</a><br/>\n    "
+    "info": "\n    <h3>Wingz Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7845780223<br/>\n    <a href=\"https://z34v4.app.goo.gl/Q5wb\" target=\"_blank\">https://z34v4.app.goo.gl/Q5wb</a><br/>\n    "
   },
   {
     "name": "Women's Galaxy Swimming Pool",
