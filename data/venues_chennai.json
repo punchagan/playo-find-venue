@@ -1904,7 +1904,7 @@
   {
     "avgRating": 4,
     "name": "CSJ Sports Academy",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "deferLink": "https://z34v4.app.goo.gl/hVQz",
     "fullLink": "https://playo.co/venue/?venueId=aaece24f-4379-458f-be9c-d0224870a17d",
     "lat": 12.961512,
@@ -1916,7 +1916,7 @@
       "Cricket",
       "Tennis"
     ],
-    "info": "\n    <h3>CSJ Sports Academy</h3>\n    <strong>Ratings:</strong> 4 [5]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Tennis<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/hVQz\" target=\"_blank\">https://z34v4.app.goo.gl/hVQz</a><br/>\n    "
+    "info": "\n    <h3>CSJ Sports Academy</h3>\n    <strong>Ratings:</strong> 4 [6]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Tennis<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/hVQz\" target=\"_blank\">https://z34v4.app.goo.gl/hVQz</a><br/>\n    "
   },
   {
     "name": "CUE BALL",
@@ -8540,6 +8540,21 @@
       "Swimming"
     ],
     "info": "\n    <h3>Royal Swimming Pool</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 94449 97202<br/>\n    <a href=\"https://playo.page.link/QMa7m\" target=\"_blank\">https://playo.page.link/QMa7m</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Ruckus Herkley",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=8c0d02c8-82a7-4f2d-a695-cf9b2739dd9b",
+    "deferLink": "https://z34v4.app.goo.gl/9Zpv",
+    "lat": 13.02514081946683,
+    "lng": 80.20417467671001,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Ruckus Herkley</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9444390988<br/>\n    <a href=\"https://z34v4.app.goo.gl/9Zpv\" target=\"_blank\">https://z34v4.app.goo.gl/9Zpv</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
