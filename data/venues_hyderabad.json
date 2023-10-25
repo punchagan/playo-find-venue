@@ -64,9 +64,9 @@
     "info": "\n    <h3>2TB Basketball Court</h3>\n    <strong>Ratings:</strong> 3 [1]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/bhhx4\" target=\"_blank\">https://playo.page.link/bhhx4</a><br/>\n    "
   },
   {
-    "avgRating": 4.22,
+    "avgRating": 4.21,
     "name": "36 Racquet Badminton Academy",
-    "ratingCount": 117,
+    "ratingCount": 118,
     "deferLink": "https://z34v4.app.goo.gl/mycW",
     "fullLink": "https://playo.co/venue/?venueId=f85a464c-a5c8-4596-acac-40e9d352847a",
     "lat": 17.431244,
@@ -76,7 +76,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>36 Racquet Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.22 [117]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9490633636<br/>\n    <a href=\"https://z34v4.app.goo.gl/mycW\" target=\"_blank\">https://z34v4.app.goo.gl/mycW</a><br/>\n    "
+    "info": "\n    <h3>36 Racquet Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.21 [118]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9490633636<br/>\n    <a href=\"https://z34v4.app.goo.gl/mycW\" target=\"_blank\">https://z34v4.app.goo.gl/mycW</a><br/>\n    "
   },
   {
     "avgRating": 3.29,
@@ -1597,21 +1597,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>Ball Badminton Court3</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/ZhRbf\" target=\"_blank\">https://playo.page.link/ZhRbf</a><br/>\n    "
-  },
-  {
-    "name": "Bandlaguda Volleyball Ground",
-    "rating": 0,
-    "deferLink": "https://playo.page.link/yeEi6",
-    "fullLink": "https://playo.co/venue/?venueId=e82f8075-a68d-47cb-982f-111246421a0f",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 17.3139049,
-    "lng": 78.4696423,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Volleyball"
-    ],
-    "info": "\n    <h3>Bandlaguda Volleyball Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/yeEi6\" target=\"_blank\">https://playo.page.link/yeEi6</a><br/>\n    "
   },
   {
     "name": "Banjara Snookers Center",
@@ -6523,9 +6508,9 @@
   {
     "ratingCount": 11,
     "avgRating": 5,
-    "name": "KR Smashers Badminton Arena-1",
+    "name": "KR Smashers Badminton Arena",
     "fullLink": "https://playo.co/venue?venueId=7c3de41b-3055-4f1b-89d6-b49adca7fde4",
-    "deferLink": "https://z34v4.app.goo.gl/FhXU",
+    "deferLink": "https://z34v4.app.goo.gl/3J5f",
     "lat": 17.49421,
     "lng": 78.46566,
     "rating": 5,
@@ -6533,7 +6518,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>KR Smashers Badminton Arena-1</h3>\n    <strong>Ratings:</strong> 5 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9573475414<br/>\n    <a href=\"https://z34v4.app.goo.gl/FhXU\" target=\"_blank\">https://z34v4.app.goo.gl/FhXU</a><br/>\n    "
+    "info": "\n    <h3>KR Smashers Badminton Arena</h3>\n    <strong>Ratings:</strong> 5 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9573475414<br/>\n    <a href=\"https://z34v4.app.goo.gl/3J5f\" target=\"_blank\">https://z34v4.app.goo.gl/3J5f</a><br/>\n    "
   },
   {
     "name": "KV Cricket Grounds",
@@ -6687,6 +6672,23 @@
       "Football"
     ],
     "info": "\n    <h3>Krishna Swamy Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/V1nJd\" target=\"_blank\">https://playo.page.link/V1nJd</a><br/>\n    "
+  },
+  {
+    "ratingCount": 11,
+    "avgRating": 5,
+    "name": "L3 Cubicle Sports",
+    "fullLink": "https://playo.co/venue?venueId=400a0bff-cb90-4a4b-a12f-cb01e93b58d7",
+    "deferLink": "https://z34v4.app.goo.gl/4kXs",
+    "lat": 17.465553219666646,
+    "lng": 78.42177516674346,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>L3 Cubicle Sports</h3>\n    <strong>Ratings:</strong> 5 [11]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7386789149<br/>\n    <a href=\"https://z34v4.app.goo.gl/4kXs\" target=\"_blank\">https://z34v4.app.goo.gl/4kXs</a><br/>\n    "
   },
   {
     "name": "LBH Ground",
@@ -8216,9 +8218,11 @@
     "rating": 3,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Box Cricket",
+      "Football"
     ],
-    "info": "\n    <h3>NVK Sports Arena</h3>\n    <strong>Ratings:</strong> 3.74 [229]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9391077077<br/>\n    <a href=\"https://z34v4.app.goo.gl/4W6F\" target=\"_blank\">https://z34v4.app.goo.gl/4W6F</a><br/>\n    "
+    "info": "\n    <h3>NVK Sports Arena</h3>\n    <strong>Ratings:</strong> 3.74 [229]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9391077077<br/>\n    <a href=\"https://z34v4.app.goo.gl/4W6F\" target=\"_blank\">https://z34v4.app.goo.gl/4W6F</a><br/>\n    "
   },
   {
     "ratingCount": 6,
@@ -8374,21 +8378,6 @@
     "info": "\n    <h3>Nex Arena @ Shaikpet</h3>\n    <strong>Ratings:</strong> 3.5 [14]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100850770<br/>\n    <a href=\"https://z34v4.app.goo.gl/eF4d\" target=\"_blank\">https://z34v4.app.goo.gl/eF4d</a><br/>\n    "
   },
   {
-    "ratingCount": 53,
-    "avgRating": 3.83,
-    "name": "Nex Arena Badminton Academy",
-    "fullLink": "https://playo.co/venue?venueId=57bdfd19-e8df-4805-b1da-e246b212be6d",
-    "deferLink": "https://z34v4.app.goo.gl/E7Tz",
-    "lat": 17.3923303,
-    "lng": 78.3730979,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Nex Arena Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.83 [53]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9160613131<br/>\n    <a href=\"https://z34v4.app.goo.gl/E7Tz\" target=\"_blank\">https://z34v4.app.goo.gl/E7Tz</a><br/>\n    "
-  },
-  {
     "ratingCount": 1,
     "avgRating": 5,
     "name": "Nex Arena Badminton Academy @ Attapur",
@@ -8402,6 +8391,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Nex Arena Badminton Academy @ Attapur</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9160613131<br/>\n    <a href=\"https://z34v4.app.goo.gl/uNXM\" target=\"_blank\">https://z34v4.app.goo.gl/uNXM</a><br/>\n    "
+  },
+  {
+    "ratingCount": 53,
+    "avgRating": 3.83,
+    "name": "Nex Arena Badminton Academy @ Manikonda",
+    "fullLink": "https://playo.co/venue?venueId=57bdfd19-e8df-4805-b1da-e246b212be6d",
+    "deferLink": "https://z34v4.app.goo.gl/gyCn",
+    "lat": 17.3923303,
+    "lng": 78.3730979,
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Nex Arena Badminton Academy @ Manikonda</h3>\n    <strong>Ratings:</strong> 3.83 [53]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9160613131<br/>\n    <a href=\"https://z34v4.app.goo.gl/gyCn\" target=\"_blank\">https://z34v4.app.goo.gl/gyCn</a><br/>\n    "
   },
   {
     "name": "Nidhi Cricket Ground",
@@ -10071,19 +10075,19 @@
     "info": "\n    <h3>Red Hill Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/FuA3p\" target=\"_blank\">https://playo.page.link/FuA3p</a><br/>\n    "
   },
   {
-    "ratingCount": 11,
-    "avgRating": 5,
+    "ratingCount": 12,
+    "avgRating": 4.92,
     "name": "Reflex Badminton Academy @ Old Bowenpally",
     "fullLink": "https://playo.co/venue?venueId=683a8820-7a1a-42f0-8d39-cdd7e84f2af7",
     "deferLink": "https://z34v4.app.goo.gl/1rfo",
     "lat": 17.488211859860264,
     "lng": 78.48552675516432,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Reflex Badminton Academy @ Old Bowenpally</h3>\n    <strong>Ratings:</strong> 5 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8247437019<br/>\n    <a href=\"https://z34v4.app.goo.gl/1rfo\" target=\"_blank\">https://z34v4.app.goo.gl/1rfo</a><br/>\n    "
+    "info": "\n    <h3>Reflex Badminton Academy @ Old Bowenpally</h3>\n    <strong>Ratings:</strong> 4.92 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8247437019<br/>\n    <a href=\"https://z34v4.app.goo.gl/1rfo\" target=\"_blank\">https://z34v4.app.goo.gl/1rfo</a><br/>\n    "
   },
   {
     "ratingCount": 13,
@@ -10821,7 +10825,7 @@
   {
     "avgRating": 4.11,
     "name": "SRI SM BADMINTON CLUB (GAME INN)",
-    "ratingCount": 272,
+    "ratingCount": 273,
     "deferLink": "https://z34v4.app.goo.gl/6aBH",
     "fullLink": "https://playo.co/venue/?venueId=15ff9a86-ddcb-4464-a069-72c92e394283",
     "lat": 17.461513,
@@ -10831,7 +10835,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SRI SM BADMINTON CLUB (GAME INN)</h3>\n    <strong>Ratings:</strong> 4.11 [272]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8555845789<br/>\n    <a href=\"https://z34v4.app.goo.gl/6aBH\" target=\"_blank\">https://z34v4.app.goo.gl/6aBH</a><br/>\n    "
+    "info": "\n    <h3>SRI SM BADMINTON CLUB (GAME INN)</h3>\n    <strong>Ratings:</strong> 4.11 [273]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8555845789<br/>\n    <a href=\"https://z34v4.app.goo.gl/6aBH\" target=\"_blank\">https://z34v4.app.goo.gl/6aBH</a><br/>\n    "
   },
   {
     "ratingCount": 13,
@@ -12411,7 +12415,7 @@
     "info": "\n    <h3>Strike Zone</h3>\n    <strong>Ratings:</strong> 4.86 [7]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket<br/>\n    <strong>Phone:</strong> 8247369993<br/>\n    <a href=\"https://z34v4.app.goo.gl/XD4F\" target=\"_blank\">https://z34v4.app.goo.gl/XD4F</a><br/>\n    "
   },
   {
-    "ratingCount": 2,
+    "ratingCount": 5,
     "avgRating": 5,
     "name": "Striker'Z Sports Arena",
     "fullLink": "https://playo.co/venue?venueId=cbc80a23-9652-4472-9ec8-90e14906a1f8",
@@ -12425,7 +12429,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Striker'Z Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9949098987<br/>\n    <a href=\"https://z34v4.app.goo.gl/7onU\" target=\"_blank\">https://z34v4.app.goo.gl/7onU</a><br/>\n    "
+    "info": "\n    <h3>Striker'Z Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9949098987<br/>\n    <a href=\"https://z34v4.app.goo.gl/7onU\" target=\"_blank\">https://z34v4.app.goo.gl/7onU</a><br/>\n    "
   },
   {
     "ratingCount": 5,
