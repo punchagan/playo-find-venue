@@ -3612,6 +3612,21 @@
     "info": "\n    <h3>EFLU Badminton Court</h3>\n    <strong>Ratings:</strong> 3 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/DP4xC\" target=\"_blank\">https://playo.page.link/DP4xC</a><br/>\n    "
   },
   {
+    "ratingCount": 2,
+    "avgRating": 5,
+    "name": "Eagle Box Cricket",
+    "fullLink": "https://playo.co/venue?venueId=32adaa85-7e5f-4fec-8af5-0fca51d61117",
+    "deferLink": "https://z34v4.app.goo.gl/TQFQ",
+    "lat": 17.497920503897618,
+    "lng": 78.4703152042194,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Eagle Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9391988793<br/>\n    <a href=\"https://z34v4.app.goo.gl/TQFQ\" target=\"_blank\">https://z34v4.app.goo.gl/TQFQ</a><br/>\n    "
+  },
+  {
     "name": "Eagle Sports Indoor Academy",
     "rating": 5,
     "deferLink": "https://playo.page.link/yWzWh",
@@ -5503,21 +5518,6 @@
       "Box Cricket"
     ],
     "info": "\n    <h3>Happening 97</h3>\n    <strong>Ratings:</strong> 4.46 [28]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9704589797<br/>\n    <a href=\"https://z34v4.app.goo.gl/FE5y\" target=\"_blank\">https://z34v4.app.goo.gl/FE5y</a><br/>\n    "
-  },
-  {
-    "name": "Harsha Cricket Ground",
-    "rating": 0,
-    "deferLink": "https://z34v4.app.goo.gl/qK6n",
-    "fullLink": "https://playo.co/venue/?venueId=1bc6b6d9-d434-4505-b118-db9852a8e8f4",
-    "lat": 17.33338,
-    "lng": 78.313407,
-    "avgRating": 0,
-    "ratingCount": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Cricket"
-    ],
-    "info": "\n    <h3>Harsha Cricket Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9581069174<br/>\n    <a href=\"https://z34v4.app.goo.gl/qK6n\" target=\"_blank\">https://z34v4.app.goo.gl/qK6n</a><br/>\n    "
   },
   {
     "ratingCount": 1,
@@ -8363,7 +8363,7 @@
     "info": "\n    <h3>Nex Arena @ Shaikpet</h3>\n    <strong>Ratings:</strong> 3.5 [14]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100850770<br/>\n    <a href=\"https://z34v4.app.goo.gl/eF4d\" target=\"_blank\">https://z34v4.app.goo.gl/eF4d</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
+    "ratingCount": 2,
     "avgRating": 5,
     "name": "Nex Arena Badminton Academy @ Attapur",
     "fullLink": "https://playo.co/venue?venueId=d8a97d3d-a770-4ca2-8d04-1aee81f07adf",
@@ -8375,7 +8375,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Nex Arena Badminton Academy @ Attapur</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9160613131<br/>\n    <a href=\"https://z34v4.app.goo.gl/uNXM\" target=\"_blank\">https://z34v4.app.goo.gl/uNXM</a><br/>\n    "
+    "info": "\n    <h3>Nex Arena Badminton Academy @ Attapur</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9160613131<br/>\n    <a href=\"https://z34v4.app.goo.gl/uNXM\" target=\"_blank\">https://z34v4.app.goo.gl/uNXM</a><br/>\n    "
   },
   {
     "ratingCount": 53,
@@ -12060,21 +12060,21 @@
     "info": "\n    <h3>Sri Gayathri Badminton Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 98497 47055<br/>\n    <a href=\"https://playo.page.link/gDW38\" target=\"_blank\">https://playo.page.link/gDW38</a><br/>\n    "
   },
   {
-    "ratingCount": 0,
-    "avgRating": 0,
+    "ratingCount": 2,
+    "avgRating": 5,
     "name": "Sri Haas Sports",
     "fullLink": "https://playo.co/venue?venueId=a428dff3-63e8-490e-a952-2e88a1ff1fb8",
     "deferLink": "https://z34v4.app.goo.gl/sDib",
     "lat": 17.48643022851116,
     "lng": 78.60086402391377,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Basketball",
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Sri Haas Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9381126100<br/>\n    <a href=\"https://z34v4.app.goo.gl/sDib\" target=\"_blank\">https://z34v4.app.goo.gl/sDib</a><br/>\n    "
+    "info": "\n    <h3>Sri Haas Sports</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9381126100<br/>\n    <a href=\"https://z34v4.app.goo.gl/sDib\" target=\"_blank\">https://z34v4.app.goo.gl/sDib</a><br/>\n    "
   },
   {
     "name": "Sri Kotla Vijaya Bhaskar Reddy Stadium",
