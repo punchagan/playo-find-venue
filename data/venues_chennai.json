@@ -801,10 +801,9 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
-      "Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Arena Sports</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket, Football<br/>\n    <strong>Phone:</strong> 9840550179<br/>\n    <a href=\"https://z34v4.app.goo.gl/1ccA\" target=\"_blank\">https://z34v4.app.goo.gl/1ccA</a><br/>\n    "
+    "info": "\n    <h3>Arena Sports</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840550179<br/>\n    <a href=\"https://z34v4.app.goo.gl/1ccA\" target=\"_blank\">https://z34v4.app.goo.gl/1ccA</a><br/>\n    "
   },
   {
     "name": "Arena badminton court and fitness centre",
@@ -2626,10 +2625,9 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
-      "Bowling Machine",
       "Cricket Nets"
     ],
-    "info": "\n    <h3>Cricket Labs</h3>\n    <strong>Ratings:</strong> 4.71 [14]<br/>\n    <strong>Sports:</strong> Bowling Machine, Cricket Nets<br/>\n    <strong>Phone:</strong> 7904864411<br/>\n    <a href=\"https://z34v4.app.goo.gl/EAd1\" target=\"_blank\">https://z34v4.app.goo.gl/EAd1</a><br/>\n    "
+    "info": "\n    <h3>Cricket Labs</h3>\n    <strong>Ratings:</strong> 4.71 [14]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 7904864411<br/>\n    <a href=\"https://z34v4.app.goo.gl/EAd1\" target=\"_blank\">https://z34v4.app.goo.gl/EAd1</a><br/>\n    "
   },
   {
     "name": "Cricket Practice court",
@@ -3290,9 +3288,11 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
+      "Carrom",
+      "Chess",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Energize Sports</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 8122070026<br/>\n    <a href=\"https://z34v4.app.goo.gl/iT23\" target=\"_blank\">https://z34v4.app.goo.gl/iT23</a><br/>\n    "
+    "info": "\n    <h3>Energize Sports</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Carrom, Chess, Table Tennis<br/>\n    <strong>Phone:</strong> 8122070026<br/>\n    <a href=\"https://z34v4.app.goo.gl/iT23\" target=\"_blank\">https://z34v4.app.goo.gl/iT23</a><br/>\n    "
   },
   {
     "name": "Enjoy-A-Ball",
@@ -3751,10 +3751,9 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton",
-      "Squash",
-      "Table Tennis"
+      "Squash"
     ],
-    "info": "\n    <h3>Flying Birdies</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Squash, Table Tennis<br/>\n    <strong>Phone:</strong> 9092237723<br/>\n    <a href=\"https://z34v4.app.goo.gl/fv48\" target=\"_blank\">https://z34v4.app.goo.gl/fv48</a><br/>\n    "
+    "info": "\n    <h3>Flying Birdies</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Squash<br/>\n    <strong>Phone:</strong> 9092237723<br/>\n    <a href=\"https://z34v4.app.goo.gl/fv48\" target=\"_blank\">https://z34v4.app.goo.gl/fv48</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
@@ -4295,9 +4294,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
-      "Football"
+      "Football",
+      "Tennis"
     ],
-    "info": "\n    <h3>GoSport Tennis & Football Academy</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9841599720<br/>\n    <a href=\"https://z34v4.app.goo.gl/NGB7\" target=\"_blank\">https://z34v4.app.goo.gl/NGB7</a><br/>\n    "
+    "info": "\n    <h3>GoSport Tennis & Football Academy</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Tennis<br/>\n    <strong>Phone:</strong> 9841599720<br/>\n    <a href=\"https://z34v4.app.goo.gl/NGB7\" target=\"_blank\">https://z34v4.app.goo.gl/NGB7</a><br/>\n    "
   },
   {
     "ratingCount": 13,
@@ -5199,11 +5199,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Bowling Machine",
-      "Box Cricket",
       "Cricket Nets",
       "Indoor Cricket"
     ],
-    "info": "\n    <h3>Indoor Stumps</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket, Cricket Nets, Indoor Cricket<br/>\n    <strong>Phone:</strong> 9840103196<br/>\n    <a href=\"https://z34v4.app.goo.gl/M9pF\" target=\"_blank\">https://z34v4.app.goo.gl/M9pF</a><br/>\n    "
+    "info": "\n    <h3>Indoor Stumps</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Bowling Machine, Cricket Nets, Indoor Cricket<br/>\n    <strong>Phone:</strong> 9840103196<br/>\n    <a href=\"https://z34v4.app.goo.gl/M9pF\" target=\"_blank\">https://z34v4.app.goo.gl/M9pF</a><br/>\n    "
   },
   {
     "name": "Infosys MCity Volleyball Courts",
@@ -11157,11 +11156,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Box Cricket",
-      "Cricket Nets",
       "Football",
       "Indoor Cricket"
     ],
-    "info": "\n    <h3>Tackle Futsal -  Seven Eleven's Turf</h3>\n    <strong>Ratings:</strong> 3.8 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Indoor Cricket<br/>\n    <strong>Phone:</strong> 9444453205<br/>\n    <a href=\"https://z34v4.app.goo.gl/bWaA\" target=\"_blank\">https://z34v4.app.goo.gl/bWaA</a><br/>\n    "
+    "info": "\n    <h3>Tackle Futsal -  Seven Eleven's Turf</h3>\n    <strong>Ratings:</strong> 3.8 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Indoor Cricket<br/>\n    <strong>Phone:</strong> 9444453205<br/>\n    <a href=\"https://z34v4.app.goo.gl/bWaA\" target=\"_blank\">https://z34v4.app.goo.gl/bWaA</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -12032,11 +12030,11 @@
       "Box Cricket",
       "Cricket Nets",
       "Football",
-      "Padel",
+      "Paddle Tennis",
       "Skates",
       "Volleyball"
     ],
-    "info": "\n    <h3>Thiram Sports Academy</h3>\n    <strong>Ratings:</strong> 4.67 [24]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Padel, Skates, Volleyball<br/>\n    <strong>Phone:</strong> 8925462223<br/>\n    <a href=\"https://z34v4.app.goo.gl/VUhQ\" target=\"_blank\">https://z34v4.app.goo.gl/VUhQ</a><br/>\n    "
+    "info": "\n    <h3>Thiram Sports Academy</h3>\n    <strong>Ratings:</strong> 4.67 [24]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Paddle Tennis, Skates, Volleyball<br/>\n    <strong>Phone:</strong> 8925462223<br/>\n    <a href=\"https://z34v4.app.goo.gl/VUhQ\" target=\"_blank\">https://z34v4.app.goo.gl/VUhQ</a><br/>\n    "
   },
   {
     "name": "Thomas Sports View",
@@ -12704,11 +12702,9 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Box Cricket",
-      "Cricket Nets",
-      "Football"
+      "Cricket Nets"
     ],
-    "info": "\n    <h3>Vijay Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7550040555<br/>\n    <a href=\"https://z34v4.app.goo.gl/CgF1\" target=\"_blank\">https://z34v4.app.goo.gl/CgF1</a><br/>\n    "
+    "info": "\n    <h3>Vijay Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 7550040555<br/>\n    <a href=\"https://z34v4.app.goo.gl/CgF1\" target=\"_blank\">https://z34v4.app.goo.gl/CgF1</a><br/>\n    "
   },
   {
     "avgRating": 2,
