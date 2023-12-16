@@ -7280,15 +7280,15 @@
     "rating": 4,
     "deferLink": "https://playo.page.link/jQPos",
     "fullLink": "https://playo.co/venue/?venueId=d6b94b1f-2cc4-44e2-8640-449508625d21",
-    "avgRating": 4.8,
-    "ratingCount": 5,
+    "avgRating": 4.5,
+    "ratingCount": 6,
     "lat": 12.9528995,
     "lng": 80.2087373,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Netfliq Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397 220 004<br/>\n    <a href=\"https://playo.page.link/jQPos\" target=\"_blank\">https://playo.page.link/jQPos</a><br/>\n    "
+    "info": "\n    <h3>Netfliq Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397 220 004<br/>\n    <a href=\"https://playo.page.link/jQPos\" target=\"_blank\">https://playo.page.link/jQPos</a><br/>\n    "
   },
   {
     "name": "Netz Cricket",
@@ -7708,6 +7708,22 @@
       "Table Tennis"
     ],
     "info": "\n    <h3>Peak Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 97899 40047<br/>\n    <a href=\"https://playo.page.link/r4fhU\" target=\"_blank\">https://playo.page.link/r4fhU</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Pedalbee Sports Club",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=9677d088-1449-4bfb-b6e9-bd02129ab19a",
+    "deferLink": "https://z34v4.app.goo.gl/KNcj",
+    "lat": 13.101010867491581,
+    "lng": 80.17031821534464,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Pedalbee Sports Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8078453248<br/>\n    <a href=\"https://z34v4.app.goo.gl/KNcj\" target=\"_blank\">https://z34v4.app.goo.gl/KNcj</a><br/>\n    "
   },
   {
     "avgRating": 3,
@@ -9573,7 +9589,7 @@
   {
     "avgRating": 5,
     "name": "Shot Multisport Academy",
-    "ratingCount": 8,
+    "ratingCount": 9,
     "fullLink": "https://playo.co/venue?venueId=de98782b-2bf0-43ec-8ff5-c1efd878ffac",
     "deferLink": "https://z34v4.app.goo.gl/vp25",
     "lat": 12.947298407010837,
@@ -9586,7 +9602,7 @@
       "Indoor Cricket",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Shot Multisport Academy</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Indoor Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 9092935102<br/>\n    <a href=\"https://z34v4.app.goo.gl/vp25\" target=\"_blank\">https://z34v4.app.goo.gl/vp25</a><br/>\n    "
+    "info": "\n    <h3>Shot Multisport Academy</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Indoor Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 9092935102<br/>\n    <a href=\"https://z34v4.app.goo.gl/vp25\" target=\"_blank\">https://z34v4.app.goo.gl/vp25</a><br/>\n    "
   },
   {
     "ratingCount": 8,
