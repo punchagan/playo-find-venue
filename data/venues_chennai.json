@@ -1594,19 +1594,19 @@
   },
   {
     "name": "Besant Nagar Tennis Club",
-    "rating": 1,
+    "rating": 3,
     "deferLink": "https://playo.page.link/VqzNU",
     "fullLink": "https://playo.co/venue/?venueId=0c13d271-35cb-455d-9d21-a214035b0f48",
-    "avgRating": 1,
-    "ratingCount": 1,
+    "avgRating": 3,
+    "ratingCount": 2,
     "lat": 13.0013243,
     "lng": 80.2677621,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton",
       "Tennis"
     ],
-    "info": "\n    <h3>Besant Nagar Tennis Club</h3>\n    <strong>Ratings:</strong> 1 [1]<br/>\n    <strong>Sports:</strong> Badminton, Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/VqzNU\" target=\"_blank\">https://playo.page.link/VqzNU</a><br/>\n    "
+    "info": "\n    <h3>Besant Nagar Tennis Club</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Badminton, Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/VqzNU\" target=\"_blank\">https://playo.page.link/VqzNU</a><br/>\n    "
   },
   {
     "name": "Bethesda Swimming Pool",
@@ -6598,21 +6598,6 @@
   {
     "name": "MRF Pachaiyappa",
     "rating": 0,
-    "deferLink": "https://playo.page.link/DzNJ3",
-    "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 13.0720289,
-    "lng": 80.2324485,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
-  },
-  {
-    "name": "MRF Pachaiyappa",
-    "rating": 0,
     "deferLink": "https://playo.page.link/62e98",
     "fullLink": "https://playo.co/venue/?venueId=1dd3c7a5-8a1d-4702-9209-2e67970c02a0",
     "avgRating": 0,
@@ -6624,6 +6609,21 @@
       "Cricket"
     ],
     "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/62e98\" target=\"_blank\">https://playo.page.link/62e98</a><br/>\n    "
+  },
+  {
+    "name": "MRF Pachaiyappa",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/DzNJ3",
+    "fullLink": "https://playo.co/venue/?venueId=62478e0e-84a3-4dc5-8505-57f4b9bdd062",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "lat": 13.0720289,
+    "lng": 80.2324485,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>MRF Pachaiyappa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 91765 35384<br/>\n    <a href=\"https://playo.page.link/DzNJ3\" target=\"_blank\">https://playo.page.link/DzNJ3</a><br/>\n    "
   },
   {
     "name": "MSR Sports Academy",
@@ -8713,19 +8713,19 @@
     "info": "\n    <h3>Royal Swimming Pool</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 94449 97202<br/>\n    <a href=\"https://playo.page.link/QMa7m\" target=\"_blank\">https://playo.page.link/QMa7m</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4.5,
     "name": "Ruckus Herkley",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=8c0d02c8-82a7-4f2d-a695-cf9b2739dd9b",
     "deferLink": "https://z34v4.app.goo.gl/9Zpv",
     "lat": 13.02514081946683,
     "lng": 80.20417467671001,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Ruckus Herkley</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9444390988<br/>\n    <a href=\"https://z34v4.app.goo.gl/9Zpv\" target=\"_blank\">https://z34v4.app.goo.gl/9Zpv</a><br/>\n    "
+    "info": "\n    <h3>Ruckus Herkley</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9444390988<br/>\n    <a href=\"https://z34v4.app.goo.gl/9Zpv\" target=\"_blank\">https://z34v4.app.goo.gl/9Zpv</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
@@ -9115,14 +9115,14 @@
     "deferLink": "https://playo.page.link/rBQZX",
     "fullLink": "https://playo.co/venue/?venueId=51d3888f-6cc4-470b-bd4d-6567a0bb023a",
     "avgRating": 5,
-    "ratingCount": 1,
+    "ratingCount": 2,
     "lat": 13.0404014,
     "lng": 80.1400572,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Cricket"
     ],
-    "info": "\n    <h3>SRMC Cricket ground</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/rBQZX\" target=\"_blank\">https://playo.page.link/rBQZX</a><br/>\n    "
+    "info": "\n    <h3>SRMC Cricket ground</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/rBQZX\" target=\"_blank\">https://playo.page.link/rBQZX</a><br/>\n    "
   },
   {
     "name": "SS International Swimming Pool",
@@ -12705,19 +12705,19 @@
     "info": "\n    <h3>Vidyodaya School Basketball Courts</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/jsbuP\" target=\"_blank\">https://playo.page.link/jsbuP</a><br/>\n    "
   },
   {
-    "avgRating": 4.4,
+    "avgRating": 3.83,
     "name": "Vihaan Badminton Academy (VBA)",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=214cc0da-7d26-47a1-bd7e-f7ff2bfa18ed",
     "deferLink": "https://z34v4.app.goo.gl/zMXD",
     "lat": 12.9509733,
     "lng": 80.1343374,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Vihaan Badminton Academy (VBA)</h3>\n    <strong>Ratings:</strong> 4.4 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9962176556<br/>\n    <a href=\"https://z34v4.app.goo.gl/zMXD\" target=\"_blank\">https://z34v4.app.goo.gl/zMXD</a><br/>\n    "
+    "info": "\n    <h3>Vihaan Badminton Academy (VBA)</h3>\n    <strong>Ratings:</strong> 3.83 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9962176556<br/>\n    <a href=\"https://z34v4.app.goo.gl/zMXD\" target=\"_blank\">https://z34v4.app.goo.gl/zMXD</a><br/>\n    "
   },
   {
     "name": "Vijay Park Inn Swimming Pool",
@@ -13431,9 +13431,9 @@
     "info": "\n    <h3>Zen Golf Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Golf<br/>\n    <strong>Phone:</strong> 98849 13686<br/>\n    <a href=\"https://playo.page.link/AqtLP\" target=\"_blank\">https://playo.page.link/AqtLP</a><br/>\n    "
   },
   {
-    "avgRating": 4.45,
+    "avgRating": 4.54,
     "name": "Zestien Feathers Badminton Academy",
-    "ratingCount": 11,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=d4004e35-e9fc-4da7-bb58-1b92bb247fb0",
     "deferLink": "https://z34v4.app.goo.gl/nGs4",
     "lat": 12.985983897446987,
@@ -13443,7 +13443,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Zestien Feathers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.45 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7708557855<br/>\n    <a href=\"https://z34v4.app.goo.gl/nGs4\" target=\"_blank\">https://z34v4.app.goo.gl/nGs4</a><br/>\n    "
+    "info": "\n    <h3>Zestien Feathers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.54 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7708557855<br/>\n    <a href=\"https://z34v4.app.goo.gl/nGs4\" target=\"_blank\">https://z34v4.app.goo.gl/nGs4</a><br/>\n    "
   },
   {
     "name": "Zone By The Park Chennai",
