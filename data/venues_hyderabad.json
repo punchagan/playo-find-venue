@@ -3227,7 +3227,7 @@
   {
     "avgRating": 5,
     "name": "Dhoni Box Cricket",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=13c047f2-2218-4ac1-87d8-44d081e0ec9a",
     "deferLink": "https://z34v4.app.goo.gl/BABF",
     "lat": 17.42817646727311,
@@ -3237,7 +3237,7 @@
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Dhoni Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9542979899<br/>\n    <a href=\"https://z34v4.app.goo.gl/BABF\" target=\"_blank\">https://z34v4.app.goo.gl/BABF</a><br/>\n    "
+    "info": "\n    <h3>Dhoni Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9542979899<br/>\n    <a href=\"https://z34v4.app.goo.gl/BABF\" target=\"_blank\">https://z34v4.app.goo.gl/BABF</a><br/>\n    "
   },
   {
     "ratingCount": 6,
@@ -3696,7 +3696,7 @@
   {
     "avgRating": 4.47,
     "name": "Elite Sports Hub",
-    "ratingCount": 473,
+    "ratingCount": 474,
     "deferLink": "https://z34v4.app.goo.gl/gWYv",
     "fullLink": "https://playo.co/venue/?venueId=62ec6f76-8099-484e-8256-9bb8d38acb1e",
     "lat": 17.508307,
@@ -3707,7 +3707,7 @@
       "Badminton",
       "Cricket Nets"
     ],
-    "info": "\n    <h3>Elite Sports Hub</h3>\n    <strong>Ratings:</strong> 4.47 [473]<br/>\n    <strong>Sports:</strong> Badminton, Cricket Nets<br/>\n    <strong>Phone:</strong> 7995898989<br/>\n    <a href=\"https://z34v4.app.goo.gl/gWYv\" target=\"_blank\">https://z34v4.app.goo.gl/gWYv</a><br/>\n    "
+    "info": "\n    <h3>Elite Sports Hub</h3>\n    <strong>Ratings:</strong> 4.47 [474]<br/>\n    <strong>Sports:</strong> Badminton, Cricket Nets<br/>\n    <strong>Phone:</strong> 7995898989<br/>\n    <a href=\"https://z34v4.app.goo.gl/gWYv\" target=\"_blank\">https://z34v4.app.goo.gl/gWYv</a><br/>\n    "
   },
   {
     "name": "Emerald Scape Swimming Pool",
@@ -5418,8 +5418,8 @@
     "info": "\n    <h3>Hamsa Cricket Ground</h3>\n    <strong>Ratings:</strong> 3.57 [7]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 8885553380<br/>\n    <a href=\"https://z34v4.app.goo.gl/pUmN\" target=\"_blank\">https://z34v4.app.goo.gl/pUmN</a><br/>\n    "
   },
   {
-    "ratingCount": 28,
-    "avgRating": 4.46,
+    "ratingCount": 29,
+    "avgRating": 4.48,
     "name": "Happening 97",
     "fullLink": "https://playo.co/venue?venueId=ce33416e-04ec-4081-8d50-1ea2fc0dc9fc",
     "deferLink": "https://z34v4.app.goo.gl/FE5y",
@@ -5430,7 +5430,7 @@
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Happening 97</h3>\n    <strong>Ratings:</strong> 4.46 [28]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9704589797<br/>\n    <a href=\"https://z34v4.app.goo.gl/FE5y\" target=\"_blank\">https://z34v4.app.goo.gl/FE5y</a><br/>\n    "
+    "info": "\n    <h3>Happening 97</h3>\n    <strong>Ratings:</strong> 4.48 [29]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9704589797<br/>\n    <a href=\"https://z34v4.app.goo.gl/FE5y\" target=\"_blank\">https://z34v4.app.goo.gl/FE5y</a><br/>\n    "
   },
   {
     "ratingCount": 1,
@@ -5567,6 +5567,21 @@
       "Cricket Nets"
     ],
     "info": "\n    <h3>Hitman Cricket Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9849306203<br/>\n    <a href=\"https://z34v4.app.goo.gl/a8fx\" target=\"_blank\">https://z34v4.app.goo.gl/a8fx</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Hitzone Indoor Cricket Nets",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=1a7efc2b-1e70-4f0c-ae21-983693ee789f",
+    "deferLink": "https://z34v4.app.goo.gl/bHwa",
+    "lat": 17.486470957478346,
+    "lng": 78.38173139962632,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Bowling Machine"
+    ],
+    "info": "\n    <h3>Hitzone Indoor Cricket Nets</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Bowling Machine<br/>\n    <strong>Phone:</strong> 7416488740<br/>\n    <a href=\"https://z34v4.app.goo.gl/bHwa\" target=\"_blank\">https://z34v4.app.goo.gl/bHwa</a><br/>\n    "
   },
   {
     "ratingCount": 75,
@@ -8292,8 +8307,8 @@
     "info": "\n    <h3>Nex Arena @ Kachiguda</h3>\n    <strong>Ratings:</strong> 4.43 [7]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7799263119<br/>\n    <a href=\"https://z34v4.app.goo.gl/zK7f\" target=\"_blank\">https://z34v4.app.goo.gl/zK7f</a><br/>\n    "
   },
   {
-    "ratingCount": 17,
-    "avgRating": 3.59,
+    "ratingCount": 18,
+    "avgRating": 3.67,
     "name": "Nex Arena @ Shaikpet",
     "fullLink": "https://playo.co/venue?venueId=1728673f-02b8-4aa5-91bf-03be095b0be8",
     "deferLink": "https://z34v4.app.goo.gl/eF4d",
@@ -8305,7 +8320,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Nex Arena @ Shaikpet</h3>\n    <strong>Ratings:</strong> 3.59 [17]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100850770<br/>\n    <a href=\"https://z34v4.app.goo.gl/eF4d\" target=\"_blank\">https://z34v4.app.goo.gl/eF4d</a><br/>\n    "
+    "info": "\n    <h3>Nex Arena @ Shaikpet</h3>\n    <strong>Ratings:</strong> 3.67 [18]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100850770<br/>\n    <a href=\"https://z34v4.app.goo.gl/eF4d\" target=\"_blank\">https://z34v4.app.goo.gl/eF4d</a><br/>\n    "
   },
   {
     "ratingCount": 7,
@@ -13367,21 +13382,6 @@
       "Tennis"
     ],
     "info": "\n    <h3>Tennis Courts</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/2MQ33\" target=\"_blank\">https://playo.page.link/2MQ33</a><br/>\n    "
-  },
-  {
-    "name": "Tennis Courts",
-    "rating": 0,
-    "deferLink": "https://playo.page.link/xLqJe",
-    "fullLink": "https://playo.co/venue/?venueId=fb14216f-a695-4c54-92af-96c1d1788e17",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 17.4495427,
-    "lng": 78.6372932,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Tennis"
-    ],
-    "info": "\n    <h3>Tennis Courts</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/xLqJe\" target=\"_blank\">https://playo.page.link/xLqJe</a><br/>\n    "
   },
   {
     "name": "Tennis Courts03",
