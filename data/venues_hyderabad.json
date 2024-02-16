@@ -158,7 +158,7 @@
   {
     "avgRating": 4.08,
     "name": "A-zone Sports",
-    "ratingCount": 217,
+    "ratingCount": 218,
     "deferLink": "https://z34v4.app.goo.gl/SP3w",
     "fullLink": "https://playo.co/venue/?venueId=f1a6fbb6-8441-404a-a49a-95119979cc37",
     "lat": 17.474139925727787,
@@ -168,7 +168,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>A-zone Sports</h3>\n    <strong>Ratings:</strong> 4.08 [217]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9133755567<br/>\n    <a href=\"https://z34v4.app.goo.gl/SP3w\" target=\"_blank\">https://z34v4.app.goo.gl/SP3w</a><br/>\n    "
+    "info": "\n    <h3>A-zone Sports</h3>\n    <strong>Ratings:</strong> 4.08 [218]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9133755567<br/>\n    <a href=\"https://z34v4.app.goo.gl/SP3w\" target=\"_blank\">https://z34v4.app.goo.gl/SP3w</a><br/>\n    "
   },
   {
     "name": "ABBAS UNION FOOTBALL CLUB",
@@ -2576,20 +2576,20 @@
     "info": "\n    <h3>City Cricket Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 98857 44903<br/>\n    <a href=\"https://playo.page.link/2gHwh\" target=\"_blank\">https://playo.page.link/2gHwh</a><br/>\n    "
   },
   {
-    "ratingCount": 3,
-    "avgRating": 5,
+    "ratingCount": 4,
+    "avgRating": 4,
     "name": "Cloud9 Box Cricket",
     "fullLink": "https://playo.co/venue?venueId=d0606bd5-9bcd-42fc-979e-e338eda3c285",
     "deferLink": "https://z34v4.app.goo.gl/N3op",
     "lat": 17.35902254192651,
     "lng": 78.41672857745607,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Cloud9 Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8686805313<br/>\n    <a href=\"https://z34v4.app.goo.gl/N3op\" target=\"_blank\">https://z34v4.app.goo.gl/N3op</a><br/>\n    "
+    "info": "\n    <h3>Cloud9 Box Cricket</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8686805313<br/>\n    <a href=\"https://z34v4.app.goo.gl/N3op\" target=\"_blank\">https://z34v4.app.goo.gl/N3op</a><br/>\n    "
   },
   {
     "name": "Club Jayabheri",
@@ -2666,21 +2666,6 @@
       "Cricket"
     ],
     "info": "\n    <h3>Countdown Sports Cricket Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 8790543411<br/>\n    <a href=\"https://z34v4.app.goo.gl/rJGE\" target=\"_blank\">https://z34v4.app.goo.gl/rJGE</a><br/>\n    "
-  },
-  {
-    "name": "Country Oven Cricket Ground",
-    "rating": 0,
-    "deferLink": "https://playo.page.link/pwTCT",
-    "fullLink": "https://playo.co/venue/?venueId=c5dad8cc-75b5-4099-8e93-2e2d17150dce",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 17.3257878,
-    "lng": 78.326608,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Cricket"
-    ],
-    "info": "\n    <h3>Country Oven Cricket Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 96520 74444<br/>\n    <a href=\"https://playo.page.link/pwTCT\" target=\"_blank\">https://playo.page.link/pwTCT</a><br/>\n    "
   },
   {
     "ratingCount": 4,
@@ -5956,6 +5941,23 @@
       "Cricket Nets"
     ],
     "info": "\n    <h3>Insport Cricket Academy</h3>\n    <strong>Ratings:</strong> 4 [3]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9703366344<br/>\n    <a href=\"https://z34v4.app.goo.gl/WZhf\" target=\"_blank\">https://z34v4.app.goo.gl/WZhf</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Ira Sports Hub",
+    "ratingCount": 4,
+    "fullLink": "https://playo.co/venue?venueId=7f7ae818-d721-4ce3-a51e-d8ccd5fe24e7",
+    "deferLink": "https://z34v4.app.goo.gl/5pUh",
+    "lat": 17.389673783615297,
+    "lng": 78.3778936650981,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Ira Sports Hub</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8143693884<br/>\n    <a href=\"https://z34v4.app.goo.gl/5pUh\" target=\"_blank\">https://z34v4.app.goo.gl/5pUh</a><br/>\n    "
   },
   {
     "ratingCount": 19,
@@ -14522,8 +14524,8 @@
     "info": "\n    <h3>Venu and Murthy Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.67 [101]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 7993940189<br/>\n    <a href=\"https://z34v4.app.goo.gl/zLCK\" target=\"_blank\">https://z34v4.app.goo.gl/zLCK</a><br/>\n    "
   },
   {
-    "ratingCount": 38,
-    "avgRating": 3.42,
+    "ratingCount": 39,
+    "avgRating": 3.36,
     "name": "Venu's Match Point",
     "fullLink": "https://playo.co/venue?venueId=74e1df9e-0ebf-4297-83db-4e3c848d8bf0",
     "deferLink": "https://z34v4.app.goo.gl/77k1",
@@ -14534,7 +14536,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Venu's Match Point</h3>\n    <strong>Ratings:</strong> 3.42 [38]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9550573513<br/>\n    <a href=\"https://z34v4.app.goo.gl/77k1\" target=\"_blank\">https://z34v4.app.goo.gl/77k1</a><br/>\n    "
+    "info": "\n    <h3>Venu's Match Point</h3>\n    <strong>Ratings:</strong> 3.36 [39]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9550573513<br/>\n    <a href=\"https://z34v4.app.goo.gl/77k1\" target=\"_blank\">https://z34v4.app.goo.gl/77k1</a><br/>\n    "
   },
   {
     "name": "Venus Vihar Tennis Court",
