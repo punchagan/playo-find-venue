@@ -5375,7 +5375,7 @@
   {
     "avgRating": 5,
     "name": "JR King's Turf",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=2ddc014b-5121-4015-ac04-327011ba7ac4",
     "deferLink": "https://z34v4.app.goo.gl/vDpB",
     "lat": 13.104666110065361,
@@ -5385,7 +5385,7 @@
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>JR King's Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9985685600<br/>\n    <a href=\"https://z34v4.app.goo.gl/vDpB\" target=\"_blank\">https://z34v4.app.goo.gl/vDpB</a><br/>\n    "
+    "info": "\n    <h3>JR King's Turf</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9985685600<br/>\n    <a href=\"https://z34v4.app.goo.gl/vDpB\" target=\"_blank\">https://z34v4.app.goo.gl/vDpB</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
@@ -10123,21 +10123,6 @@
       "Table Tennis"
     ],
     "info": "\n    <h3>Smashbounce Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.33 [6]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/hpwG\" target=\"_blank\">https://z34v4.app.goo.gl/hpwG</a><br/>\n    "
-  },
-  {
-    "ratingCount": 6,
-    "avgRating": 5,
-    "name": "Smasher",
-    "fullLink": "https://playo.co/venue?venueId=a117f22b-2b7c-4a37-bd45-4ba1df0e9718",
-    "deferLink": "https://z34v4.app.goo.gl/hAjR",
-    "lat": 13.123553103323768,
-    "lng": 80.24165265707951,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Smasher</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9514320766<br/>\n    <a href=\"https://z34v4.app.goo.gl/hAjR\" target=\"_blank\">https://z34v4.app.goo.gl/hAjR</a><br/>\n    "
   },
   {
     "ratingCount": 18,
