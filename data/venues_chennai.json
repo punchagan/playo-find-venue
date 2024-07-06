@@ -6379,15 +6379,15 @@
     "rating": 4,
     "deferLink": "https://playo.page.link/GrPv2",
     "fullLink": "https://playo.co/venue/?venueId=dfa94472-804d-4086-85f4-50a5fa4dd1ec",
-    "avgRating": 4.75,
-    "ratingCount": 4,
+    "avgRating": 4.8,
+    "ratingCount": 5,
     "lat": 13.0688773,
     "lng": 80.2168128,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Kubera Sports Academy Indoor Badminton Court</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 98405 80930<br/>\n    <a href=\"https://playo.page.link/GrPv2\" target=\"_blank\">https://playo.page.link/GrPv2</a><br/>\n    "
+    "info": "\n    <h3>Kubera Sports Academy Indoor Badminton Court</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 98405 80930<br/>\n    <a href=\"https://playo.page.link/GrPv2\" target=\"_blank\">https://playo.page.link/GrPv2</a><br/>\n    "
   },
   {
     "name": "Kvig Basketball Court",
@@ -7024,9 +7024,9 @@
     "info": "\n    <h3>MSR Sports Academy</h3>\n    <strong>Ratings:</strong> 4.92 [12]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9790999074<br/>\n    <a href=\"https://z34v4.app.goo.gl/RRWr\" target=\"_blank\">https://z34v4.app.goo.gl/RRWr</a><br/>\n    "
   },
   {
-    "avgRating": 4.46,
+    "avgRating": 4.31,
     "name": "MSquare",
-    "ratingCount": 46,
+    "ratingCount": 48,
     "fullLink": "https://playo.co/venue?venueId=0a95c154-cd9a-4d6b-a1c2-fa80ed99a301",
     "deferLink": "https://z34v4.app.goo.gl/69rY",
     "lat": 13.049932615889682,
@@ -7037,7 +7037,7 @@
       "Badminton",
       "Squash"
     ],
-    "info": "\n    <h3>MSquare</h3>\n    <strong>Ratings:</strong> 4.46 [46]<br/>\n    <strong>Sports:</strong> Badminton, Squash<br/>\n    <strong>Phone:</strong> 7299966969<br/>\n    <a href=\"https://z34v4.app.goo.gl/69rY\" target=\"_blank\">https://z34v4.app.goo.gl/69rY</a><br/>\n    "
+    "info": "\n    <h3>MSquare</h3>\n    <strong>Ratings:</strong> 4.31 [48]<br/>\n    <strong>Sports:</strong> Badminton, Squash<br/>\n    <strong>Phone:</strong> 7299966969<br/>\n    <a href=\"https://z34v4.app.goo.gl/69rY\" target=\"_blank\">https://z34v4.app.goo.gl/69rY</a><br/>\n    "
   },
   {
     "ratingCount": 6,
@@ -8575,6 +8575,21 @@
       "Tennis"
     ],
     "info": "\n    <h3>Pro Tennis Initiative</h3>\n    <strong>Ratings:</strong> 1 [1]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 99526 57412<br/>\n    <a href=\"https://playo.page.link/729AB\" target=\"_blank\">https://playo.page.link/729AB</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Purple Shuttlerz Badminton Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=37597ccb-2522-416b-a21a-8db4f113ee6d",
+    "deferLink": "https://z34v4.app.goo.gl/Ev5k",
+    "lat": 13.130526308737235,
+    "lng": 80.18634161790614,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Purple Shuttlerz Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8015444455<br/>\n    <a href=\"https://z34v4.app.goo.gl/Ev5k\" target=\"_blank\">https://z34v4.app.goo.gl/Ev5k</a><br/>\n    "
   },
   {
     "name": "Puzhudivakkam Lake",
