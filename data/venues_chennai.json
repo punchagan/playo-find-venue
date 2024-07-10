@@ -2485,6 +2485,22 @@
     "info": "\n    <h3>Chennai Sports Centre</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 99621 09522<br/>\n    <a href=\"https://playo.page.link/fp4j6\" target=\"_blank\">https://playo.page.link/fp4j6</a><br/>\n    "
   },
   {
+    "name": "Chennai Sports Centre",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/fp4j6",
+    "fullLink": "https://playo.co/venue/?venueId=1f34e2f5-0cef-44d1-8414-d88256f10710",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "lat": 13.0069297,
+    "lng": 80.1133645,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Swimming"
+    ],
+    "info": "\n    <h3>Chennai Sports Centre</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 99621 09522<br/>\n    <a href=\"https://playo.page.link/fp4j6\" target=\"_blank\">https://playo.page.link/fp4j6</a><br/>\n    "
+  },
+  {
     "name": "Chennai Squash Academy",
     "rating": 3,
     "deferLink": "https://playo.page.link/GmyHa",
@@ -5993,6 +6009,22 @@
     "info": "\n    <h3>K2 Sports & Fitness</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9790169883<br/>\n    <a href=\"https://z34v4.app.goo.gl/iT4a\" target=\"_blank\">https://z34v4.app.goo.gl/iT4a</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "KAS Sports Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=f3422be0-55a9-44bb-af7c-bd76f3f9fb54",
+    "deferLink": "https://z34v4.app.goo.gl/mqeH",
+    "lat": 13.048967412773179,
+    "lng": 80.11537852269095,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>KAS Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8667000752<br/>\n    <a href=\"https://z34v4.app.goo.gl/mqeH\" target=\"_blank\">https://z34v4.app.goo.gl/mqeH</a><br/>\n    "
+  },
+  {
     "name": "KCG volleyball court -1",
     "rating": 5,
     "deferLink": "https://playo.page.link/oRvjv",
@@ -8502,21 +8534,6 @@
     "info": "\n    <h3>Prestige Bella Vista Tower 7 Swimming Pool</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/zmBGz\" target=\"_blank\">https://playo.page.link/zmBGz</a><br/>\n    "
   },
   {
-    "name": "Prestige Bella Vista Tower 7 Swimming Pool",
-    "rating": 0,
-    "deferLink": "https://playo.page.link/zmBGz",
-    "fullLink": "https://playo.co/venue/?venueId=62d0cf7f-ee4c-47ce-988a-6216793b6e65",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 13.0423654,
-    "lng": 80.1304233,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Swimming"
-    ],
-    "info": "\n    <h3>Prestige Bella Vista Tower 7 Swimming Pool</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/zmBGz\" target=\"_blank\">https://playo.page.link/zmBGz</a><br/>\n    "
-  },
-  {
     "name": "Prestige Tennis Academy",
     "rating": 0,
     "deferLink": "https://playo.page.link/ayHkL",
@@ -10382,8 +10399,8 @@
     "name": "SkyArc Badminton Academy - Kolathur",
     "fullLink": "https://playo.co/venue?venueId=ef3434c8-2e08-406a-982a-4d5ad7c9fe5d",
     "deferLink": "https://z34v4.app.goo.gl/wQNe",
-    "lat": 13.126821037118393,
-    "lng": 80.2052912663905,
+    "lat": 13.137657488590188,
+    "lng": 80.243177209792,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
