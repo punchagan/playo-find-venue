@@ -854,7 +854,7 @@
   {
     "avgRating": 5,
     "name": "Ark Sports Academy",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "fullLink": "https://playo.co/venue?venueId=f89cefc2-635f-487a-9b68-df59a6acbdcc",
     "deferLink": "https://z34v4.app.goo.gl/Zshw",
     "lat": 13.0323829,
@@ -868,7 +868,7 @@
       "Football",
       "Tennis"
     ],
-    "info": "\n    <h3>Ark Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Cricket Nets, Football, Tennis<br/>\n    <strong>Phone:</strong> 9962921222<br/>\n    <a href=\"https://z34v4.app.goo.gl/Zshw\" target=\"_blank\">https://z34v4.app.goo.gl/Zshw</a><br/>\n    "
+    "info": "\n    <h3>Ark Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Cricket Nets, Football, Tennis<br/>\n    <strong>Phone:</strong> 9962921222<br/>\n    <a href=\"https://z34v4.app.goo.gl/Zshw\" target=\"_blank\">https://z34v4.app.goo.gl/Zshw</a><br/>\n    "
   },
   {
     "name": "Army Palmgrove Golf Course",
@@ -2763,6 +2763,21 @@
     "info": "\n    <h3>Cosmopolitan Club Swimming Pool</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/k1Wy5\" target=\"_blank\">https://playo.page.link/k1Wy5</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Cricket 360 Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=dedef03f-44e8-4260-b116-6f0f99b486f9",
+    "deferLink": "https://z34v4.app.goo.gl/JXP2",
+    "lat": 12.9364768,
+    "lng": 80.1940648,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>Cricket 360 Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 8870100785<br/>\n    <a href=\"https://z34v4.app.goo.gl/JXP2\" target=\"_blank\">https://z34v4.app.goo.gl/JXP2</a><br/>\n    "
+  },
+  {
     "name": "Cricket Court",
     "rating": 0,
     "deferLink": "https://playo.page.link/TrNRU",
@@ -3706,6 +3721,22 @@
       "Football"
     ],
     "info": "\n    <h3>FASHION ISLAND</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 44 2849 5500<br/>\n    <a href=\"https://playo.page.link/NtiuW\" target=\"_blank\">https://playo.page.link/NtiuW</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "FC Meena Turf",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=b47cd143-c9eb-48b1-914f-ecebc8828f6f",
+    "deferLink": "https://z34v4.app.goo.gl/6yoC",
+    "lat": 12.9535,
+    "lng": 80.1995556,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>FC Meena Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7338866628<br/>\n    <a href=\"https://z34v4.app.goo.gl/6yoC\" target=\"_blank\">https://z34v4.app.goo.gl/6yoC</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
@@ -9276,7 +9307,7 @@
   {
     "avgRating": 5,
     "name": "S2 Badminton Academy",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "fullLink": "https://playo.co/venue?venueId=14cf6208-be57-4eea-89bb-ab6eaa790a5e",
     "deferLink": "https://z34v4.app.goo.gl/YXsM",
     "lat": 13.0559312,
@@ -9286,7 +9317,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>S2 Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8122115588<br/>\n    <a href=\"https://z34v4.app.goo.gl/YXsM\" target=\"_blank\">https://z34v4.app.goo.gl/YXsM</a><br/>\n    "
+    "info": "\n    <h3>S2 Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8122115588<br/>\n    <a href=\"https://z34v4.app.goo.gl/YXsM\" target=\"_blank\">https://z34v4.app.goo.gl/YXsM</a><br/>\n    "
   },
   {
     "name": "SA Basketball Court",
