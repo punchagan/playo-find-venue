@@ -2063,8 +2063,8 @@
     "info": "\n    <h3>CIT-Volleyball Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Volleyball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/D4MC1\" target=\"_blank\">https://playo.page.link/D4MC1</a><br/>\n    "
   },
   {
-    "ratingCount": 7,
-    "avgRating": 4.14,
+    "ratingCount": 8,
+    "avgRating": 4.25,
     "name": "CJ Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=2503a8e9-d9e2-4c2c-b047-a2fa652aeca7",
     "deferLink": "https://z34v4.app.goo.gl/DQND",
@@ -2075,7 +2075,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>CJ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.14 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9790851159<br/>\n    <a href=\"https://z34v4.app.goo.gl/DQND\" target=\"_blank\">https://z34v4.app.goo.gl/DQND</a><br/>\n    "
+    "info": "\n    <h3>CJ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.25 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9790851159<br/>\n    <a href=\"https://z34v4.app.goo.gl/DQND\" target=\"_blank\">https://z34v4.app.goo.gl/DQND</a><br/>\n    "
   },
   {
     "ratingCount": 9,
@@ -2545,22 +2545,6 @@
       "Table Tennis"
     ],
     "info": "\n    <h3>Chennai Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Table Tennis<br/>\n    <strong>Phone:</strong> 98842 03100<br/>\n    <a href=\"https://playo.page.link/ViSZu\" target=\"_blank\">https://playo.page.link/ViSZu</a><br/>\n    "
-  },
-  {
-    "name": "Chennai Sports Centre",
-    "rating": 0,
-    "deferLink": "https://playo.page.link/fp4j6",
-    "fullLink": "https://playo.co/venue/?venueId=1f34e2f5-0cef-44d1-8414-d88256f10710",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 13.0069297,
-    "lng": 80.1133645,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Swimming"
-    ],
-    "info": "\n    <h3>Chennai Sports Centre</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 99621 09522<br/>\n    <a href=\"https://playo.page.link/fp4j6\" target=\"_blank\">https://playo.page.link/fp4j6</a><br/>\n    "
   },
   {
     "name": "Chennai Sports Centre",
@@ -6816,6 +6800,21 @@
     "info": "\n    <h3>Let's Play Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8056296008<br/>\n    <a href=\"https://z34v4.app.goo.gl/PRXS\" target=\"_blank\">https://z34v4.app.goo.gl/PRXS</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Let's Play Sports Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=1f0e5fa0-87cb-44c5-a065-98ad23212da0",
+    "deferLink": "https://z34v4.app.goo.gl/PRXS",
+    "lat": 13.101588745202568,
+    "lng": 80.09258267791087,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Let's Play Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8056296008<br/>\n    <a href=\"https://z34v4.app.goo.gl/PRXS\" target=\"_blank\">https://z34v4.app.goo.gl/PRXS</a><br/>\n    "
+  },
+  {
     "name": "Liya Table Tennis Coaching Centre",
     "rating": 0,
     "deferLink": "https://playo.page.link/dmnUo",
@@ -7684,6 +7683,21 @@
     "info": "\n    <h3>Metro Badminton Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 99400 92369<br/>\n    <a href=\"https://playo.page.link/DQoTY\" target=\"_blank\">https://playo.page.link/DQoTY</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Mithraa Badminton Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=00c8a2af-ca1d-4f5a-81f1-dd377462d127",
+    "deferLink": "https://z34v4.app.goo.gl/6vcC",
+    "lat": 13.0533233,
+    "lng": 80.1054042,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Mithraa Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8281867505<br/>\n    <a href=\"https://z34v4.app.goo.gl/6vcC\" target=\"_blank\">https://z34v4.app.goo.gl/6vcC</a><br/>\n    "
+  },
+  {
     "ratingCount": 39,
     "avgRating": 4.85,
     "name": "Mithraa Sports Academy",
@@ -7747,7 +7761,7 @@
   {
     "avgRating": 5,
     "name": "Mojo Sports Centre",
-    "ratingCount": 1,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=697ba60d-059a-4ea4-b74a-4a1540f12ad9",
     "deferLink": "https://z34v4.app.goo.gl/bZdC",
     "lat": 12.935020908560494,
@@ -7757,7 +7771,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Mojo Sports Centre</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8124560696<br/>\n    <a href=\"https://z34v4.app.goo.gl/bZdC\" target=\"_blank\">https://z34v4.app.goo.gl/bZdC</a><br/>\n    "
+    "info": "\n    <h3>Mojo Sports Centre</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8124560696<br/>\n    <a href=\"https://z34v4.app.goo.gl/bZdC\" target=\"_blank\">https://z34v4.app.goo.gl/bZdC</a><br/>\n    "
   },
   {
     "ratingCount": 3,
@@ -9475,7 +9489,7 @@
   {
     "avgRating": 5,
     "name": "SAI Winner Indoor Stadium",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=b3391f89-4617-4af1-b1ca-126cfcef6e8e",
     "deferLink": "https://z34v4.app.goo.gl/kMPr",
     "lat": 13.139253726191352,
@@ -9485,7 +9499,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SAI Winner Indoor Stadium</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9884889569<br/>\n    <a href=\"https://z34v4.app.goo.gl/kMPr\" target=\"_blank\">https://z34v4.app.goo.gl/kMPr</a><br/>\n    "
+    "info": "\n    <h3>SAI Winner Indoor Stadium</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9884889569<br/>\n    <a href=\"https://z34v4.app.goo.gl/kMPr\" target=\"_blank\">https://z34v4.app.goo.gl/kMPr</a><br/>\n    "
   },
   {
     "name": "SBC Shuttle Club",
@@ -13160,15 +13174,15 @@
     "rating": 4,
     "deferLink": "https://playo.page.link/X7jUB",
     "fullLink": "https://playo.co/venue/?venueId=8436be10-c1cd-41cf-ada7-b28bbad00b05",
-    "avgRating": 4.44,
-    "ratingCount": 9,
+    "avgRating": 4.5,
+    "ratingCount": 10,
     "lat": 12.9362714,
     "lng": 80.2354157,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Tulip Badminton Court</h3>\n    <strong>Ratings:</strong> 4.44 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 73584 05670<br/>\n    <a href=\"https://playo.page.link/X7jUB\" target=\"_blank\">https://playo.page.link/X7jUB</a><br/>\n    "
+    "info": "\n    <h3>Tulip Badminton Court</h3>\n    <strong>Ratings:</strong> 4.5 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 73584 05670<br/>\n    <a href=\"https://playo.page.link/X7jUB\" target=\"_blank\">https://playo.page.link/X7jUB</a><br/>\n    "
   },
   {
     "avgRating": 4.15,
