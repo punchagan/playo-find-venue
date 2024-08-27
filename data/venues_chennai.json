@@ -99,7 +99,7 @@
   {
     "avgRating": 5,
     "name": "2D Badminton Academy",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=7dd90235-2c2f-43d1-b23a-5dbebb679248",
     "deferLink": "https://z34v4.app.goo.gl/jgYW",
     "lat": 12.830549575231593,
@@ -109,7 +109,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>2D Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9943563094<br/>\n    <a href=\"https://z34v4.app.goo.gl/jgYW\" target=\"_blank\">https://z34v4.app.goo.gl/jgYW</a><br/>\n    "
+    "info": "\n    <h3>2D Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9943563094<br/>\n    <a href=\"https://z34v4.app.goo.gl/jgYW\" target=\"_blank\">https://z34v4.app.goo.gl/jgYW</a><br/>\n    "
   },
   {
     "name": "360 Plus Club",
@@ -5662,6 +5662,21 @@
     "info": "\n    <h3>Indoor Squash Court (Private)</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Squash<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/5hNsg\" target=\"_blank\">https://playo.page.link/5hNsg</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Infinity Badminton Court",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=ac3327d8-2545-4262-b2c2-86e15cd3268b",
+    "deferLink": "https://z34v4.app.goo.gl/oK3K",
+    "lat": 13.165772052862874,
+    "lng": 80.09886949710192,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Infinity Badminton Court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9941234020<br/>\n    <a href=\"https://z34v4.app.goo.gl/oK3K\" target=\"_blank\">https://z34v4.app.goo.gl/oK3K</a><br/>\n    "
+  },
+  {
     "name": "Infosys MCity Volleyball Courts",
     "rating": 0,
     "deferLink": "https://playo.page.link/oZnK8",
@@ -8550,9 +8565,9 @@
     "info": "\n    <h3>Play-On Sports Centre</h3>\n    <strong>Ratings:</strong> 4.33 [18]<br/>\n    <strong>Sports:</strong> Badminton, Basketball<br/>\n    <strong>Phone:</strong> 9884722477<br/>\n    <a href=\"https://z34v4.app.goo.gl/fdSP\" target=\"_blank\">https://z34v4.app.goo.gl/fdSP</a><br/>\n    "
   },
   {
-    "avgRating": 4.85,
+    "avgRating": 4.86,
     "name": "PlayFit Badminton Academy - Pudupakkam",
-    "ratingCount": 13,
+    "ratingCount": 14,
     "fullLink": "https://playo.co/venue?venueId=2d2b85a8-1e8e-4760-b81d-8e391bdf2e6b",
     "deferLink": "https://z34v4.app.goo.gl/nCN8",
     "lat": 12.81379035137126,
@@ -8562,7 +8577,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>PlayFit Badminton Academy - Pudupakkam</h3>\n    <strong>Ratings:</strong> 4.85 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9344674016<br/>\n    <a href=\"https://z34v4.app.goo.gl/nCN8\" target=\"_blank\">https://z34v4.app.goo.gl/nCN8</a><br/>\n    "
+    "info": "\n    <h3>PlayFit Badminton Academy - Pudupakkam</h3>\n    <strong>Ratings:</strong> 4.86 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9344674016<br/>\n    <a href=\"https://z34v4.app.goo.gl/nCN8\" target=\"_blank\">https://z34v4.app.goo.gl/nCN8</a><br/>\n    "
   },
   {
     "avgRating": 5,
