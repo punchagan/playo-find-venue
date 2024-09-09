@@ -4411,21 +4411,6 @@
     "info": "\n    <h3>Friends Sports Academy</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/tsK1\" target=\"_blank\">https://z34v4.app.goo.gl/tsK1</a><br/>\n    "
   },
   {
-    "avgRating": 5,
-    "name": "Froliic Sports Club",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=2b898a2a-c2c0-43cb-911e-5f9f9cca3db6",
-    "deferLink": "https://z34v4.app.goo.gl/s3ZD",
-    "lat": 13.047236262716682,
-    "lng": 80.22460730846936,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Cricket Nets"
-    ],
-    "info": "\n    <h3>Froliic Sports Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 7305601530<br/>\n    <a href=\"https://z34v4.app.goo.gl/s3ZD\" target=\"_blank\">https://z34v4.app.goo.gl/s3ZD</a><br/>\n    "
-  },
-  {
     "name": "Fun & Bowling",
     "rating": 0,
     "deferLink": "https://playo.page.link/swHA9",
@@ -5048,19 +5033,21 @@
     "info": "\n    <h3>Haddows park badminton court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 63836 87803<br/>\n    <a href=\"https://playo.page.link/4eEqE\" target=\"_blank\">https://playo.page.link/4eEqE</a><br/>\n    "
   },
   {
-    "avgRating": 2,
-    "name": "Hawkeye Indoor Nets",
-    "ratingCount": 1,
-    "deferLink": "https://z34v4.app.goo.gl/XyUn",
-    "fullLink": "https://playo.co/venue/?venueId=2a94e515-37ce-4548-ae87-6ac98b5d22e2",
-    "lat": 13.132714,
-    "lng": 80.138087,
-    "rating": 2,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
+    "avgRating": 0,
+    "name": "Hawkeye Indoor Nets and Turf",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=a67887a5-9d11-46df-8703-cb93342af9ae",
+    "deferLink": "https://z34v4.app.goo.gl/SPkt",
+    "lat": 13.131013578829982,
+    "lng": 80.13423207432368,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Cricket Match"
+      "Box Cricket",
+      "Cricket Nets",
+      "Football"
     ],
-    "info": "\n    <h3>Hawkeye Indoor Nets</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Cricket Match<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/XyUn\" target=\"_blank\">https://z34v4.app.goo.gl/XyUn</a><br/>\n    "
+    "info": "\n    <h3>Hawkeye Indoor Nets and Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9080431011<br/>\n    <a href=\"https://z34v4.app.goo.gl/SPkt\" target=\"_blank\">https://z34v4.app.goo.gl/SPkt</a><br/>\n    "
   },
   {
     "name": "Herkley",
