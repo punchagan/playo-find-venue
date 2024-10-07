@@ -3911,7 +3911,7 @@
   {
     "avgRating": 5,
     "name": "FFBC Badminton Club",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=8915dcfd-6174-4b77-b9d6-8501f138899b",
     "deferLink": "https://z34v4.app.goo.gl/dBke",
     "lat": 13.031202448585189,
@@ -3921,7 +3921,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>FFBC Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7010868787<br/>\n    <a href=\"https://z34v4.app.goo.gl/dBke\" target=\"_blank\">https://z34v4.app.goo.gl/dBke</a><br/>\n    "
+    "info": "\n    <h3>FFBC Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7010868787<br/>\n    <a href=\"https://z34v4.app.goo.gl/dBke\" target=\"_blank\">https://z34v4.app.goo.gl/dBke</a><br/>\n    "
   },
   {
     "name": "FIP Friends",
@@ -5124,21 +5124,21 @@
     "info": "\n    <h3>Haddows park badminton court</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 63836 87803<br/>\n    <a href=\"https://playo.page.link/4eEqE\" target=\"_blank\">https://playo.page.link/4eEqE</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Hawkeye Indoor Nets and Turf",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=a67887a5-9d11-46df-8703-cb93342af9ae",
     "deferLink": "https://z34v4.app.goo.gl/SPkt",
     "lat": 13.131013578829982,
     "lng": 80.13423207432368,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Hawkeye Indoor Nets and Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9080431011<br/>\n    <a href=\"https://z34v4.app.goo.gl/SPkt\" target=\"_blank\">https://z34v4.app.goo.gl/SPkt</a><br/>\n    "
+    "info": "\n    <h3>Hawkeye Indoor Nets and Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9080431011<br/>\n    <a href=\"https://z34v4.app.goo.gl/SPkt\" target=\"_blank\">https://z34v4.app.goo.gl/SPkt</a><br/>\n    "
   },
   {
     "name": "Herkley",
@@ -6351,7 +6351,7 @@
     "info": "\n    <h3>KPL Sports Academy 2.0</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9025799867<br/>\n    <a href=\"https://z34v4.app.goo.gl/MGTE\" target=\"_blank\">https://z34v4.app.goo.gl/MGTE</a><br/>\n    "
   },
   {
-    "ratingCount": 24,
+    "ratingCount": 25,
     "avgRating": 4.88,
     "name": "KSB Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=b147ef05-d06c-469c-80f6-09870f46f376",
@@ -6363,7 +6363,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>KSB Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.88 [24]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8148342060<br/>\n    <a href=\"https://z34v4.app.goo.gl/yzzh\" target=\"_blank\">https://z34v4.app.goo.gl/yzzh</a><br/>\n    "
+    "info": "\n    <h3>KSB Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.88 [25]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8148342060<br/>\n    <a href=\"https://z34v4.app.goo.gl/yzzh\" target=\"_blank\">https://z34v4.app.goo.gl/yzzh</a><br/>\n    "
   },
   {
     "name": "KV CLRI basketball court",
@@ -11183,6 +11183,22 @@
     "info": "\n    <h3>Soccer Square</h3>\n    <strong>Ratings:</strong> 3.88 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9941162020<br/>\n    <a href=\"https://z34v4.app.goo.gl/hTUa\" target=\"_blank\">https://z34v4.app.goo.gl/hTUa</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Soccer Zone Football Turf",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=09f5de62-b2dc-4204-97e2-15f0cbf552d4",
+    "deferLink": "https://z34v4.app.goo.gl/1n1P",
+    "lat": 12.967943331798217,
+    "lng": 80.2155658134927,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Soccer Zone Football Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7358482234<br/>\n    <a href=\"https://z34v4.app.goo.gl/1n1P\" target=\"_blank\">https://z34v4.app.goo.gl/1n1P</a><br/>\n    "
+  },
+  {
     "name": "Somerset Greenways Chennai",
     "rating": 0,
     "deferLink": "https://playo.page.link/vuABL",
@@ -13434,21 +13450,21 @@
     "info": "\n    <h3>Turf 360 Sports Academy</h3>\n    <strong>Ratings:</strong> 4.15 [13]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9042521142<br/>\n    <a href=\"https://z34v4.app.goo.gl/wfbf\" target=\"_blank\">https://z34v4.app.goo.gl/wfbf</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4.9,
     "name": "Turf 73 Multi - Sport Arena",
-    "ratingCount": 9,
+    "ratingCount": 10,
     "fullLink": "https://playo.co/venue?venueId=3b69b8e4-42d1-49d7-b0a7-7e1eab621edb",
     "deferLink": "https://z34v4.app.goo.gl/f3ya",
     "lat": 13.1161111,
     "lng": 79.646,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football",
       "Volleyball"
     ],
-    "info": "\n    <h3>Turf 73 Multi - Sport Arena</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9597354466<br/>\n    <a href=\"https://z34v4.app.goo.gl/f3ya\" target=\"_blank\">https://z34v4.app.goo.gl/f3ya</a><br/>\n    "
+    "info": "\n    <h3>Turf 73 Multi - Sport Arena</h3>\n    <strong>Ratings:</strong> 4.9 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9597354466<br/>\n    <a href=\"https://z34v4.app.goo.gl/f3ya\" target=\"_blank\">https://z34v4.app.goo.gl/f3ya</a><br/>\n    "
   },
   {
     "ratingCount": 5,
