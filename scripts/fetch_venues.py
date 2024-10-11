@@ -38,6 +38,7 @@ def fetch_venues(city):
 
 def fetch_sport_ids(debug=False):
     print("Fetching sport id map...", flush=True)
+    # NOTE: We assume Bengaluru has all the sports that Playo has to offer
     url = "https://playo.co/venues/bengaluru/sports/all"
     soup = BeautifulSoup(requests.get(url).text, "lxml")
 
