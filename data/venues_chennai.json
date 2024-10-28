@@ -6908,8 +6908,8 @@
     "info": "\n    <h3>Leap Sports Academy - ECR</h3>\n    <strong>Ratings:</strong> 4.67 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball, Table Tennis, Volleyball<br/>\n    <strong>Phone:</strong> 9940209896<br/>\n    <a href=\"https://z34v4.app.goo.gl/xEJN\" target=\"_blank\">https://z34v4.app.goo.gl/xEJN</a><br/>\n    "
   },
   {
-    "ratingCount": 13,
-    "avgRating": 4.62,
+    "ratingCount": 14,
+    "avgRating": 4.64,
     "name": "Leap Sports Academy - OMR",
     "fullLink": "https://playo.co/venue?venueId=32e6fe73-a05b-4550-8bb2-e82ba9637797",
     "deferLink": "https://z34v4.app.goo.gl/W3WP",
@@ -6924,7 +6924,7 @@
       "Swimming",
       "Volleyball"
     ],
-    "info": "\n    <h3>Leap Sports Academy - OMR</h3>\n    <strong>Ratings:</strong> 4.62 [13]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Swimming, Volleyball<br/>\n    <strong>Phone:</strong> 9840451010<br/>\n    <a href=\"https://z34v4.app.goo.gl/W3WP\" target=\"_blank\">https://z34v4.app.goo.gl/W3WP</a><br/>\n    "
+    "info": "\n    <h3>Leap Sports Academy - OMR</h3>\n    <strong>Ratings:</strong> 4.64 [14]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Swimming, Volleyball<br/>\n    <strong>Phone:</strong> 9840451010<br/>\n    <a href=\"https://z34v4.app.goo.gl/W3WP\" target=\"_blank\">https://z34v4.app.goo.gl/W3WP</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -10994,7 +10994,7 @@
   {
     "avgRating": 5,
     "name": "Smash N Kick",
-    "ratingCount": 10,
+    "ratingCount": 11,
     "fullLink": "https://playo.co/venue?venueId=4965c194-98a9-48d3-bfb8-e784378790a2",
     "deferLink": "https://z34v4.app.goo.gl/2Xiq",
     "lat": 12.7754715499678,
@@ -11007,7 +11007,22 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Smash N Kick</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 6369679022<br/>\n    <a href=\"https://z34v4.app.goo.gl/2Xiq\" target=\"_blank\">https://z34v4.app.goo.gl/2Xiq</a><br/>\n    "
+    "info": "\n    <h3>Smash N Kick</h3>\n    <strong>Ratings:</strong> 5 [11]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 6369679022<br/>\n    <a href=\"https://z34v4.app.goo.gl/2Xiq\" target=\"_blank\">https://z34v4.app.goo.gl/2Xiq</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Smash Sports Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=b6c67aef-e953-4281-97af-8daa1701ace1",
+    "deferLink": "https://z34v4.app.goo.gl/bPjL",
+    "lat": 12.981441663843317,
+    "lng": 80.19869629193234,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Smash Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840042681<br/>\n    <a href=\"https://z34v4.app.goo.gl/bPjL\" target=\"_blank\">https://z34v4.app.goo.gl/bPjL</a><br/>\n    "
   },
   {
     "avgRating": 3.7,
@@ -14503,6 +14518,22 @@
       "Swimming"
     ],
     "info": "\n    <h3>Waves Swim Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 96290 70004<br/>\n    <a href=\"https://playo.page.link/cJTmN\" target=\"_blank\">https://playo.page.link/cJTmN</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Wesley Turf and Fitness Club",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=a4454d06-42b1-4a36-87c3-dc3d5f316955",
+    "deferLink": "https://z34v4.app.goo.gl/DqQx",
+    "lat": 13.057247314129526,
+    "lng": 80.26376001609457,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Wesley Turf and Fitness Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9500067265<br/>\n    <a href=\"https://z34v4.app.goo.gl/DqQx\" target=\"_blank\">https://z34v4.app.goo.gl/DqQx</a><br/>\n    "
   },
   {
     "name": "Whistle - Urban Sports Hub",
