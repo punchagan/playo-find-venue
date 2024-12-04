@@ -1758,6 +1758,22 @@
   },
   {
     "avgRating": 5,
+    "name": "NCB Ace Arena",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=89fae226-6d65-4fa2-a5a6-840e13a1bd07",
+    "deferLink": "https://z34v4.app.goo.gl/Qs5i",
+    "lat": 28.608625277994282,
+    "lng": 77.33056312153666,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>NCB Ace Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7042752782<br/>\n    <a href=\"https://z34v4.app.goo.gl/Qs5i\" target=\"_blank\">https://z34v4.app.goo.gl/Qs5i</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "NCCA Indoor Cricket Arena",
     "ratingCount": 2,
     "deferLink": "https://z34v4.app.goo.gl/b6Ct",
