@@ -810,6 +810,21 @@
     "info": "\n    <h3>Dwarka Sports Complex</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Combat Sports, Cricket, Cue Sports, Football, Pool, Skates, Squash, Swimming, Table Tennis, Tennis, Volleyball, Workout, Yoga<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/0Guf\" target=\"_blank\">https://z34v4.app.goo.gl/0Guf</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "East Delhi Box Cricket",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=d3cba4ca-d577-461f-80e1-aa1a57a7dfa9",
+    "deferLink": "https://z34v4.app.goo.gl/3whA",
+    "lat": 28.65290223206925,
+    "lng": 77.26955508867584,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>East Delhi Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9958662530<br/>\n    <a href=\"https://z34v4.app.goo.gl/3whA\" target=\"_blank\">https://z34v4.app.goo.gl/3whA</a><br/>\n    "
+  },
+  {
     "avgRating": 4,
     "name": "Eden Sports Academy",
     "ratingCount": 2,
@@ -887,6 +902,23 @@
       "Swimming"
     ],
     "info": "\n    <h3>Energy Gym and Swimming Pool</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Euphoria Sports",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=2182f96e-c0f8-4c3a-81fc-d7de2e5221e9",
+    "deferLink": "https://z34v4.app.goo.gl/oPnq",
+    "lat": 28.69388876,
+    "lng": 77.18015215,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Euphoria Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://z34v4.app.goo.gl/oPnq\" target=\"_blank\">https://z34v4.app.goo.gl/oPnq</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -1214,21 +1246,6 @@
       "Workout"
     ],
     "info": "\n    <h3>Hari Nagar Sports Complex</h3>\n    <strong>Ratings:</strong> 3.56 [9]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Cricket, Football, Swimming, Table Tennis, Tennis, Volleyball, Workout<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/Oxh0\" target=\"_blank\">https://z34v4.app.goo.gl/Oxh0</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "Healthways",
-    "ratingCount": 0,
-    "deferLink": "",
-    "fullLink": "https://playo.co/venue/?venueId=1e1c11bc-c857-463e-b473-5162c2b708bf",
-    "lat": 28.681897,
-    "lng": 77.160168,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Swimming"
-    ],
-    "info": "\n    <h3>Healthways</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
     "avgRating": 0,
