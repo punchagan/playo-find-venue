@@ -2662,9 +2662,9 @@
     "info": "\n    <h3>Rackonnect Badminton Arena - Sonipat</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8376883367<br/>\n    <a href=\"https://z34v4.app.goo.gl/k3Lu\" target=\"_blank\">https://z34v4.app.goo.gl/k3Lu</a><br/>\n    "
   },
   {
-    "avgRating": 4.17,
+    "avgRating": 4.2,
     "name": "Rackonnect Badminton Arena - Strings & Feathers",
-    "ratingCount": 24,
+    "ratingCount": 25,
     "fullLink": "https://playo.co/venue?venueId=e57fba5d-6578-42e0-9784-64cabd8f8520",
     "deferLink": "https://z34v4.app.goo.gl/7B55",
     "lat": 28.404357953752363,
@@ -2674,7 +2674,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Badminton Arena - Strings & Feathers</h3>\n    <strong>Ratings:</strong> 4.17 [24]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"https://z34v4.app.goo.gl/7B55\" target=\"_blank\">https://z34v4.app.goo.gl/7B55</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Badminton Arena - Strings & Feathers</h3>\n    <strong>Ratings:</strong> 4.2 [25]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"https://z34v4.app.goo.gl/7B55\" target=\"_blank\">https://z34v4.app.goo.gl/7B55</a><br/>\n    "
   },
   {
     "avgRating": 4.88,
@@ -2692,9 +2692,9 @@
     "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.88 [17]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"https://z34v4.app.goo.gl/6m4t\" target=\"_blank\">https://z34v4.app.goo.gl/6m4t</a><br/>\n    "
   },
   {
-    "avgRating": 4,
+    "avgRating": 4.05,
     "name": "Rackonnect Next Level Badminton Arena",
-    "ratingCount": 21,
+    "ratingCount": 22,
     "fullLink": "https://playo.co/venue?venueId=ceb82728-82dd-40c9-8fb2-8ea8f82ecb68",
     "deferLink": "https://z34v4.app.goo.gl/skXs",
     "lat": 28.55258908463302,
@@ -2704,7 +2704,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 4 [21]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"https://z34v4.app.goo.gl/skXs\" target=\"_blank\">https://z34v4.app.goo.gl/skXs</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.05 [22]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"https://z34v4.app.goo.gl/skXs\" target=\"_blank\">https://z34v4.app.goo.gl/skXs</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3883,6 +3883,21 @@
       "Cricket"
     ],
     "info": "\n    <h3>Ved Prakash Tyagi Cricket Stadium</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Vijay Sri Sports Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=03b615fe-53f0-411c-8060-f7b23f21e060",
+    "deferLink": "https://z34v4.app.goo.gl/9DqM",
+    "lat": 28.505739,
+    "lng": 77.414955,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Vijay Sri Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8383023255<br/>\n    <a href=\"https://z34v4.app.goo.gl/9DqM\" target=\"_blank\">https://z34v4.app.goo.gl/9DqM</a><br/>\n    "
   },
   {
     "avgRating": 0,
