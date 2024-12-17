@@ -3596,21 +3596,6 @@
     "info": "\n    <h3>TN Memorial Cricket Coaching</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
-    "avgRating": 5,
-    "name": "TTF Table Tennis Academy",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=cacaf57a-fcc1-45e8-bd0e-c873b6ef9b35",
-    "deferLink": "https://z34v4.app.goo.gl/cMJk",
-    "lat": 28.764881510495393,
-    "lng": 77.16145436814053,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Table Tennis"
-    ],
-    "info": "\n    <h3>TTF Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9599318131<br/>\n    <a href=\"https://z34v4.app.goo.gl/cMJk\" target=\"_blank\">https://z34v4.app.goo.gl/cMJk</a><br/>\n    "
-  },
-  {
     "ratingCount": 2,
     "avgRating": 4.5,
     "name": "Techmart Indoor Cricket Nets",
@@ -3885,19 +3870,21 @@
     "info": "\n    <h3>Ved Prakash Tyagi Cricket Stadium</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
-    "avgRating": 0,
-    "name": "Vijay Sri Sports Academy",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=03b615fe-53f0-411c-8060-f7b23f21e060",
-    "deferLink": "https://z34v4.app.goo.gl/9DqM",
+    "avgRating": 5,
+    "name": "Vijay Sri Sports",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=8ae99c3c-2b06-47d4-a91b-90a0461f8f33",
+    "deferLink": "https://z34v4.app.goo.gl/xyf7",
     "lat": 28.505739,
     "lng": 77.414955,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Box Cricket"
+      "Bowling Machine",
+      "Box Cricket",
+      "Cricket Nets"
     ],
-    "info": "\n    <h3>Vijay Sri Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8383023255<br/>\n    <a href=\"https://z34v4.app.goo.gl/9DqM\" target=\"_blank\">https://z34v4.app.goo.gl/9DqM</a><br/>\n    "
+    "info": "\n    <h3>Vijay Sri Sports</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 7459019601<br/>\n    <a href=\"https://z34v4.app.goo.gl/xyf7\" target=\"_blank\">https://z34v4.app.goo.gl/xyf7</a><br/>\n    "
   },
   {
     "avgRating": 0,
