@@ -1878,9 +1878,9 @@
     "info": "\n    <h3>Bhavans Squash Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Squash<br/>\n    <strong>Phone:</strong> 97100 16300<br/>\n    <a href=\"https://playo.page.link/Brw3d\" target=\"_blank\">https://playo.page.link/Brw3d</a><br/>\n    "
   },
   {
-    "avgRating": 4.28,
+    "avgRating": 4.32,
     "name": "Blaze Badminton Academy - Pallikaranai",
-    "ratingCount": 18,
+    "ratingCount": 19,
     "fullLink": "https://playo.co/venue?venueId=ab9bfc9c-35ee-4974-a241-f541ca5349c4",
     "deferLink": "https://z34v4.app.goo.gl/bA6j",
     "lat": 12.945617970736311,
@@ -1890,7 +1890,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Blaze Badminton Academy - Pallikaranai</h3>\n    <strong>Ratings:</strong> 4.28 [18]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8072331247<br/>\n    <a href=\"https://z34v4.app.goo.gl/bA6j\" target=\"_blank\">https://z34v4.app.goo.gl/bA6j</a><br/>\n    "
+    "info": "\n    <h3>Blaze Badminton Academy - Pallikaranai</h3>\n    <strong>Ratings:</strong> 4.32 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8072331247<br/>\n    <a href=\"https://z34v4.app.goo.gl/bA6j\" target=\"_blank\">https://z34v4.app.goo.gl/bA6j</a><br/>\n    "
   },
   {
     "name": "Blue Lagoon Beach Resort",
@@ -4704,8 +4704,8 @@
     "info": "\n    <h3>GO Futsal (Velachery)</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 87544 06855<br/>\n    <a href=\"https://playo.page.link/TRN7R\" target=\"_blank\">https://playo.page.link/TRN7R</a><br/>\n    "
   },
   {
-    "ratingCount": 28,
-    "avgRating": 3.96,
+    "ratingCount": 29,
+    "avgRating": 3.93,
     "name": "GPS Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=455aca41-9ca0-43b8-8fd9-7f37d24d8a5c",
     "deferLink": "https://z34v4.app.goo.gl/825x",
@@ -4716,7 +4716,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>GPS Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.96 [28]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9176777173<br/>\n    <a href=\"https://z34v4.app.goo.gl/825x\" target=\"_blank\">https://z34v4.app.goo.gl/825x</a><br/>\n    "
+    "info": "\n    <h3>GPS Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.93 [29]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9176777173<br/>\n    <a href=\"https://z34v4.app.goo.gl/825x\" target=\"_blank\">https://z34v4.app.goo.gl/825x</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5049,9 +5049,10 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
-      "Table Tennis"
+      "Table Tennis",
+      "eSports"
     ],
-    "info": "\n    <h3>Gozzimma Table Tennis Experience Zone</h3>\n    <strong>Ratings:</strong> 4.67 [9]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9003419705<br/>\n    <a href=\"https://z34v4.app.goo.gl/VfN1\" target=\"_blank\">https://z34v4.app.goo.gl/VfN1</a><br/>\n    "
+    "info": "\n    <h3>Gozzimma Table Tennis Experience Zone</h3>\n    <strong>Ratings:</strong> 4.67 [9]<br/>\n    <strong>Sports:</strong> Table Tennis, eSports<br/>\n    <strong>Phone:</strong> 9003419705<br/>\n    <a href=\"https://z34v4.app.goo.gl/VfN1\" target=\"_blank\">https://z34v4.app.goo.gl/VfN1</a><br/>\n    "
   },
   {
     "name": "Grand Residence",
@@ -6691,6 +6692,21 @@
       "Tennis"
     ],
     "info": "\n    <h3>Khel Sports Academy</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Skates, Tennis<br/>\n    <strong>Phone:</strong> 0<br/>\n    <a href=\"https://z34v4.app.goo.gl/VWeA\" target=\"_blank\">https://z34v4.app.goo.gl/VWeA</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Khen Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=5e722287-be91-4a30-a16b-db064ccb63f3",
+    "deferLink": "https://z34v4.app.goo.gl/DXLo",
+    "lat": 12.918575950458907,
+    "lng": 80.14606002819764,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Khen Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840278289<br/>\n    <a href=\"https://z34v4.app.goo.gl/DXLo\" target=\"_blank\">https://z34v4.app.goo.gl/DXLo</a><br/>\n    "
   },
   {
     "name": "Kick-Off Chennai's 1st Street Football Arena",
@@ -8957,9 +8973,9 @@
     "info": "\n    <h3>Play-On Sports Centre</h3>\n    <strong>Ratings:</strong> 4.32 [19]<br/>\n    <strong>Sports:</strong> Badminton, Basketball<br/>\n    <strong>Phone:</strong> 9884722477<br/>\n    <a href=\"https://z34v4.app.goo.gl/fdSP\" target=\"_blank\">https://z34v4.app.goo.gl/fdSP</a><br/>\n    "
   },
   {
-    "avgRating": 4.86,
+    "avgRating": 4.87,
     "name": "PlayFit Badminton Academy - Pudupakkam",
-    "ratingCount": 14,
+    "ratingCount": 15,
     "fullLink": "https://playo.co/venue?venueId=2d2b85a8-1e8e-4760-b81d-8e391bdf2e6b",
     "deferLink": "https://z34v4.app.goo.gl/nCN8",
     "lat": 12.81379035137126,
@@ -8969,7 +8985,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>PlayFit Badminton Academy - Pudupakkam</h3>\n    <strong>Ratings:</strong> 4.86 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9344674016<br/>\n    <a href=\"https://z34v4.app.goo.gl/nCN8\" target=\"_blank\">https://z34v4.app.goo.gl/nCN8</a><br/>\n    "
+    "info": "\n    <h3>PlayFit Badminton Academy - Pudupakkam</h3>\n    <strong>Ratings:</strong> 4.87 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9344674016<br/>\n    <a href=\"https://z34v4.app.goo.gl/nCN8\" target=\"_blank\">https://z34v4.app.goo.gl/nCN8</a><br/>\n    "
   },
   {
     "avgRating": 5,
