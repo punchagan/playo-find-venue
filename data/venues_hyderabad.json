@@ -9838,9 +9838,10 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
+      "Bowling Machine",
       "Box Cricket"
     ],
-    "info": "\n    <h3>MS Sports Arena (Box Cricket & Indoor Cricket Nets)</h3>\n    <strong>Ratings:</strong> 4.55 [11]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9000245182<br/>\n    <a href=\"https://z34v4.app.goo.gl/u5g5\" target=\"_blank\">https://z34v4.app.goo.gl/u5g5</a><br/>\n    "
+    "info": "\n    <h3>MS Sports Arena (Box Cricket & Indoor Cricket Nets)</h3>\n    <strong>Ratings:</strong> 4.55 [11]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket<br/>\n    <strong>Phone:</strong> 9000245182<br/>\n    <a href=\"https://z34v4.app.goo.gl/u5g5\" target=\"_blank\">https://z34v4.app.goo.gl/u5g5</a><br/>\n    "
   },
   {
     "ratingCount": 17,
@@ -12787,7 +12788,7 @@
     "info": "\n    <h3>RCC Cricket Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Cricket Nets, Tennis<br/>\n    <strong>Phone:</strong> 9505329236<br/>\n    <a href=\"https://z34v4.app.goo.gl/3hWr\" target=\"_blank\">https://z34v4.app.goo.gl/3hWr</a><br/>\n    "
   },
   {
-    "ratingCount": 116,
+    "ratingCount": 117,
     "avgRating": 4.02,
     "name": "RG Battledore Academy - Kondapur",
     "fullLink": "https://playo.co/venue?venueId=8ce6578a-1473-4fbe-938a-f59ed0eab421",
@@ -12800,12 +12801,12 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>RG Battledore Academy - Kondapur</h3>\n    <strong>Ratings:</strong> 4.02 [116]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9573969889<br/>\n    <a href=\"https://z34v4.app.goo.gl/nRii\" target=\"_blank\">https://z34v4.app.goo.gl/nRii</a><br/>\n    "
+    "info": "\n    <h3>RG Battledore Academy - Kondapur</h3>\n    <strong>Ratings:</strong> 4.02 [117]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9573969889<br/>\n    <a href=\"https://z34v4.app.goo.gl/nRii\" target=\"_blank\">https://z34v4.app.goo.gl/nRii</a><br/>\n    "
   },
   {
     "avgRating": 4.95,
     "name": "RG Battledore Academy - Manikonda",
-    "ratingCount": 21,
+    "ratingCount": 22,
     "fullLink": "https://playo.co/venue?venueId=8ff39aca-c54b-4dad-866a-24da81c55b51",
     "deferLink": "https://z34v4.app.goo.gl/mA6w",
     "lat": 17.408535597438274,
@@ -12815,7 +12816,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>RG Battledore Academy - Manikonda</h3>\n    <strong>Ratings:</strong> 4.95 [21]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7093649889<br/>\n    <a href=\"https://z34v4.app.goo.gl/mA6w\" target=\"_blank\">https://z34v4.app.goo.gl/mA6w</a><br/>\n    "
+    "info": "\n    <h3>RG Battledore Academy - Manikonda</h3>\n    <strong>Ratings:</strong> 4.95 [22]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7093649889<br/>\n    <a href=\"https://z34v4.app.goo.gl/mA6w\" target=\"_blank\">https://z34v4.app.goo.gl/mA6w</a><br/>\n    "
   },
   {
     "ratingCount": 14,
@@ -18013,6 +18014,25 @@
   },
   {
     "avgRating": 5,
+    "name": "The League",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=efe06a38-1fc7-4868-b87a-3d01d472ad47",
+    "deferLink": "https://z34v4.app.goo.gl/XUeM",
+    "lat": 17.415570585245217,
+    "lng": 78.33761372307212,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Box Cricket",
+      "Football",
+      "Pickleball",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>The League</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Pickleball, Pickleball<br/>\n    <strong>Phone:</strong> 7095256789<br/>\n    <a href=\"https://z34v4.app.goo.gl/XUeM\" target=\"_blank\">https://z34v4.app.goo.gl/XUeM</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "The Party Pavilion Box",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=4215b253-93e5-4902-890d-cedafb5b51a5",
@@ -19104,7 +19124,7 @@
     "info": "\n    <h3>Venkatapathy Raju Cricket Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/Rvhci\" target=\"_blank\">https://playo.page.link/Rvhci</a><br/>\n    "
   },
   {
-    "ratingCount": 170,
+    "ratingCount": 171,
     "avgRating": 2.54,
     "name": "Venu and Murthy Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=a4541396-3166-475d-967a-aa11882752d0",
@@ -19117,7 +19137,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Venu and Murthy Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.54 [170]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 7993940189<br/>\n    <a href=\"https://z34v4.app.goo.gl/zLCK\" target=\"_blank\">https://z34v4.app.goo.gl/zLCK</a><br/>\n    "
+    "info": "\n    <h3>Venu and Murthy Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.54 [171]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 7993940189<br/>\n    <a href=\"https://z34v4.app.goo.gl/zLCK\" target=\"_blank\">https://z34v4.app.goo.gl/zLCK</a><br/>\n    "
   },
   {
     "ratingCount": 44,
