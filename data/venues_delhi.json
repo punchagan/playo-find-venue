@@ -989,8 +989,8 @@
     "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=d492a959-b736-47d8-ae36-6bd516f6e99a",
     "deferLink": "https://z34v4.app.goo.gl/LKeh",
-    "lat": 28.499389,
-    "lng": 77.031967,
+    "lat": 28.501049929072728,
+    "lng": 77.0374266711643,
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
@@ -1068,7 +1068,7 @@
   {
     "avgRating": 5,
     "name": "Galacticos Sports Arena by Roar Management",
-    "ratingCount": 1,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=c8173b77-781f-4839-8877-34fe9cbb22db",
     "deferLink": "https://z34v4.app.goo.gl/U8mB",
     "lat": 28.45349313411784,
@@ -1081,7 +1081,7 @@
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>Galacticos Sports Arena by Roar Management</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8448647217<br/>\n    <a href=\"https://z34v4.app.goo.gl/U8mB\" target=\"_blank\">https://z34v4.app.goo.gl/U8mB</a><br/>\n    "
+    "info": "\n    <h3>Galacticos Sports Arena by Roar Management</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8448647217<br/>\n    <a href=\"https://z34v4.app.goo.gl/U8mB\" target=\"_blank\">https://z34v4.app.goo.gl/U8mB</a><br/>\n    "
   },
   {
     "ratingCount": 9,
@@ -3600,6 +3600,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Spuddy Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9315706139<br/>\n    <a href=\"https://z34v4.app.goo.gl/CgVU\" target=\"_blank\">https://z34v4.app.goo.gl/CgVU</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Strike The Ball",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=2ffbfe69-f9f0-446b-bd31-fd8371464bbd",
+    "deferLink": "https://z34v4.app.goo.gl/Kjkk",
+    "lat": 28.42184293144118,
+    "lng": 77.03698177311499,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>Strike The Ball</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9560392760<br/>\n    <a href=\"https://z34v4.app.goo.gl/Kjkk\" target=\"_blank\">https://z34v4.app.goo.gl/Kjkk</a><br/>\n    "
   },
   {
     "avgRating": 5,
