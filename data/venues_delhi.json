@@ -2238,104 +2238,10 @@
   },
   {
     "avgRating": 5,
-    "name": "PlayAll Badminton Arena - Noida",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=13be0f75-a273-488f-bb0d-16dbb19fc54b",
-    "deferLink": "https://z34v4.app.goo.gl/vYmA",
-    "lat": 28.50441991028775,
-    "lng": 77.4155650711643,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>PlayAll Badminton Arena - Noida</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9560389384<br/>\n    <a href=\"https://z34v4.app.goo.gl/vYmA\" target=\"_blank\">https://z34v4.app.goo.gl/vYmA</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "PlayAll Badminton Arena - Sec 88, Faridabad",
-    "ratingCount": 4,
-    "fullLink": "https://playo.co/venue?venueId=0741a44b-6cbb-433b-9851-b9d6aaaf3caf",
-    "deferLink": "https://z34v4.app.goo.gl/xffQ",
-    "lat": 28.420946463178797,
-    "lng": 77.3550852,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>PlayAll Badminton Arena - Sec 88, Faridabad</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750005054<br/>\n    <a href=\"https://z34v4.app.goo.gl/xffQ\" target=\"_blank\">https://z34v4.app.goo.gl/xffQ</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "PlayAll Box Cricket Arena",
-    "ratingCount": 5,
-    "fullLink": "https://playo.co/venue?venueId=8293094e-28ca-4f7f-8823-da3adb1fa43e",
-    "deferLink": "https://z34v4.app.goo.gl/CQmM",
-    "lat": 28.572802110051608,
-    "lng": 77.2209255423294,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket"
-    ],
-    "info": "\n    <h3>PlayAll Box Cricket Arena</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9650305004<br/>\n    <a href=\"https://z34v4.app.goo.gl/CQmM\" target=\"_blank\">https://z34v4.app.goo.gl/CQmM</a><br/>\n    "
-  },
-  {
-    "avgRating": 4.8,
-    "name": "PlayAll Box Cricket Arena - Fortune World School, Noida",
-    "ratingCount": 5,
-    "fullLink": "https://playo.co/venue?venueId=cbd5a5ae-9858-4cf3-9609-6043983a3b05",
-    "deferLink": "https://z34v4.app.goo.gl/G7tg",
-    "lat": 28.535619203064332,
-    "lng": 77.37091792273401,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Futsal"
-    ],
-    "info": "\n    <h3>PlayAll Box Cricket Arena - Fortune World School, Noida</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9910755576<br/>\n    <a href=\"https://z34v4.app.goo.gl/G7tg\" target=\"_blank\">https://z34v4.app.goo.gl/G7tg</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "PlayAll Box Cricket Arena - JIS Pitampura",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=64d5c64e-789f-4597-880f-ce52c700125e",
-    "deferLink": "https://z34v4.app.goo.gl/wsoh",
-    "lat": 28.692691108496483,
-    "lng": 77.11128295951983,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Futsal"
-    ],
-    "info": "\n    <h3>PlayAll Box Cricket Arena - JIS Pitampura</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9667373472<br/>\n    <a href=\"https://z34v4.app.goo.gl/wsoh\" target=\"_blank\">https://z34v4.app.goo.gl/wsoh</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "PlayAll Box Cricket Arena - NGF School, Alaknanda, Delhi",
-    "ratingCount": 4,
-    "fullLink": "https://playo.co/venue?venueId=4ca9339e-61cd-45e1-a09e-091215e69b5d",
-    "deferLink": "https://z34v4.app.goo.gl/jGg5",
-    "lat": 28.5253712458855,
-    "lng": 77.2548312423285,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Basketball",
-      "Box Cricket",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>PlayAll Box Cricket Arena - NGF School, Alaknanda, Delhi</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9667024442<br/>\n    <a href=\"https://z34v4.app.goo.gl/jGg5\" target=\"_blank\">https://z34v4.app.goo.gl/jGg5</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "PlayAll Box-Cricket Arena - Adriel High School",
+    "name": "PlayAll AHS Rohini",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=6ca1a03f-e893-4881-b231-eb19cab9b21f",
-    "deferLink": "https://z34v4.app.goo.gl/zamT",
+    "deferLink": "http://go.playo.app/PLAYOO/2D-Jx",
     "lat": 28.725176344115564,
     "lng": 77.08903628007202,
     "rating": 5,
@@ -2344,7 +2250,25 @@
       "Box Cricket",
       "Futsal"
     ],
-    "info": "\n    <h3>PlayAll Box-Cricket Arena - Adriel High School</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9560389384<br/>\n    <a href=\"https://z34v4.app.goo.gl/zamT\" target=\"_blank\">https://z34v4.app.goo.gl/zamT</a><br/>\n    "
+    "info": "\n    <h3>PlayAll AHS Rohini</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9560389384<br/>\n    <a href=\"http://go.playo.app/PLAYOO/2D-Jx\" target=\"_blank\">http://go.playo.app/PLAYOO/2D-Jx</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "PlayAll Faridabad 82",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=5b82abcd-adb1-4932-859f-c87c937fce88",
+    "deferLink": "http://go.playo.app/PLAYOO/pNKC_",
+    "lat": 28.394650795147708,
+    "lng": 77.35671360185118,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Box Cricket",
+      "Futsal",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll Faridabad 82</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667229118<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pNKC_\" target=\"_blank\">http://go.playo.app/PLAYOO/pNKC_</a><br/>\n    "
   },
   {
     "ratingCount": 24,
@@ -2364,6 +2288,21 @@
       "Table Tennis"
     ],
     "info": "\n    <h3>PlayAll Faridabad 86</h3>\n    <strong>Ratings:</strong> 4.75 [24]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 8810557899<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ICXO3\" target=\"_blank\">http://go.playo.app/PLAYOO/ICXO3</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "PlayAll Faridabad 88",
+    "ratingCount": 4,
+    "fullLink": "https://playo.co/venue?venueId=0741a44b-6cbb-433b-9851-b9d6aaaf3caf",
+    "deferLink": "http://go.playo.app/PLAYOO/0oQiH",
+    "lat": 28.420946463178797,
+    "lng": 77.3550852,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>PlayAll Faridabad 88</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750005054<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0oQiH\" target=\"_blank\">http://go.playo.app/PLAYOO/0oQiH</a><br/>\n    "
   },
   {
     "ratingCount": 26,
@@ -2400,6 +2339,22 @@
     "info": "\n    <h3>PlayAll Gurgaon 62</h3>\n    <strong>Ratings:</strong> 4.41 [69]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket<br/>\n    <strong>Phone:</strong> 8750387508<br/>\n    <a href=\"http://go.playo.app/PLAYOO/aw5qC\" target=\"_blank\">http://go.playo.app/PLAYOO/aw5qC</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "PlayAll JIS Pitampura",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=64d5c64e-789f-4597-880f-ce52c700125e",
+    "deferLink": "http://go.playo.app/PLAYOO/YPnUY",
+    "lat": 28.692691108496483,
+    "lng": 77.11128295951983,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Futsal"
+    ],
+    "info": "\n    <h3>PlayAll JIS Pitampura</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9667373472<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YPnUY\" target=\"_blank\">http://go.playo.app/PLAYOO/YPnUY</a><br/>\n    "
+  },
+  {
     "avgRating": 4.89,
     "name": "PlayAll KPS Alaknanda",
     "ratingCount": 28,
@@ -2431,6 +2386,54 @@
     "info": "\n    <h3>PlayAll MPS Noida 11</h3>\n    <strong>Ratings:</strong> 3.55 [44]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750005057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zauNz\" target=\"_blank\">http://go.playo.app/PLAYOO/zauNz</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "PlayAll NGF Alaknanda",
+    "ratingCount": 4,
+    "fullLink": "https://playo.co/venue?venueId=4ca9339e-61cd-45e1-a09e-091215e69b5d",
+    "deferLink": "http://go.playo.app/PLAYOO/QEsl7",
+    "lat": 28.5253712458855,
+    "lng": 77.2548312423285,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Box Cricket",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll NGF Alaknanda</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9667024442<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QEsl7\" target=\"_blank\">http://go.playo.app/PLAYOO/QEsl7</a><br/>\n    "
+  },
+  {
+    "avgRating": 4.8,
+    "name": "PlayAll Noida 105",
+    "ratingCount": 5,
+    "fullLink": "https://playo.co/venue?venueId=cbd5a5ae-9858-4cf3-9609-6043983a3b05",
+    "deferLink": "http://go.playo.app/PLAYOO/Ij2Ni",
+    "lat": 28.535619203064332,
+    "lng": 77.37091792273401,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Futsal"
+    ],
+    "info": "\n    <h3>PlayAll Noida 105</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9910755576<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ij2Ni\" target=\"_blank\">http://go.playo.app/PLAYOO/Ij2Ni</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "PlayAll Noida 141",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=13be0f75-a273-488f-bb0d-16dbb19fc54b",
+    "deferLink": "http://go.playo.app/PLAYOO/CC3XJ",
+    "lat": 28.50441991028775,
+    "lng": 77.4155650711643,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>PlayAll Noida 141</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9560389384<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CC3XJ\" target=\"_blank\">http://go.playo.app/PLAYOO/CC3XJ</a><br/>\n    "
+  },
+  {
     "avgRating": 4.38,
     "name": "PlayAll Noida 73",
     "ratingCount": 73,
@@ -2448,10 +2451,26 @@
   },
   {
     "avgRating": 5,
-    "name": "PlayAll Sports Arena - Sanfort World School",
+    "name": "PlayAll SVIS Dwarka",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=e76d035c-0b87-4974-aa7e-4b092ff1382e",
+    "deferLink": "http://go.playo.app/PLAYOO/YAmb5",
+    "lat": 28.58973654530463,
+    "lng": 77.03882383863021,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll SVIS Dwarka</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9667102229<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YAmb5\" target=\"_blank\">http://go.playo.app/PLAYOO/YAmb5</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "PlayAll SWS Greater Noida",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=c8d5d5d9-581a-477d-9280-f7569d9a9524",
-    "deferLink": "https://z34v4.app.goo.gl/R9Ks",
+    "deferLink": "http://go.playo.app/PLAYOO/xTXNv",
     "lat": 28.452454458322226,
     "lng": 77.51143042918108,
     "rating": 5,
@@ -2461,41 +2480,22 @@
       "Futsal",
       "Pickleball"
     ],
-    "info": "\n    <h3>PlayAll Sports Arena - Sanfort World School</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9560389384<br/>\n    <a href=\"https://z34v4.app.goo.gl/R9Ks\" target=\"_blank\">https://z34v4.app.goo.gl/R9Ks</a><br/>\n    "
+    "info": "\n    <h3>PlayAll SWS Greater Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9560389384<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xTXNv\" target=\"_blank\">http://go.playo.app/PLAYOO/xTXNv</a><br/>\n    "
   },
   {
     "avgRating": 5,
-    "name": "PlayAll Sports Arena, SVIS Sec-18 Dwarka",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=e76d035c-0b87-4974-aa7e-4b092ff1382e",
-    "deferLink": "https://z34v4.app.goo.gl/QKEE",
-    "lat": 28.58973654530463,
-    "lng": 77.03882383863021,
+    "name": "PlayAll South Ex-1",
+    "ratingCount": 5,
+    "fullLink": "https://playo.co/venue?venueId=8293094e-28ca-4f7f-8823-da3adb1fa43e",
+    "deferLink": "http://go.playo.app/PLAYOO/XS_z0",
+    "lat": 28.572802110051608,
+    "lng": 77.2209255423294,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Box Cricket",
-      "Pickleball"
+      "Box Cricket"
     ],
-    "info": "\n    <h3>PlayAll Sports Arena, SVIS Sec-18 Dwarka</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9667102229<br/>\n    <a href=\"https://z34v4.app.goo.gl/QKEE\" target=\"_blank\">https://z34v4.app.goo.gl/QKEE</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "PlayAll Sports Arena- St. Mary Sector-82",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=5b82abcd-adb1-4932-859f-c87c937fce88",
-    "deferLink": "https://z34v4.app.goo.gl/4v96",
-    "lat": 28.394650795147708,
-    "lng": 77.35671360185118,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Basketball",
-      "Box Cricket",
-      "Futsal",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>PlayAll Sports Arena- St. Mary Sector-82</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667229118<br/>\n    <a href=\"https://z34v4.app.goo.gl/4v96\" target=\"_blank\">https://z34v4.app.goo.gl/4v96</a><br/>\n    "
+    "info": "\n    <h3>PlayAll South Ex-1</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9650305004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/XS_z0\" target=\"_blank\">http://go.playo.app/PLAYOO/XS_z0</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3917,9 +3917,9 @@
     "info": "\n    <h3>Tirang Badminton Centre</h3>\n    <strong>Ratings:</strong> 4.67 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9773582228<br/>\n    <a href=\"https://z34v4.app.goo.gl/nsQ6\" target=\"_blank\">https://z34v4.app.goo.gl/nsQ6</a><br/>\n    "
   },
   {
-    "avgRating": 4.8,
+    "avgRating": 4.5,
     "name": "Top Smashers Badminton Academy",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=8d3eed35-9a5c-43c9-9006-20080c8866a5",
     "deferLink": "https://z34v4.app.goo.gl/GhE9",
     "lat": 28.60898759233924,
@@ -3929,7 +3929,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"https://z34v4.app.goo.gl/GhE9\" target=\"_blank\">https://z34v4.app.goo.gl/GhE9</a><br/>\n    "
+    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"https://z34v4.app.goo.gl/GhE9\" target=\"_blank\">https://z34v4.app.goo.gl/GhE9</a><br/>\n    "
   },
   {
     "avgRating": 4,
