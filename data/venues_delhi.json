@@ -1033,6 +1033,22 @@
   },
   {
     "avgRating": 0,
+    "name": "FreeHit Arena",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=5f035d4b-a0c5-4114-ba84-617b4f3e8eee",
+    "deferLink": "http://go.playo.app/PLAYOO/-N_LX",
+    "lat": 28.45993918889146,
+    "lng": 76.91764926648088,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>FreeHit Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9319860047<br/>\n    <a href=\"http://go.playo.app/PLAYOO/-N_LX\" target=\"_blank\">http://go.playo.app/PLAYOO/-N_LX</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
     "name": "Funzz Club",
     "ratingCount": 0,
     "deferLink": "",
@@ -3917,9 +3933,9 @@
     "info": "\n    <h3>Tirang Badminton Centre</h3>\n    <strong>Ratings:</strong> 4.67 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9773582228<br/>\n    <a href=\"https://z34v4.app.goo.gl/nsQ6\" target=\"_blank\">https://z34v4.app.goo.gl/nsQ6</a><br/>\n    "
   },
   {
-    "avgRating": 4.5,
+    "avgRating": 4.57,
     "name": "Top Smashers Badminton Academy",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "fullLink": "https://playo.co/venue?venueId=8d3eed35-9a5c-43c9-9006-20080c8866a5",
     "deferLink": "https://z34v4.app.goo.gl/GhE9",
     "lat": 28.60898759233924,
@@ -3929,7 +3945,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"https://z34v4.app.goo.gl/GhE9\" target=\"_blank\">https://z34v4.app.goo.gl/GhE9</a><br/>\n    "
+    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.57 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"https://z34v4.app.goo.gl/GhE9\" target=\"_blank\">https://z34v4.app.goo.gl/GhE9</a><br/>\n    "
   },
   {
     "avgRating": 4,
