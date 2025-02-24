@@ -1604,6 +1604,21 @@
     "info": "\n    <h3>K4 Snooker Cafe</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pool, Snooker<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Kick Football Club",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=344bf192-7f34-451b-9b80-eff0fbd15c0a",
+    "deferLink": "http://go.playo.app/PLAYOO/nM4uH",
+    "lat": 28.52386402479832,
+    "lng": 77.05008971566906,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Kick Football Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8700230025<br/>\n    <a href=\"http://go.playo.app/PLAYOO/nM4uH\" target=\"_blank\">http://go.playo.app/PLAYOO/nM4uH</a><br/>\n    "
+  },
+  {
     "ratingCount": 1,
     "avgRating": 5,
     "name": "Kicksal",
@@ -3850,6 +3865,21 @@
       "Snooker"
     ],
     "info": "\n    <h3>The Cue club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pool, Snooker<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "The Minda Club",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=15b9f725-fbe7-4127-8f83-663d17986728",
+    "deferLink": "http://go.playo.app/PLAYOO/JdkI4",
+    "lat": 28.418560388223664,
+    "lng": 77.15125942250187,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>The Minda Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9958315729<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JdkI4\" target=\"_blank\">http://go.playo.app/PLAYOO/JdkI4</a><br/>\n    "
   },
   {
     "avgRating": 5,
