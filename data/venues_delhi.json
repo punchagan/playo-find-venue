@@ -498,6 +498,22 @@
   },
   {
     "avgRating": 5,
+    "name": "CRD Turf Pro",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=dba99f10-693b-49aa-9131-ccad32ed9749",
+    "deferLink": "http://go.playo.app/PLAYOO/CjTSz",
+    "lat": 28.383084628636936,
+    "lng": 77.03623511158757,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>CRD Turf Pro</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9991111661<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CjTSz\" target=\"_blank\">http://go.playo.app/PLAYOO/CjTSz</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Chaitanya Badminton Academy",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=c7a02e72-0af2-4de1-a47b-e9562e4b8625",
@@ -2838,6 +2854,24 @@
     "info": "\n    <h3>Rackonnect Badminton Arena - Strings & Feathers</h3>\n    <strong>Ratings:</strong> 4.13 [30]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"https://z34v4.app.goo.gl/7B55\" target=\"_blank\">https://z34v4.app.goo.gl/7B55</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Rackonnect Exclusive Padel Pickle Park (REPPP)",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=19022a9d-5cae-47e8-b68f-3f970edfce3f",
+    "deferLink": "http://go.playo.app/PLAYOO/gdaPe",
+    "lat": 28.51495967709485,
+    "lng": 77.18696467361062,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football",
+      "Padel",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Rackonnect Exclusive Padel Pickle Park (REPPP)</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9654114394<br/>\n    <a href=\"http://go.playo.app/PLAYOO/gdaPe\" target=\"_blank\">http://go.playo.app/PLAYOO/gdaPe</a><br/>\n    "
+  },
+  {
     "avgRating": 4.58,
     "name": "Rackonnect Next Level Badminton Academy",
     "ratingCount": 19,
@@ -2866,6 +2900,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.05 [22]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"https://z34v4.app.goo.gl/skXs\" target=\"_blank\">https://z34v4.app.goo.gl/skXs</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Rackonnect Pickleball Arena | Sector 81 Faridabad",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=76e41181-a174-4b12-9f9d-84aa65f5b4a0",
+    "deferLink": "http://go.playo.app/PLAYOO/7tQea",
+    "lat": 28.396137326202783,
+    "lng": 77.34857044663576,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Rackonnect Pickleball Arena | Sector 81 Faridabad</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9654114394<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7tQea\" target=\"_blank\">http://go.playo.app/PLAYOO/7tQea</a><br/>\n    "
   },
   {
     "avgRating": 5,
