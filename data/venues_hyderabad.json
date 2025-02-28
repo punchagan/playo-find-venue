@@ -175,7 +175,7 @@
   {
     "avgRating": 4.14,
     "name": "A-zone Sports",
-    "ratingCount": 293,
+    "ratingCount": 294,
     "deferLink": "https://z34v4.app.goo.gl/SP3w",
     "fullLink": "https://playo.co/venue/?venueId=f1a6fbb6-8441-404a-a49a-95119979cc37",
     "lat": 17.474139925727787,
@@ -185,7 +185,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>A-zone Sports</h3>\n    <strong>Ratings:</strong> 4.14 [293]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9133755567<br/>\n    <a href=\"https://z34v4.app.goo.gl/SP3w\" target=\"_blank\">https://z34v4.app.goo.gl/SP3w</a><br/>\n    "
+    "info": "\n    <h3>A-zone Sports</h3>\n    <strong>Ratings:</strong> 4.14 [294]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9133755567<br/>\n    <a href=\"https://z34v4.app.goo.gl/SP3w\" target=\"_blank\">https://z34v4.app.goo.gl/SP3w</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3679,7 +3679,7 @@
   {
     "avgRating": 5,
     "name": "Cric & Kick Zone",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=2b9eebcc-9c58-4fa1-ac98-a3a5c38f1c14",
     "deferLink": "https://z34v4.app.goo.gl/4Cms",
     "lat": 17.306595410447073,
@@ -3690,7 +3690,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Cric & Kick Zone</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9490667444<br/>\n    <a href=\"https://z34v4.app.goo.gl/4Cms\" target=\"_blank\">https://z34v4.app.goo.gl/4Cms</a><br/>\n    "
+    "info": "\n    <h3>Cric & Kick Zone</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9490667444<br/>\n    <a href=\"https://z34v4.app.goo.gl/4Cms\" target=\"_blank\">https://z34v4.app.goo.gl/4Cms</a><br/>\n    "
   },
   {
     "ratingCount": 10,
@@ -5567,20 +5567,20 @@
     "info": "\n    <h3>Fusion - The Turf</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8528522626<br/>\n    <a href=\"https://z34v4.app.goo.gl/jN9A\" target=\"_blank\">https://z34v4.app.goo.gl/jN9A</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4.83,
     "name": "FutXAll Sports Arena",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=22d5afdb-248b-49c7-8075-e0c64bec9be1",
     "deferLink": "https://z34v4.app.goo.gl/agmb",
     "lat": 17.44891732458833,
     "lng": 78.28962943068572,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>FutXAll Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100942084<br/>\n    <a href=\"https://z34v4.app.goo.gl/agmb\" target=\"_blank\">https://z34v4.app.goo.gl/agmb</a><br/>\n    "
+    "info": "\n    <h3>FutXAll Sports Arena</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9100942084<br/>\n    <a href=\"https://z34v4.app.goo.gl/agmb\" target=\"_blank\">https://z34v4.app.goo.gl/agmb</a><br/>\n    "
   },
   {
     "ratingCount": 7,
@@ -6281,8 +6281,8 @@
     "info": "\n    <h3>Gamepoint Banjara</h3>\n    <strong>Ratings:</strong> 4.25 [4]<br/>\n    <strong>Sports:</strong> Basketball, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 7032777333<br/>\n    <a href=\"https://z34v4.app.goo.gl/Sp76\" target=\"_blank\">https://z34v4.app.goo.gl/Sp76</a><br/>\n    "
   },
   {
-    "ratingCount": 124,
-    "avgRating": 3.84,
+    "ratingCount": 125,
+    "avgRating": 3.85,
     "name": "Gamepoint HITEC",
     "fullLink": "https://playo.co/venue?venueId=64ef3af6-4cc9-4e1e-9aa9-ddea2ef7895d",
     "deferLink": "https://z34v4.app.goo.gl/wBBp",
@@ -6297,7 +6297,7 @@
       "Squash",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Gamepoint HITEC</h3>\n    <strong>Ratings:</strong> 3.84 [124]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball, Squash, Table Tennis<br/>\n    <strong>Phone:</strong> 7032777333<br/>\n    <a href=\"https://z34v4.app.goo.gl/wBBp\" target=\"_blank\">https://z34v4.app.goo.gl/wBBp</a><br/>\n    "
+    "info": "\n    <h3>Gamepoint HITEC</h3>\n    <strong>Ratings:</strong> 3.85 [125]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball, Squash, Table Tennis<br/>\n    <strong>Phone:</strong> 7032777333<br/>\n    <a href=\"https://z34v4.app.goo.gl/wBBp\" target=\"_blank\">https://z34v4.app.goo.gl/wBBp</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
@@ -6580,6 +6580,21 @@
       "Golf"
     ],
     "info": "\n    <h3>Golconda Golf Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Golf<br/>\n    <strong>Phone:</strong> 40 6558 8103<br/>\n    <a href=\"https://playo.page.link/TwMNL\" target=\"_blank\">https://playo.page.link/TwMNL</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Golden Pickleball Club",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=3ee15e5d-5b4f-4c92-8df2-d978a5a8e1bf",
+    "deferLink": "http://go.playo.app/PLAYOO/i9r5S",
+    "lat": 17.45500317772663,
+    "lng": 78.38447239999995,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Golden Pickleball Club</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9866956556<br/>\n    <a href=\"http://go.playo.app/PLAYOO/i9r5S\" target=\"_blank\">http://go.playo.app/PLAYOO/i9r5S</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -8842,9 +8857,9 @@
     "info": "\n    <h3>Knockout - The Sports Club</h3>\n    <strong>Ratings:</strong> 4.36 [11]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9154328421<br/>\n    <a href=\"https://z34v4.app.goo.gl/vokQ\" target=\"_blank\">https://z34v4.app.goo.gl/vokQ</a><br/>\n    "
   },
   {
-    "avgRating": 4.55,
+    "avgRating": 4.5,
     "name": "Knockout - The Sports Club Kukatpally",
-    "ratingCount": 11,
+    "ratingCount": 12,
     "fullLink": "https://playo.co/venue?venueId=31831a76-6ad0-4c66-a1b0-44f0bb21c3e5",
     "deferLink": "https://z34v4.app.goo.gl/J88b",
     "lat": 17.483357730635557,
@@ -8857,7 +8872,7 @@
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>Knockout - The Sports Club Kukatpally</h3>\n    <strong>Ratings:</strong> 4.55 [11]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9154781756<br/>\n    <a href=\"https://z34v4.app.goo.gl/J88b\" target=\"_blank\">https://z34v4.app.goo.gl/J88b</a><br/>\n    "
+    "info": "\n    <h3>Knockout - The Sports Club Kukatpally</h3>\n    <strong>Ratings:</strong> 4.5 [12]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9154781756<br/>\n    <a href=\"https://z34v4.app.goo.gl/J88b\" target=\"_blank\">https://z34v4.app.goo.gl/J88b</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -8983,8 +8998,8 @@
     "info": "\n    <h3>LCG</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/Fm9wt\" target=\"_blank\">https://playo.page.link/Fm9wt</a><br/>\n    "
   },
   {
-    "ratingCount": 40,
-    "avgRating": 4.25,
+    "ratingCount": 41,
+    "avgRating": 4.27,
     "name": "LN SPORTS ARENA",
     "fullLink": "https://playo.co/venue?venueId=abced5e4-d335-4049-a5d9-b3368a78fc9d",
     "deferLink": "https://z34v4.app.goo.gl/UNeX",
@@ -8996,7 +9011,7 @@
       "Badminton",
       "Swimming"
     ],
-    "info": "\n    <h3>LN SPORTS ARENA</h3>\n    <strong>Ratings:</strong> 4.25 [40]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9346858567<br/>\n    <a href=\"https://z34v4.app.goo.gl/UNeX\" target=\"_blank\">https://z34v4.app.goo.gl/UNeX</a><br/>\n    "
+    "info": "\n    <h3>LN SPORTS ARENA</h3>\n    <strong>Ratings:</strong> 4.27 [41]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9346858567<br/>\n    <a href=\"https://z34v4.app.goo.gl/UNeX\" target=\"_blank\">https://z34v4.app.goo.gl/UNeX</a><br/>\n    "
   },
   {
     "ratingCount": 4,
@@ -10666,9 +10681,10 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Box Cricket"
+      "Box Cricket",
+      "Football"
     ],
-    "info": "\n    <h3>N Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9966664566<br/>\n    <a href=\"https://z34v4.app.goo.gl/aURT\" target=\"_blank\">https://z34v4.app.goo.gl/aURT</a><br/>\n    "
+    "info": "\n    <h3>N Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9966664566<br/>\n    <a href=\"https://z34v4.app.goo.gl/aURT\" target=\"_blank\">https://z34v4.app.goo.gl/aURT</a><br/>\n    "
   },
   {
     "ratingCount": 11,
@@ -12296,9 +12312,9 @@
     "info": "\n    <h3>Pick Paddlers</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9121862790<br/>\n    <a href=\"https://z34v4.app.goo.gl/gRVz\" target=\"_blank\">https://z34v4.app.goo.gl/gRVz</a><br/>\n    "
   },
   {
-    "avgRating": 4.62,
+    "avgRating": 4.64,
     "name": "PicklePlex -  Pickleball Madhapur",
-    "ratingCount": 13,
+    "ratingCount": 14,
     "fullLink": "https://playo.co/venue?venueId=1cc05558-41f3-45dc-ac44-85038eeec5b3",
     "deferLink": "https://z34v4.app.goo.gl/SdRM",
     "lat": 17.456065548489626,
@@ -12308,7 +12324,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>PicklePlex -  Pickleball Madhapur</h3>\n    <strong>Ratings:</strong> 4.62 [13]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9063068086<br/>\n    <a href=\"https://z34v4.app.goo.gl/SdRM\" target=\"_blank\">https://z34v4.app.goo.gl/SdRM</a><br/>\n    "
+    "info": "\n    <h3>PicklePlex -  Pickleball Madhapur</h3>\n    <strong>Ratings:</strong> 4.64 [14]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9063068086<br/>\n    <a href=\"https://z34v4.app.goo.gl/SdRM\" target=\"_blank\">https://z34v4.app.goo.gl/SdRM</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -12930,7 +12946,7 @@
     "info": "\n    <h3>Propickllers - Pickleball Arena</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9988220515<br/>\n    <a href=\"https://z34v4.app.goo.gl/8ysJ\" target=\"_blank\">https://z34v4.app.goo.gl/8ysJ</a><br/>\n    "
   },
   {
-    "ratingCount": 428,
+    "ratingCount": 429,
     "avgRating": 4.05,
     "name": "Pulse 7",
     "fullLink": "https://playo.co/venue?venueId=8e5a4b45-1d6c-4bb3-a8ee-a736109b4d3d",
@@ -12944,7 +12960,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Pulse 7</h3>\n    <strong>Ratings:</strong> 4.05 [428]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8465077777<br/>\n    <a href=\"https://z34v4.app.goo.gl/nWs5\" target=\"_blank\">https://z34v4.app.goo.gl/nWs5</a><br/>\n    "
+    "info": "\n    <h3>Pulse 7</h3>\n    <strong>Ratings:</strong> 4.05 [429]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8465077777<br/>\n    <a href=\"https://z34v4.app.goo.gl/nWs5\" target=\"_blank\">https://z34v4.app.goo.gl/nWs5</a><br/>\n    "
   },
   {
     "name": "Quadeeria Swimming Pool",
@@ -13530,9 +13546,9 @@
   },
   {
     "avgRating": 4.01,
-    "name": "Rapidacez Badminton & Fitness Academy ( Formerly known as Kayns)",
+    "name": "Rapidacez Badminton & Pickleball Academy ( Formerly known as Kayns)",
     "ratingCount": 67,
-    "deferLink": "https://z34v4.app.goo.gl/Z62p",
+    "deferLink": "http://go.playo.app/PLAYOO/0kguv",
     "fullLink": "https://playo.co/venue/?venueId=847cab6c-e2c4-45d1-b68e-af3fd7c94fc9",
     "lat": 17.359142,
     "lng": 78.417207,
@@ -13542,7 +13558,7 @@
       "Badminton",
       "Pickleball"
     ],
-    "info": "\n    <h3>Rapidacez Badminton & Fitness Academy ( Formerly known as Kayns)</h3>\n    <strong>Ratings:</strong> 4.01 [67]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9849448261<br/>\n    <a href=\"https://z34v4.app.goo.gl/Z62p\" target=\"_blank\">https://z34v4.app.goo.gl/Z62p</a><br/>\n    "
+    "info": "\n    <h3>Rapidacez Badminton & Pickleball Academy ( Formerly known as Kayns)</h3>\n    <strong>Ratings:</strong> 4.01 [67]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9849448261<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0kguv\" target=\"_blank\">http://go.playo.app/PLAYOO/0kguv</a><br/>\n    "
   },
   {
     "ratingCount": 16,
@@ -15393,6 +15409,21 @@
       "Football"
     ],
     "info": "\n    <h3>Shooting Stars Club</h3>\n    <strong>Ratings:</strong> 4.32 [37]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9700173150<br/>\n    <a href=\"https://z34v4.app.goo.gl/4phe\" target=\"_blank\">https://z34v4.app.goo.gl/4phe</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Shoreline Sports Hub",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=3c0e2027-6c2d-42e9-9c1d-c0c3f8e2baef",
+    "deferLink": "http://go.playo.app/PLAYOO/jZMYv",
+    "lat": 17.527394823351035,
+    "lng": 78.47660147681911,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Shoreline Sports Hub</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 900034589<br/>\n    <a href=\"http://go.playo.app/PLAYOO/jZMYv\" target=\"_blank\">http://go.playo.app/PLAYOO/jZMYv</a><br/>\n    "
   },
   {
     "avgRating": 4.58,
@@ -18641,6 +18672,22 @@
     "info": "\n    <h3>The Turf</h3>\n    <strong>Ratings:</strong> 4.44 [34]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7093693864<br/>\n    <a href=\"https://z34v4.app.goo.gl/AwXE\" target=\"_blank\">https://z34v4.app.goo.gl/AwXE</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "The Turf Adventure",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=277542a3-99c8-4df5-91ad-5787576d7471",
+    "deferLink": "http://go.playo.app/PLAYOO/7jZ46",
+    "lat": 17.329112726537605,
+    "lng": 78.25659145621403,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>The Turf Adventure</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9959814466<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7jZ46\" target=\"_blank\">http://go.playo.app/PLAYOO/7jZ46</a><br/>\n    "
+  },
+  {
     "avgRating": 4.6,
     "name": "The Turf Cafe",
     "ratingCount": 10,
@@ -18806,7 +18853,7 @@
   {
     "avgRating": 5,
     "name": "Top Swing - Pickleball",
-    "ratingCount": 12,
+    "ratingCount": 14,
     "fullLink": "https://playo.co/venue?venueId=cd20f3e2-f895-4dfd-a2e9-e02c521ad41a",
     "deferLink": "https://z34v4.app.goo.gl/BK4P",
     "lat": 17.422602925206252,
@@ -18816,7 +18863,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Top Swing - Pickleball</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9100097920<br/>\n    <a href=\"https://z34v4.app.goo.gl/BK4P\" target=\"_blank\">https://z34v4.app.goo.gl/BK4P</a><br/>\n    "
+    "info": "\n    <h3>Top Swing - Pickleball</h3>\n    <strong>Ratings:</strong> 5 [14]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9100097920<br/>\n    <a href=\"https://z34v4.app.goo.gl/BK4P\" target=\"_blank\">https://z34v4.app.goo.gl/BK4P</a><br/>\n    "
   },
   {
     "ratingCount": 3,
