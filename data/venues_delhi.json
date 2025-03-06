@@ -529,7 +529,7 @@
   {
     "avgRating": 5,
     "name": "CRD Turf Pro",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=dba99f10-693b-49aa-9131-ccad32ed9749",
     "deferLink": "http://go.playo.app/PLAYOO/CjTSz",
     "lat": 28.383084628636936,
@@ -540,7 +540,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>CRD Turf Pro</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9991111661<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CjTSz\" target=\"_blank\">http://go.playo.app/PLAYOO/CjTSz</a><br/>\n    "
+    "info": "\n    <h3>CRD Turf Pro</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9991111661<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CjTSz\" target=\"_blank\">http://go.playo.app/PLAYOO/CjTSz</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -1666,19 +1666,19 @@
     "info": "\n    <h3>K4 Snooker Cafe</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pool, Snooker<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Kick Football Club",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=344bf192-7f34-451b-9b80-eff0fbd15c0a",
     "deferLink": "http://go.playo.app/PLAYOO/nM4uH",
     "lat": 28.52386402479832,
     "lng": 77.05008971566906,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>Kick Football Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8700230025<br/>\n    <a href=\"http://go.playo.app/PLAYOO/nM4uH\" target=\"_blank\">http://go.playo.app/PLAYOO/nM4uH</a><br/>\n    "
+    "info": "\n    <h3>Kick Football Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8700230025<br/>\n    <a href=\"http://go.playo.app/PLAYOO/nM4uH\" target=\"_blank\">http://go.playo.app/PLAYOO/nM4uH</a><br/>\n    "
   },
   {
     "ratingCount": 1,
@@ -3772,6 +3772,21 @@
       "Tennis"
     ],
     "info": "\n    <h3>Sportslane</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 7897288344<br/>\n    <a href=\"https://z34v4.app.goo.gl/khGx\" target=\"_blank\">https://z34v4.app.goo.gl/khGx</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Sportyzo Box Cricket",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=0ba7d9ac-fd13-4942-93a6-a7ac0703571b",
+    "deferLink": "https://z34v4.app.goo.gl/Crm7",
+    "lat": 28.402400554477126,
+    "lng": 77.02969138465883,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Sportyzo Box Cricket</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8527736149<br/>\n    <a href=\"https://z34v4.app.goo.gl/Crm7\" target=\"_blank\">https://z34v4.app.goo.gl/Crm7</a><br/>\n    "
   },
   {
     "avgRating": 5,
