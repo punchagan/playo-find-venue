@@ -1397,10 +1397,10 @@
   },
   {
     "avgRating": 5,
-    "name": "Ballpark Padel Club",
+    "name": "Ballpark Pickleball and Padel Club",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=bd1f0370-5682-4308-962d-b74422a22c8f",
-    "deferLink": "https://z34v4.app.goo.gl/ARRc",
+    "deferLink": "http://go.playo.app/PLAYOO/KV987",
     "lat": 13.06257023058791,
     "lng": 80.21019223571051,
     "rating": 5,
@@ -1409,7 +1409,7 @@
       "Paddle Tennis",
       "Pickleball"
     ],
-    "info": "\n    <h3>Ballpark Padel Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Paddle Tennis, Pickleball<br/>\n    <strong>Phone:</strong> 9940295211<br/>\n    <a href=\"https://z34v4.app.goo.gl/ARRc\" target=\"_blank\">https://z34v4.app.goo.gl/ARRc</a><br/>\n    "
+    "info": "\n    <h3>Ballpark Pickleball and Padel Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Paddle Tennis, Pickleball<br/>\n    <strong>Phone:</strong> 9940295211<br/>\n    <a href=\"http://go.playo.app/PLAYOO/KV987\" target=\"_blank\">http://go.playo.app/PLAYOO/KV987</a><br/>\n    "
   },
   {
     "name": "Baseline Tennis Academy",
@@ -9248,20 +9248,20 @@
     "info": "\n    <h3>Pitch N Play - Valasaravakkam</h3>\n    <strong>Ratings:</strong> 3.67 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9169288888<br/>\n    <a href=\"https://z34v4.app.goo.gl/oVhC\" target=\"_blank\">https://z34v4.app.goo.gl/oVhC</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Pixel and Paddle",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=41d31f71-2c7d-40b6-a2f2-7d8bd63580b4",
     "deferLink": "http://go.playo.app/PLAYOO/D43_1",
     "lat": 13.08118459369436,
     "lng": 80.1647749705509,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Pickleball",
       "Play Station"
     ],
-    "info": "\n    <h3>Pixel and Paddle</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball, Play Station<br/>\n    <strong>Phone:</strong> 9444498898<br/>\n    <a href=\"http://go.playo.app/PLAYOO/D43_1\" target=\"_blank\">http://go.playo.app/PLAYOO/D43_1</a><br/>\n    "
+    "info": "\n    <h3>Pixel and Paddle</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball, Play Station<br/>\n    <strong>Phone:</strong> 9444498898<br/>\n    <a href=\"http://go.playo.app/PLAYOO/D43_1\" target=\"_blank\">http://go.playo.app/PLAYOO/D43_1</a><br/>\n    "
   },
   {
     "avgRating": 3.5,
@@ -9292,22 +9292,6 @@
       "Football"
     ],
     "info": "\n    <h3>Planet Adventure's Jus' Play</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 96000 16350<br/>\n    <a href=\"https://playo.page.link/TvpVe\" target=\"_blank\">https://playo.page.link/TvpVe</a><br/>\n    "
-  },
-  {
-    "ratingCount": 19,
-    "avgRating": 4.32,
-    "name": "Play-On Sports Centre",
-    "fullLink": "https://playo.co/venue?venueId=f660201d-1453-43be-ab01-940bb47d2616",
-    "deferLink": "https://z34v4.app.goo.gl/fdSP",
-    "lat": 12.962313,
-    "lng": 80.209953,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Basketball"
-    ],
-    "info": "\n    <h3>Play-On Sports Centre</h3>\n    <strong>Ratings:</strong> 4.32 [19]<br/>\n    <strong>Sports:</strong> Badminton, Basketball<br/>\n    <strong>Phone:</strong> 9884722477<br/>\n    <a href=\"https://z34v4.app.goo.gl/fdSP\" target=\"_blank\">https://z34v4.app.goo.gl/fdSP</a><br/>\n    "
   },
   {
     "avgRating": 4.88,
@@ -10260,6 +10244,22 @@
       "Badminton"
     ],
     "info": "\n    <h3>Ruckus Sporting Hub</h3>\n    <strong>Ratings:</strong> 3.5 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7010481308<br/>\n    <a href=\"https://z34v4.app.goo.gl/2pb3\" target=\"_blank\">https://z34v4.app.goo.gl/2pb3</a><br/>\n    "
+  },
+  {
+    "ratingCount": 19,
+    "avgRating": 4.32,
+    "name": "Rush Madras -Madipakkam",
+    "fullLink": "https://playo.co/venue?venueId=f660201d-1453-43be-ab01-940bb47d2616",
+    "deferLink": "http://go.playo.app/PLAYOO/TGRKe",
+    "lat": 12.962313,
+    "lng": 80.209953,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Basketball"
+    ],
+    "info": "\n    <h3>Rush Madras -Madipakkam</h3>\n    <strong>Ratings:</strong> 4.32 [19]<br/>\n    <strong>Sports:</strong> Badminton, Basketball<br/>\n    <strong>Phone:</strong> 9884722477<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TGRKe\" target=\"_blank\">http://go.playo.app/PLAYOO/TGRKe</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -15651,9 +15651,9 @@
     "info": "\n    <h3>Zen Golf Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Golf<br/>\n    <strong>Phone:</strong> 98849 13686<br/>\n    <a href=\"https://playo.page.link/AqtLP\" target=\"_blank\">https://playo.page.link/AqtLP</a><br/>\n    "
   },
   {
-    "avgRating": 4.41,
+    "avgRating": 4.42,
     "name": "Zestien Feathers Badminton Academy",
-    "ratingCount": 32,
+    "ratingCount": 33,
     "fullLink": "https://playo.co/venue?venueId=d4004e35-e9fc-4da7-bb58-1b92bb247fb0",
     "deferLink": "https://z34v4.app.goo.gl/nGs4",
     "lat": 12.985983897446987,
@@ -15663,7 +15663,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Zestien Feathers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.41 [32]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7708557855<br/>\n    <a href=\"https://z34v4.app.goo.gl/nGs4\" target=\"_blank\">https://z34v4.app.goo.gl/nGs4</a><br/>\n    "
+    "info": "\n    <h3>Zestien Feathers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.42 [33]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7708557855<br/>\n    <a href=\"https://z34v4.app.goo.gl/nGs4\" target=\"_blank\">https://z34v4.app.goo.gl/nGs4</a><br/>\n    "
   },
   {
     "name": "Zone By The Park Chennai",
