@@ -2936,7 +2936,7 @@
     "info": "\n    <h3>Rackonnect Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.62 [21]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8948945820<br/>\n    <a href=\"https://z34v4.app.goo.gl/Q9PW\" target=\"_blank\">https://z34v4.app.goo.gl/Q9PW</a><br/>\n    "
   },
   {
-    "ratingCount": 75,
+    "ratingCount": 76,
     "avgRating": 4.01,
     "name": "Rackonnect Badminton Arena - Noida Indoor Stadium",
     "fullLink": "https://playo.co/venue?venueId=34b70e3b-81a2-4a06-aa1f-637f8cab4571",
@@ -2948,7 +2948,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.01 [75]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"https://z34v4.app.goo.gl/eCbV\" target=\"_blank\">https://z34v4.app.goo.gl/eCbV</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.01 [76]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"https://z34v4.app.goo.gl/eCbV\" target=\"_blank\">https://z34v4.app.goo.gl/eCbV</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4072,6 +4072,22 @@
       "Snooker"
     ],
     "info": "\n    <h3>The Cue club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pool, Snooker<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "The Gamesforest Club",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=8abf77de-e896-4ca4-a9ab-287bce50cc01",
+    "deferLink": "http://go.playo.app/PLAYOO/oW6fU",
+    "lat": 28.419650806303284,
+    "lng": 77.12389288389917,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket",
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>The Gamesforest Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 7003282250<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oW6fU\" target=\"_blank\">http://go.playo.app/PLAYOO/oW6fU</a><br/>\n    "
   },
   {
     "avgRating": 5,
