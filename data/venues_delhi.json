@@ -2329,22 +2329,6 @@
   },
   {
     "avgRating": 5,
-    "name": "Pinaka Sports Academy",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=9fa2b236-c2eb-4497-abd5-5dd3d941f9f8",
-    "deferLink": "https://z34v4.app.goo.gl/Ghn5",
-    "lat": 28.415270845900565,
-    "lng": 77.36242693823094,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Table Tennis"
-    ],
-    "info": "\n    <h3>Pinaka Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9650487575<br/>\n    <a href=\"https://z34v4.app.goo.gl/Ghn5\" target=\"_blank\">https://z34v4.app.goo.gl/Ghn5</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
     "name": "Pinnacle Table tennis Academy",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=a11476bc-56b0-41fd-91aa-a0e83402fa3c",
@@ -2519,9 +2503,11 @@
     "rating": 3,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Basketball",
+      "Pickleball"
     ],
-    "info": "\n    <h3>PlayAll MPS Noida 11</h3>\n    <strong>Ratings:</strong> 3.57 [46]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750005057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zauNz\" target=\"_blank\">http://go.playo.app/PLAYOO/zauNz</a><br/>\n    "
+    "info": "\n    <h3>PlayAll MPS Noida 11</h3>\n    <strong>Ratings:</strong> 3.57 [46]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 8750005057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zauNz\" target=\"_blank\">http://go.playo.app/PLAYOO/zauNz</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2966,9 +2952,9 @@
     "info": "\n    <h3>Rackonnect Badminton Arena - Sonipat</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8376883367<br/>\n    <a href=\"https://z34v4.app.goo.gl/k3Lu\" target=\"_blank\">https://z34v4.app.goo.gl/k3Lu</a><br/>\n    "
   },
   {
-    "avgRating": 4.09,
+    "avgRating": 4.06,
     "name": "Rackonnect Badminton Arena - Strings & Feathers",
-    "ratingCount": 33,
+    "ratingCount": 34,
     "fullLink": "https://playo.co/venue?venueId=e57fba5d-6578-42e0-9784-64cabd8f8520",
     "deferLink": "https://z34v4.app.goo.gl/7B55",
     "lat": 28.404357953752363,
@@ -2978,7 +2964,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Badminton Arena - Strings & Feathers</h3>\n    <strong>Ratings:</strong> 4.09 [33]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"https://z34v4.app.goo.gl/7B55\" target=\"_blank\">https://z34v4.app.goo.gl/7B55</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Badminton Arena - Strings & Feathers</h3>\n    <strong>Ratings:</strong> 4.06 [34]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"https://z34v4.app.goo.gl/7B55\" target=\"_blank\">https://z34v4.app.goo.gl/7B55</a><br/>\n    "
   },
   {
     "avgRating": 4,
@@ -3326,6 +3312,23 @@
       "Tennis"
     ],
     "info": "\n    <h3>Ryders Sports Academy</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Cricket Nets, Football, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 9810141889<br/>\n    <a href=\"https://z34v4.app.goo.gl/Fmot\" target=\"_blank\">https://z34v4.app.goo.gl/Fmot</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "SA Indoors",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=9d5dd245-572e-49e2-b20a-21b8e0db8e7c",
+    "deferLink": "http://go.playo.app/PLAYOO/PzBXB",
+    "lat": 28.387534647587938,
+    "lng": 77.35395905768353,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket Nets",
+      "Pickleball",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>SA Indoors</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket Nets, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 9315079557<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PzBXB\" target=\"_blank\">http://go.playo.app/PLAYOO/PzBXB</a><br/>\n    "
   },
   {
     "avgRating": 3,
