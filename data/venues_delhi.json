@@ -419,6 +419,21 @@
     "info": "\n    <h3>Balaji Swimming Facility\n\n\n</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Basecamp By Push Sports, Tulip Club House",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=40d68e98-50f7-46fb-a1ae-368ead80810b",
+    "deferLink": "http://go.playo.app/PLAYOO/vrwsG",
+    "lat": 28.393654434010845,
+    "lng": 77.03035267245612,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Basecamp By Push Sports, Tulip Club House</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7011160782<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vrwsG\" target=\"_blank\">http://go.playo.app/PLAYOO/vrwsG</a><br/>\n    "
+  },
+  {
     "avgRating": 3.5,
     "name": "Battlefield Vaishali",
     "ratingCount": 6,
@@ -2965,24 +2980,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>Rackonnect Badminton Arena - Strings & Feathers</h3>\n    <strong>Ratings:</strong> 4.03 [35]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"https://z34v4.app.goo.gl/7B55\" target=\"_blank\">https://z34v4.app.goo.gl/7B55</a><br/>\n    "
-  },
-  {
-    "avgRating": 4,
-    "name": "Rackonnect Exclusive Padel Pickle Park (REPPP)",
-    "ratingCount": 4,
-    "fullLink": "https://playo.co/venue?venueId=19022a9d-5cae-47e8-b68f-3f970edfce3f",
-    "deferLink": "http://go.playo.app/PLAYOO/gdaPe",
-    "lat": 28.51495967709485,
-    "lng": 77.18696467361062,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football",
-      "Padel",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>Rackonnect Exclusive Padel Pickle Park (REPPP)</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9654114394<br/>\n    <a href=\"http://go.playo.app/PLAYOO/gdaPe\" target=\"_blank\">http://go.playo.app/PLAYOO/gdaPe</a><br/>\n    "
   },
   {
     "avgRating": 4.58,
