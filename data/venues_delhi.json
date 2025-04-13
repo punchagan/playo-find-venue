@@ -33,6 +33,21 @@
   },
   {
     "avgRating": 0,
+    "name": "AKS Badminton Acadmey, LPS",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=e526bdd7-c424-4de5-97fc-3e102b857e1b",
+    "deferLink": "http://go.playo.app/PLAYOO/fmI1N",
+    "lat": 28.641255643738617,
+    "lng": 77.27813796525129,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>AKS Badminton Acadmey, LPS</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fmI1N\" target=\"_blank\">http://go.playo.app/PLAYOO/fmI1N</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
     "name": "Action Land",
     "ratingCount": 0,
     "deferLink": "",
@@ -618,9 +633,24 @@
     "info": "\n    <h3>Cielo Disparo Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9625770595<br/>\n    <a href=\"https://z34v4.app.goo.gl/dCqJ\" target=\"_blank\">https://z34v4.app.goo.gl/dCqJ</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Cielo Disparo Sports",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=98b97743-d03c-4637-8aed-7e1b8e321201",
+    "deferLink": "https://z34v4.app.goo.gl/dCqJ",
+    "lat": 28.69392711,
+    "lng": 77.18029651,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Cielo Disparo Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9625770595<br/>\n    <a href=\"https://z34v4.app.goo.gl/dCqJ\" target=\"_blank\">https://z34v4.app.goo.gl/dCqJ</a><br/>\n    "
+  },
+  {
     "avgRating": 5,
     "name": "ClayGrounds Arena",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=f8fe76ae-4ee4-469a-95ee-bfc977733f86",
     "deferLink": "http://go.playo.app/PLAYOO/HyD2r",
     "lat": 28.529028583446042,
@@ -630,7 +660,7 @@
     "filter_by": [
       "Football"
     ],
-    "info": "\n    <h3>ClayGrounds Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7827509127<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HyD2r\" target=\"_blank\">http://go.playo.app/PLAYOO/HyD2r</a><br/>\n    "
+    "info": "\n    <h3>ClayGrounds Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 7827509127<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HyD2r\" target=\"_blank\">http://go.playo.app/PLAYOO/HyD2r</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -1041,23 +1071,6 @@
       "Swimming"
     ],
     "info": "\n    <h3>Energy Gym and Swimming Pool</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "Euphoria Sports",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=2182f96e-c0f8-4c3a-81fc-d7de2e5221e9",
-    "deferLink": "https://z34v4.app.goo.gl/oPnq",
-    "lat": 28.69388876,
-    "lng": 77.18015215,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Euphoria Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://z34v4.app.goo.gl/oPnq\" target=\"_blank\">https://z34v4.app.goo.gl/oPnq</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -2935,9 +2948,9 @@
     "info": "\n    <h3>Rackonnect Ace Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"https://z34v4.app.goo.gl/g4Yr\" target=\"_blank\">https://z34v4.app.goo.gl/g4Yr</a><br/>\n    "
   },
   {
-    "avgRating": 4.62,
+    "avgRating": 4.64,
     "name": "Rackonnect Badminton Arena",
-    "ratingCount": 21,
+    "ratingCount": 22,
     "fullLink": "https://playo.co/venue?venueId=d5e9bd81-7442-4102-ab46-a9c630eb59d0",
     "deferLink": "https://z34v4.app.goo.gl/Q9PW",
     "lat": 28.389984029658777,
@@ -2949,7 +2962,7 @@
       "Pickleball",
       "Pool"
     ],
-    "info": "\n    <h3>Rackonnect Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.62 [21]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8948945820<br/>\n    <a href=\"https://z34v4.app.goo.gl/Q9PW\" target=\"_blank\">https://z34v4.app.goo.gl/Q9PW</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.64 [22]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8948945820<br/>\n    <a href=\"https://z34v4.app.goo.gl/Q9PW\" target=\"_blank\">https://z34v4.app.goo.gl/Q9PW</a><br/>\n    "
   },
   {
     "ratingCount": 76,
@@ -3012,9 +3025,9 @@
     "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.58 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"https://z34v4.app.goo.gl/6m4t\" target=\"_blank\">https://z34v4.app.goo.gl/6m4t</a><br/>\n    "
   },
   {
-    "avgRating": 3.83,
+    "avgRating": 3.84,
     "name": "Rackonnect Next Level Badminton Arena",
-    "ratingCount": 24,
+    "ratingCount": 25,
     "fullLink": "https://playo.co/venue?venueId=ceb82728-82dd-40c9-8fb2-8ea8f82ecb68",
     "deferLink": "https://z34v4.app.goo.gl/skXs",
     "lat": 28.55258908463302,
@@ -3024,7 +3037,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.83 [24]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"https://z34v4.app.goo.gl/skXs\" target=\"_blank\">https://z34v4.app.goo.gl/skXs</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.84 [25]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"https://z34v4.app.goo.gl/skXs\" target=\"_blank\">https://z34v4.app.goo.gl/skXs</a><br/>\n    "
   },
   {
     "avgRating": 5,
