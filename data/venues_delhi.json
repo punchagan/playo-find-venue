@@ -34,7 +34,7 @@
   {
     "avgRating": 5,
     "name": "AGIS Table Tennis Academy",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=fb7e4d37-b56c-457b-8f28-0daa584f1d96",
     "deferLink": "http://go.playo.app/PLAYOO/zsKSK",
     "lat": 28.43358219894586,
@@ -44,7 +44,7 @@
     "filter_by": [
       "Table Tennis"
     ],
-    "info": "\n    <h3>AGIS Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 8447099422<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zsKSK\" target=\"_blank\">http://go.playo.app/PLAYOO/zsKSK</a><br/>\n    "
+    "info": "\n    <h3>AGIS Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 8447099422<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zsKSK\" target=\"_blank\">http://go.playo.app/PLAYOO/zsKSK</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -4199,36 +4199,6 @@
       "Volleyball"
     ],
     "info": "\n    <h3>Thyagaraj Sports Complex</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Boxing, Cricket, Football, Kabaddi, Table Tennis, Volleyball<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
-  },
-  {
-    "avgRating": 3.06,
-    "name": "Tirang Badminton Center - Dwarka Sector 10",
-    "ratingCount": 17,
-    "fullLink": "https://playo.co/venue?venueId=0cc75024-d247-4d7f-94c8-f3d3c89534e3",
-    "deferLink": "https://z34v4.app.goo.gl/cH6u",
-    "lat": 28.58418590204774,
-    "lng": 77.05799487301869,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Tirang Badminton Center - Dwarka Sector 10</h3>\n    <strong>Ratings:</strong> 3.06 [17]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9818727750<br/>\n    <a href=\"https://z34v4.app.goo.gl/cH6u\" target=\"_blank\">https://z34v4.app.goo.gl/cH6u</a><br/>\n    "
-  },
-  {
-    "ratingCount": 6,
-    "avgRating": 4.67,
-    "name": "Tirang Badminton Centre",
-    "fullLink": "https://playo.co/venue?venueId=ddf490a7-b681-48f8-9472-e61c249db42c",
-    "deferLink": "https://z34v4.app.goo.gl/nsQ6",
-    "lat": 28.57975824266776,
-    "lng": 77.01293495744117,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Tirang Badminton Centre</h3>\n    <strong>Ratings:</strong> 4.67 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9773582228<br/>\n    <a href=\"https://z34v4.app.goo.gl/nsQ6\" target=\"_blank\">https://z34v4.app.goo.gl/nsQ6</a><br/>\n    "
   },
   {
     "avgRating": 4.27,
