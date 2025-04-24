@@ -1168,21 +1168,6 @@
     "info": "\n    <h3>Aqua Technic</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 93913 55379<br/>\n    <a href=\"https://playo.page.link/pn2oe\" target=\"_blank\">https://playo.page.link/pn2oe</a><br/>\n    "
   },
   {
-    "name": "Aqua Technic",
-    "rating": 0,
-    "deferLink": "https://playo.page.link/pn2oe",
-    "fullLink": "https://playo.co/venue/?venueId=b84a3a8c-fd70-47e0-a22e-051705820070",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 17.404432,
-    "lng": 78.46168,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Swimming"
-    ],
-    "info": "\n    <h3>Aqua Technic</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 93913 55379<br/>\n    <a href=\"https://playo.page.link/pn2oe\" target=\"_blank\">https://playo.page.link/pn2oe</a><br/>\n    "
-  },
-  {
     "name": "Aquatechnic",
     "rating": 0,
     "deferLink": "https://playo.page.link/YDA7n",
@@ -2023,6 +2008,21 @@
       "Basketball"
     ],
     "info": "\n    <h3>Basket Ball Court04</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/MCvAK\" target=\"_blank\">https://playo.page.link/MCvAK</a><br/>\n    "
+  },
+  {
+    "name": "Basket Ball Court1",
+    "rating": 0,
+    "deferLink": "https://playo.page.link/ubmHG",
+    "fullLink": "https://playo.co/venue/?venueId=0f909f79-6c3b-4a65-bd8b-a069542260a8",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "lat": 17.4275301,
+    "lng": 78.4448628,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Basketball"
+    ],
+    "info": "\n    <h3>Basket Ball Court1</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/ubmHG\" target=\"_blank\">https://playo.page.link/ubmHG</a><br/>\n    "
   },
   {
     "name": "Basket Ball Court1",
@@ -2933,7 +2933,7 @@
   {
     "avgRating": 3.79,
     "name": "CJR Sports Centre",
-    "ratingCount": 157,
+    "ratingCount": 158,
     "deferLink": "https://z34v4.app.goo.gl/Iv4b",
     "fullLink": "https://playo.co/venue/?venueId=42d2cb4c-7671-4988-afc2-c9b5917e9e45",
     "lat": 17.494556,
@@ -2943,7 +2943,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>CJR Sports Centre</h3>\n    <strong>Ratings:</strong> 3.79 [157]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8885557577<br/>\n    <a href=\"https://z34v4.app.goo.gl/Iv4b\" target=\"_blank\">https://z34v4.app.goo.gl/Iv4b</a><br/>\n    "
+    "info": "\n    <h3>CJR Sports Centre</h3>\n    <strong>Ratings:</strong> 3.79 [158]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8885557577<br/>\n    <a href=\"https://z34v4.app.goo.gl/Iv4b\" target=\"_blank\">https://z34v4.app.goo.gl/Iv4b</a><br/>\n    "
   },
   {
     "name": "CLUBHOUSE VENSAI SNOOKER PALACE",
@@ -6125,6 +6125,21 @@
   },
   {
     "avgRating": 5,
+    "name": "GSS Lords Big Box Cricket",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=fb604bb3-c48d-45db-9647-82fea90440ec",
+    "deferLink": "http://go.playo.app/PLAYOO/K0ELW",
+    "lat": 17.466738973175993,
+    "lng": 78.38990105079759,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>GSS Lords Big Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 7842302345<br/>\n    <a href=\"http://go.playo.app/PLAYOO/K0ELW\" target=\"_blank\">http://go.playo.app/PLAYOO/K0ELW</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "GT Sports Arena",
     "ratingCount": 8,
     "fullLink": "https://playo.co/venue?venueId=47ef442d-86de-4076-957e-ae67c45e9a86",
@@ -8461,21 +8476,6 @@
   },
   {
     "avgRating": 5,
-    "name": "Jwala Gutta Academy Of Excellence",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=ecaa8ae4-3bfd-41c1-9d44-821d2b79fdb3",
-    "deferLink": "https://z34v4.app.goo.gl/xggZ",
-    "lat": 17.33047290964459,
-    "lng": 78.30610898310763,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Jwala Gutta Academy Of Excellence</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8885534960<br/>\n    <a href=\"https://z34v4.app.goo.gl/xggZ\" target=\"_blank\">https://z34v4.app.goo.gl/xggZ</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
     "name": "K S Badminton Academy",
     "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=cf3bcd08-4dc5-47f0-9eca-0553d58d7f6f",
@@ -9487,21 +9487,6 @@
       "Football"
     ],
     "info": "\n    <h3>Lords</h3>\n    <strong>Ratings:</strong> 4.65 [52]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7842302345<br/>\n    <a href=\"https://z34v4.app.goo.gl/bkUD\" target=\"_blank\">https://z34v4.app.goo.gl/bkUD</a><br/>\n    "
-  },
-  {
-    "name": "Lords Cricket Ground",
-    "rating": 0,
-    "deferLink": "https://playo.page.link/M7oeu",
-    "fullLink": "https://playo.co/venue/?venueId=fc943b6f-eb82-4738-8683-600f9b0b4fe2",
-    "avgRating": 0,
-    "ratingCount": 0,
-    "lat": 17.4181518,
-    "lng": 78.4848273,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Cricket"
-    ],
-    "info": "\n    <h3>Lords Cricket Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 96405 60333<br/>\n    <a href=\"https://playo.page.link/M7oeu\" target=\"_blank\">https://playo.page.link/M7oeu</a><br/>\n    "
   },
   {
     "name": "Lotus Lap Swimming Pool",
@@ -12686,7 +12671,7 @@
   {
     "avgRating": 5,
     "name": "Pitch In a Box",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=c8fb7ea7-b8ba-496e-9a3b-17df4acca887",
     "deferLink": "http://go.playo.app/PLAYOO/J8fFF",
     "lat": 17.42619389979151,
@@ -12696,7 +12681,7 @@
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Pitch In a Box</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9059943377<br/>\n    <a href=\"http://go.playo.app/PLAYOO/J8fFF\" target=\"_blank\">http://go.playo.app/PLAYOO/J8fFF</a><br/>\n    "
+    "info": "\n    <h3>Pitch In a Box</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9059943377<br/>\n    <a href=\"http://go.playo.app/PLAYOO/J8fFF\" target=\"_blank\">http://go.playo.app/PLAYOO/J8fFF</a><br/>\n    "
   },
   {
     "ratingCount": 12,
@@ -16042,8 +16027,8 @@
     "info": "\n    <h3>Sinnet Tennis Academy</h3>\n    <strong>Ratings:</strong> 4.4 [5]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/XGaC\" target=\"_blank\">https://z34v4.app.goo.gl/XGaC</a><br/>\n    "
   },
   {
-    "ratingCount": 17,
-    "avgRating": 3.71,
+    "ratingCount": 18,
+    "avgRating": 3.78,
     "name": "Sixty 9th Avenue",
     "fullLink": "https://playo.co/venue?venueId=cfa4bb68-241b-42e4-8d6e-cfd32aaa0e0b",
     "deferLink": "https://z34v4.app.goo.gl/1fqy",
@@ -16054,7 +16039,7 @@
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Sixty 9th Avenue</h3>\n    <strong>Ratings:</strong> 3.71 [17]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8297074427<br/>\n    <a href=\"https://z34v4.app.goo.gl/1fqy\" target=\"_blank\">https://z34v4.app.goo.gl/1fqy</a><br/>\n    "
+    "info": "\n    <h3>Sixty 9th Avenue</h3>\n    <strong>Ratings:</strong> 3.78 [18]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8297074427<br/>\n    <a href=\"https://z34v4.app.goo.gl/1fqy\" target=\"_blank\">https://z34v4.app.goo.gl/1fqy</a><br/>\n    "
   },
   {
     "ratingCount": 62,
@@ -17099,7 +17084,7 @@
   {
     "avgRating": 3.38,
     "name": "Sri Sai Badminton Stadium",
-    "ratingCount": 412,
+    "ratingCount": 413,
     "deferLink": "https://z34v4.app.goo.gl/8qvL",
     "fullLink": "https://playo.co/venue/?venueId=3765c1ad-455e-47dc-b94b-34760cfd9ba6",
     "lat": 17.489518,
@@ -17110,7 +17095,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Sri Sai Badminton Stadium</h3>\n    <strong>Ratings:</strong> 3.38 [412]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9396477227<br/>\n    <a href=\"https://z34v4.app.goo.gl/8qvL\" target=\"_blank\">https://z34v4.app.goo.gl/8qvL</a><br/>\n    "
+    "info": "\n    <h3>Sri Sai Badminton Stadium</h3>\n    <strong>Ratings:</strong> 3.38 [413]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9396477227<br/>\n    <a href=\"https://z34v4.app.goo.gl/8qvL\" target=\"_blank\">https://z34v4.app.goo.gl/8qvL</a><br/>\n    "
   },
   {
     "name": "Sri Sai Siri Swimming Pool",
