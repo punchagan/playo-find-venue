@@ -4194,20 +4194,20 @@
     "info": "\n    <h3>FC Marina - Madipakkam</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9962220400<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GXreK\" target=\"_blank\">http://go.playo.app/PLAYOO/GXreK</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "FC Marina - Mugalivakkam",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=0db87753-6c10-4829-b98c-b91721836386",
     "lat": 13.015958560856317,
     "lng": 80.1527827503736,
     "deferLink": "",
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>FC Marina - Mugalivakkam</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9500775963<br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
+    "info": "\n    <h3>FC Marina - Mugalivakkam</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9500775963<br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5162,9 +5162,9 @@
     "info": "\n    <h3>GSA Squash Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Squash<br/>\n    <strong>Phone:</strong> None<br/>\n    <a href=\"https://playo.page.link/oxveS\" target=\"_blank\">https://playo.page.link/oxveS</a><br/>\n    "
   },
   {
-    "avgRating": 4.83,
+    "avgRating": 4.86,
     "name": "Game City Turf",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "fullLink": "https://playo.co/venue?venueId=04c956fe-4c91-4bdc-ad22-35355148f444",
     "deferLink": "https://z34v4.app.goo.gl/mZg2",
     "lat": 12.908264057014614,
@@ -5175,7 +5175,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Game City Turf</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9384638563<br/>\n    <a href=\"https://z34v4.app.goo.gl/mZg2\" target=\"_blank\">https://z34v4.app.goo.gl/mZg2</a><br/>\n    "
+    "info": "\n    <h3>Game City Turf</h3>\n    <strong>Ratings:</strong> 4.86 [7]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9384638563<br/>\n    <a href=\"https://z34v4.app.goo.gl/mZg2\" target=\"_blank\">https://z34v4.app.goo.gl/mZg2</a><br/>\n    "
   },
   {
     "avgRating": 3,
@@ -6810,6 +6810,23 @@
       "Tennis"
     ],
     "info": "\n    <h3>Just Tennis Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 90945 52100<br/>\n    <a href=\"https://playo.page.link/1m7L3\" target=\"_blank\">https://playo.page.link/1m7L3</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "K Square Sports Arena",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=8187aa18-1903-4968-920b-00b956f56b67",
+    "deferLink": "http://go.playo.app/PLAYOO/TG0Ae",
+    "lat": 13.133011885272621,
+    "lng": 80.1841807714121,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>K Square Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9791162347<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TG0Ae\" target=\"_blank\">http://go.playo.app/PLAYOO/TG0Ae</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -12256,8 +12273,8 @@
     "info": "\n    <h3>Spark Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.6 [20]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 98844 27199<br/>\n    <a href=\"https://playo.page.link/qmPcg\" target=\"_blank\">https://playo.page.link/qmPcg</a><br/>\n    "
   },
   {
-    "ratingCount": 12,
-    "avgRating": 4.33,
+    "ratingCount": 13,
+    "avgRating": 4.38,
     "name": "Spark Turf",
     "fullLink": "https://playo.co/venue?venueId=3f8bdec4-5f29-4377-905a-d57e0de9f1a3",
     "deferLink": "https://z34v4.app.goo.gl/miKH",
@@ -12269,7 +12286,7 @@
       "Box Cricket",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Spark Turf</h3>\n    <strong>Ratings:</strong> 4.33 [12]<br/>\n    <strong>Sports:</strong> Box Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 8277995523<br/>\n    <a href=\"https://z34v4.app.goo.gl/miKH\" target=\"_blank\">https://z34v4.app.goo.gl/miKH</a><br/>\n    "
+    "info": "\n    <h3>Spark Turf</h3>\n    <strong>Ratings:</strong> 4.38 [13]<br/>\n    <strong>Sports:</strong> Box Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 8277995523<br/>\n    <a href=\"https://z34v4.app.goo.gl/miKH\" target=\"_blank\">https://z34v4.app.goo.gl/miKH</a><br/>\n    "
   },
   {
     "ratingCount": 12,
