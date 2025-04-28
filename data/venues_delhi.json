@@ -376,7 +376,7 @@
   {
     "avgRating": 5,
     "name": "Badminton Academy By Sportyzo",
-    "ratingCount": 7,
+    "ratingCount": 8,
     "fullLink": "https://playo.co/venue?venueId=c11de890-75a8-4db5-b9aa-b1b06847bf73",
     "deferLink": "https://z34v4.app.goo.gl/37dd",
     "lat": 28.40241900505015,
@@ -386,7 +386,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Badminton Academy By Sportyzo</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8527736149<br/>\n    <a href=\"https://z34v4.app.goo.gl/37dd\" target=\"_blank\">https://z34v4.app.goo.gl/37dd</a><br/>\n    "
+    "info": "\n    <h3>Badminton Academy By Sportyzo</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8527736149<br/>\n    <a href=\"https://z34v4.app.goo.gl/37dd\" target=\"_blank\">https://z34v4.app.goo.gl/37dd</a><br/>\n    "
   },
   {
     "avgRating": 4.29,
@@ -404,19 +404,19 @@
     "info": "\n    <h3>Badminton Excellence Center</h3>\n    <strong>Ratings:</strong> 4.29 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9999804602<br/>\n    <a href=\"https://z34v4.app.goo.gl/sPFA\" target=\"_blank\">https://z34v4.app.goo.gl/sPFA</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4.67,
     "name": "Badminton24",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=5e0a6b65-cd05-4cf1-ba86-18a5560efe9b",
     "deferLink": "https://z34v4.app.goo.gl/JVqH",
     "lat": 28.509473410142206,
     "lng": 77.39169904232857,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"https://z34v4.app.goo.gl/JVqH\" target=\"_blank\">https://z34v4.app.goo.gl/JVqH</a><br/>\n    "
+    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 4.67 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"https://z34v4.app.goo.gl/JVqH\" target=\"_blank\">https://z34v4.app.goo.gl/JVqH</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -436,7 +436,7 @@
   {
     "avgRating": 5,
     "name": "Basecamp By Push Sports, Tulip Club House",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=40d68e98-50f7-46fb-a1ae-368ead80810b",
     "deferLink": "http://go.playo.app/PLAYOO/vrwsG",
     "lat": 28.393654434010845,
@@ -446,7 +446,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Basecamp By Push Sports, Tulip Club House</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7011160782<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vrwsG\" target=\"_blank\">http://go.playo.app/PLAYOO/vrwsG</a><br/>\n    "
+    "info": "\n    <h3>Basecamp By Push Sports, Tulip Club House</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7011160782<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vrwsG\" target=\"_blank\">http://go.playo.app/PLAYOO/vrwsG</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3799,6 +3799,21 @@
       "Tennis"
     ],
     "info": "\n    <h3>Sports Shala (A Sports Academy)</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball, Cricket, Football, Gymming, Skates, Tennis<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Sports Town 65",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=c6b0af7b-a75b-40e5-8e7a-963831e00ea6",
+    "deferLink": "http://go.playo.app/PLAYOO/Wb3kQ",
+    "lat": 28.404511307014964,
+    "lng": 77.07304708465708,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Sports Town 65</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8527736149<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Wb3kQ\" target=\"_blank\">http://go.playo.app/PLAYOO/Wb3kQ</a><br/>\n    "
   },
   {
     "ratingCount": 6,
