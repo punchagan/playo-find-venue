@@ -1060,6 +1060,23 @@
     "info": "\n    <h3>Euphoria Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://z34v4.app.goo.gl/oPnq\" target=\"_blank\">https://z34v4.app.goo.gl/oPnq</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Euphoria Sports",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=2182f96e-c0f8-4c3a-81fc-d7de2e5221e9",
+    "deferLink": "https://z34v4.app.goo.gl/oPnq",
+    "lat": 28.69388876,
+    "lng": 77.18015215,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Euphoria Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"https://z34v4.app.goo.gl/oPnq\" target=\"_blank\">https://z34v4.app.goo.gl/oPnq</a><br/>\n    "
+  },
+  {
     "ratingCount": 2,
     "avgRating": 3.5,
     "name": "Faceoff - Play.All",
@@ -1417,21 +1434,6 @@
       "Workout"
     ],
     "info": "\n    <h3>Hari Nagar Sports Complex</h3>\n    <strong>Ratings:</strong> 3.56 [9]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Cricket, Football, Swimming, Table Tennis, Tennis, Volleyball, Workout<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"https://z34v4.app.goo.gl/Oxh0\" target=\"_blank\">https://z34v4.app.goo.gl/Oxh0</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "Healthways",
-    "ratingCount": 0,
-    "deferLink": "",
-    "fullLink": "https://playo.co/venue/?venueId=1e1c11bc-c857-463e-b473-5162c2b708bf",
-    "lat": 28.681897,
-    "lng": 77.160168,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Swimming"
-    ],
-    "info": "\n    <h3>Healthways</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -1862,6 +1864,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Love India Badminton Academy</h3>\n    <strong>Ratings:</strong> 3 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8610677705<br/>\n    <a href=\"https://z34v4.app.goo.gl/bt55\" target=\"_blank\">https://z34v4.app.goo.gl/bt55</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Lovely Public School",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=e526bdd7-c424-4de5-97fc-3e102b857e1b",
+    "deferLink": "http://go.playo.app/PLAYOO/fmI1N",
+    "lat": 28.641255643738617,
+    "lng": 77.27813796525129,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Lovely Public School</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fmI1N\" target=\"_blank\">http://go.playo.app/PLAYOO/fmI1N</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -2703,7 +2720,7 @@
   {
     "avgRating": 5,
     "name": "Playall Sports Arena - DIS Dwarka",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=05600d6b-786b-4047-92b8-9042d0403ddb",
     "deferLink": "https://z34v4.app.goo.gl/wHZc",
     "lat": 28.56412981186823,
@@ -2716,7 +2733,7 @@
       "Futsal",
       "Pickleball"
     ],
-    "info": "\n    <h3>Playall Sports Arena - DIS Dwarka</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667371295<br/>\n    <a href=\"https://z34v4.app.goo.gl/wHZc\" target=\"_blank\">https://z34v4.app.goo.gl/wHZc</a><br/>\n    "
+    "info": "\n    <h3>Playall Sports Arena - DIS Dwarka</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667371295<br/>\n    <a href=\"https://z34v4.app.goo.gl/wHZc\" target=\"_blank\">https://z34v4.app.goo.gl/wHZc</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2950,8 +2967,8 @@
     "info": "\n    <h3>Rackonnect Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.64 [22]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8948945820<br/>\n    <a href=\"https://z34v4.app.goo.gl/Q9PW\" target=\"_blank\">https://z34v4.app.goo.gl/Q9PW</a><br/>\n    "
   },
   {
-    "ratingCount": 78,
-    "avgRating": 3.97,
+    "ratingCount": 79,
+    "avgRating": 3.99,
     "name": "Rackonnect Badminton Arena - Noida Indoor Stadium",
     "fullLink": "https://playo.co/venue?venueId=34b70e3b-81a2-4a06-aa1f-637f8cab4571",
     "deferLink": "https://z34v4.app.goo.gl/eCbV",
@@ -2962,7 +2979,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 3.97 [78]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"https://z34v4.app.goo.gl/eCbV\" target=\"_blank\">https://z34v4.app.goo.gl/eCbV</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 3.99 [79]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"https://z34v4.app.goo.gl/eCbV\" target=\"_blank\">https://z34v4.app.goo.gl/eCbV</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4230,19 +4247,19 @@
     "info": "\n    <h3>Triptych Sports Complex</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 9650231991<br/>\n    <a href=\"https://z34v4.app.goo.gl/jRsK\" target=\"_blank\">https://z34v4.app.goo.gl/jRsK</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Turf HQ",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=c14d7d26-2f29-4191-8f7b-12d85a8cfee4",
     "deferLink": "http://go.playo.app/PLAYOO/r60JE",
     "lat": 28.603537747625072,
     "lng": 77.4448170664864,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Turf HQ</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9999915660<br/>\n    <a href=\"http://go.playo.app/PLAYOO/r60JE\" target=\"_blank\">http://go.playo.app/PLAYOO/r60JE</a><br/>\n    "
+    "info": "\n    <h3>Turf HQ</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9999915660<br/>\n    <a href=\"http://go.playo.app/PLAYOO/r60JE\" target=\"_blank\">http://go.playo.app/PLAYOO/r60JE</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
