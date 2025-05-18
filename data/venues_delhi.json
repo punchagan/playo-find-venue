@@ -4184,6 +4184,22 @@
   },
   {
     "avgRating": 5,
+    "name": "The Gamesforest Club",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=8abf77de-e896-4ca4-a9ab-287bce50cc01",
+    "deferLink": "http://go.playo.app/PLAYOO/oW6fU",
+    "lat": 28.419650806303284,
+    "lng": 77.12389288389917,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Cricket",
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>The Gamesforest Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 7003282250<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oW6fU\" target=\"_blank\">http://go.playo.app/PLAYOO/oW6fU</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "The Minda Club",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=15b9f725-fbe7-4127-8f83-663d17986728",
