@@ -1664,6 +1664,21 @@
   },
   {
     "avgRating": 5,
+    "name": "JNS Sports Academy - Gurugram",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=b280372e-4a61-4d96-9172-6ab6a0c0cc17",
+    "deferLink": "http://go.playo.app/PLAYOO/haMQB",
+    "lat": 28.429404660576648,
+    "lng": 77.06650663816386,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>JNS Sports Academy - Gurugram</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9990211093<br/>\n    <a href=\"http://go.playo.app/PLAYOO/haMQB\" target=\"_blank\">http://go.playo.app/PLAYOO/haMQB</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Jagriti Swimming Academy",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=3e038cf7-7938-40a7-b90a-330b5e12dc76",
