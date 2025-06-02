@@ -3997,6 +3997,53 @@
   },
   {
     "avgRating": 5,
+    "name": "Strike The Ball - Sector 10A",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=7d979c07-cb3a-4c18-b205-88c80d589552",
+    "deferLink": "http://go.playo.app/PLAYOO/KzEtU",
+    "lat": 28.4402276968266,
+    "lng": 77.00656181023953,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Cricket Nets",
+      "Football"
+    ],
+    "info": "\n    <h3>Strike The Ball - Sector 10A</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7982565684<br/>\n    <a href=\"http://go.playo.app/PLAYOO/KzEtU\" target=\"_blank\">http://go.playo.app/PLAYOO/KzEtU</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Strike The Ball - Sector 93",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=44c613e1-295e-485e-986e-d6ab0e81a2d3",
+    "deferLink": "http://go.playo.app/PLAYOO/8j7jT",
+    "lat": 28.415468357302373,
+    "lng": 76.93398268704638,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>Strike The Ball - Sector 93</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 7982565684<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8j7jT\" target=\"_blank\">http://go.playo.app/PLAYOO/8j7jT</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Strike The Ball New Palam Vihar",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=bcc143a6-4266-4648-8bd1-d1b402ea5ed3",
+    "deferLink": "http://go.playo.app/PLAYOO/J3Ve-",
+    "lat": 28.503272813193554,
+    "lng": 77.01847943207838,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>Strike The Ball New Palam Vihar</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 7982565684<br/>\n    <a href=\"http://go.playo.app/PLAYOO/J3Ve-\" target=\"_blank\">http://go.playo.app/PLAYOO/J3Ve-</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Strike The Box",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=40e6c712-226e-412c-82f9-1c298f533331",
