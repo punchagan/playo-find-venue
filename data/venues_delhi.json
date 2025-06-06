@@ -2748,7 +2748,7 @@
   {
     "avgRating": 5,
     "name": "Playall Sports Arena - DIS Dwarka",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=05600d6b-786b-4047-92b8-9042d0403ddb",
     "deferLink": "https://z34v4.app.goo.gl/wHZc",
     "lat": 28.56412981186823,
@@ -2761,7 +2761,7 @@
       "Futsal",
       "Pickleball"
     ],
-    "info": "\n    <h3>Playall Sports Arena - DIS Dwarka</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667371295<br/>\n    <a href=\"https://z34v4.app.goo.gl/wHZc\" target=\"_blank\">https://z34v4.app.goo.gl/wHZc</a><br/>\n    "
+    "info": "\n    <h3>Playall Sports Arena - DIS Dwarka</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667371295<br/>\n    <a href=\"https://z34v4.app.goo.gl/wHZc\" target=\"_blank\">https://z34v4.app.goo.gl/wHZc</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4136,6 +4136,22 @@
   },
   {
     "avgRating": 5,
+    "name": "The 59 Arena & Cafe",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=003bad78-e15a-420f-9f59-c01890cd8e17",
+    "deferLink": "http://go.playo.app/PLAYOO/3rFcK",
+    "lat": 28.374439680059776,
+    "lng": 77.0037778,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>The 59 Arena & Cafe</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9205263380<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3rFcK\" target=\"_blank\">http://go.playo.app/PLAYOO/3rFcK</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "The Ball - Out Turf Cricket",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=9f582b6e-9ba9-4927-be52-7b5986601456",
@@ -4294,9 +4310,9 @@
     "info": "\n    <h3>Thyagaraj Sports Complex</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Boxing, Cricket, Football, Kabaddi, Table Tennis, Volleyball<br/>\n    <strong>Phone:</strong> <br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
-    "avgRating": 4.27,
+    "avgRating": 4,
     "name": "Top Smashers Badminton Academy",
-    "ratingCount": 11,
+    "ratingCount": 12,
     "fullLink": "https://playo.co/venue?venueId=8d3eed35-9a5c-43c9-9006-20080c8866a5",
     "deferLink": "https://z34v4.app.goo.gl/GhE9",
     "lat": 28.60898759233924,
@@ -4306,7 +4322,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.27 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"https://z34v4.app.goo.gl/GhE9\" target=\"_blank\">https://z34v4.app.goo.gl/GhE9</a><br/>\n    "
+    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"https://z34v4.app.goo.gl/GhE9\" target=\"_blank\">https://z34v4.app.goo.gl/GhE9</a><br/>\n    "
   },
   {
     "avgRating": 4,
