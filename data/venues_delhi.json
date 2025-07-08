@@ -246,9 +246,9 @@
     "info": "\n    <h3>Basecamp by Push Sports - Tulip Club House</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7011160782<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vrwsG\" target=\"_blank\">http://go.playo.app/PLAYOO/vrwsG</a><br/>\n    "
   },
   {
-    "avgRating": 3.25,
+    "avgRating": 3.11,
     "name": "Battlefield Vaishali",
-    "ratingCount": 8,
+    "ratingCount": 9,
     "fullLink": "https://playo.co/venue?venueId=0844815a-4112-4361-9cc4-4c4db0f354c7",
     "deferLink": "https://z34v4.app.goo.gl/7Ay5",
     "lat": 28.645250482174553,
@@ -259,7 +259,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Battlefield Vaishali</h3>\n    <strong>Ratings:</strong> 3.25 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9265860087<br/>\n    <a href=\"https://z34v4.app.goo.gl/7Ay5\" target=\"_blank\">https://z34v4.app.goo.gl/7Ay5</a><br/>\n    "
+    "info": "\n    <h3>Battlefield Vaishali</h3>\n    <strong>Ratings:</strong> 3.11 [9]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9265860087<br/>\n    <a href=\"https://z34v4.app.goo.gl/7Ay5\" target=\"_blank\">https://z34v4.app.goo.gl/7Ay5</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -1215,6 +1215,22 @@
     "info": "\n    <h3>PlayAll Faridabad 88</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750005054<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0oQiH\" target=\"_blank\">http://go.playo.app/PLAYOO/0oQiH</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "PlayAll Football Arena - Abhinav School",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=d0a5af6f-e6a5-4c42-9082-d5908465d79c",
+    "deferLink": "http://go.playo.app/PLAYOO/MEIwv",
+    "lat": 28.71713434959544,
+    "lng": 77.14311732945015,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Futsal"
+    ],
+    "info": "\n    <h3>PlayAll Football Arena - Abhinav School</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9220403634<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MEIwv\" target=\"_blank\">http://go.playo.app/PLAYOO/MEIwv</a><br/>\n    "
+  },
+  {
     "ratingCount": 37,
     "avgRating": 3.78,
     "name": "PlayAll Gaurcity 1",
@@ -1279,6 +1295,25 @@
       "Futsal"
     ],
     "info": "\n    <h3>PlayAll KPS Alaknanda</h3>\n    <strong>Ratings:</strong> 4.89 [28]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9773677361<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yZuaV\" target=\"_blank\">http://go.playo.app/PLAYOO/yZuaV</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "PlayAll MCL Hari Nagar",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=a1f90f28-5057-4fd7-bcc3-94b7898cd774",
+    "deferLink": "http://go.playo.app/PLAYOO/7ZWJa",
+    "lat": 28.627998271531304,
+    "lng": 77.1072039141886,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Basketball",
+      "Box Cricket",
+      "Futsal",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll MCL Hari Nagar</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9220311088<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7ZWJa\" target=\"_blank\">http://go.playo.app/PLAYOO/7ZWJa</a><br/>\n    "
   },
   {
     "ratingCount": 56,
@@ -1363,6 +1398,22 @@
     "info": "\n    <h3>PlayAll Noida 73</h3>\n    <strong>Ratings:</strong> 4.4 [75]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket<br/>\n    <strong>Phone:</strong> 8750387507<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JvLPE\" target=\"_blank\">http://go.playo.app/PLAYOO/JvLPE</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "PlayAll SRM Noida",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=c4555056-1f34-4d30-bd25-33904a6e8811",
+    "deferLink": "http://go.playo.app/PLAYOO/fPTiO",
+    "lat": 28.588794581880435,
+    "lng": 77.35718181834463,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Futsal"
+    ],
+    "info": "\n    <h3>PlayAll SRM Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9220339263<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fPTiO\" target=\"_blank\">http://go.playo.app/PLAYOO/fPTiO</a><br/>\n    "
+  },
+  {
     "avgRating": 3,
     "name": "PlayAll SVIS Dwarka",
     "ratingCount": 4,
@@ -1412,6 +1463,24 @@
   },
   {
     "avgRating": 5,
+    "name": "PlayAll Sports Arena - DIS Dwarka",
+    "ratingCount": 4,
+    "fullLink": "https://playo.co/venue?venueId=05600d6b-786b-4047-92b8-9042d0403ddb",
+    "deferLink": "http://go.playo.app/PLAYOO/maF_b",
+    "lat": 28.56412981186823,
+    "lng": 77.05830975371734,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Box Cricket",
+      "Futsal",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll Sports Arena - DIS Dwarka</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667371295<br/>\n    <a href=\"http://go.playo.app/PLAYOO/maF_b\" target=\"_blank\">http://go.playo.app/PLAYOO/maF_b</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "PlayPlex Max Fort Pitampur",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=db9f2488-08fe-4428-a4ea-08d25c9f37e8",
@@ -1425,75 +1494,6 @@
       "Football"
     ],
     "info": "\n    <h3>PlayPlex Max Fort Pitampur</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9910128756<br/>\n    <a href=\"http://go.playo.app/PLAYOO/y2-9I\" target=\"_blank\">http://go.playo.app/PLAYOO/y2-9I</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Playall Football Arena - Abhinav School",
-    "ratingCount": 3,
-    "fullLink": "https://playo.co/venue?venueId=d0a5af6f-e6a5-4c42-9082-d5908465d79c",
-    "deferLink": "https://z34v4.app.goo.gl/zxAN",
-    "lat": 28.71713434959544,
-    "lng": 77.14311732945015,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Futsal"
-    ],
-    "info": "\n    <h3>Playall Football Arena - Abhinav School</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9220403634<br/>\n    <a href=\"https://z34v4.app.goo.gl/zxAN\" target=\"_blank\">https://z34v4.app.goo.gl/zxAN</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Playall MCL Hari Nagar",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=a1f90f28-5057-4fd7-bcc3-94b7898cd774",
-    "deferLink": "http://go.playo.app/PLAYOO/7ZWJa",
-    "lat": 28.627998271531304,
-    "lng": 77.1072039141886,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Basketball",
-      "Box Cricket",
-      "Futsal",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>Playall MCL Hari Nagar</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9220311088<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7ZWJa\" target=\"_blank\">http://go.playo.app/PLAYOO/7ZWJa</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Playall SRM Noida",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=c4555056-1f34-4d30-bd25-33904a6e8811",
-    "deferLink": "http://go.playo.app/PLAYOO/fPTiO",
-    "lat": 28.588794581880435,
-    "lng": 77.35718181834463,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Futsal"
-    ],
-    "info": "\n    <h3>Playall SRM Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9220339263<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fPTiO\" target=\"_blank\">http://go.playo.app/PLAYOO/fPTiO</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Playall Sports Arena - DIS Dwarka",
-    "ratingCount": 4,
-    "fullLink": "https://playo.co/venue?venueId=05600d6b-786b-4047-92b8-9042d0403ddb",
-    "deferLink": "https://z34v4.app.goo.gl/wHZc",
-    "lat": 28.56412981186823,
-    "lng": 77.05830975371734,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Basketball",
-      "Box Cricket",
-      "Futsal",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>Playall Sports Arena - DIS Dwarka</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667371295<br/>\n    <a href=\"https://z34v4.app.goo.gl/wHZc\" target=\"_blank\">https://z34v4.app.goo.gl/wHZc</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2016,11 +2016,11 @@
     "filter_by": [
       "Bowling Machine",
       "Box Cricket",
-      "Cricket",
+      "Cricket Match",
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>SportsCube Center for Excellence</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket, Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9873622673<br/>\n    <a href=\"https://z34v4.app.goo.gl/YK1F\" target=\"_blank\">https://z34v4.app.goo.gl/YK1F</a><br/>\n    "
+    "info": "\n    <h3>SportsCube Center for Excellence</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket, Cricket Match, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9873622673<br/>\n    <a href=\"https://z34v4.app.goo.gl/YK1F\" target=\"_blank\">https://z34v4.app.goo.gl/YK1F</a><br/>\n    "
   },
   {
     "avgRating": 5,
