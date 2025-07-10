@@ -583,7 +583,7 @@
   {
     "avgRating": 4.92,
     "name": "Astra Kings",
-    "ratingCount": 12,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=ad8318e5-c3f8-43fd-bb5b-7e99f6bc6481",
     "deferLink": "http://go.playo.app/PLAYOO/X6-4h",
     "lat": 13.108970441749731,
@@ -593,7 +593,7 @@
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Astra Kings</h3>\n    <strong>Ratings:</strong> 4.92 [12]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9629640519<br/>\n    <a href=\"http://go.playo.app/PLAYOO/X6-4h\" target=\"_blank\">http://go.playo.app/PLAYOO/X6-4h</a><br/>\n    "
+    "info": "\n    <h3>Astra Kings</h3>\n    <strong>Ratings:</strong> 4.92 [13]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9629640519<br/>\n    <a href=\"http://go.playo.app/PLAYOO/X6-4h\" target=\"_blank\">http://go.playo.app/PLAYOO/X6-4h</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3781,6 +3781,21 @@
     "info": "\n    <h3>Phoenix Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.4 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397302844<br/>\n    <a href=\"https://z34v4.app.goo.gl/zKb0\" target=\"_blank\">https://z34v4.app.goo.gl/zKb0</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Pickle Pulse",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=026cc44e-49d3-435b-be21-96eac468fa88",
+    "deferLink": "http://go.playo.app/PLAYOO/iP12V",
+    "lat": 13.15525147276216,
+    "lng": 80.1967750975133,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Pickle Pulse</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7448822691<br/>\n    <a href=\"http://go.playo.app/PLAYOO/iP12V\" target=\"_blank\">http://go.playo.app/PLAYOO/iP12V</a><br/>\n    "
+  },
+  {
     "avgRating": 5,
     "name": "Pickleball Arena - West Mambalam",
     "ratingCount": 1,
@@ -3863,9 +3878,9 @@
     "info": "\n    <h3>PlayAll Sports Arena - PlayAll MGR Mogappair East</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9220311664<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TYjWl\" target=\"_blank\">http://go.playo.app/PLAYOO/TYjWl</a><br/>\n    "
   },
   {
-    "avgRating": 4.89,
+    "avgRating": 4.9,
     "name": "PlayFit Badminton Academy - Pudupakkam",
-    "ratingCount": 19,
+    "ratingCount": 20,
     "fullLink": "https://playo.co/venue?venueId=2d2b85a8-1e8e-4760-b81d-8e391bdf2e6b",
     "deferLink": "https://z34v4.app.goo.gl/nCN8",
     "lat": 12.81379035137126,
@@ -3875,7 +3890,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>PlayFit Badminton Academy - Pudupakkam</h3>\n    <strong>Ratings:</strong> 4.89 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9344674016<br/>\n    <a href=\"https://z34v4.app.goo.gl/nCN8\" target=\"_blank\">https://z34v4.app.goo.gl/nCN8</a><br/>\n    "
+    "info": "\n    <h3>PlayFit Badminton Academy - Pudupakkam</h3>\n    <strong>Ratings:</strong> 4.9 [20]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9344674016<br/>\n    <a href=\"https://z34v4.app.goo.gl/nCN8\" target=\"_blank\">https://z34v4.app.goo.gl/nCN8</a><br/>\n    "
   },
   {
     "avgRating": 5,
