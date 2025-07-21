@@ -172,7 +172,7 @@
   {
     "avgRating": 5,
     "name": "7g Turf",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=f40a2f56-985e-4769-be42-2a4b03920f02",
     "deferLink": "http://go.playo.app/PLAYOO/tx_UK",
     "lat": 12.928486664125328,
@@ -184,7 +184,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>7g Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9884060099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tx_UK\" target=\"_blank\">http://go.playo.app/PLAYOO/tx_UK</a><br/>\n    "
+    "info": "\n    <h3>7g Turf</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9884060099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tx_UK\" target=\"_blank\">http://go.playo.app/PLAYOO/tx_UK</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
@@ -4583,6 +4583,21 @@
   },
   {
     "avgRating": 5,
+    "name": "Shasu Sports 3.0",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=9be4eb54-663d-4140-8f02-ceeef0897428",
+    "deferLink": "http://go.playo.app/PLAYOO/Olzkp",
+    "lat": 12.907792256705287,
+    "lng": 80.20724782883576,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Shasu Sports 3.0</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952062999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Olzkp\" target=\"_blank\">http://go.playo.app/PLAYOO/Olzkp</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Shivani Elite Badminton Academy",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=483c0e57-2c22-476b-b242-92ac435ae187",
@@ -5209,15 +5224,15 @@
     "rating": 4,
     "deferLink": "https://playo.page.link/xCc7W",
     "fullLink": "https://playo.co/venue/?venueId=03fcd633-ec3d-459c-a0df-f5ce14ed9b03",
-    "avgRating": 4.56,
-    "ratingCount": 16,
+    "avgRating": 4.59,
+    "ratingCount": 17,
     "lat": 13.028013,
     "lng": 80.1896659,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sunshine Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.56 [16]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9597398638<br/>\n    <a href=\"https://playo.page.link/xCc7W\" target=\"_blank\">https://playo.page.link/xCc7W</a><br/>\n    "
+    "info": "\n    <h3>Sunshine Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.59 [17]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9597398638<br/>\n    <a href=\"https://playo.page.link/xCc7W\" target=\"_blank\">https://playo.page.link/xCc7W</a><br/>\n    "
   },
   {
     "ratingCount": 5,
