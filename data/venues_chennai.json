@@ -2938,9 +2938,9 @@
     "info": "\n    <h3>Krish Badminton Court</h3>\n    <strong>Ratings:</strong> 4.85 [34]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358385214<br/>\n    <a href=\"https://z34v4.app.goo.gl/7X7z\" target=\"_blank\">https://z34v4.app.goo.gl/7X7z</a><br/>\n    "
   },
   {
-    "avgRating": 4.5,
+    "avgRating": 4.67,
     "name": "LSCA Cricket Nets",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=68b77b23-c4e5-4067-952f-ffc43028f794",
     "deferLink": "http://go.playo.app/PLAYOO/y3pN2",
     "lat": 12.94293880070422,
@@ -2950,7 +2950,7 @@
     "filter_by": [
       "Cricket Nets"
     ],
-    "info": "\n    <h3>LSCA Cricket Nets</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9952920139<br/>\n    <a href=\"http://go.playo.app/PLAYOO/y3pN2\" target=\"_blank\">http://go.playo.app/PLAYOO/y3pN2</a><br/>\n    "
+    "info": "\n    <h3>LSCA Cricket Nets</h3>\n    <strong>Ratings:</strong> 4.67 [3]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9952920139<br/>\n    <a href=\"http://go.playo.app/PLAYOO/y3pN2\" target=\"_blank\">http://go.playo.app/PLAYOO/y3pN2</a><br/>\n    "
   },
   {
     "ratingCount": 9,
@@ -5162,6 +5162,37 @@
     "info": "\n    <h3>Spartans Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9789968755<br/>\n    <a href=\"https://z34v4.app.goo.gl/ToQN\" target=\"_blank\">https://z34v4.app.goo.gl/ToQN</a><br/>\n    "
   },
   {
+    "ratingCount": 1,
+    "avgRating": 5,
+    "name": "Sports Leap by ArenaZ - Arumbakkam",
+    "fullLink": "https://playo.co/venue?venueId=0dbb1762-7f60-4874-844a-470c8cd3d4c1",
+    "deferLink": "http://go.playo.app/PLAYOO/J9TB2",
+    "lat": 13.062164341941,
+    "lng": 80.20971486410778,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Air Hockey"
+    ],
+    "info": "\n    <h3>Sports Leap by ArenaZ - Arumbakkam</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Air Hockey<br/>\n    <strong>Phone:</strong> 8925800820<br/>\n    <a href=\"http://go.playo.app/PLAYOO/J9TB2\" target=\"_blank\">http://go.playo.app/PLAYOO/J9TB2</a><br/>\n    "
+  },
+  {
+    "ratingCount": 1,
+    "avgRating": 5,
+    "name": "Sports Leap by ArenaZ - Kottivakkam",
+    "fullLink": "https://playo.co/venue?venueId=d491e59e-8df1-4669-bfd7-dcbca8623500",
+    "deferLink": "http://go.playo.app/PLAYOO/ex0Y6",
+    "lat": 12.9715723209426,
+    "lng": 80.25866368169544,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Sports Leap by ArenaZ - Kottivakkam</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8925800820<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ex0Y6\" target=\"_blank\">http://go.playo.app/PLAYOO/ex0Y6</a><br/>\n    "
+  },
+  {
     "avgRating": 3.5,
     "name": "Sports Sanity - Kilpauk",
     "ratingCount": 6,
@@ -5649,6 +5680,23 @@
       "Football"
     ],
     "info": "\n    <h3>Tackle Town Indoor Turf</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9941973447<br/>\n    <a href=\"https://z34v4.app.goo.gl/ww3y\" target=\"_blank\">https://z34v4.app.goo.gl/ww3y</a><br/>\n    "
+  },
+  {
+    "ratingCount": 2,
+    "avgRating": 5,
+    "name": "Tavya Sports Park by ArenaZ - Sholinganallur",
+    "fullLink": "https://playo.co/venue?venueId=f577baf2-6ff9-4921-b21e-b8f8f47d047d",
+    "deferLink": "http://go.playo.app/PLAYOO/8SK7E",
+    "lat": 12.8959727,
+    "lng": 80.215795,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Cricket Nets",
+      "Football"
+    ],
+    "info": "\n    <h3>Tavya Sports Park by ArenaZ - Sholinganallur</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 8925800820<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8SK7E\" target=\"_blank\">http://go.playo.app/PLAYOO/8SK7E</a><br/>\n    "
   },
   {
     "avgRating": 2.67,
