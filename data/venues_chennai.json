@@ -2484,20 +2484,20 @@
     "info": "\n    <h3>HotFut SPR Sports - Vivira Mall</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7410177729<br/>\n    <a href=\"https://z34v4.app.goo.gl/9thK\" target=\"_blank\">https://z34v4.app.goo.gl/9thK</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "IRF Turf",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=1eefa03c-e6c2-40c0-8859-95ead6a91a34",
     "deferLink": "http://go.playo.app/PLAYOO/oc2b_",
     "lat": 12.866110757090407,
     "lng": 80.20302085582118,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>IRF Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8248350879<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oc2b_\" target=\"_blank\">http://go.playo.app/PLAYOO/oc2b_</a><br/>\n    "
+    "info": "\n    <h3>IRF Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8248350879<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oc2b_\" target=\"_blank\">http://go.playo.app/PLAYOO/oc2b_</a><br/>\n    "
   },
   {
     "ratingCount": 21,
@@ -5395,8 +5395,8 @@
     "info": "\n    <h3>Super Kings Academy - Velachery</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9840734772<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CNmWE\" target=\"_blank\">http://go.playo.app/PLAYOO/CNmWE</a><br/>\n    "
   },
   {
-    "ratingCount": 29,
-    "avgRating": 4.62,
+    "ratingCount": 30,
+    "avgRating": 4.63,
     "name": "Super Kings Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=a6b4d399-ff31-439f-ad0e-c9dce804b6fc",
     "deferLink": "https://z34v4.app.goo.gl/gwPt",
@@ -5407,7 +5407,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Super Kings Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.62 [29]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9790106959<br/>\n    <a href=\"https://z34v4.app.goo.gl/gwPt\" target=\"_blank\">https://z34v4.app.goo.gl/gwPt</a><br/>\n    "
+    "info": "\n    <h3>Super Kings Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.63 [30]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9790106959<br/>\n    <a href=\"https://z34v4.app.goo.gl/gwPt\" target=\"_blank\">https://z34v4.app.goo.gl/gwPt</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5583,6 +5583,23 @@
       "Football"
     ],
     "info": "\n    <h3>Tackle Futsal - Kottivakkam</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9884199466<br/>\n    <a href=\"http://go.playo.app/PLAYOO/-hruz\" target=\"_blank\">http://go.playo.app/PLAYOO/-hruz</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Tackle Futsal - Neelankarai",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=c4f2ba43-2773-44f1-8f5b-d5f35e31f866",
+    "deferLink": "http://go.playo.app/PLAYOO/WSkR1",
+    "lat": 12.937279075681834,
+    "lng": 80.25830710709064,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Tackle Futsal - Neelankarai</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9884225777<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WSkR1\" target=\"_blank\">http://go.playo.app/PLAYOO/WSkR1</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6319,22 +6336,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>Vishishta Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9790762894<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ciU3E\" target=\"_blank\">http://go.playo.app/PLAYOO/ciU3E</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Wesley Turf and Fitness Club",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=a4454d06-42b1-4a36-87c3-dc3d5f316955",
-    "deferLink": "https://z34v4.app.goo.gl/DqQx",
-    "lat": 13.057247314129526,
-    "lng": 80.26376001609457,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Wesley Turf and Fitness Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9500067265<br/>\n    <a href=\"https://z34v4.app.goo.gl/DqQx\" target=\"_blank\">https://z34v4.app.goo.gl/DqQx</a><br/>\n    "
   },
   {
     "avgRating": 5,
