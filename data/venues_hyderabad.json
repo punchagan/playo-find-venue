@@ -1174,10 +1174,10 @@
     "filter_by": [
       "Foosball",
       "Pickleball",
-      "Snooker",
+      "Pool",
       "eSports"
     ],
-    "info": "\n    <h3>Bounce Racquet Club</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Foosball, Pickleball, Snooker, eSports<br/>\n    <strong>Phone:</strong> 9885251769<br/>\n    <a href=\"https://z34v4.app.goo.gl/LYVE\" target=\"_blank\">https://z34v4.app.goo.gl/LYVE</a><br/>\n    "
+    "info": "\n    <h3>Bounce Racquet Club</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Foosball, Pickleball, Pool, eSports<br/>\n    <strong>Phone:</strong> 9885251769<br/>\n    <a href=\"https://z34v4.app.goo.gl/LYVE\" target=\"_blank\">https://z34v4.app.goo.gl/LYVE</a><br/>\n    "
   },
   {
     "ratingCount": 5,
@@ -1399,6 +1399,24 @@
       "Volleyball"
     ],
     "info": "\n    <h3>Caspian Sports Arena</h3>\n    <strong>Ratings:</strong> 4.11 [9]<br/>\n    <strong>Sports:</strong> Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 7093109393<br/>\n    <a href=\"https://z34v4.app.goo.gl/7Y1K\" target=\"_blank\">https://z34v4.app.goo.gl/7Y1K</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Celebrity Resorts",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=58115236-ed57-40c6-bedd-55d382d42e47",
+    "deferLink": "http://go.playo.app/PLAYOO/U-JJE",
+    "lat": 17.579872688782032,
+    "lng": 78.5730473134941,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Cricket",
+      "Pickleball",
+      "Swimming"
+    ],
+    "info": "\n    <h3>Celebrity Resorts</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Pickleball, Swimming<br/>\n    <strong>Phone:</strong> 8332937701<br/>\n    <a href=\"http://go.playo.app/PLAYOO/U-JJE\" target=\"_blank\">http://go.playo.app/PLAYOO/U-JJE</a><br/>\n    "
   },
   {
     "ratingCount": 3,
@@ -2144,6 +2162,23 @@
     "info": "\n    <h3>Dazzlings sports club</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8977779943<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZPtRU\" target=\"_blank\">http://go.playo.app/PLAYOO/ZPtRU</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "De Sports Zone",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=92959d84-86b1-4a1b-b672-310036484af0",
+    "deferLink": "http://go.playo.app/PLAYOO/mSXAE",
+    "lat": 17.563938272006688,
+    "lng": 78.47454357113493,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket Nets",
+      "Pickleball",
+      "Tennis"
+    ],
+    "info": "\n    <h3>De Sports Zone</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket Nets, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 9666302233<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mSXAE\" target=\"_blank\">http://go.playo.app/PLAYOO/mSXAE</a><br/>\n    "
+  },
+  {
     "avgRating": 5,
     "name": "De Strike Out",
     "ratingCount": 3,
@@ -2154,12 +2189,10 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Basketball",
       "Box Cricket",
-      "Football",
-      "Tennis"
+      "Football"
     ],
-    "info": "\n    <h3>De Strike Out</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Tennis<br/>\n    <strong>Phone:</strong> 8019565757<br/>\n    <a href=\"https://z34v4.app.goo.gl/zVt7\" target=\"_blank\">https://z34v4.app.goo.gl/zVt7</a><br/>\n    "
+    "info": "\n    <h3>De Strike Out</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8019565757<br/>\n    <a href=\"https://z34v4.app.goo.gl/zVt7\" target=\"_blank\">https://z34v4.app.goo.gl/zVt7</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -2527,7 +2560,7 @@
   {
     "avgRating": 4.49,
     "name": "Elite Sports Hub",
-    "ratingCount": 545,
+    "ratingCount": 546,
     "deferLink": "https://z34v4.app.goo.gl/gWYv",
     "fullLink": "https://playo.co/venue/?venueId=62ec6f76-8099-484e-8256-9bb8d38acb1e",
     "lat": 17.508307,
@@ -2538,7 +2571,7 @@
       "Badminton",
       "Cricket Nets"
     ],
-    "info": "\n    <h3>Elite Sports Hub</h3>\n    <strong>Ratings:</strong> 4.49 [545]<br/>\n    <strong>Sports:</strong> Badminton, Cricket Nets<br/>\n    <strong>Phone:</strong> 7995898989<br/>\n    <a href=\"https://z34v4.app.goo.gl/gWYv\" target=\"_blank\">https://z34v4.app.goo.gl/gWYv</a><br/>\n    "
+    "info": "\n    <h3>Elite Sports Hub</h3>\n    <strong>Ratings:</strong> 4.49 [546]<br/>\n    <strong>Sports:</strong> Badminton, Cricket Nets<br/>\n    <strong>Phone:</strong> 7995898989<br/>\n    <a href=\"https://z34v4.app.goo.gl/gWYv\" target=\"_blank\">https://z34v4.app.goo.gl/gWYv</a><br/>\n    "
   },
   {
     "ratingCount": 19,
@@ -2556,20 +2589,20 @@
     "info": "\n    <h3>Empire 25 Box Cricket</h3>\n    <strong>Ratings:</strong> 3.79 [19]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 7569797721<br/>\n    <a href=\"https://z34v4.app.goo.gl/ks9J\" target=\"_blank\">https://z34v4.app.goo.gl/ks9J</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4.2,
     "name": "Empire Lions - The Cricket & Football Turf",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=d454dc26-ee45-4e8a-819a-59614ea70b35",
     "deferLink": "https://z34v4.app.goo.gl/6Jyv",
     "lat": 17.495431779079023,
     "lng": 78.56225220000898,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Empire Lions - The Cricket & Football Turf</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9553711698<br/>\n    <a href=\"https://z34v4.app.goo.gl/6Jyv\" target=\"_blank\">https://z34v4.app.goo.gl/6Jyv</a><br/>\n    "
+    "info": "\n    <h3>Empire Lions - The Cricket & Football Turf</h3>\n    <strong>Ratings:</strong> 4.2 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9553711698<br/>\n    <a href=\"https://z34v4.app.goo.gl/6Jyv\" target=\"_blank\">https://z34v4.app.goo.gl/6Jyv</a><br/>\n    "
   },
   {
     "ratingCount": 4,
@@ -5374,8 +5407,8 @@
     "info": "\n    <h3>Marvel Sports Arena</h3>\n    <strong>Ratings:</strong> 3.97 [33]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket<br/>\n    <strong>Phone:</strong> 9505075157<br/>\n    <a href=\"https://z34v4.app.goo.gl/PqtB\" target=\"_blank\">https://z34v4.app.goo.gl/PqtB</a><br/>\n    "
   },
   {
-    "ratingCount": 58,
-    "avgRating": 3.67,
+    "ratingCount": 59,
+    "avgRating": 3.69,
     "name": "Match point (it's Next Level)",
     "fullLink": "https://playo.co/venue?venueId=603f6f86-df41-4d3f-9d82-c27b9de96ca6",
     "deferLink": "https://z34v4.app.goo.gl/Xd57",
@@ -5386,7 +5419,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Match point (it's Next Level)</h3>\n    <strong>Ratings:</strong> 3.67 [58]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9392448770<br/>\n    <a href=\"https://z34v4.app.goo.gl/Xd57\" target=\"_blank\">https://z34v4.app.goo.gl/Xd57</a><br/>\n    "
+    "info": "\n    <h3>Match point (it's Next Level)</h3>\n    <strong>Ratings:</strong> 3.69 [59]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9392448770<br/>\n    <a href=\"https://z34v4.app.goo.gl/Xd57\" target=\"_blank\">https://z34v4.app.goo.gl/Xd57</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5606,9 +5639,9 @@
     "info": "\n    <h3>N9 Badminton Courts - Sangareddy</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9866320456<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Jn1A4\" target=\"_blank\">http://go.playo.app/PLAYOO/Jn1A4</a><br/>\n    "
   },
   {
-    "avgRating": 4.37,
+    "avgRating": 4.36,
     "name": "N9 Badminton Courts, Chandannagar",
-    "ratingCount": 35,
+    "ratingCount": 36,
     "fullLink": "https://playo.co/venue?venueId=0bede641-8906-47ac-8ff7-6a511d9bb0c3",
     "deferLink": "https://z34v4.app.goo.gl/3kdB",
     "lat": 17.505304819535624,
@@ -5618,12 +5651,12 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>N9 Badminton Courts, Chandannagar</h3>\n    <strong>Ratings:</strong> 4.37 [35]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8977045637<br/>\n    <a href=\"https://z34v4.app.goo.gl/3kdB\" target=\"_blank\">https://z34v4.app.goo.gl/3kdB</a><br/>\n    "
+    "info": "\n    <h3>N9 Badminton Courts, Chandannagar</h3>\n    <strong>Ratings:</strong> 4.36 [36]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8977045637<br/>\n    <a href=\"https://z34v4.app.goo.gl/3kdB\" target=\"_blank\">https://z34v4.app.goo.gl/3kdB</a><br/>\n    "
   },
   {
-    "avgRating": 4.42,
+    "avgRating": 4.43,
     "name": "N9 Sports Academy",
-    "ratingCount": 43,
+    "ratingCount": 44,
     "fullLink": "https://playo.co/venue?venueId=a8fabef6-f9fd-493b-8b66-8cd985387d72",
     "deferLink": "https://z34v4.app.goo.gl/L3Nr",
     "lat": 17.451174576343995,
@@ -5640,7 +5673,7 @@
       "Snooker",
       "Table Tennis"
     ],
-    "info": "\n    <h3>N9 Sports Academy</h3>\n    <strong>Ratings:</strong> 4.42 [43]<br/>\n    <strong>Sports:</strong> Badminton, Bowling Machine, Box Cricket, Carrom, Foosball, Football, Snooker, Table Tennis<br/>\n    <strong>Phone:</strong> 8977045635<br/>\n    <a href=\"https://z34v4.app.goo.gl/L3Nr\" target=\"_blank\">https://z34v4.app.goo.gl/L3Nr</a><br/>\n    "
+    "info": "\n    <h3>N9 Sports Academy</h3>\n    <strong>Ratings:</strong> 4.43 [44]<br/>\n    <strong>Sports:</strong> Badminton, Bowling Machine, Box Cricket, Carrom, Foosball, Football, Snooker, Table Tennis<br/>\n    <strong>Phone:</strong> 8977045635<br/>\n    <a href=\"https://z34v4.app.goo.gl/L3Nr\" target=\"_blank\">https://z34v4.app.goo.gl/L3Nr</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -7690,19 +7723,19 @@
     "info": "\n    <h3>Relentless Badminton</h3>\n    <strong>Ratings:</strong> 4.24 [17]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9000666759<br/>\n    <a href=\"https://z34v4.app.goo.gl/Vqot\" target=\"_blank\">https://z34v4.app.goo.gl/Vqot</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 3,
     "name": "Reserve Pickleball",
-    "ratingCount": 2,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=c788ee57-13b2-4c8e-8c7e-ca4d394fa11e",
     "deferLink": "http://go.playo.app/PLAYOO/tQu6e",
     "lat": 17.400094394708198,
     "lng": 78.29679964232857,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Reserve Pickleball</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9182180974<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tQu6e\" target=\"_blank\">http://go.playo.app/PLAYOO/tQu6e</a><br/>\n    "
+    "info": "\n    <h3>Reserve Pickleball</h3>\n    <strong>Ratings:</strong> 3 [4]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9182180974<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tQu6e\" target=\"_blank\">http://go.playo.app/PLAYOO/tQu6e</a><br/>\n    "
   },
   {
     "avgRating": 4.42,
@@ -9875,7 +9908,7 @@
   {
     "avgRating": 5,
     "name": "Sri's Game Point",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=b9d017c7-3aca-41b1-b702-083d140936fa",
     "deferLink": "http://go.playo.app/PLAYOO/GPNuE",
     "lat": 17.443006628956457,
@@ -9885,7 +9918,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sri's Game Point</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8121514899<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GPNuE\" target=\"_blank\">http://go.playo.app/PLAYOO/GPNuE</a><br/>\n    "
+    "info": "\n    <h3>Sri's Game Point</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8121514899<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GPNuE\" target=\"_blank\">http://go.playo.app/PLAYOO/GPNuE</a><br/>\n    "
   },
   {
     "ratingCount": 1,
