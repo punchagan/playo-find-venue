@@ -1886,6 +1886,21 @@
     "info": "\n    <h3>SNS Sports Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9818969052<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZlnDl\" target=\"_blank\">http://go.playo.app/PLAYOO/ZlnDl</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "SRV Cricket Arena",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=ba12a9fc-38c2-45c5-95dc-b0d84ca78ad8",
+    "deferLink": "http://go.playo.app/PLAYOO/R9RX8",
+    "lat": 28.573904232243766,
+    "lng": 77.39912551375812,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>SRV Cricket Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8076982655<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R9RX8\" target=\"_blank\">http://go.playo.app/PLAYOO/R9RX8</a><br/>\n    "
+  },
+  {
     "avgRating": 4.71,
     "name": "SVA Sports Arena",
     "ratingCount": 7,
@@ -1946,9 +1961,9 @@
     "info": "\n    <h3>Shuttle Hustle Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9871476642<br/>\n    <a href=\"http://go.playo.app/PLAYOO/quZ38\" target=\"_blank\">http://go.playo.app/PLAYOO/quZ38</a><br/>\n    "
   },
   {
-    "avgRating": 4.67,
+    "avgRating": 4.75,
     "name": "Skill Set Badminton Academy",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=696f9593-d504-4620-84ce-e0f9d7fdc0c0",
     "deferLink": "http://go.playo.app/PLAYOO/Kn1Sy",
     "lat": 28.495448638330938,
@@ -1958,7 +1973,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Skill Set Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.67 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8249337433<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Kn1Sy\" target=\"_blank\">http://go.playo.app/PLAYOO/Kn1Sy</a><br/>\n    "
+    "info": "\n    <h3>Skill Set Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8249337433<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Kn1Sy\" target=\"_blank\">http://go.playo.app/PLAYOO/Kn1Sy</a><br/>\n    "
   },
   {
     "avgRating": 3.89,
