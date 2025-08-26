@@ -918,9 +918,10 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Pickleball"
     ],
-    "info": "\n    <h3>Khelkund</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7837731001<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mq6VY\" target=\"_blank\">http://go.playo.app/PLAYOO/mq6VY</a><br/>\n    "
+    "info": "\n    <h3>Khelkund</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 7837731001<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mq6VY\" target=\"_blank\">http://go.playo.app/PLAYOO/mq6VY</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -1368,23 +1369,6 @@
     "info": "\n    <h3>PlayAll MPS Noida 11</h3>\n    <strong>Ratings:</strong> 3.49 [59]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 8750005057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zauNz\" target=\"_blank\">http://go.playo.app/PLAYOO/zauNz</a><br/>\n    "
   },
   {
-    "ratingCount": 59,
-    "avgRating": 3.49,
-    "name": "PlayAll MPS Noida 11",
-    "fullLink": "https://playo.co/venue?venueId=cf4abbc8-c29b-41ca-8f1a-5a85e4f16bf0",
-    "deferLink": "http://go.playo.app/PLAYOO/zauNz",
-    "lat": 28.59993443914254,
-    "lng": 77.33670081046597,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Basketball",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>PlayAll MPS Noida 11</h3>\n    <strong>Ratings:</strong> 3.49 [59]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 8750005057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zauNz\" target=\"_blank\">http://go.playo.app/PLAYOO/zauNz</a><br/>\n    "
-  },
-  {
     "avgRating": 0,
     "name": "PlayAll MRIS Charmwood",
     "ratingCount": 0,
@@ -1547,22 +1531,6 @@
     "info": "\n    <h3>PlayAll Sports Arena - DIS Dwarka</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667371295<br/>\n    <a href=\"http://go.playo.app/PLAYOO/maF_b\" target=\"_blank\">http://go.playo.app/PLAYOO/maF_b</a><br/>\n    "
   },
   {
-    "avgRating": 4.33,
-    "name": "PlayPlex Max Fort Pitampur",
-    "ratingCount": 3,
-    "fullLink": "https://playo.co/venue?venueId=db9f2488-08fe-4428-a4ea-08d25c9f37e8",
-    "deferLink": "http://go.playo.app/PLAYOO/y2-9I",
-    "lat": 28.6921720064358,
-    "lng": 77.10979677116427,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>PlayPlex Max Fort Pitampur</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9910128756<br/>\n    <a href=\"http://go.playo.app/PLAYOO/y2-9I\" target=\"_blank\">http://go.playo.app/PLAYOO/y2-9I</a><br/>\n    "
-  },
-  {
     "avgRating": 5,
     "name": "Players Den Rackonnect Sports Turf",
     "ratingCount": 3,
@@ -1607,6 +1575,21 @@
       "Box Cricket"
     ],
     "info": "\n    <h3>Playvault Arena</h3>\n    <strong>Ratings:</strong> 4.63 [8]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8178535268<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8AfC5\" target=\"_blank\">http://go.playo.app/PLAYOO/8AfC5</a><br/>\n    "
+  },
+  {
+    "avgRating": 4.33,
+    "name": "PowerPlay Cricket Nets",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=cdcadc26-e936-4e15-ae03-8265b87a800a",
+    "deferLink": "http://go.playo.app/PLAYOO/q3_Jv",
+    "lat": 28.537658378391388,
+    "lng": 77.27027078376852,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>PowerPlay Cricket Nets</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9650295003<br/>\n    <a href=\"http://go.playo.app/PLAYOO/q3_Jv\" target=\"_blank\">http://go.playo.app/PLAYOO/q3_Jv</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
@@ -2074,7 +2057,7 @@
     "name": "Snooker House",
     "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=dc37924d-5fd8-46aa-b8a7-7010f72a377e",
-    "deferLink": "http://go.playo.app/PLAYOO/c7oPe",
+    "deferLink": "http://go.playo.app/PLAYOO/KHGje",
     "lat": 28.70119408405543,
     "lng": 77.41219268818385,
     "rating": 4,
@@ -2084,7 +2067,7 @@
       "Snooker",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Snooker House</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Air Hockey, Snooker, Table Tennis<br/>\n    <strong>Phone:</strong> 9885027192<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c7oPe\" target=\"_blank\">http://go.playo.app/PLAYOO/c7oPe</a><br/>\n    "
+    "info": "\n    <h3>Snooker House</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Air Hockey, Snooker, Table Tennis<br/>\n    <strong>Phone:</strong> 9885027192<br/>\n    <a href=\"http://go.playo.app/PLAYOO/KHGje\" target=\"_blank\">http://go.playo.app/PLAYOO/KHGje</a><br/>\n    "
   },
   {
     "avgRating": 4.17,
