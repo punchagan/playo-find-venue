@@ -895,7 +895,7 @@
   {
     "avgRating": 5,
     "name": "Khelkund",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=a9595c2d-5a8c-4b5c-b7a3-f616de30c0ed",
     "deferLink": "http://go.playo.app/PLAYOO/mq6VY",
     "lat": 28.391989676539062,
@@ -906,7 +906,7 @@
       "Badminton",
       "Pickleball"
     ],
-    "info": "\n    <h3>Khelkund</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 7837731001<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mq6VY\" target=\"_blank\">http://go.playo.app/PLAYOO/mq6VY</a><br/>\n    "
+    "info": "\n    <h3>Khelkund</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 7837731001<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mq6VY\" target=\"_blank\">http://go.playo.app/PLAYOO/mq6VY</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2435,9 +2435,9 @@
     "info": "\n    <h3>The Ultimate Shot</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9560392760<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vWEwI\" target=\"_blank\">http://go.playo.app/PLAYOO/vWEwI</a><br/>\n    "
   },
   {
-    "avgRating": 4,
+    "avgRating": 4.07,
     "name": "Top Smashers Badminton Academy",
-    "ratingCount": 14,
+    "ratingCount": 15,
     "fullLink": "https://playo.co/venue?venueId=8d3eed35-9a5c-43c9-9006-20080c8866a5",
     "deferLink": "http://go.playo.app/PLAYOO/Datpy",
     "lat": 28.60898759233924,
@@ -2447,7 +2447,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Datpy\" target=\"_blank\">http://go.playo.app/PLAYOO/Datpy</a><br/>\n    "
+    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.07 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Datpy\" target=\"_blank\">http://go.playo.app/PLAYOO/Datpy</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2589,20 +2589,5 @@
       "Tennis"
     ],
     "info": "\n    <h3>Winner Tennis Academy</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 9818147273<br/>\n    <a href=\"http://go.playo.app/PLAYOO/swL8v\" target=\"_blank\">http://go.playo.app/PLAYOO/swL8v</a><br/>\n    "
-  },
-  {
-    "avgRating": 4,
-    "name": "XL Arena",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=40a80a2d-47c9-4066-8b51-34c486a41816",
-    "deferLink": "http://go.playo.app/PLAYOO/NVC7J",
-    "lat": 28.609713766030502,
-    "lng": 77.4262222,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>XL Arena</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8690066330<br/>\n    <a href=\"http://go.playo.app/PLAYOO/NVC7J\" target=\"_blank\">http://go.playo.app/PLAYOO/NVC7J</a><br/>\n    "
   }
 ]

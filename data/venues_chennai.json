@@ -613,7 +613,7 @@
   {
     "avgRating": 4.94,
     "name": "Balaji Badminton Academy - Navalur",
-    "ratingCount": 16,
+    "ratingCount": 17,
     "fullLink": "https://playo.co/venue?venueId=d6a88698-2af9-4efb-9e47-bc77ddc6f7ba",
     "deferLink": "http://go.playo.app/PLAYOO/Un84c",
     "lat": 12.847947438415115,
@@ -623,7 +623,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Balaji Badminton Academy - Navalur</h3>\n    <strong>Ratings:</strong> 4.94 [16]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9629672378<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Un84c\" target=\"_blank\">http://go.playo.app/PLAYOO/Un84c</a><br/>\n    "
+    "info": "\n    <h3>Balaji Badminton Academy - Navalur</h3>\n    <strong>Ratings:</strong> 4.94 [17]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9629672378<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Un84c\" target=\"_blank\">http://go.playo.app/PLAYOO/Un84c</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2936,9 +2936,9 @@
     "info": "\n    <h3>Kovai Fit-o-Fit Sports Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9940021265<br/>\n    <a href=\"http://go.playo.app/PLAYOO/1vBuA\" target=\"_blank\">http://go.playo.app/PLAYOO/1vBuA</a><br/>\n    "
   },
   {
-    "avgRating": 4.82,
+    "avgRating": 4.83,
     "name": "Krish Badminton Court",
-    "ratingCount": 34,
+    "ratingCount": 35,
     "fullLink": "https://playo.co/venue?venueId=f3f213e0-9834-40c4-badc-6b79611bcf8d",
     "deferLink": "http://go.playo.app/PLAYOO/ERvQa",
     "lat": 12.955283814829096,
@@ -2948,7 +2948,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Krish Badminton Court</h3>\n    <strong>Ratings:</strong> 4.82 [34]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358385214<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ERvQa\" target=\"_blank\">http://go.playo.app/PLAYOO/ERvQa</a><br/>\n    "
+    "info": "\n    <h3>Krish Badminton Court</h3>\n    <strong>Ratings:</strong> 4.83 [35]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358385214<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ERvQa\" target=\"_blank\">http://go.playo.app/PLAYOO/ERvQa</a><br/>\n    "
   },
   {
     "avgRating": 4.75,
@@ -3211,8 +3211,8 @@
     "rating": 4,
     "deferLink": "http://go.playo.app/PLAYOO/YHFR1",
     "fullLink": "https://playo.co/venue/?venueId=a32b5081-31ea-42fa-8422-7a1ad7fcc5bb",
-    "avgRating": 4.93,
-    "ratingCount": 15,
+    "avgRating": 4.81,
+    "ratingCount": 16,
     "lat": 13.0396017,
     "lng": 80.1364881,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
@@ -3223,7 +3223,7 @@
       "Football",
       "Volleyball"
     ],
-    "info": "\n    <h3>MSR Sports Academy</h3>\n    <strong>Ratings:</strong> 4.93 [15]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9790999074<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YHFR1\" target=\"_blank\">http://go.playo.app/PLAYOO/YHFR1</a><br/>\n    "
+    "info": "\n    <h3>MSR Sports Academy</h3>\n    <strong>Ratings:</strong> 4.81 [16]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9790999074<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YHFR1\" target=\"_blank\">http://go.playo.app/PLAYOO/YHFR1</a><br/>\n    "
   },
   {
     "ratingCount": 6,
@@ -6292,6 +6292,22 @@
     "info": "\n    <h3>VL Academy Badminton Coaching Center</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9150986709<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VpI_K\" target=\"_blank\">http://go.playo.app/PLAYOO/VpI_K</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "VMP Multisports Turf",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=46a73534-464d-4fce-a785-e5eaa57f2398",
+    "deferLink": "http://go.playo.app/PLAYOO/Yhlu9",
+    "lat": 13.16615086679218,
+    "lng": 79.61565361020125,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>VMP Multisports Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9500932149<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Yhlu9\" target=\"_blank\">http://go.playo.app/PLAYOO/Yhlu9</a><br/>\n    "
+  },
+  {
     "avgRating": 4.43,
     "name": "Vihaan Badminton Academy (VBA)",
     "ratingCount": 14,
@@ -6302,9 +6318,10 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Pickleball"
     ],
-    "info": "\n    <h3>Vihaan Badminton Academy (VBA)</h3>\n    <strong>Ratings:</strong> 4.43 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9962176556<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wVwTA\" target=\"_blank\">http://go.playo.app/PLAYOO/wVwTA</a><br/>\n    "
+    "info": "\n    <h3>Vihaan Badminton Academy (VBA)</h3>\n    <strong>Ratings:</strong> 4.43 [14]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9962176556<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wVwTA\" target=\"_blank\">http://go.playo.app/PLAYOO/wVwTA</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6535,8 +6552,9 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Box Cricket"
+      "Box Cricket",
+      "Football"
     ],
-    "info": "\n    <h3>turf ONE 27</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9962666127<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4ctC2\" target=\"_blank\">http://go.playo.app/PLAYOO/4ctC2</a><br/>\n    "
+    "info": "\n    <h3>turf ONE 27</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9962666127<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4ctC2\" target=\"_blank\">http://go.playo.app/PLAYOO/4ctC2</a><br/>\n    "
   }
 ]
