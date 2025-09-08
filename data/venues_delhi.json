@@ -720,6 +720,21 @@
   },
   {
     "avgRating": 5,
+    "name": "GunMatrix Shooting Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=f1e698f0-1d90-40ea-a098-18b3ef8e4da4",
+    "deferLink": "http://go.playo.app/PLAYOO/y9JDI",
+    "lat": 28.579539185815904,
+    "lng": 77.37641062983599,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Shooting"
+    ],
+    "info": "\n    <h3>GunMatrix Shooting Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Shooting<br/>\n    <strong>Phone:</strong> 8448776286<br/>\n    <a href=\"http://go.playo.app/PLAYOO/y9JDI\" target=\"_blank\">http://go.playo.app/PLAYOO/y9JDI</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Gurukul Badminton Academy",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=9cc13f02-c8b4-46d6-ba08-25184ecf2dd3",
