@@ -861,21 +861,6 @@
     "info": "\n    <h3>InfinityS Badminton Academy ( Palam Vihar )</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9654793949<br/>\n    <a href=\"http://go.playo.app/PLAYOO/DU0C4\" target=\"_blank\">http://go.playo.app/PLAYOO/DU0C4</a><br/>\n    "
   },
   {
-    "avgRating": 3.67,
-    "name": "Ishita Badminton Academy",
-    "ratingCount": 9,
-    "fullLink": "https://playo.co/venue?venueId=d895dae1-a1a8-4b23-a283-f6b31bd2e99e",
-    "deferLink": "http://go.playo.app/PLAYOO/krErT",
-    "lat": 28.641255643738617,
-    "lng": 77.27813796525129,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Ishita Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.67 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9910763667<br/>\n    <a href=\"http://go.playo.app/PLAYOO/krErT\" target=\"_blank\">http://go.playo.app/PLAYOO/krErT</a><br/>\n    "
-  },
-  {
     "avgRating": 4.36,
     "name": "JNS Sports Academy by ArenaZ",
     "ratingCount": 11,
@@ -1348,6 +1333,22 @@
     "info": "\n    <h3>PlayAll KPS Alaknanda</h3>\n    <strong>Ratings:</strong> 4.83 [29]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9773677361<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yZuaV\" target=\"_blank\">http://go.playo.app/PLAYOO/yZuaV</a><br/>\n    "
   },
   {
+    "avgRating": 4.83,
+    "name": "PlayAll KPS Alaknanda",
+    "ratingCount": 29,
+    "fullLink": "https://playo.co/venue?venueId=9d7e4f4d-9693-403b-8804-3dda860e49f6",
+    "deferLink": "http://go.playo.app/PLAYOO/yZuaV",
+    "lat": 28.528985039564255,
+    "lng": 77.25076205577624,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Futsal"
+    ],
+    "info": "\n    <h3>PlayAll KPS Alaknanda</h3>\n    <strong>Ratings:</strong> 4.83 [29]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9773677361<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yZuaV\" target=\"_blank\">http://go.playo.app/PLAYOO/yZuaV</a><br/>\n    "
+  },
+  {
     "avgRating": 4,
     "name": "PlayAll MCL Hari Nagar",
     "ratingCount": 2,
@@ -1590,21 +1591,6 @@
       "Box Cricket"
     ],
     "info": "\n    <h3>Playvault Arena</h3>\n    <strong>Ratings:</strong> 4.63 [8]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8178535268<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8AfC5\" target=\"_blank\">http://go.playo.app/PLAYOO/8AfC5</a><br/>\n    "
-  },
-  {
-    "avgRating": 4.33,
-    "name": "PowerPlay Cricket Nets",
-    "ratingCount": 3,
-    "fullLink": "https://playo.co/venue?venueId=cdcadc26-e936-4e15-ae03-8265b87a800a",
-    "deferLink": "http://go.playo.app/PLAYOO/q3_Jv",
-    "lat": 28.537658378391388,
-    "lng": 77.27027078376852,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Cricket Nets"
-    ],
-    "info": "\n    <h3>PowerPlay Cricket Nets</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9650295003<br/>\n    <a href=\"http://go.playo.app/PLAYOO/q3_Jv\" target=\"_blank\">http://go.playo.app/PLAYOO/q3_Jv</a><br/>\n    "
   },
   {
     "avgRating": 4.33,

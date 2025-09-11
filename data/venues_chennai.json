@@ -787,7 +787,7 @@
   {
     "avgRating": 5,
     "name": "Breezy Paddle & Pitch",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=f08e807c-94a4-4351-b3b8-8ea7dbf9bc01",
     "deferLink": "http://go.playo.app/PLAYOO/6SYjG",
     "lat": 13.099244562068986,
@@ -797,7 +797,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Breezy Paddle & Pitch</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 6382636329<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6SYjG\" target=\"_blank\">http://go.playo.app/PLAYOO/6SYjG</a><br/>\n    "
+    "info": "\n    <h3>Breezy Paddle & Pitch</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 6382636329<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6SYjG\" target=\"_blank\">http://go.playo.app/PLAYOO/6SYjG</a><br/>\n    "
   },
   {
     "name": "Bwings Badminton Arena",
@@ -1542,17 +1542,15 @@
     "name": "Energize Sports",
     "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=f30b2747-6ba5-4b27-9706-adfe0a3a2ade",
-    "deferLink": "http://go.playo.app/PLAYOO/4d4Tt",
-    "lat": 13.028039,
-    "lng": 80.226266,
+    "deferLink": "http://go.playo.app/PLAYOO/GDqgU",
+    "lat": 13.033252657433438,
+    "lng": 80.21841419561736,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Carrom",
-      "Chess",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Energize Sports</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Carrom, Chess, Table Tennis<br/>\n    <strong>Phone:</strong> 8122070026<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4d4Tt\" target=\"_blank\">http://go.playo.app/PLAYOO/4d4Tt</a><br/>\n    "
+    "info": "\n    <h3>Energize Sports</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 8122070026<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GDqgU\" target=\"_blank\">http://go.playo.app/PLAYOO/GDqgU</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6091,20 +6089,20 @@
     "info": "\n    <h3>Turf Scape</h3>\n    <strong>Ratings:</strong> 4.75 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9677739906<br/>\n    <a href=\"http://go.playo.app/PLAYOO/sqXO3\" target=\"_blank\">http://go.playo.app/PLAYOO/sqXO3</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Turf Together",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=ff8caed3-6115-4782-90d6-63817bba1ea6",
     "deferLink": "http://go.playo.app/PLAYOO/eG0HJ",
     "lat": 13.0347872,
     "lng": 80.0731555,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Turf Together</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9790789092<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eG0HJ\" target=\"_blank\">http://go.playo.app/PLAYOO/eG0HJ</a><br/>\n    "
+    "info": "\n    <h3>Turf Together</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9790789092<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eG0HJ\" target=\"_blank\">http://go.playo.app/PLAYOO/eG0HJ</a><br/>\n    "
   },
   {
     "ratingCount": 4,
