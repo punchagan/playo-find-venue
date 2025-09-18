@@ -61,6 +61,21 @@
     "info": "\n    <h3>Alight Table Tennis Excellence Centre</h3>\n    <strong>Ratings:</strong> 4 [7]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9899225234<br/>\n    <a href=\"http://go.playo.app/PLAYOO/F_FGd\" target=\"_blank\">http://go.playo.app/PLAYOO/F_FGd</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Alpha 49",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=3ae99397-1ecb-419b-91e2-c6e3ba84ed80",
+    "deferLink": "http://go.playo.app/PLAYOO/zXarD",
+    "lat": 28.41608971024915,
+    "lng": 77.1190759399582,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Alpha 49</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999777567<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zXarD\" target=\"_blank\">http://go.playo.app/PLAYOO/zXarD</a><br/>\n    "
+  },
+  {
     "ratingCount": 3,
     "avgRating": 4.67,
     "name": "Aravali Sports Academy",
@@ -413,41 +428,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>CrowdFit</h3>\n    <strong>Ratings:</strong> 4.36 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9318383622<br/>\n    <a href=\"http://go.playo.app/PLAYOO/-t87Z\" target=\"_blank\">http://go.playo.app/PLAYOO/-t87Z</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Darbari Lal Sports Arena  DLF Greater Noida",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=9f64b3bf-faf4-46e6-9b55-19dae1d0d826",
-    "deferLink": "http://go.playo.app/PLAYOO/6UIk4",
-    "lat": 28.508982087275164,
-    "lng": 77.5280511088113,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Basketball",
-      "Box Cricket",
-      "Football",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>Darbari Lal Sports Arena  DLF Greater Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9810920400<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6UIk4\" target=\"_blank\">http://go.playo.app/PLAYOO/6UIk4</a><br/>\n    "
-  },
-  {
-    "avgRating": 4,
-    "name": "Darbari Lal Sports Arena DLF Ghaziabad",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=8c7833ac-0426-4a29-a05d-c82378a61c73",
-    "deferLink": "http://go.playo.app/PLAYOO/Jsss4",
-    "lat": 28.688111099296695,
-    "lng": 77.34985019532537,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>Darbari Lal Sports Arena DLF Ghaziabad</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9810920400<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Jsss4\" target=\"_blank\">http://go.playo.app/PLAYOO/Jsss4</a><br/>\n    "
   },
   {
     "ratingCount": 14,
