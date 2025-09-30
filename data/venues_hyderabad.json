@@ -136,10 +136,11 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Beach Volleyball",
+      "Bowling Machine",
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>7 Strikers</h3>\n    <strong>Ratings:</strong> 4.64 [14]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9652724142<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VmWeX\" target=\"_blank\">http://go.playo.app/PLAYOO/VmWeX</a><br/>\n    "
+    "info": "\n    <h3>7 Strikers</h3>\n    <strong>Ratings:</strong> 4.64 [14]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Bowling Machine, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9652724142<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VmWeX\" target=\"_blank\">http://go.playo.app/PLAYOO/VmWeX</a><br/>\n    "
   },
   {
     "avgRating": 3.67,
@@ -562,20 +563,20 @@
     "info": "\n    <h3>Ace Sports Arena</h3>\n    <strong>Ratings:</strong> 4.26 [31]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9573300018<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wPh_Z\" target=\"_blank\">http://go.playo.app/PLAYOO/wPh_Z</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Adonai Box Cricket",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=d2fa1b47-8d2f-483f-83c3-c69354b6256d",
     "deferLink": "http://go.playo.app/PLAYOO/pmi9O",
     "lat": 17.490332383591657,
     "lng": 78.58362987116429,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Carrom"
     ],
-    "info": "\n    <h3>Adonai Box Cricket</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Carrom<br/>\n    <strong>Phone:</strong> 9494932383<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pmi9O\" target=\"_blank\">http://go.playo.app/PLAYOO/pmi9O</a><br/>\n    "
+    "info": "\n    <h3>Adonai Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Carrom<br/>\n    <strong>Phone:</strong> 9494932383<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pmi9O\" target=\"_blank\">http://go.playo.app/PLAYOO/pmi9O</a><br/>\n    "
   },
   {
     "ratingCount": 5,
@@ -1119,19 +1120,19 @@
     "info": "\n    <h3>Bend-It Mini</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9100941470<br/>\n    <a href=\"http://go.playo.app/PLAYOO/F_3pl\" target=\"_blank\">http://go.playo.app/PLAYOO/F_3pl</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Bharath Box Cricket",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=0c2f77b7-f6f3-4485-b66d-b0029b33b89e",
     "deferLink": "http://go.playo.app/PLAYOO/GgjN-",
     "lat": 17.523407840427378,
     "lng": 78.4279058446983,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Bharath Box Cricket</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 6300103774<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GgjN-\" target=\"_blank\">http://go.playo.app/PLAYOO/GgjN-</a><br/>\n    "
+    "info": "\n    <h3>Bharath Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 6300103774<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GgjN-\" target=\"_blank\">http://go.playo.app/PLAYOO/GgjN-</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2291,7 +2292,7 @@
     "info": "\n    <h3>Deccan Swimming Pool</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 9493189207<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ApO2P\" target=\"_blank\">http://go.playo.app/PLAYOO/ApO2P</a><br/>\n    "
   },
   {
-    "ratingCount": 6,
+    "ratingCount": 7,
     "avgRating": 5,
     "name": "Destiny Sports Centre",
     "fullLink": "https://playo.co/venue?venueId=afc88c3a-6158-49c7-86ed-51e3be39a768",
@@ -2304,7 +2305,7 @@
       "Box Cricket",
       "Volleyball"
     ],
-    "info": "\n    <h3>Destiny Sports Centre</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 7981854215<br/>\n    <a href=\"http://go.playo.app/PLAYOO/BWvi9\" target=\"_blank\">http://go.playo.app/PLAYOO/BWvi9</a><br/>\n    "
+    "info": "\n    <h3>Destiny Sports Centre</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 7981854215<br/>\n    <a href=\"http://go.playo.app/PLAYOO/BWvi9\" target=\"_blank\">http://go.playo.app/PLAYOO/BWvi9</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2451,19 +2452,19 @@
     "info": "\n    <h3>EOD Sports Cafeteria</h3>\n    <strong>Ratings:</strong> 3.86 [7]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8074733916<br/>\n    <a href=\"http://go.playo.app/PLAYOO/EHTp1\" target=\"_blank\">http://go.playo.app/PLAYOO/EHTp1</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Eagle Box Cricket - Chengicherla",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=9c0f56c7-623f-4ac2-8017-a68c184c34d1",
     "lat": 17.42596973934712,
     "lng": 78.59734230252138,
     "deferLink": "http://go.playo.app/PLAYOO/ZPx6q",
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Eagle Box Cricket - Chengicherla</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9666266531<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZPx6q\" target=\"_blank\">http://go.playo.app/PLAYOO/ZPx6q</a><br/>\n    "
+    "info": "\n    <h3>Eagle Box Cricket - Chengicherla</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9666266531<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZPx6q\" target=\"_blank\">http://go.playo.app/PLAYOO/ZPx6q</a><br/>\n    "
   },
   {
     "ratingCount": 15,
@@ -2885,19 +2886,19 @@
     "info": "\n    <h3>Fit Line Box Cricket & Football</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7075743898<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4KGww\" target=\"_blank\">http://go.playo.app/PLAYOO/4KGww</a><br/>\n    "
   },
   {
-    "avgRating": 4,
+    "avgRating": 3.4,
     "name": "Fit Line Playin",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=1b655d47-7066-4361-9027-bb286c242ab2",
     "deferLink": "http://go.playo.app/PLAYOO/xeF2t",
     "lat": 17.510983257020786,
     "lng": 78.46807525678587,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Fit Line Playin</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9133635826<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xeF2t\" target=\"_blank\">http://go.playo.app/PLAYOO/xeF2t</a><br/>\n    "
+    "info": "\n    <h3>Fit Line Playin</h3>\n    <strong>Ratings:</strong> 3.4 [5]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9133635826<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xeF2t\" target=\"_blank\">http://go.playo.app/PLAYOO/xeF2t</a><br/>\n    "
   },
   {
     "avgRating": 4.11,
@@ -4910,9 +4911,9 @@
     "info": "\n    <h3>KSM Sportsplex</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 8500665045<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QRqKS\" target=\"_blank\">http://go.playo.app/PLAYOO/QRqKS</a><br/>\n    "
   },
   {
-    "avgRating": 3.67,
+    "avgRating": 3,
     "name": "Kailasa Sports Club",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=ec2884c4-b2ce-4d03-86a9-3241d23ed11f",
     "deferLink": "http://go.playo.app/PLAYOO/iM7Pd",
     "lat": 17.467643508577336,
@@ -4922,7 +4923,7 @@
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Kailasa Sports Club</h3>\n    <strong>Ratings:</strong> 3.67 [3]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8341549701<br/>\n    <a href=\"http://go.playo.app/PLAYOO/iM7Pd\" target=\"_blank\">http://go.playo.app/PLAYOO/iM7Pd</a><br/>\n    "
+    "info": "\n    <h3>Kailasa Sports Club</h3>\n    <strong>Ratings:</strong> 3 [4]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8341549701<br/>\n    <a href=\"http://go.playo.app/PLAYOO/iM7Pd\" target=\"_blank\">http://go.playo.app/PLAYOO/iM7Pd</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5693,6 +5694,21 @@
     "info": "\n    <h3>MVM Sports Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9030661561<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PayC0\" target=\"_blank\">http://go.playo.app/PLAYOO/PayC0</a><br/>\n    "
   },
   {
+    "avgRating": 4.26,
+    "name": "Machaxi Rally - Bachupally",
+    "ratingCount": 27,
+    "fullLink": "https://playo.co/venue?venueId=5b22978b-2f9f-40d2-808c-3b1a4e1c2fcb",
+    "deferLink": "http://go.playo.app/PLAYOO/cHdLw",
+    "lat": 17.550484807675574,
+    "lng": 78.39156135396918,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Machaxi Rally - Bachupally</h3>\n    <strong>Ratings:</strong> 4.26 [27]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9391784316<br/>\n    <a href=\"http://go.playo.app/PLAYOO/cHdLw\" target=\"_blank\">http://go.playo.app/PLAYOO/cHdLw</a><br/>\n    "
+  },
+  {
     "ratingCount": 11,
     "avgRating": 4.36,
     "name": "Madhav Badminton Academy",
@@ -6147,19 +6163,19 @@
     "info": "\n    <h3>Net Ninjas</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Cricket, Football<br/>\n    <strong>Phone:</strong> 9951648984<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Z_2Up\" target=\"_blank\">http://go.playo.app/PLAYOO/Z_2Up</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 3,
     "name": "New Club Family Club",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=74b03316-e3bd-4dea-ad0e-9742a32aee3f",
     "deferLink": "http://go.playo.app/PLAYOO/ys00p",
     "lat": 17.447801136233924,
     "lng": 78.50615555398927,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Swimming"
     ],
-    "info": "\n    <h3>New Club Family Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 7842659485<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ys00p\" target=\"_blank\">http://go.playo.app/PLAYOO/ys00p</a><br/>\n    "
+    "info": "\n    <h3>New Club Family Club</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 7842659485<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ys00p\" target=\"_blank\">http://go.playo.app/PLAYOO/ys00p</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6668,7 +6684,7 @@
   {
     "avgRating": 5,
     "name": "Oneturf Sports Arena",
-    "ratingCount": 1,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=a474b266-70c9-46bd-8deb-bea1d83bf7f3",
     "deferLink": "http://go.playo.app/PLAYOO/JHlVP",
     "lat": 17.37674058274844,
@@ -6681,7 +6697,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Oneturf Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9704560666<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JHlVP\" target=\"_blank\">http://go.playo.app/PLAYOO/JHlVP</a><br/>\n    "
+    "info": "\n    <h3>Oneturf Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9704560666<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JHlVP\" target=\"_blank\">http://go.playo.app/PLAYOO/JHlVP</a><br/>\n    "
   },
   {
     "ratingCount": 4,
@@ -6911,9 +6927,9 @@
     "info": "\n    <h3>Paddle Pickleball Club Alkapur</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9063281100<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0RxN7\" target=\"_blank\">http://go.playo.app/PLAYOO/0RxN7</a><br/>\n    "
   },
   {
-    "avgRating": 4.28,
+    "avgRating": 4.11,
     "name": "Paddlewave Pickleball & Turf Arena",
-    "ratingCount": 18,
+    "ratingCount": 19,
     "fullLink": "https://playo.co/venue?venueId=ca7ccb5d-1362-4df7-99fa-8888067c71fb",
     "deferLink": "http://go.playo.app/PLAYOO/D9_rY",
     "lat": 17.461944865608107,
@@ -6926,7 +6942,7 @@
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>Paddlewave Pickleball & Turf Arena</h3>\n    <strong>Ratings:</strong> 4.28 [18]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 7981279654<br/>\n    <a href=\"http://go.playo.app/PLAYOO/D9_rY\" target=\"_blank\">http://go.playo.app/PLAYOO/D9_rY</a><br/>\n    "
+    "info": "\n    <h3>Paddlewave Pickleball & Turf Arena</h3>\n    <strong>Ratings:</strong> 4.11 [19]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 7981279654<br/>\n    <a href=\"http://go.playo.app/PLAYOO/D9_rY\" target=\"_blank\">http://go.playo.app/PLAYOO/D9_rY</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -7955,21 +7971,6 @@
     "info": "\n    <h3>Rajadhanis Sports Club</h3>\n    <strong>Ratings:</strong> 3.67 [3]<br/>\n    <strong>Sports:</strong> Beach Volleyball, Box Cricket<br/>\n    <strong>Phone:</strong> 8143356345<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Vy9sl\" target=\"_blank\">http://go.playo.app/PLAYOO/Vy9sl</a><br/>\n    "
   },
   {
-    "avgRating": 4.26,
-    "name": "Rally Badminton Court",
-    "ratingCount": 27,
-    "fullLink": "https://playo.co/venue?venueId=5b22978b-2f9f-40d2-808c-3b1a4e1c2fcb",
-    "deferLink": "http://go.playo.app/PLAYOO/cHdLw",
-    "lat": 17.550484807675574,
-    "lng": 78.39156135396918,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Rally Badminton Court</h3>\n    <strong>Ratings:</strong> 4.26 [27]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9391784316<br/>\n    <a href=\"http://go.playo.app/PLAYOO/cHdLw\" target=\"_blank\">http://go.playo.app/PLAYOO/cHdLw</a><br/>\n    "
-  },
-  {
     "avgRating": 5,
     "name": "Rally On - Pickleball Arena",
     "ratingCount": 7,
@@ -8193,9 +8194,9 @@
     "info": "\n    <h3>Retro Drive In Madhapur</h3>\n    <strong>Ratings:</strong> 4.42 [36]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 7013685079<br/>\n    <a href=\"http://go.playo.app/PLAYOO/2JZ1y\" target=\"_blank\">http://go.playo.app/PLAYOO/2JZ1y</a><br/>\n    "
   },
   {
-    "avgRating": 3,
+    "avgRating": 3.4,
     "name": "Revoluton.Sports Club",
-    "ratingCount": 8,
+    "ratingCount": 10,
     "fullLink": "https://playo.co/venue?venueId=ab89df48-a3aa-475b-8583-79e1180f5e83",
     "deferLink": "http://go.playo.app/PLAYOO/igxjX",
     "lat": 17.474773626005323,
@@ -8207,7 +8208,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Revoluton.Sports Club</h3>\n    <strong>Ratings:</strong> 3 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 8790746963<br/>\n    <a href=\"http://go.playo.app/PLAYOO/igxjX\" target=\"_blank\">http://go.playo.app/PLAYOO/igxjX</a><br/>\n    "
+    "info": "\n    <h3>Revoluton.Sports Club</h3>\n    <strong>Ratings:</strong> 3.4 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 8790746963<br/>\n    <a href=\"http://go.playo.app/PLAYOO/igxjX\" target=\"_blank\">http://go.playo.app/PLAYOO/igxjX</a><br/>\n    "
   },
   {
     "ratingCount": 29,
@@ -9535,20 +9536,20 @@
     "info": "\n    <h3>Skies Playhub</h3>\n    <strong>Ratings:</strong> 4 [14]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9515517425<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Zfw5A\" target=\"_blank\">http://go.playo.app/PLAYOO/Zfw5A</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Skoreout The Box Arena",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=72ee9518-37b2-4e24-a480-8695aeeab41d",
     "deferLink": "http://go.playo.app/PLAYOO/2W832",
     "lat": 17.342440553867142,
     "lng": 78.32447152156891,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Skoreout The Box Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9640712987<br/>\n    <a href=\"http://go.playo.app/PLAYOO/2W832\" target=\"_blank\">http://go.playo.app/PLAYOO/2W832</a><br/>\n    "
+    "info": "\n    <h3>Skoreout The Box Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9640712987<br/>\n    <a href=\"http://go.playo.app/PLAYOO/2W832\" target=\"_blank\">http://go.playo.app/PLAYOO/2W832</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -9853,22 +9854,22 @@
     "info": "\n    <h3>Splash In Swimming Pool</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Swimming<br/>\n    <strong>Phone:</strong> 9912122250<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Zm4Pb\" target=\"_blank\">http://go.playo.app/PLAYOO/Zm4Pb</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Splash N Play",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=1c9cbe7d-4b1f-4478-9599-ab2245df2772",
     "deferLink": "http://go.playo.app/PLAYOO/mq4e5",
     "lat": 17.13130210081909,
     "lng": 78.13825918239944,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton",
       "Box Cricket",
       "Swimming",
       "Volleyball"
     ],
-    "info": "\n    <h3>Splash N Play</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Swimming, Volleyball<br/>\n    <strong>Phone:</strong> 9701777716<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mq4e5\" target=\"_blank\">http://go.playo.app/PLAYOO/mq4e5</a><br/>\n    "
+    "info": "\n    <h3>Splash N Play</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Swimming, Volleyball<br/>\n    <strong>Phone:</strong> 9701777716<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mq4e5\" target=\"_blank\">http://go.playo.app/PLAYOO/mq4e5</a><br/>\n    "
   },
   {
     "ratingCount": 9,
@@ -10798,19 +10799,19 @@
     "info": "\n    <h3>Super Sports Park - Nanakramguda</h3>\n    <strong>Ratings:</strong> 3.8 [25]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9930358408<br/>\n    <a href=\"http://go.playo.app/PLAYOO/RGYYz\" target=\"_blank\">http://go.playo.app/PLAYOO/RGYYz</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Super6",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=d9b76bcb-09ac-410e-9b9d-b90a3b8e6230",
     "deferLink": "http://go.playo.app/PLAYOO/-0cKw",
     "lat": 17.384675589497224,
     "lng": 78.55508926546686,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Super6</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8886255589<br/>\n    <a href=\"http://go.playo.app/PLAYOO/-0cKw\" target=\"_blank\">http://go.playo.app/PLAYOO/-0cKw</a><br/>\n    "
+    "info": "\n    <h3>Super6</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8886255589<br/>\n    <a href=\"http://go.playo.app/PLAYOO/-0cKw\" target=\"_blank\">http://go.playo.app/PLAYOO/-0cKw</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
