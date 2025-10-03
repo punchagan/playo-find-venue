@@ -94,6 +94,24 @@
   },
   {
     "avgRating": 5,
+    "name": "Arena 44",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=0d9c416e-c9c0-4fff-8a4a-2723ea569188",
+    "deferLink": "http://go.playo.app/PLAYOO/xSBW6",
+    "lat": 28.545623976222124,
+    "lng": 77.33953876399734,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Padel",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Arena 44</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Padel, Pickleball<br/>\n    <strong>Phone:</strong> 8448387914<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xSBW6\" target=\"_blank\">http://go.playo.app/PLAYOO/xSBW6</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Aryan International School",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=08efda03-e1c0-49be-a9b5-b62e0bc43dc6",
@@ -859,9 +877,9 @@
     "info": "\n    <h3>InfinityS Badminton Academy ( Palam Vihar )</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9654793949<br/>\n    <a href=\"http://go.playo.app/PLAYOO/DU0C4\" target=\"_blank\">http://go.playo.app/PLAYOO/DU0C4</a><br/>\n    "
   },
   {
-    "avgRating": 4.42,
+    "avgRating": 4.46,
     "name": "JNS Sports Academy by ArenaZ",
-    "ratingCount": 12,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=b280372e-4a61-4d96-9172-6ab6a0c0cc17",
     "deferLink": "http://go.playo.app/PLAYOO/ZW83d",
     "lat": 28.429404660576648,
@@ -871,7 +889,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>JNS Sports Academy by ArenaZ</h3>\n    <strong>Ratings:</strong> 4.42 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9999491046<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZW83d\" target=\"_blank\">http://go.playo.app/PLAYOO/ZW83d</a><br/>\n    "
+    "info": "\n    <h3>JNS Sports Academy by ArenaZ</h3>\n    <strong>Ratings:</strong> 4.46 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9999491046<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZW83d\" target=\"_blank\">http://go.playo.app/PLAYOO/ZW83d</a><br/>\n    "
   },
   {
     "avgRating": 5,
