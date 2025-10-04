@@ -356,6 +356,22 @@
   },
   {
     "avgRating": 5,
+    "name": "BoxStrike",
+    "ratingCount": 4,
+    "fullLink": "https://playo.co/venue?venueId=528c1f11-9b94-4bd2-a2a2-4983cd19f509",
+    "deferLink": "http://go.playo.app/PLAYOO/HNr9f",
+    "lat": 28.744779364309114,
+    "lng": 77.11521780952752,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>BoxStrike</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9540241144<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HNr9f\" target=\"_blank\">http://go.playo.app/PLAYOO/HNr9f</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "CRD Turf Pro",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=dba99f10-693b-49aa-9131-ccad32ed9749",
@@ -911,7 +927,7 @@
   {
     "avgRating": 5,
     "name": "Khelkund",
-    "ratingCount": 7,
+    "ratingCount": 8,
     "fullLink": "https://playo.co/venue?venueId=a9595c2d-5a8c-4b5c-b7a3-f616de30c0ed",
     "deferLink": "http://go.playo.app/PLAYOO/mq6VY",
     "lat": 28.391989676539062,
@@ -922,7 +938,7 @@
       "Badminton",
       "Pickleball"
     ],
-    "info": "\n    <h3>Khelkund</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 7837731001<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mq6VY\" target=\"_blank\">http://go.playo.app/PLAYOO/mq6VY</a><br/>\n    "
+    "info": "\n    <h3>Khelkund</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 7837731001<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mq6VY\" target=\"_blank\">http://go.playo.app/PLAYOO/mq6VY</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -1666,6 +1682,24 @@
       "Badminton"
     ],
     "info": "\n    <h3>RBA Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9811603228<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MXN6K\" target=\"_blank\">http://go.playo.app/PLAYOO/MXN6K</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "RCM Sports Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=b967a057-7f6a-4b3c-a1ad-afdadcfe7c73",
+    "deferLink": "http://go.playo.app/PLAYOO/r_Rky",
+    "lat": 28.457601857829864,
+    "lng": 76.97622992197385,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football",
+      "Volleyball"
+    ],
+    "info": "\n    <h3>RCM Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 7290007036<br/>\n    <a href=\"http://go.playo.app/PLAYOO/r_Rky\" target=\"_blank\">http://go.playo.app/PLAYOO/r_Rky</a><br/>\n    "
   },
   {
     "avgRating": 5,
