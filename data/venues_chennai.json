@@ -1356,7 +1356,7 @@
   {
     "avgRating": 5,
     "name": "Dev's Sports Academy",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=5eb9a938-d9d0-447f-bc8e-e4ef9256dac2",
     "deferLink": "http://go.playo.app/PLAYOO/GQuoS",
     "lat": 12.857664246649305,
@@ -1366,7 +1366,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Dev's Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9445556146<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GQuoS\" target=\"_blank\">http://go.playo.app/PLAYOO/GQuoS</a><br/>\n    "
+    "info": "\n    <h3>Dev's Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9445556146<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GQuoS\" target=\"_blank\">http://go.playo.app/PLAYOO/GQuoS</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2922,15 +2922,15 @@
     "info": "\n    <h3>Khen Academy</h3>\n    <strong>Ratings:</strong> 3.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840278289<br/>\n    <a href=\"http://go.playo.app/PLAYOO/w1P6v\" target=\"_blank\">http://go.playo.app/PLAYOO/w1P6v</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Khera's Sports Arena",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=1597b5ba-0b1c-4f26-a8cf-c02bfa3d4430",
     "deferLink": "http://go.playo.app/PLAYOO/SY9bs",
     "lat": 13.074652923858288,
     "lng": 80.14755668730878,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton",
       "Box Cricket",
@@ -2938,7 +2938,7 @@
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>Khera's Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8939653004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/SY9bs\" target=\"_blank\">http://go.playo.app/PLAYOO/SY9bs</a><br/>\n    "
+    "info": "\n    <h3>Khera's Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8939653004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/SY9bs\" target=\"_blank\">http://go.playo.app/PLAYOO/SY9bs</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -5558,19 +5558,19 @@
     "info": "\n    <h3>TRSKB Vijaya Badminton Club - A</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9382602198<br/>\n    <a href=\"http://go.playo.app/PLAYOO/b7bWv\" target=\"_blank\">http://go.playo.app/PLAYOO/b7bWv</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "TRSKB Vijaya Badminton Club - B",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=928b0c48-f882-4b2d-a50d-5daa3cf10743",
     "deferLink": "http://go.playo.app/PLAYOO/UQXb4",
     "lat": 13.135334405821025,
     "lng": 80.227841201946,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>TRSKB Vijaya Badminton Club - B</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9382602198<br/>\n    <a href=\"http://go.playo.app/PLAYOO/UQXb4\" target=\"_blank\">http://go.playo.app/PLAYOO/UQXb4</a><br/>\n    "
+    "info": "\n    <h3>TRSKB Vijaya Badminton Club - B</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9382602198<br/>\n    <a href=\"http://go.playo.app/PLAYOO/UQXb4\" target=\"_blank\">http://go.playo.app/PLAYOO/UQXb4</a><br/>\n    "
   },
   {
     "ratingCount": 8,
