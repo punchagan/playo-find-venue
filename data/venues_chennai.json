@@ -1887,6 +1887,21 @@
     "info": "\n    <h3>Feathers Badminton - Mangadu Road</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9677289131<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TkvuM\" target=\"_blank\">http://go.playo.app/PLAYOO/TkvuM</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Feathers Badminton - Mangadu Road",
+    "ratingCount": 5,
+    "fullLink": "https://playo.co/venue?venueId=a3709435-4246-4207-8c7a-193e0569f57b",
+    "deferLink": "http://go.playo.app/PLAYOO/TkvuM",
+    "lat": 13.0197291,
+    "lng": 80.1301052,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Feathers Badminton - Mangadu Road</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9677289131<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TkvuM\" target=\"_blank\">http://go.playo.app/PLAYOO/TkvuM</a><br/>\n    "
+  },
+  {
     "avgRating": 4.6,
     "name": "Field of Dreams Arena",
     "ratingCount": 5,
@@ -3295,25 +3310,6 @@
     "info": "\n    <h3>MSR Sports Academy</h3>\n    <strong>Ratings:</strong> 4.81 [16]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9790999074<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YHFR1\" target=\"_blank\">http://go.playo.app/PLAYOO/YHFR1</a><br/>\n    "
   },
   {
-    "name": "MSR Sports Academy",
-    "rating": 4,
-    "deferLink": "http://go.playo.app/PLAYOO/YHFR1",
-    "fullLink": "https://playo.co/venue/?venueId=a32b5081-31ea-42fa-8422-7a1ad7fcc5bb",
-    "avgRating": 4.81,
-    "ratingCount": 16,
-    "lat": 13.0396017,
-    "lng": 80.1364881,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Box Cricket",
-      "Cricket Nets",
-      "Football",
-      "Volleyball"
-    ],
-    "info": "\n    <h3>MSR Sports Academy</h3>\n    <strong>Ratings:</strong> 4.81 [16]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9790999074<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YHFR1\" target=\"_blank\">http://go.playo.app/PLAYOO/YHFR1</a><br/>\n    "
-  },
-  {
     "ratingCount": 6,
     "avgRating": 4.67,
     "name": "MTD Sports Academy",
@@ -4067,6 +4063,22 @@
       "Badminton"
     ],
     "info": "\n    <h3>Playchamps Badminton Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6385591888<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FHwP9\" target=\"_blank\">http://go.playo.app/PLAYOO/FHwP9</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Power Play Turf - Thiuverkadu",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=d0a6868b-716b-4817-a1f3-9f9bf0e5d84a",
+    "deferLink": "http://go.playo.app/PLAYOO/18RZB",
+    "lat": 13.067853211812878,
+    "lng": 80.12900641650694,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Power Play Turf - Thiuverkadu</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8072272926<br/>\n    <a href=\"http://go.playo.app/PLAYOO/18RZB\" target=\"_blank\">http://go.playo.app/PLAYOO/18RZB</a><br/>\n    "
   },
   {
     "ratingCount": 9,
