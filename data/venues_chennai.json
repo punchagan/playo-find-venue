@@ -882,6 +882,22 @@
     "info": "\n    <h3>Breezy Paddle & Pitch</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 6382636329<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6SYjG\" target=\"_blank\">http://go.playo.app/PLAYOO/6SYjG</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Brother's Turf",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=d24d492a-74b4-4f79-a7c3-d1064bc1e7c2",
+    "deferLink": "http://go.playo.app/PLAYOO/IB4VW",
+    "lat": 13.09743732346552,
+    "lng": 80.13411870465384,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Brother's Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8778517717<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IB4VW\" target=\"_blank\">http://go.playo.app/PLAYOO/IB4VW</a><br/>\n    "
+  },
+  {
     "name": "Bwings Badminton Arena",
     "rating": 4,
     "deferLink": "http://go.playo.app/PLAYOO/qhyyw",
@@ -2202,19 +2218,19 @@
     "info": "\n    <h3>GK Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840452099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/LQmTf\" target=\"_blank\">http://go.playo.app/PLAYOO/LQmTf</a><br/>\n    "
   },
   {
-    "avgRating": 5,
-    "name": "GOAT Dink Club",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=eb29f10d-36fe-4fb1-98ce-37b65142a3fc",
-    "deferLink": "http://go.playo.app/PLAYOO/xEPG7",
+    "avgRating": 0,
+    "name": "GOAT 360",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=72a359dc-93f3-4981-b082-14574383739c",
+    "deferLink": "",
     "lat": 12.909881899649063,
     "lng": 80.20756349568641,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>GOAT Dink Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9677006886<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xEPG7\" target=\"_blank\">http://go.playo.app/PLAYOO/xEPG7</a><br/>\n    "
+    "info": "\n    <h3>GOAT 360</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9677006886<br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
     "ratingCount": 43,
