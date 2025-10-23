@@ -281,9 +281,9 @@
     "info": "\n    <h3>Badminton Excellence Center</h3>\n    <strong>Ratings:</strong> 4.13 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9999804602<br/>\n    <a href=\"http://go.playo.app/PLAYOO/NH1IC\" target=\"_blank\">http://go.playo.app/PLAYOO/NH1IC</a><br/>\n    "
   },
   {
-    "avgRating": 4.75,
+    "avgRating": 4.8,
     "name": "Badminton24",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=5e0a6b65-cd05-4cf1-ba86-18a5560efe9b",
     "deferLink": "http://go.playo.app/PLAYOO/28Di5",
     "lat": 28.509473410142206,
@@ -293,7 +293,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"http://go.playo.app/PLAYOO/28Di5\" target=\"_blank\">http://go.playo.app/PLAYOO/28Di5</a><br/>\n    "
+    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"http://go.playo.app/PLAYOO/28Di5\" target=\"_blank\">http://go.playo.app/PLAYOO/28Di5</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -479,6 +479,23 @@
       "Pickleball"
     ],
     "info": "\n    <h3>Coppa Play</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9810694264<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ku7v6\" target=\"_blank\">http://go.playo.app/PLAYOO/ku7v6</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Court Culture - Paschim Vihar",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=6761b893-3508-4a6d-9803-5faed530fa2e",
+    "deferLink": "http://go.playo.app/PLAYOO/B5y2P",
+    "lat": 28.6639958889821,
+    "lng": 77.08255451534286,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Pickleball",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Court Culture - Paschim Vihar</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 8588811826<br/>\n    <a href=\"http://go.playo.app/PLAYOO/B5y2P\" target=\"_blank\">http://go.playo.app/PLAYOO/B5y2P</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2083,6 +2100,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Salasar Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750753652<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ybTEP\" target=\"_blank\">http://go.playo.app/PLAYOO/ybTEP</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Shri Shyam Football Academy",
+    "ratingCount": 12,
+    "fullLink": "https://playo.co/venue?venueId=1c73d66d-6698-4bed-9e5c-23dea4332131",
+    "deferLink": "http://go.playo.app/PLAYOO/7IdjQ",
+    "lat": 28.78102875375366,
+    "lng": 77.15202064417858,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Shri Shyam Football Academy</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9599689976<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7IdjQ\" target=\"_blank\">http://go.playo.app/PLAYOO/7IdjQ</a><br/>\n    "
   },
   {
     "avgRating": 5,
