@@ -869,7 +869,7 @@
   {
     "avgRating": 5,
     "name": "Breezy Paddle & Pitch",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=f08e807c-94a4-4351-b3b8-8ea7dbf9bc01",
     "deferLink": "http://go.playo.app/PLAYOO/6SYjG",
     "lat": 13.099244562068986,
@@ -879,7 +879,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Breezy Paddle & Pitch</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 6382636329<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6SYjG\" target=\"_blank\">http://go.playo.app/PLAYOO/6SYjG</a><br/>\n    "
+    "info": "\n    <h3>Breezy Paddle & Pitch</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 6382636329<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6SYjG\" target=\"_blank\">http://go.playo.app/PLAYOO/6SYjG</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5905,6 +5905,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>The Court - Madipakkam</h3>\n    <strong>Ratings:</strong> 4.31 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9600344244<br/>\n    <a href=\"http://go.playo.app/PLAYOO/M0uor\" target=\"_blank\">http://go.playo.app/PLAYOO/M0uor</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "The Ice Chamber - Premium Ice Recovery Center",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=5cba441d-b542-4793-8828-d5dede845fd7",
+    "deferLink": "http://go.playo.app/PLAYOO/AAKcW",
+    "lat": 13.08380275437487,
+    "lng": 80.23465524529593,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Water Sports"
+    ],
+    "info": "\n    <h3>The Ice Chamber - Premium Ice Recovery Center</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Water Sports<br/>\n    <strong>Phone:</strong> 7845560021<br/>\n    <a href=\"http://go.playo.app/PLAYOO/AAKcW\" target=\"_blank\">http://go.playo.app/PLAYOO/AAKcW</a><br/>\n    "
   },
   {
     "ratingCount": 10,
