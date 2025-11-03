@@ -1510,6 +1510,24 @@
     "info": "\n    <h3>PlayAll NGF Alaknanda</h3>\n    <strong>Ratings:</strong> 4.71 [7]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9667024442<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QEsl7\" target=\"_blank\">http://go.playo.app/PLAYOO/QEsl7</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "PlayAll NVM Dilshad Garden",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=a6a73bd1-7d65-4a8f-8d54-0315b513782d",
+    "deferLink": "http://go.playo.app/PLAYOO/O-SUU",
+    "lat": 28.68821119536511,
+    "lng": 77.31242921365855,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll NVM Dilshad Garden</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8130060731<br/>\n    <a href=\"http://go.playo.app/PLAYOO/O-SUU\" target=\"_blank\">http://go.playo.app/PLAYOO/O-SUU</a><br/>\n    "
+  },
+  {
     "avgRating": 4.43,
     "name": "PlayAll Noida 105",
     "ratingCount": 7,
@@ -1671,21 +1689,6 @@
     "info": "\n    <h3>Playfit Indoor Bowling Machine</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9310553720<br/>\n    <a href=\"http://go.playo.app/PLAYOO/BJakr\" target=\"_blank\">http://go.playo.app/PLAYOO/BJakr</a><br/>\n    "
   },
   {
-    "avgRating": 4.6,
-    "name": "Playfit Indoor Bowling Machine",
-    "ratingCount": 5,
-    "fullLink": "https://playo.co/venue?venueId=09054198-09c2-499e-9ae1-1bb68717b081",
-    "deferLink": "http://go.playo.app/PLAYOO/BJakr",
-    "lat": 28.531580844882868,
-    "lng": 77.20186657983426,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Cricket Nets"
-    ],
-    "info": "\n    <h3>Playfit Indoor Bowling Machine</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9310553720<br/>\n    <a href=\"http://go.playo.app/PLAYOO/BJakr\" target=\"_blank\">http://go.playo.app/PLAYOO/BJakr</a><br/>\n    "
-  },
-  {
     "avgRating": 5,
     "name": "Playground",
     "ratingCount": 1,
@@ -1734,9 +1737,9 @@
     "info": "\n    <h3>PowerPlay Cricket Nets</h3>\n    <strong>Ratings:</strong> 4.5 [4]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9650295003<br/>\n    <a href=\"http://go.playo.app/PLAYOO/q3_Jv\" target=\"_blank\">http://go.playo.app/PLAYOO/q3_Jv</a><br/>\n    "
   },
   {
-    "avgRating": 2.5,
+    "avgRating": 2.71,
     "name": "PowerSmash Badminton Academy",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "deferLink": "http://go.playo.app/PLAYOO/_8Qu7",
     "fullLink": "https://playo.co/venue/?venueId=1b041589-193b-45f5-a302-a44521883bf9",
     "lat": 28.722435,
@@ -1746,7 +1749,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>PowerSmash Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9810287836<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_8Qu7\" target=\"_blank\">http://go.playo.app/PLAYOO/_8Qu7</a><br/>\n    "
+    "info": "\n    <h3>PowerSmash Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.71 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9810287836<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_8Qu7\" target=\"_blank\">http://go.playo.app/PLAYOO/_8Qu7</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -2561,6 +2564,22 @@
       "Box Cricket"
     ],
     "info": "\n    <h3>The Ball - Out Turf Cricket</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 7838964056<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IztwQ\" target=\"_blank\">http://go.playo.app/PLAYOO/IztwQ</a><br/>\n    "
+  },
+  {
+    "ratingCount": 13,
+    "avgRating": 4.85,
+    "name": "The Box",
+    "fullLink": "https://playo.co/venue?venueId=21b03af3-2a8a-4637-9bbc-360009713db6",
+    "deferLink": "http://go.playo.app/PLAYOO/X8QXR",
+    "lat": 28.599402668468247,
+    "lng": 77.32953253980678,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Bowling Machine",
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>The Box</h3>\n    <strong>Ratings:</strong> 4.85 [13]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket<br/>\n    <strong>Phone:</strong> 9971482482<br/>\n    <a href=\"http://go.playo.app/PLAYOO/X8QXR\" target=\"_blank\">http://go.playo.app/PLAYOO/X8QXR</a><br/>\n    "
   },
   {
     "ratingCount": 13,
