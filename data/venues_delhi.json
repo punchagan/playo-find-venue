@@ -80,7 +80,7 @@
   {
     "avgRating": 5,
     "name": "Alpha 49",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=3ae99397-1ecb-419b-91e2-c6e3ba84ed80",
     "deferLink": "http://go.playo.app/PLAYOO/zXarD",
     "lat": 28.41608971024915,
@@ -90,7 +90,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Alpha 49</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999777567<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zXarD\" target=\"_blank\">http://go.playo.app/PLAYOO/zXarD</a><br/>\n    "
+    "info": "\n    <h3>Alpha 49</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999777567<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zXarD\" target=\"_blank\">http://go.playo.app/PLAYOO/zXarD</a><br/>\n    "
   },
   {
     "ratingCount": 3,
@@ -1201,21 +1201,6 @@
     "info": "\n    <h3>PCL Sports Complex</h3>\n    <strong>Ratings:</strong> 4.2 [5]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9818596699<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uqqAn\" target=\"_blank\">http://go.playo.app/PLAYOO/uqqAn</a><br/>\n    "
   },
   {
-    "avgRating": 5,
-    "name": "PIS - Pickle Ball",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=0b496505-d1d7-42c0-82ce-be6f220ab6fc",
-    "deferLink": "http://go.playo.app/PLAYOO/EGmQw",
-    "lat": 28.56343043451787,
-    "lng": 77.05749392883571,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Pickleball"
-    ],
-    "info": "\n    <h3>PIS - Pickle Ball</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8076929749<br/>\n    <a href=\"http://go.playo.app/PLAYOO/EGmQw\" target=\"_blank\">http://go.playo.app/PLAYOO/EGmQw</a><br/>\n    "
-  },
-  {
     "avgRating": 4.4,
     "name": "PT Badminton Academy",
     "ratingCount": 5,
@@ -1862,8 +1847,8 @@
     "info": "\n    <h3>Rackonnect Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.67 [24]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8948945820<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FbDKi\" target=\"_blank\">http://go.playo.app/PLAYOO/FbDKi</a><br/>\n    "
   },
   {
-    "ratingCount": 118,
-    "avgRating": 3.94,
+    "ratingCount": 119,
+    "avgRating": 3.92,
     "name": "Rackonnect Badminton Arena - Noida Indoor Stadium",
     "fullLink": "https://playo.co/venue?venueId=34b70e3b-81a2-4a06-aa1f-637f8cab4571",
     "deferLink": "http://go.playo.app/PLAYOO/a0q2H",
@@ -1874,7 +1859,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 3.94 [118]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"http://go.playo.app/PLAYOO/a0q2H\" target=\"_blank\">http://go.playo.app/PLAYOO/a0q2H</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 3.92 [119]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"http://go.playo.app/PLAYOO/a0q2H\" target=\"_blank\">http://go.playo.app/PLAYOO/a0q2H</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2581,19 +2566,19 @@
     "info": "\n    <h3>The 59 Arena & Cafe</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9205263380<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3rFcK\" target=\"_blank\">http://go.playo.app/PLAYOO/3rFcK</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4,
     "name": "The Ball - Out Turf Cricket",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=9f582b6e-9ba9-4927-be52-7b5986601456",
     "deferLink": "http://go.playo.app/PLAYOO/IztwQ",
     "lat": 28.49837189913121,
     "lng": 77.05529452894322,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>The Ball - Out Turf Cricket</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 7838964056<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IztwQ\" target=\"_blank\">http://go.playo.app/PLAYOO/IztwQ</a><br/>\n    "
+    "info": "\n    <h3>The Ball - Out Turf Cricket</h3>\n    <strong>Ratings:</strong> 4 [3]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 7838964056<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IztwQ\" target=\"_blank\">http://go.playo.app/PLAYOO/IztwQ</a><br/>\n    "
   },
   {
     "ratingCount": 13,
@@ -2907,8 +2892,9 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton",
+      "Bowling Machine",
       "Cricket Nets"
     ],
-    "info": "\n    <h3>Zero Gravity Sports Complex</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Cricket Nets<br/>\n    <strong>Phone:</strong> 9220886838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HlYhM\" target=\"_blank\">http://go.playo.app/PLAYOO/HlYhM</a><br/>\n    "
+    "info": "\n    <h3>Zero Gravity Sports Complex</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Bowling Machine, Cricket Nets<br/>\n    <strong>Phone:</strong> 9220886838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HlYhM\" target=\"_blank\">http://go.playo.app/PLAYOO/HlYhM</a><br/>\n    "
   }
 ]
