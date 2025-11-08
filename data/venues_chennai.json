@@ -108,9 +108,9 @@
     "info": "\n    <h3>2D Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9943563094<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IaevP\" target=\"_blank\">http://go.playo.app/PLAYOO/IaevP</a><br/>\n    "
   },
   {
-    "avgRating": 4.25,
+    "avgRating": 4.33,
     "name": "360+ Beyond Fitness",
-    "ratingCount": 8,
+    "ratingCount": 9,
     "fullLink": "https://playo.co/venue?venueId=870280e6-c65a-48d9-b89f-8cc93f12ca26",
     "deferLink": "http://go.playo.app/PLAYOO/pg7Ir",
     "lat": 12.972261351524653,
@@ -120,7 +120,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>360+ Beyond Fitness</h3>\n    <strong>Ratings:</strong> 4.25 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6369531036<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pg7Ir\" target=\"_blank\">http://go.playo.app/PLAYOO/pg7Ir</a><br/>\n    "
+    "info": "\n    <h3>360+ Beyond Fitness</h3>\n    <strong>Ratings:</strong> 4.33 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6369531036<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pg7Ir\" target=\"_blank\">http://go.playo.app/PLAYOO/pg7Ir</a><br/>\n    "
   },
   {
     "ratingCount": 12,
@@ -992,9 +992,9 @@
     "info": "\n    <h3>CRK Sports and Fitness Arena</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9363019192<br/>\n    <a href=\"http://go.playo.app/PLAYOO/lWBPa\" target=\"_blank\">http://go.playo.app/PLAYOO/lWBPa</a><br/>\n    "
   },
   {
-    "avgRating": 4.93,
+    "avgRating": 4.94,
     "name": "CTC Sports Arena",
-    "ratingCount": 15,
+    "ratingCount": 16,
     "fullLink": "https://playo.co/venue?venueId=0a48adeb-3647-453e-b027-9047966ff23b",
     "deferLink": "http://go.playo.app/PLAYOO/VDUlD",
     "lat": 12.812981343472945,
@@ -1005,7 +1005,7 @@
       "Badminton",
       "Pickleball"
     ],
-    "info": "\n    <h3>CTC Sports Arena</h3>\n    <strong>Ratings:</strong> 4.93 [15]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 8610162404<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VDUlD\" target=\"_blank\">http://go.playo.app/PLAYOO/VDUlD</a><br/>\n    "
+    "info": "\n    <h3>CTC Sports Arena</h3>\n    <strong>Ratings:</strong> 4.94 [16]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 8610162404<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VDUlD\" target=\"_blank\">http://go.playo.app/PLAYOO/VDUlD</a><br/>\n    "
   },
   {
     "avgRating": 4.4,
@@ -2248,6 +2248,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>GK Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840452099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/LQmTf\" target=\"_blank\">http://go.playo.app/PLAYOO/LQmTf</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "GOAT Dink Club - GOAT 360",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=6d1fa42f-d0d7-4a56-ac9f-25d7ed53916c",
+    "deferLink": "http://go.playo.app/PLAYOO/xBpXG",
+    "lat": 12.90970436959941,
+    "lng": 80.20752361074051,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>GOAT Dink Club - GOAT 360</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9363799001<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xBpXG\" target=\"_blank\">http://go.playo.app/PLAYOO/xBpXG</a><br/>\n    "
   },
   {
     "ratingCount": 44,
@@ -3926,22 +3941,6 @@
   },
   {
     "avgRating": 5,
-    "name": "Pedalbee Sports Club",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=9677d088-1449-4bfb-b6e9-bd02129ab19a",
-    "deferLink": "http://go.playo.app/PLAYOO/kE7I7",
-    "lat": 13.101010867491581,
-    "lng": 80.17031821534464,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Pedalbee Sports Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8078453248<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kE7I7\" target=\"_blank\">http://go.playo.app/PLAYOO/kE7I7</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
     "name": "Pickle Pulse",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=026cc44e-49d3-435b-be21-96eac468fa88",
@@ -4745,7 +4744,7 @@
   {
     "avgRating": 5,
     "name": "Shasu Sports Badminton Academy 3.0",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "fullLink": "https://playo.co/venue?venueId=9be4eb54-663d-4140-8f02-ceeef0897428",
     "deferLink": "http://go.playo.app/PLAYOO/WM-LC",
     "lat": 12.907792256705287,
@@ -4755,7 +4754,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Shasu Sports Badminton Academy 3.0</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952062999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WM-LC\" target=\"_blank\">http://go.playo.app/PLAYOO/WM-LC</a><br/>\n    "
+    "info": "\n    <h3>Shasu Sports Badminton Academy 3.0</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952062999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WM-LC\" target=\"_blank\">http://go.playo.app/PLAYOO/WM-LC</a><br/>\n    "
   },
   {
     "avgRating": 5,
