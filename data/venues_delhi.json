@@ -1081,6 +1081,22 @@
   },
   {
     "avgRating": 5,
+    "name": "M10 Box Cricket and Football",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=00a43e7d-7dd3-4ce5-b664-2e221bc7592f",
+    "deferLink": "http://go.playo.app/PLAYOO/VQoyF",
+    "lat": 28.714772618941577,
+    "lng": 77.11920591059281,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>M10 Box Cricket and Football</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7827359797<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VQoyF\" target=\"_blank\">http://go.playo.app/PLAYOO/VQoyF</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Mamchand Box Cricket",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=800306e0-a404-485f-83e8-877041c04895",
@@ -1847,8 +1863,8 @@
     "info": "\n    <h3>Rackonnect Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.67 [24]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8948945820<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FbDKi\" target=\"_blank\">http://go.playo.app/PLAYOO/FbDKi</a><br/>\n    "
   },
   {
-    "ratingCount": 119,
-    "avgRating": 3.92,
+    "ratingCount": 120,
+    "avgRating": 3.93,
     "name": "Rackonnect Badminton Arena - Noida Indoor Stadium",
     "fullLink": "https://playo.co/venue?venueId=34b70e3b-81a2-4a06-aa1f-637f8cab4571",
     "deferLink": "http://go.playo.app/PLAYOO/a0q2H",
@@ -1859,7 +1875,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 3.92 [119]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"http://go.playo.app/PLAYOO/a0q2H\" target=\"_blank\">http://go.playo.app/PLAYOO/a0q2H</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 3.93 [120]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"http://go.playo.app/PLAYOO/a0q2H\" target=\"_blank\">http://go.playo.app/PLAYOO/a0q2H</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -1922,9 +1938,9 @@
     "info": "\n    <h3>Rackonnect Pro Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9654114394<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Zrd6_\" target=\"_blank\">http://go.playo.app/PLAYOO/Zrd6_</a><br/>\n    "
   },
   {
-    "avgRating": 4,
+    "avgRating": 4.02,
     "name": "Rackonnect Strings & Feathers Badminton Arena | Sporbit",
-    "ratingCount": 60,
+    "ratingCount": 61,
     "fullLink": "https://playo.co/venue?venueId=e57fba5d-6578-42e0-9784-64cabd8f8520",
     "deferLink": "http://go.playo.app/PLAYOO/xHdVN",
     "lat": 28.40476022763887,
@@ -1934,7 +1950,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Strings & Feathers Badminton Arena | Sporbit</h3>\n    <strong>Ratings:</strong> 4 [60]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xHdVN\" target=\"_blank\">http://go.playo.app/PLAYOO/xHdVN</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Strings & Feathers Badminton Arena | Sporbit</h3>\n    <strong>Ratings:</strong> 4.02 [61]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xHdVN\" target=\"_blank\">http://go.playo.app/PLAYOO/xHdVN</a><br/>\n    "
   },
   {
     "avgRating": 5,
