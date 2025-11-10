@@ -155,22 +155,6 @@
   },
   {
     "avgRating": 5,
-    "name": "4 Lions Sports Academy",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=8a18fd65-729e-4d1a-8007-e131fbb12ad1",
-    "deferLink": "http://go.playo.app/PLAYOO/yBBpr",
-    "lat": 13.06730888967658,
-    "lng": 80.13060091265237,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Cricket Nets",
-      "Football"
-    ],
-    "info": "\n    <h3>4 Lions Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 8056260441<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yBBpr\" target=\"_blank\">http://go.playo.app/PLAYOO/yBBpr</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
     "name": "7 10 Futsal United",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=740eac8e-10fb-45cc-8646-b167660dbc9c",
@@ -2265,8 +2249,8 @@
     "info": "\n    <h3>GOAT Dink Club - GOAT 360</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9363799001<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xBpXG\" target=\"_blank\">http://go.playo.app/PLAYOO/xBpXG</a><br/>\n    "
   },
   {
-    "ratingCount": 44,
-    "avgRating": 3.86,
+    "ratingCount": 46,
+    "avgRating": 3.87,
     "name": "GPS Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=455aca41-9ca0-43b8-8fd9-7f37d24d8a5c",
     "deferLink": "http://go.playo.app/PLAYOO/ONPRr",
@@ -2277,7 +2261,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>GPS Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.86 [44]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9176777173<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ONPRr\" target=\"_blank\">http://go.playo.app/PLAYOO/ONPRr</a><br/>\n    "
+    "info": "\n    <h3>GPS Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.87 [46]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9176777173<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ONPRr\" target=\"_blank\">http://go.playo.app/PLAYOO/ONPRr</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4115,6 +4099,22 @@
     "info": "\n    <h3>Power Play Turf - Thiuverkadu</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8072272926<br/>\n    <a href=\"http://go.playo.app/PLAYOO/18RZB\" target=\"_blank\">http://go.playo.app/PLAYOO/18RZB</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Power Play Turf - Thiuverkadu",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=d0a6868b-716b-4817-a1f3-9f9bf0e5d84a",
+    "deferLink": "http://go.playo.app/PLAYOO/18RZB",
+    "lat": 13.067853211812878,
+    "lng": 80.12900641650694,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Power Play Turf - Thiuverkadu</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8072272926<br/>\n    <a href=\"http://go.playo.app/PLAYOO/18RZB\" target=\"_blank\">http://go.playo.app/PLAYOO/18RZB</a><br/>\n    "
+  },
+  {
     "ratingCount": 9,
     "avgRating": 4.11,
     "name": "Pranav Sports Academy",
@@ -5226,9 +5226,9 @@
     "info": "\n    <h3>Spark Turf</h3>\n    <strong>Ratings:</strong> 4.36 [14]<br/>\n    <strong>Sports:</strong> Box Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 8277995523<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HKjlu\" target=\"_blank\">http://go.playo.app/PLAYOO/HKjlu</a><br/>\n    "
   },
   {
-    "avgRating": 4.25,
+    "avgRating": 4.4,
     "name": "Sparrow Badminton Academy",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=9fe11a05-2fd8-4dab-882f-7cd9f4eb2447",
     "deferLink": "http://go.playo.app/PLAYOO/Cu3Kp",
     "lat": 12.911873946403231,
@@ -5238,7 +5238,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sparrow Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.25 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8610327382<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Cu3Kp\" target=\"_blank\">http://go.playo.app/PLAYOO/Cu3Kp</a><br/>\n    "
+    "info": "\n    <h3>Sparrow Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.4 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8610327382<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Cu3Kp\" target=\"_blank\">http://go.playo.app/PLAYOO/Cu3Kp</a><br/>\n    "
   },
   {
     "ratingCount": 12,
@@ -5890,6 +5890,22 @@
       "Pickleball"
     ],
     "info": "\n    <h3>The Colosseum Dinkin' Arena - Pickleball</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9566048883<br/>\n    <a href=\"http://go.playo.app/PLAYOO/abMK0\" target=\"_blank\">http://go.playo.app/PLAYOO/abMK0</a><br/>\n    "
+  },
+  {
+    "ratingCount": 2,
+    "avgRating": 5,
+    "name": "The Colosseum Sports - Iyyapanthangal",
+    "fullLink": "https://playo.co/venue?venueId=24145120-b7b3-477c-83b3-cc5801c0f315",
+    "deferLink": "http://go.playo.app/PLAYOO/YssBE",
+    "lat": 13.050801047957181,
+    "lng": 80.1313117519315,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>The Colosseum Sports - Iyyapanthangal</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9884787864<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YssBE\" target=\"_blank\">http://go.playo.app/PLAYOO/YssBE</a><br/>\n    "
   },
   {
     "avgRating": 4.31,
