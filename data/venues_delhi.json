@@ -527,6 +527,21 @@
     "info": "\n    <h3>Courtly - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8445951736<br/>\n    <a href=\"http://go.playo.app/PLAYOO/F1i2O\" target=\"_blank\">http://go.playo.app/PLAYOO/F1i2O</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Cricket Zone",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=b1bcf5a9-2ca4-4200-af2a-edbfd14a40fb",
+    "deferLink": "http://go.playo.app/PLAYOO/_CkGN",
+    "lat": 28.649009932663944,
+    "lng": 77.16722722639955,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Bowling Machine"
+    ],
+    "info": "\n    <h3>Cricket Zone</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Bowling Machine<br/>\n    <strong>Phone:</strong> 9818338409<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_CkGN\" target=\"_blank\">http://go.playo.app/PLAYOO/_CkGN</a><br/>\n    "
+  },
+  {
     "ratingCount": 14,
     "avgRating": 4.36,
     "name": "CrowdFit",
@@ -1002,6 +1017,26 @@
     "info": "\n    <h3>James Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Swimming<br/>\n    <strong>Phone:</strong> 8130941413<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wmxR3\" target=\"_blank\">http://go.playo.app/PLAYOO/wmxR3</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "K C Multi Sports Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=f5e75882-873d-4b7a-b349-549f4816f6a7",
+    "deferLink": "http://go.playo.app/PLAYOO/WnDdI",
+    "lat": 28.550435552648775,
+    "lng": 77.44145990082033,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Box Cricket",
+      "Cricket Nets",
+      "Futsal",
+      "Pickleball",
+      "Volleyball"
+    ],
+    "info": "\n    <h3>K C Multi Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Cricket Nets, Futsal, Pickleball, Volleyball<br/>\n    <strong>Phone:</strong> 8800428285<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WnDdI\" target=\"_blank\">http://go.playo.app/PLAYOO/WnDdI</a><br/>\n    "
+  },
+  {
     "avgRating": 4.93,
     "name": "Khelkund",
     "ratingCount": 15,
@@ -1082,7 +1117,7 @@
   {
     "avgRating": 5,
     "name": "M10 Box Cricket and Football",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=00a43e7d-7dd3-4ce5-b664-2e221bc7592f",
     "deferLink": "http://go.playo.app/PLAYOO/VQoyF",
     "lat": 28.714772618941577,
@@ -1093,7 +1128,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>M10 Box Cricket and Football</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7827359797<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VQoyF\" target=\"_blank\">http://go.playo.app/PLAYOO/VQoyF</a><br/>\n    "
+    "info": "\n    <h3>M10 Box Cricket and Football</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7827359797<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VQoyF\" target=\"_blank\">http://go.playo.app/PLAYOO/VQoyF</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2309,6 +2344,26 @@
     "info": "\n    <h3>Sparta Shuttlers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.17 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7048940832<br/>\n    <a href=\"http://go.playo.app/PLAYOO/onvcr\" target=\"_blank\">http://go.playo.app/PLAYOO/onvcr</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Sports Box 2.0",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=bfef28f4-9325-4220-a73a-90fe5dad1fa1",
+    "deferLink": "http://go.playo.app/PLAYOO/_aRI4",
+    "lat": 28.39530070369994,
+    "lng": 77.05806666491074,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Bowling Machine",
+      "Box Cricket",
+      "Cricket Nets",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Sports Box 2.0</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Bowling Machine, Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 7428816477<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_aRI4\" target=\"_blank\">http://go.playo.app/PLAYOO/_aRI4</a><br/>\n    "
+  },
+  {
     "avgRating": 4.5,
     "name": "Sports Mechanic",
     "ratingCount": 4,
@@ -2613,22 +2668,6 @@
     "info": "\n    <h3>The Box</h3>\n    <strong>Ratings:</strong> 4.85 [13]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket<br/>\n    <strong>Phone:</strong> 9971482482<br/>\n    <a href=\"http://go.playo.app/PLAYOO/X8QXR\" target=\"_blank\">http://go.playo.app/PLAYOO/X8QXR</a><br/>\n    "
   },
   {
-    "ratingCount": 13,
-    "avgRating": 4.85,
-    "name": "The Box",
-    "fullLink": "https://playo.co/venue?venueId=21b03af3-2a8a-4637-9bbc-360009713db6",
-    "deferLink": "http://go.playo.app/PLAYOO/X8QXR",
-    "lat": 28.599402668468247,
-    "lng": 77.32953253980678,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Bowling Machine",
-      "Box Cricket"
-    ],
-    "info": "\n    <h3>The Box</h3>\n    <strong>Ratings:</strong> 4.85 [13]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket<br/>\n    <strong>Phone:</strong> 9971482482<br/>\n    <a href=\"http://go.playo.app/PLAYOO/X8QXR\" target=\"_blank\">http://go.playo.app/PLAYOO/X8QXR</a><br/>\n    "
-  },
-  {
     "avgRating": 5,
     "name": "The Cricket Zone - Near 76 Noida Metro",
     "ratingCount": 5,
@@ -2771,6 +2810,21 @@
     "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.09 [22]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Datpy\" target=\"_blank\">http://go.playo.app/PLAYOO/Datpy</a><br/>\n    "
   },
   {
+    "avgRating": 4.09,
+    "name": "Top Smashers Badminton Academy",
+    "ratingCount": 22,
+    "fullLink": "https://playo.co/venue?venueId=8d3eed35-9a5c-43c9-9006-20080c8866a5",
+    "deferLink": "http://go.playo.app/PLAYOO/Datpy",
+    "lat": 28.60898759233924,
+    "lng": 77.3307223358009,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.09 [22]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Datpy\" target=\"_blank\">http://go.playo.app/PLAYOO/Datpy</a><br/>\n    "
+  },
+  {
     "avgRating": 5,
     "name": "Triptych Sports Complex",
     "ratingCount": 1,
@@ -2785,6 +2839,21 @@
       "Football"
     ],
     "info": "\n    <h3>Triptych Sports Complex</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 9650231991<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Nt0CH\" target=\"_blank\">http://go.playo.app/PLAYOO/Nt0CH</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Turf CHD - Box Cricket",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=e97ed8f8-1d9f-4c9c-8f70-935bd99e6298",
+    "deferLink": "http://go.playo.app/PLAYOO/5AasL",
+    "lat": 28.599729026146907,
+    "lng": 77.44006800000001,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Turf CHD - Box Cricket</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9354223648<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5AasL\" target=\"_blank\">http://go.playo.app/PLAYOO/5AasL</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
