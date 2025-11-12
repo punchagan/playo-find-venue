@@ -2173,6 +2173,21 @@
     "info": "\n    <h3>SRV Cricket Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8076982655<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R9RX8\" target=\"_blank\">http://go.playo.app/PLAYOO/R9RX8</a><br/>\n    "
   },
   {
+    "avgRating": 4.71,
+    "name": "SVA Sports Arena",
+    "ratingCount": 7,
+    "deferLink": "http://go.playo.app/PLAYOO/7dWTd",
+    "fullLink": "https://playo.co/venue/?venueId=8042a675-707d-414f-a809-dfd6f918f11c",
+    "lat": 28.511515322100696,
+    "lng": 77.37863699836443,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>SVA Sports Arena</h3>\n    <strong>Ratings:</strong> 4.71 [7]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9911758513<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7dWTd\" target=\"_blank\">http://go.playo.app/PLAYOO/7dWTd</a><br/>\n    "
+  },
+  {
     "ratingCount": 6,
     "avgRating": 4.33,
     "name": "Sai Sports Academy",
@@ -2201,6 +2216,22 @@
       "Badminton"
     ],
     "info": "\n    <h3>Salasar Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750753652<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ybTEP\" target=\"_blank\">http://go.playo.app/PLAYOO/ybTEP</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Shambhu Playing Arena",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=d4251149-12e3-44b2-a196-883564eac63c",
+    "deferLink": "http://go.playo.app/PLAYOO/VzI3M",
+    "lat": 28.519545569064196,
+    "lng": 77.0909648513905,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Shambhu Playing Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7503605000<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VzI3M\" target=\"_blank\">http://go.playo.app/PLAYOO/VzI3M</a><br/>\n    "
   },
   {
     "avgRating": 5,
