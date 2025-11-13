@@ -779,6 +779,25 @@
   },
   {
     "avgRating": 5,
+    "name": "Global Sports Complex - Noida",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=e45cfcab-73b8-41d4-924c-4bd0f1fb0e25",
+    "deferLink": "http://go.playo.app/PLAYOO/erzDY",
+    "lat": 28.5732694423272,
+    "lng": 77.38131935052358,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Cricket Nets",
+      "Football",
+      "Pickleball",
+      "Tennis"
+    ],
+    "info": "\n    <h3>Global Sports Complex - Noida</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Cricket Nets, Football, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 9818366733<br/>\n    <a href=\"http://go.playo.app/PLAYOO/erzDY\" target=\"_blank\">http://go.playo.app/PLAYOO/erzDY</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Green Valley International School",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=8ec75386-80f8-48a2-8e86-80adf951daa3",
@@ -2140,22 +2159,6 @@
       "Table Tennis"
     ],
     "info": "\n    <h3>SA Indoors</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket Nets, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 9315079557<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PzBXB\" target=\"_blank\">http://go.playo.app/PLAYOO/PzBXB</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "SNS Sports Club",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=5f3587d7-f54d-4773-a801-a7e5696e5a2d",
-    "deferLink": "http://go.playo.app/PLAYOO/ZlnDl",
-    "lat": 28.408048555746188,
-    "lng": 77.3490082137982,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>SNS Sports Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9818969052<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZlnDl\" target=\"_blank\">http://go.playo.app/PLAYOO/ZlnDl</a><br/>\n    "
   },
   {
     "avgRating": 5,
