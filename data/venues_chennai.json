@@ -321,12 +321,12 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton",
+      "Box Cricket",
       "Cricket Nets",
-      "Football",
       "Pickleball",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Abhinav Vijay Academy for Sports</h3>\n    <strong>Ratings:</strong> 4.56 [18]<br/>\n    <strong>Sports:</strong> Badminton, Cricket Nets, Football, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 7550040555<br/>\n    <a href=\"http://go.playo.app/PLAYOO/n_4w0\" target=\"_blank\">http://go.playo.app/PLAYOO/n_4w0</a><br/>\n    "
+    "info": "\n    <h3>Abhinav Vijay Academy for Sports</h3>\n    <strong>Ratings:</strong> 4.56 [18]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 7550040555<br/>\n    <a href=\"http://go.playo.app/PLAYOO/n_4w0\" target=\"_blank\">http://go.playo.app/PLAYOO/n_4w0</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -627,19 +627,19 @@
     "info": "\n    <h3>BALL360</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8754448556<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kd6eU\" target=\"_blank\">http://go.playo.app/PLAYOO/kd6eU</a><br/>\n    "
   },
   {
-    "avgRating": 1,
+    "avgRating": 3.67,
     "name": "Badminton Tribes",
-    "ratingCount": 1,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=4a5b8097-0f70-4a71-a47d-b3084b5aa908",
     "deferLink": "http://go.playo.app/PLAYOO/_GyZk",
     "lat": 12.848012753948812,
     "lng": 80.21867254232846,
-    "rating": 1,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Badminton Tribes</h3>\n    <strong>Ratings:</strong> 1 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8248979040<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_GyZk\" target=\"_blank\">http://go.playo.app/PLAYOO/_GyZk</a><br/>\n    "
+    "info": "\n    <h3>Badminton Tribes</h3>\n    <strong>Ratings:</strong> 3.67 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8248979040<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_GyZk\" target=\"_blank\">http://go.playo.app/PLAYOO/_GyZk</a><br/>\n    "
   },
   {
     "avgRating": 4.95,
@@ -4448,15 +4448,15 @@
     "rating": 4,
     "deferLink": "http://go.playo.app/PLAYOO/JlrcG",
     "fullLink": "https://playo.co/venue/?venueId=446a5ec8-2642-46ef-aece-f6dae2826171",
-    "avgRating": 4.86,
-    "ratingCount": 7,
+    "avgRating": 4.88,
+    "ratingCount": 8,
     "lat": 12.951527338270658,
     "lng": 80.2352149538519,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Ridley's Pickleball</h3>\n    <strong>Ratings:</strong> 4.86 [7]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7305693268<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JlrcG\" target=\"_blank\">http://go.playo.app/PLAYOO/JlrcG</a><br/>\n    "
+    "info": "\n    <h3>Ridley's Pickleball</h3>\n    <strong>Ratings:</strong> 4.88 [8]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7305693268<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JlrcG\" target=\"_blank\">http://go.playo.app/PLAYOO/JlrcG</a><br/>\n    "
   },
   {
     "avgRating": 4.75,
@@ -5343,7 +5343,7 @@
   {
     "avgRating": 4.09,
     "name": "Sports Sanity - Ramapuram",
-    "ratingCount": 34,
+    "ratingCount": 35,
     "fullLink": "https://playo.co/venue?venueId=925aac8c-9149-44bf-a6a7-6533933cb2b1",
     "deferLink": "http://go.playo.app/PLAYOO/SvTuh",
     "lat": 13.022348,
@@ -5355,7 +5355,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Sports Sanity - Ramapuram</h3>\n    <strong>Ratings:</strong> 4.09 [34]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9566427008<br/>\n    <a href=\"http://go.playo.app/PLAYOO/SvTuh\" target=\"_blank\">http://go.playo.app/PLAYOO/SvTuh</a><br/>\n    "
+    "info": "\n    <h3>Sports Sanity - Ramapuram</h3>\n    <strong>Ratings:</strong> 4.09 [35]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9566427008<br/>\n    <a href=\"http://go.playo.app/PLAYOO/SvTuh\" target=\"_blank\">http://go.playo.app/PLAYOO/SvTuh</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -6412,7 +6412,7 @@
   {
     "avgRating": 5,
     "name": "V Square Badminton Club",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=ed65f9cf-4178-4e35-87ed-417fdd55d11d",
     "deferLink": "http://go.playo.app/PLAYOO/PUzpD",
     "lat": 12.944196022750658,
@@ -6422,7 +6422,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
+    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
