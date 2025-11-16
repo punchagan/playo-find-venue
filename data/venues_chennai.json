@@ -705,9 +705,9 @@
     "info": "\n    <h3>Barracks The Sports Company</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8939003699<br/>\n    <a href=\"http://go.playo.app/PLAYOO/UUS-J\" target=\"_blank\">http://go.playo.app/PLAYOO/UUS-J</a><br/>\n    "
   },
   {
-    "avgRating": 3.4,
+    "avgRating": 3.67,
     "name": "Beach Side Badminton Academy",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=64fde605-38a9-40c6-8ddb-0d34b1bad70b",
     "deferLink": "http://go.playo.app/PLAYOO/3gDej",
     "lat": 13.039205,
@@ -717,7 +717,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Beach Side Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.4 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9600044425<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3gDej\" target=\"_blank\">http://go.playo.app/PLAYOO/3gDej</a><br/>\n    "
+    "info": "\n    <h3>Beach Side Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.67 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9600044425<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3gDej\" target=\"_blank\">http://go.playo.app/PLAYOO/3gDej</a><br/>\n    "
   },
   {
     "avgRating": 4.75,
@@ -849,6 +849,21 @@
       "Table Tennis"
     ],
     "info": "\n    <h3>Bounce Smashers Sports Academy</h3>\n    <strong>Ratings:</strong> 4.88 [8]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 8098439391<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TblBi\" target=\"_blank\">http://go.playo.app/PLAYOO/TblBi</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Bounce and Strike Sports Academy",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=749b4d34-3fe6-4f55-83df-77d93e1dd6b0",
+    "lat": 13.037738819450592,
+    "lng": 80.12782376567036,
+    "deferLink": "",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Bounce and Strike Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9445111681<br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
     "avgRating": 4.5,
@@ -3801,6 +3816,25 @@
   },
   {
     "avgRating": 5,
+    "name": "Olympus Sports Villagio",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=d56742fc-ff58-4f95-ab54-3743bf366c13",
+    "deferLink": "http://go.playo.app/PLAYOO/n1Q4K",
+    "lat": 13.08691221860005,
+    "lng": 80.11790664709322,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football",
+      "Pickleball",
+      "Tennis"
+    ],
+    "info": "\n    <h3>Olympus Sports Villagio</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 8866117778<br/>\n    <a href=\"http://go.playo.app/PLAYOO/n1Q4K\" target=\"_blank\">http://go.playo.app/PLAYOO/n1Q4K</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Outlast Sports Arena - Karapakkam",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=36d8eaf2-486c-462f-9624-4f78e543e902",
@@ -4099,20 +4133,20 @@
     "info": "\n    <h3>Playchamps Badminton Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6385591888<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FHwP9\" target=\"_blank\">http://go.playo.app/PLAYOO/FHwP9</a><br/>\n    "
   },
   {
-    "avgRating": 5,
-    "name": "Power Play Turf - Thiuverkadu",
-    "ratingCount": 3,
-    "fullLink": "https://playo.co/venue?venueId=d0a6868b-716b-4817-a1f3-9f9bf0e5d84a",
-    "deferLink": "http://go.playo.app/PLAYOO/18RZB",
-    "lat": 13.067853211812878,
-    "lng": 80.12900641650694,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "avgRating": 0,
+    "name": "Playspot Multisports Arena",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=1025f6a6-ec94-4616-8820-e13cf848d9a2",
+    "deferLink": "http://go.playo.app/PLAYOO/GGejK",
+    "lat": 13.058324009418644,
+    "lng": 80.22993738075068,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Power Play Turf - Thiuverkadu</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8072272926<br/>\n    <a href=\"http://go.playo.app/PLAYOO/18RZB\" target=\"_blank\">http://go.playo.app/PLAYOO/18RZB</a><br/>\n    "
+    "info": "\n    <h3>Playspot Multisports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9600949922<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GGejK\" target=\"_blank\">http://go.playo.app/PLAYOO/GGejK</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5422,7 +5456,7 @@
   {
     "avgRating": 5,
     "name": "Srineeth Table Tennis Academy",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=06fd301e-50f7-4eec-a4d9-fb6b23eb71ef",
     "deferLink": "http://go.playo.app/PLAYOO/wODGd",
     "lat": 13.02997585010384,
@@ -5432,7 +5466,7 @@
     "filter_by": [
       "Table Tennis"
     ],
-    "info": "\n    <h3>Srineeth Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9941243556<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wODGd\" target=\"_blank\">http://go.playo.app/PLAYOO/wODGd</a><br/>\n    "
+    "info": "\n    <h3>Srineeth Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9941243556<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wODGd\" target=\"_blank\">http://go.playo.app/PLAYOO/wODGd</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6678,7 +6712,7 @@
   {
     "avgRating": 5,
     "name": "Young India Badminton Court (Neon)",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=34fe2392-e61d-4256-9d60-39d94f30bff9",
     "deferLink": "http://go.playo.app/PLAYOO/oBqcZ",
     "lat": 13.041858585345068,
@@ -6688,7 +6722,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Young India Badminton Court (Neon)</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8428302099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oBqcZ\" target=\"_blank\">http://go.playo.app/PLAYOO/oBqcZ</a><br/>\n    "
+    "info": "\n    <h3>Young India Badminton Court (Neon)</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8428302099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oBqcZ\" target=\"_blank\">http://go.playo.app/PLAYOO/oBqcZ</a><br/>\n    "
   },
   {
     "avgRating": 5,
