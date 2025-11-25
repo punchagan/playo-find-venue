@@ -498,22 +498,6 @@
     "info": "\n    <h3>Anna Sports Club</h3>\n    <strong>Ratings:</strong> 4.7 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305036399<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4qK70\" target=\"_blank\">http://go.playo.app/PLAYOO/4qK70</a><br/>\n    "
   },
   {
-    "name": "Arena Sports",
-    "rating": 3,
-    "deferLink": "http://go.playo.app/PLAYOO/psu59",
-    "fullLink": "https://playo.co/venue/?venueId=1acc500c-e3d9-4bb3-b706-11ef403836fe",
-    "lat": 12.9419977,
-    "lng": 80.2115225,
-    "avgRating": 3.4,
-    "ratingCount": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Arena Sports</h3>\n    <strong>Ratings:</strong> 3.4 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840550179<br/>\n    <a href=\"http://go.playo.app/PLAYOO/psu59\" target=\"_blank\">http://go.playo.app/PLAYOO/psu59</a><br/>\n    "
-  },
-  {
     "avgRating": 5,
     "name": "Ark Sports Academy",
     "ratingCount": 7,
@@ -580,9 +564,9 @@
     "info": "\n    <h3>Asok Sports Club</h3>\n    <strong>Ratings:</strong> 4.33 [6]<br/>\n    <strong>Sports:</strong> Badminton, Indoor Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 8610608680<br/>\n    <a href=\"http://go.playo.app/PLAYOO/cYDE9\" target=\"_blank\">http://go.playo.app/PLAYOO/cYDE9</a><br/>\n    "
   },
   {
-    "avgRating": 4.93,
+    "avgRating": 4.94,
     "name": "Astra Kings",
-    "ratingCount": 15,
+    "ratingCount": 16,
     "fullLink": "https://playo.co/venue?venueId=ad8318e5-c3f8-43fd-bb5b-7e99f6bc6481",
     "deferLink": "http://go.playo.app/PLAYOO/X6-4h",
     "lat": 13.108970441749731,
@@ -592,7 +576,7 @@
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Astra Kings</h3>\n    <strong>Ratings:</strong> 4.93 [15]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9629640519<br/>\n    <a href=\"http://go.playo.app/PLAYOO/X6-4h\" target=\"_blank\">http://go.playo.app/PLAYOO/X6-4h</a><br/>\n    "
+    "info": "\n    <h3>Astra Kings</h3>\n    <strong>Ratings:</strong> 4.94 [16]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9629640519<br/>\n    <a href=\"http://go.playo.app/PLAYOO/X6-4h\" target=\"_blank\">http://go.playo.app/PLAYOO/X6-4h</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -625,6 +609,21 @@
       "Football"
     ],
     "info": "\n    <h3>BALL360</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8754448556<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kd6eU\" target=\"_blank\">http://go.playo.app/PLAYOO/kd6eU</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "BSN/VKL ACADEMY",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=ca16df0f-2d8f-4402-bad5-e0598a47e130",
+    "deferLink": "http://go.playo.app/PLAYOO/wZ7zV",
+    "lat": 12.983910905379796,
+    "lng": 80.13929886398942,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>BSN/VKL ACADEMY</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9087603451<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wZ7zV\" target=\"_blank\">http://go.playo.app/PLAYOO/wZ7zV</a><br/>\n    "
   },
   {
     "avgRating": 3.67,
@@ -1537,9 +1536,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
       "Box Cricket",
-      "Football"
+      "Football",
+      "Volleyball"
     ],
-    "info": "\n    <h3>Drive & Dash Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9345236636<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JM_AQ\" target=\"_blank\">http://go.playo.app/PLAYOO/JM_AQ</a><br/>\n    "
+    "info": "\n    <h3>Drive & Dash Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9345236636<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JM_AQ\" target=\"_blank\">http://go.playo.app/PLAYOO/JM_AQ</a><br/>\n    "
   },
   {
     "avgRating": 4.45,
@@ -6430,9 +6430,9 @@
     "info": "\n    <h3>Urapakkam Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9884341012<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VKp0L\" target=\"_blank\">http://go.playo.app/PLAYOO/VKp0L</a><br/>\n    "
   },
   {
-    "avgRating": 4.93,
+    "avgRating": 4.96,
     "name": "V Square Badminton Club",
-    "ratingCount": 14,
+    "ratingCount": 28,
     "fullLink": "https://playo.co/venue?venueId=ed65f9cf-4178-4e35-87ed-417fdd55d11d",
     "deferLink": "http://go.playo.app/PLAYOO/PUzpD",
     "lat": 12.944196022750658,
@@ -6442,7 +6442,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.93 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
+    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.96 [28]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
   },
   {
     "avgRating": 5,
