@@ -690,7 +690,7 @@
   {
     "avgRating": 5,
     "name": "Barracks The Sports Company",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=f9a342bf-d750-4988-8efa-ba5e0b39129d",
     "deferLink": "http://go.playo.app/PLAYOO/UUS-J",
     "lat": 12.928099491837452,
@@ -701,7 +701,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Barracks The Sports Company</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8939003699<br/>\n    <a href=\"http://go.playo.app/PLAYOO/UUS-J\" target=\"_blank\">http://go.playo.app/PLAYOO/UUS-J</a><br/>\n    "
+    "info": "\n    <h3>Barracks The Sports Company</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8939003699<br/>\n    <a href=\"http://go.playo.app/PLAYOO/UUS-J\" target=\"_blank\">http://go.playo.app/PLAYOO/UUS-J</a><br/>\n    "
   },
   {
     "avgRating": 3.67,
@@ -1184,9 +1184,9 @@
     "info": "\n    <h3>Chennai's Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9941624849<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MM1OC\" target=\"_blank\">http://go.playo.app/PLAYOO/MM1OC</a><br/>\n    "
   },
   {
-    "avgRating": 4.8,
+    "avgRating": 4.83,
     "name": "Chola Sports Academy",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=ae31fe80-5f17-4464-8617-bf4eb75785be",
     "deferLink": "http://go.playo.app/PLAYOO/Yvm6n",
     "lat": 12.883537111939015,
@@ -1196,7 +1196,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Chola Sports Academy</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305065880<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Yvm6n\" target=\"_blank\">http://go.playo.app/PLAYOO/Yvm6n</a><br/>\n    "
+    "info": "\n    <h3>Chola Sports Academy</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305065880<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Yvm6n\" target=\"_blank\">http://go.playo.app/PLAYOO/Yvm6n</a><br/>\n    "
   },
   {
     "avgRating": 3.6,
@@ -4648,6 +4648,21 @@
   },
   {
     "avgRating": 5,
+    "name": "SJ Square Badminton Club",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=1ba29380-8bfe-4623-8eb9-c6c35c25a769",
+    "deferLink": "http://go.playo.app/PLAYOO/oens8",
+    "lat": 12.942440154434976,
+    "lng": 80.16785687404307,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>SJ Square Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438390100<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oens8\" target=\"_blank\">http://go.playo.app/PLAYOO/oens8</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "SK Badminton Academy - Kolathur",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=e8ba2334-079e-49b4-80ad-70ce83a92cfb",
@@ -6402,7 +6417,7 @@
   {
     "avgRating": 4.98,
     "name": "V Square Badminton Club",
-    "ratingCount": 41,
+    "ratingCount": 47,
     "fullLink": "https://playo.co/venue?venueId=ed65f9cf-4178-4e35-87ed-417fdd55d11d",
     "deferLink": "http://go.playo.app/PLAYOO/PUzpD",
     "lat": 12.944196022750658,
@@ -6412,7 +6427,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.98 [41]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
+    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.98 [47]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
