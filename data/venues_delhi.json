@@ -1805,6 +1805,21 @@
     "info": "\n    <h3>Dwarka Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9599868947<br/>\n    <a href=\"http://go.playo.app/PLAYOO/rsX-x\" target=\"_blank\">http://go.playo.app/PLAYOO/rsX-x</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "East Delhi Badminton Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=0951dfe1-5497-4ae2-8366-d33e1065f3c3",
+    "deferLink": "http://go.playo.app/PLAYOO/8patr",
+    "lat": 28.641574259786527,
+    "lng": 77.27779245378922,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>East Delhi Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9354796690<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8patr\" target=\"_blank\">http://go.playo.app/PLAYOO/8patr</a><br/>\n    "
+  },
+  {
     "avgRating": 0,
     "name": "East Delhi Box Cricket",
     "ratingCount": 0,
@@ -3034,21 +3049,6 @@
     "info": "\n    <h3>Insfire Sports at Excelsior American School</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball<br/>\n    <strong>Phone:</strong> 8750062266<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yR7Mt\" target=\"_blank\">http://go.playo.app/PLAYOO/yR7Mt</a><br/>\n    "
   },
   {
-    "avgRating": 3.5,
-    "name": "Ishita Badminton Academy",
-    "ratingCount": 10,
-    "fullLink": "https://playo.co/venue?venueId=d895dae1-a1a8-4b23-a283-f6b31bd2e99e",
-    "deferLink": "http://go.playo.app/PLAYOO/krErT",
-    "lat": 28.641255643738617,
-    "lng": 77.27813796525129,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Ishita Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.5 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9910763667<br/>\n    <a href=\"http://go.playo.app/PLAYOO/krErT\" target=\"_blank\">http://go.playo.app/PLAYOO/krErT</a><br/>\n    "
-  },
-  {
     "avgRating": 3,
     "name": "James Sports Arena",
     "ratingCount": 3,
@@ -3849,19 +3849,19 @@
     "info": "\n    <h3>Noida Shuttlers Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8826226982<br/>\n    <a href=\"http://go.playo.app/PLAYOO/EqZO8\" target=\"_blank\">http://go.playo.app/PLAYOO/EqZO8</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 4,
     "name": "Noida Stadium Badminton Courts",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=7be8d163-bf4e-43e9-b21a-342f8afa511c",
     "deferLink": "http://go.playo.app/PLAYOO/t3JHF",
     "lat": 28.58987020764162,
     "lng": 77.34033805620155,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Noida Stadium Badminton Courts</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9540855049<br/>\n    <a href=\"http://go.playo.app/PLAYOO/t3JHF\" target=\"_blank\">http://go.playo.app/PLAYOO/t3JHF</a><br/>\n    "
+    "info": "\n    <h3>Noida Stadium Badminton Courts</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9540855049<br/>\n    <a href=\"http://go.playo.app/PLAYOO/t3JHF\" target=\"_blank\">http://go.playo.app/PLAYOO/t3JHF</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -6703,19 +6703,19 @@
     "info": "\n    <h3>Sportzon Sports Complex</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Archery, Basketball, Box Cricket, Cricket Nets, Football, Tennis<br/>\n    <strong>Phone:</strong> 9340053756<br/>\n    <a href=\"http://go.playo.app/PLAYOO/v8AEQ\" target=\"_blank\">http://go.playo.app/PLAYOO/v8AEQ</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Spuddy Multisports Academy | Noida",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=62b2f581-e18c-4ce5-ac4d-dd713ca92dba",
     "deferLink": "http://go.playo.app/PLAYOO/feyrV",
     "lat": 28.576341301632674,
     "lng": 77.39988336201283,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Spuddy Multisports Academy | Noida</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7078404986<br/>\n    <a href=\"http://go.playo.app/PLAYOO/feyrV\" target=\"_blank\">http://go.playo.app/PLAYOO/feyrV</a><br/>\n    "
+    "info": "\n    <h3>Spuddy Multisports Academy | Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7078404986<br/>\n    <a href=\"http://go.playo.app/PLAYOO/feyrV\" target=\"_blank\">http://go.playo.app/PLAYOO/feyrV</a><br/>\n    "
   },
   {
     "avgRating": 4.64,
