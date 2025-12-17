@@ -1260,7 +1260,7 @@
   {
     "avgRating": 5,
     "name": "Courtside - Karol Bagh",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=76d999a7-28e2-45fe-a14e-2c2423106b07",
     "deferLink": "http://go.playo.app/PLAYOO/YKNhl",
     "lat": 28.656044356218388,
@@ -1270,7 +1270,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Courtside - Karol Bagh</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9013886465<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YKNhl\" target=\"_blank\">http://go.playo.app/PLAYOO/YKNhl</a><br/>\n    "
+    "info": "\n    <h3>Courtside - Karol Bagh</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9013886465<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YKNhl\" target=\"_blank\">http://go.playo.app/PLAYOO/YKNhl</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -5687,20 +5687,20 @@
     "info": "\n    <h3>Rex Field</h3>\n    <strong>Ratings:</strong> 4.67 [6]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9999743089<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FOjSr\" target=\"_blank\">http://go.playo.app/PLAYOO/FOjSr</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4.5,
     "name": "Rise Sports School",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=184a2aca-7d03-4c59-8b31-93bf4f16066c",
     "deferLink": "http://go.playo.app/PLAYOO/jP_nl",
     "lat": 28.58809637183657,
     "lng": 77.38990512374423,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton",
       "Pickleball"
     ],
-    "info": "\n    <h3>Rise Sports School</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9818081344<br/>\n    <a href=\"http://go.playo.app/PLAYOO/jP_nl\" target=\"_blank\">http://go.playo.app/PLAYOO/jP_nl</a><br/>\n    "
+    "info": "\n    <h3>Rise Sports School</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9818081344<br/>\n    <a href=\"http://go.playo.app/PLAYOO/jP_nl\" target=\"_blank\">http://go.playo.app/PLAYOO/jP_nl</a><br/>\n    "
   },
   {
     "ratingCount": 1,
@@ -7321,6 +7321,21 @@
       "Football"
     ],
     "info": "\n    <h3>The Goal Plaza</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8130953299<br/>\n    <a href=\"http://go.playo.app/PLAYOO/qAMUH\" target=\"_blank\">http://go.playo.app/PLAYOO/qAMUH</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "The Horizon - Gurgaon",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=0f33b6e6-1d3c-471c-bc76-ac8a251d3c21",
+    "deferLink": "http://go.playo.app/PLAYOO/ScB9w",
+    "lat": 28.404618083874006,
+    "lng": 77.07132535505131,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>The Horizon - Gurgaon</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8930302444<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ScB9w\" target=\"_blank\">http://go.playo.app/PLAYOO/ScB9w</a><br/>\n    "
   },
   {
     "avgRating": 0,
