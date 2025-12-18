@@ -3911,7 +3911,7 @@
   {
     "avgRating": 5,
     "name": "Pickleball Arena - West Mambalam",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=bb9f8661-f2f8-4367-8914-3459ecd1ebd0",
     "deferLink": "http://go.playo.app/PLAYOO/-r-J3",
     "lat": 13.029610934003902,
@@ -3921,7 +3921,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Pickleball Arena - West Mambalam</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8489055660<br/>\n    <a href=\"http://go.playo.app/PLAYOO/-r-J3\" target=\"_blank\">http://go.playo.app/PLAYOO/-r-J3</a><br/>\n    "
+    "info": "\n    <h3>Pickleball Arena - West Mambalam</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8489055660<br/>\n    <a href=\"http://go.playo.app/PLAYOO/-r-J3\" target=\"_blank\">http://go.playo.app/PLAYOO/-r-J3</a><br/>\n    "
   },
   {
     "ratingCount": 8,
@@ -4631,7 +4631,7 @@
   {
     "avgRating": 5,
     "name": "SJ Square Badminton Club",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=1ba29380-8bfe-4623-8eb9-c6c35c25a769",
     "deferLink": "http://go.playo.app/PLAYOO/oens8",
     "lat": 12.942440154434976,
@@ -4641,7 +4641,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SJ Square Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438390100<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oens8\" target=\"_blank\">http://go.playo.app/PLAYOO/oens8</a><br/>\n    "
+    "info": "\n    <h3>SJ Square Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438390100<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oens8\" target=\"_blank\">http://go.playo.app/PLAYOO/oens8</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4747,7 +4747,7 @@
   {
     "avgRating": 5,
     "name": "Shasu Sports Badminton Academy 3.0",
-    "ratingCount": 8,
+    "ratingCount": 9,
     "fullLink": "https://playo.co/venue?venueId=9be4eb54-663d-4140-8f02-ceeef0897428",
     "deferLink": "http://go.playo.app/PLAYOO/WM-LC",
     "lat": 12.907792256705287,
@@ -4757,7 +4757,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Shasu Sports Badminton Academy 3.0</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952062999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WM-LC\" target=\"_blank\">http://go.playo.app/PLAYOO/WM-LC</a><br/>\n    "
+    "info": "\n    <h3>Shasu Sports Badminton Academy 3.0</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952062999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WM-LC\" target=\"_blank\">http://go.playo.app/PLAYOO/WM-LC</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5830,6 +5830,22 @@
       "Tennis"
     ],
     "info": "\n    <h3>Tennis Legends Academy</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 6380328575<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_r-TR\" target=\"_blank\">http://go.playo.app/PLAYOO/_r-TR</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Tens Turf Padur",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=9487c8c8-e8ba-4681-a15d-572b30a658f0",
+    "deferLink": "http://go.playo.app/PLAYOO/sgvSD",
+    "lat": 12.802399212202042,
+    "lng": 80.22369639081013,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Tens Turf Padur</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9566110029<br/>\n    <a href=\"http://go.playo.app/PLAYOO/sgvSD\" target=\"_blank\">http://go.playo.app/PLAYOO/sgvSD</a><br/>\n    "
   },
   {
     "avgRating": 5,
