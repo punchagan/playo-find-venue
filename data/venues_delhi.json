@@ -5191,21 +5191,6 @@
     "info": "\n    <h3>QHub by Quantum Sports</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9911477700<br/>\n    <a href=\"http://go.playo.app/PLAYOO/okDa0\" target=\"_blank\">http://go.playo.app/PLAYOO/okDa0</a><br/>\n    "
   },
   {
-    "avgRating": 0,
-    "name": "RAQTOR Badminton Club",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=7995dacf-b851-48e6-b6cd-b038f959ee31",
-    "deferLink": "http://go.playo.app/PLAYOO/LJzwf",
-    "lat": 28.501477035561756,
-    "lng": 77.39212287362311,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>RAQTOR Badminton Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9971908034<br/>\n    <a href=\"http://go.playo.app/PLAYOO/LJzwf\" target=\"_blank\">http://go.playo.app/PLAYOO/LJzwf</a><br/>\n    "
-  },
-  {
     "ratingCount": 3,
     "avgRating": 4,
     "name": "RBA Badminton Academy",
@@ -5659,6 +5644,21 @@
     "info": "\n    <h3>Ramagya Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball, Football, Squash, Table Tennis<br/>\n    <strong>Phone:</strong> 8010811811<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MXprB\" target=\"_blank\">http://go.playo.app/PLAYOO/MXprB</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Raqtor Badminton Club",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=d49624e9-05fc-496b-b2d1-c6d0427bc148",
+    "deferLink": "http://go.playo.app/PLAYOO/asse0",
+    "lat": 28.50148153751075,
+    "lng": 77.39211914451903,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Raqtor Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9810822348<br/>\n    <a href=\"http://go.playo.app/PLAYOO/asse0\" target=\"_blank\">http://go.playo.app/PLAYOO/asse0</a><br/>\n    "
+  },
+  {
     "avgRating": 0,
     "name": "Ravinder Phagna Cricket Academy",
     "ratingCount": 0,
@@ -5972,9 +5972,9 @@
     "info": "\n    <h3>Sai Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 7947103654<br/>\n    <a href=\"http://go.playo.app/PLAYOO/L3L4R\" target=\"_blank\">http://go.playo.app/PLAYOO/L3L4R</a><br/>\n    "
   },
   {
-    "avgRating": 4.67,
+    "avgRating": 4.75,
     "name": "Salasar Badminton Academy",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=90fb2c2f-6f81-42f8-9874-c361b340bfa3",
     "deferLink": "http://go.playo.app/PLAYOO/ybTEP",
     "lat": 28.39745826688318,
@@ -5984,7 +5984,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Salasar Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.67 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750753652<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ybTEP\" target=\"_blank\">http://go.playo.app/PLAYOO/ybTEP</a><br/>\n    "
+    "info": "\n    <h3>Salasar Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750753652<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ybTEP\" target=\"_blank\">http://go.playo.app/PLAYOO/ybTEP</a><br/>\n    "
   },
   {
     "avgRating": 0,
