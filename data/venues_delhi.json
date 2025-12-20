@@ -1852,19 +1852,19 @@
     "info": "\n    <h3>Dwarka Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9599868947<br/>\n    <a href=\"http://go.playo.app/PLAYOO/rsX-x\" target=\"_blank\">http://go.playo.app/PLAYOO/rsX-x</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 3.67,
     "name": "East Delhi Badminton Academy",
-    "ratingCount": 1,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=0951dfe1-5497-4ae2-8366-d33e1065f3c3",
     "deferLink": "http://go.playo.app/PLAYOO/8patr",
     "lat": 28.641574259786527,
     "lng": 77.27779245378922,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>East Delhi Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9354796690<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8patr\" target=\"_blank\">http://go.playo.app/PLAYOO/8patr</a><br/>\n    "
+    "info": "\n    <h3>East Delhi Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.67 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9354796690<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8patr\" target=\"_blank\">http://go.playo.app/PLAYOO/8patr</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -3553,21 +3553,21 @@
     "info": "\n    <h3>MM Tennis Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 9818418999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VW2y-\" target=\"_blank\">http://go.playo.app/PLAYOO/VW2y-</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "MVN Exercise & Sports Academy",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=2dbeafaa-5b96-46ec-b065-233841a60738",
     "deferLink": "http://go.playo.app/PLAYOO/qISxz",
     "lat": 28.429916832522387,
     "lng": 77.35161972898138,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton",
       "Basketball",
       "Swimming"
     ],
-    "info": "\n    <h3>MVN Exercise & Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Swimming<br/>\n    <strong>Phone:</strong> 8800708737<br/>\n    <a href=\"http://go.playo.app/PLAYOO/qISxz\" target=\"_blank\">http://go.playo.app/PLAYOO/qISxz</a><br/>\n    "
+    "info": "\n    <h3>MVN Exercise & Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Swimming<br/>\n    <strong>Phone:</strong> 8800708737<br/>\n    <a href=\"http://go.playo.app/PLAYOO/qISxz\" target=\"_blank\">http://go.playo.app/PLAYOO/qISxz</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -5396,6 +5396,22 @@
     "info": "\n    <h3>Rackonnect Badminton Arena | Ladha Sarai Village</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9800009224<br/>\n    <a href=\"http://go.playo.app/PLAYOO/95khw\" target=\"_blank\">http://go.playo.app/PLAYOO/95khw</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Rackonnect Exclusive Padel Pickle Park",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=2e75fbc9-050b-4183-a7a0-b66705ab087c",
+    "deferLink": "http://go.playo.app/PLAYOO/TeG9Q",
+    "lat": 28.51495490894999,
+    "lng": 77.18696218390522,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Padel",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Rackonnect Exclusive Padel Pickle Park</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9800009224<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TeG9Q\" target=\"_blank\">http://go.playo.app/PLAYOO/TeG9Q</a><br/>\n    "
+  },
+  {
     "avgRating": 4.2,
     "name": "Rackonnect Exclusive Padel Pickle Park (REPPP)",
     "ratingCount": 5,
@@ -6742,6 +6758,21 @@
       "Tennis"
     ],
     "info": "\n    <h3>Sportslane</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 7897288344<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QdeE7\" target=\"_blank\">http://go.playo.app/PLAYOO/QdeE7</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Sportyzo ArenaZ Badminton Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=33033886-e996-4097-badc-2bd8eb7ba1d3",
+    "deferLink": "http://go.playo.app/PLAYOO/Ji_bL",
+    "lat": 28.4033990271343,
+    "lng": 77.07353867054684,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Sportyzo ArenaZ Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9874927165<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ji_bL\" target=\"_blank\">http://go.playo.app/PLAYOO/Ji_bL</a><br/>\n    "
   },
   {
     "avgRating": 0,

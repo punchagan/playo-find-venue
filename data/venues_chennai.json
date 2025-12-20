@@ -4747,7 +4747,7 @@
   {
     "avgRating": 5,
     "name": "Shasu Sports Badminton Academy 3.0",
-    "ratingCount": 9,
+    "ratingCount": 10,
     "fullLink": "https://playo.co/venue?venueId=9be4eb54-663d-4140-8f02-ceeef0897428",
     "deferLink": "http://go.playo.app/PLAYOO/WM-LC",
     "lat": 12.907792256705287,
@@ -4757,7 +4757,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Shasu Sports Badminton Academy 3.0</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952062999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WM-LC\" target=\"_blank\">http://go.playo.app/PLAYOO/WM-LC</a><br/>\n    "
+    "info": "\n    <h3>Shasu Sports Badminton Academy 3.0</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952062999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WM-LC\" target=\"_blank\">http://go.playo.app/PLAYOO/WM-LC</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4917,9 +4917,9 @@
     "info": "\n    <h3>Sky Badminton Academy 4.0</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8778276076<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0ynOA\" target=\"_blank\">http://go.playo.app/PLAYOO/0ynOA</a><br/>\n    "
   },
   {
-    "avgRating": 4,
+    "avgRating": 4.33,
     "name": "Sky Badminton Academy 5.0",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=85e7f3e3-b612-496b-9399-f04f2f7ad927",
     "deferLink": "http://go.playo.app/PLAYOO/VaGeV",
     "lat": 12.976899232340724,
@@ -4929,7 +4929,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sky Badminton Academy 5.0</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8778276076<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VaGeV\" target=\"_blank\">http://go.playo.app/PLAYOO/VaGeV</a><br/>\n    "
+    "info": "\n    <h3>Sky Badminton Academy 5.0</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8778276076<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VaGeV\" target=\"_blank\">http://go.playo.app/PLAYOO/VaGeV</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5970,6 +5970,23 @@
       "Badminton"
     ],
     "info": "\n    <h3>The Olympiad Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.2 [25]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8056797530<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oet5K\" target=\"_blank\">http://go.playo.app/PLAYOO/oet5K</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "The Playpit Multi Sports Turf",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=8968ea8d-cf1e-4627-bd77-ede72f320bbd",
+    "deferLink": "http://go.playo.app/PLAYOO/xUXTc",
+    "lat": 12.935826341980254,
+    "lng": 80.199810374504,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>The Playpit Multi Sports Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 7338752020<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xUXTc\" target=\"_blank\">http://go.playo.app/PLAYOO/xUXTc</a><br/>\n    "
   },
   {
     "ratingCount": 9,
