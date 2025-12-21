@@ -1258,9 +1258,9 @@
     "info": "\n    <h3>Courtly - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.67 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8445951736<br/>\n    <a href=\"http://go.playo.app/PLAYOO/F1i2O\" target=\"_blank\">http://go.playo.app/PLAYOO/F1i2O</a><br/>\n    "
   },
   {
-    "avgRating": 4.8,
+    "avgRating": 4.9,
     "name": "Courtside - Karol Bagh",
-    "ratingCount": 5,
+    "ratingCount": 10,
     "fullLink": "https://playo.co/venue?venueId=76d999a7-28e2-45fe-a14e-2c2423106b07",
     "deferLink": "http://go.playo.app/PLAYOO/YKNhl",
     "lat": 28.656044356218388,
@@ -1270,7 +1270,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Courtside - Karol Bagh</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9013886465<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YKNhl\" target=\"_blank\">http://go.playo.app/PLAYOO/YKNhl</a><br/>\n    "
+    "info": "\n    <h3>Courtside - Karol Bagh</h3>\n    <strong>Ratings:</strong> 4.9 [10]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9013886465<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YKNhl\" target=\"_blank\">http://go.playo.app/PLAYOO/YKNhl</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -5225,6 +5225,21 @@
     "info": "\n    <h3>RCM Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 7290007036<br/>\n    <a href=\"http://go.playo.app/PLAYOO/r_Rky\" target=\"_blank\">http://go.playo.app/PLAYOO/r_Rky</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "REPPP-RKT Badminton Arena",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=c9650fd3-6ef7-4249-af1c-a54ca573b590",
+    "deferLink": "http://go.playo.app/PLAYOO/vAU3o",
+    "lat": 28.514959200302425,
+    "lng": 77.18696584892825,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>REPPP-RKT Badminton Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8376883367<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vAU3o\" target=\"_blank\">http://go.playo.app/PLAYOO/vAU3o</a><br/>\n    "
+  },
+  {
     "avgRating": 0,
     "name": "RJ Box Cricket",
     "ratingCount": 0,
@@ -5445,9 +5460,9 @@
     "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.57 [21]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"http://go.playo.app/PLAYOO/42nGP\" target=\"_blank\">http://go.playo.app/PLAYOO/42nGP</a><br/>\n    "
   },
   {
-    "avgRating": 3.77,
+    "avgRating": 3.78,
     "name": "Rackonnect Next Level Badminton Arena",
-    "ratingCount": 30,
+    "ratingCount": 32,
     "fullLink": "https://playo.co/venue?venueId=ceb82728-82dd-40c9-8fb2-8ea8f82ecb68",
     "deferLink": "http://go.playo.app/PLAYOO/c3YIe",
     "lat": 28.55258908463302,
@@ -5457,7 +5472,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.77 [30]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.78 [32]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -6762,7 +6777,7 @@
   {
     "avgRating": 5,
     "name": "Sportyzo ArenaZ Badminton Academy",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=33033886-e996-4097-badc-2bd8eb7ba1d3",
     "deferLink": "http://go.playo.app/PLAYOO/Ji_bL",
     "lat": 28.4033990271343,
@@ -6772,7 +6787,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sportyzo ArenaZ Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9874927165<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ji_bL\" target=\"_blank\">http://go.playo.app/PLAYOO/Ji_bL</a><br/>\n    "
+    "info": "\n    <h3>Sportyzo ArenaZ Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9874927165<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ji_bL\" target=\"_blank\">http://go.playo.app/PLAYOO/Ji_bL</a><br/>\n    "
   },
   {
     "avgRating": 0,
