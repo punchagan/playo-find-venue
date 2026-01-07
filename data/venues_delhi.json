@@ -7686,21 +7686,6 @@
     "info": "\n    <h3>Skyball Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9999355959<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mjs5r\" target=\"_blank\">http://go.playo.app/PLAYOO/mjs5r</a><br/>\n    "
   },
   {
-    "avgRating": 4.17,
-    "name": "Skybeam Badminton Academy",
-    "ratingCount": 12,
-    "fullLink": "https://playo.co/venue?venueId=3acf585a-5bf0-4c6a-b165-f022879c8f41",
-    "deferLink": "http://go.playo.app/PLAYOO/wUn-U",
-    "lat": 28.549938563206585,
-    "lng": 77.3526130130769,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Skybeam Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.17 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9953013380<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wUn-U\" target=\"_blank\">http://go.playo.app/PLAYOO/wUn-U</a><br/>\n    "
-  },
-  {
     "avgRating": 0,
     "name": "Skyline Pickleball Courts",
     "ratingCount": 0,
@@ -8643,6 +8628,23 @@
       "Badminton"
     ],
     "info": "\n    <h3>Surjit Singh Badminton Academy Vaishali</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7947121763<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vAW9F\" target=\"_blank\">http://go.playo.app/PLAYOO/vAW9F</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Swing & Smash",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=6817fa6c-c130-4351-b8d3-35776681bb5f",
+    "deferLink": "http://go.playo.app/PLAYOO/UNMnd",
+    "lat": 28.743179361718724,
+    "lng": 77.12342853068748,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Pickleball",
+      "Pool"
+    ],
+    "info": "\n    <h3>Swing & Smash</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8981170046<br/>\n    <a href=\"http://go.playo.app/PLAYOO/UNMnd\" target=\"_blank\">http://go.playo.app/PLAYOO/UNMnd</a><br/>\n    "
   },
   {
     "avgRating": 4.9,
