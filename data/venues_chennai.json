@@ -3234,7 +3234,7 @@
   {
     "avgRating": 4,
     "name": "Leo Badminton Academy",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=950080d8-9a3b-46fa-937f-953f19aad587",
     "deferLink": "http://go.playo.app/PLAYOO/8Pjih",
     "lat": 12.776595633789912,
@@ -3244,7 +3244,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Leo Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840435639<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8Pjih\" target=\"_blank\">http://go.playo.app/PLAYOO/8Pjih</a><br/>\n    "
+    "info": "\n    <h3>Leo Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840435639<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8Pjih\" target=\"_blank\">http://go.playo.app/PLAYOO/8Pjih</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3567,9 +3567,10 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Pickleball"
     ],
-    "info": "\n    <h3>Mojo Sports Centre</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9500128624<br/>\n    <a href=\"http://go.playo.app/PLAYOO/W_96s\" target=\"_blank\">http://go.playo.app/PLAYOO/W_96s</a><br/>\n    "
+    "info": "\n    <h3>Mojo Sports Centre</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9500128624<br/>\n    <a href=\"http://go.playo.app/PLAYOO/W_96s\" target=\"_blank\">http://go.playo.app/PLAYOO/W_96s</a><br/>\n    "
   },
   {
     "ratingCount": 3,
@@ -4223,6 +4224,22 @@
       "Football"
     ],
     "info": "\n    <h3>Playspot Multisports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9600949922<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GGejK\" target=\"_blank\">http://go.playo.app/PLAYOO/GGejK</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Power Hitters Turf",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=32a77ce8-6048-4900-a405-b0021deb416a",
+    "deferLink": "http://go.playo.app/PLAYOO/eYHwV",
+    "lat": 12.883299712738722,
+    "lng": 80.16622725505867,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Power Hitters Turf</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8940019159<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eYHwV\" target=\"_blank\">http://go.playo.app/PLAYOO/eYHwV</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5177,9 +5194,9 @@
     "info": "\n    <h3>Smash Badminton Academy - Ayapakkam</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9677037528<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MTbqb\" target=\"_blank\">http://go.playo.app/PLAYOO/MTbqb</a><br/>\n    "
   },
   {
-    "avgRating": 4.83,
+    "avgRating": 4.85,
     "name": "Smash N Kick",
-    "ratingCount": 12,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=4965c194-98a9-48d3-bfb8-e784378790a2",
     "deferLink": "http://go.playo.app/PLAYOO/e5mfl",
     "lat": 12.7754715499678,
@@ -5192,7 +5209,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Smash N Kick</h3>\n    <strong>Ratings:</strong> 4.83 [12]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 6369679022<br/>\n    <a href=\"http://go.playo.app/PLAYOO/e5mfl\" target=\"_blank\">http://go.playo.app/PLAYOO/e5mfl</a><br/>\n    "
+    "info": "\n    <h3>Smash N Kick</h3>\n    <strong>Ratings:</strong> 4.85 [13]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 6369679022<br/>\n    <a href=\"http://go.playo.app/PLAYOO/e5mfl\" target=\"_blank\">http://go.playo.app/PLAYOO/e5mfl</a><br/>\n    "
   },
   {
     "avgRating": 3,
