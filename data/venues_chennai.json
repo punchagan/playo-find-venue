@@ -2943,7 +2943,7 @@
   {
     "avgRating": 5,
     "name": "KCG 22 Yards Turf",
-    "ratingCount": 11,
+    "ratingCount": 12,
     "fullLink": "https://playo.co/venue?venueId=bc033d48-40f2-4a5e-b804-59efbc3d3395",
     "deferLink": "http://go.playo.app/PLAYOO/g0wsn",
     "lat": 12.916842900348662,
@@ -2954,7 +2954,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>KCG 22 Yards Turf</h3>\n    <strong>Ratings:</strong> 5 [11]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9962233663<br/>\n    <a href=\"http://go.playo.app/PLAYOO/g0wsn\" target=\"_blank\">http://go.playo.app/PLAYOO/g0wsn</a><br/>\n    "
+    "info": "\n    <h3>KCG 22 Yards Turf</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9962233663<br/>\n    <a href=\"http://go.playo.app/PLAYOO/g0wsn\" target=\"_blank\">http://go.playo.app/PLAYOO/g0wsn</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3375,8 +3375,8 @@
     "rating": 4,
     "deferLink": "http://go.playo.app/PLAYOO/YHFR1",
     "fullLink": "https://playo.co/venue/?venueId=a32b5081-31ea-42fa-8422-7a1ad7fcc5bb",
-    "avgRating": 4.59,
-    "ratingCount": 17,
+    "avgRating": 4.61,
+    "ratingCount": 18,
     "lat": 13.0396017,
     "lng": 80.1364881,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
@@ -3387,7 +3387,7 @@
       "Football",
       "Volleyball"
     ],
-    "info": "\n    <h3>MSR Sports Academy</h3>\n    <strong>Ratings:</strong> 4.59 [17]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9790999074<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YHFR1\" target=\"_blank\">http://go.playo.app/PLAYOO/YHFR1</a><br/>\n    "
+    "info": "\n    <h3>MSR Sports Academy</h3>\n    <strong>Ratings:</strong> 4.61 [18]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Volleyball<br/>\n    <strong>Phone:</strong> 9790999074<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YHFR1\" target=\"_blank\">http://go.playo.app/PLAYOO/YHFR1</a><br/>\n    "
   },
   {
     "ratingCount": 6,
@@ -3403,6 +3403,22 @@
       "Badminton"
     ],
     "info": "\n    <h3>MTD Sports Academy</h3>\n    <strong>Ratings:</strong> 4.67 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9790760149<br/>\n    <a href=\"http://go.playo.app/PLAYOO/UO_H_\" target=\"_blank\">http://go.playo.app/PLAYOO/UO_H_</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Madipakkam Multisport (M2) Turf",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=fce92b1c-396b-4e2a-831c-8e22e47f89a7",
+    "deferLink": "http://go.playo.app/PLAYOO/eX1vx",
+    "lat": 12.953069996773605,
+    "lng": 80.20712292062811,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Madipakkam Multisport (M2) Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840080083<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eX1vx\" target=\"_blank\">http://go.playo.app/PLAYOO/eX1vx</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6379,19 +6395,19 @@
     "info": "\n    <h3>Toneup Badminton</h3>\n    <strong>Ratings:</strong> 4.68 [44]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9176755855<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xFkjI\" target=\"_blank\">http://go.playo.app/PLAYOO/xFkjI</a><br/>\n    "
   },
   {
-    "ratingCount": 8,
-    "avgRating": 3.88,
+    "ratingCount": 9,
+    "avgRating": 4,
     "name": "True Hit Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=ad8cfff0-69bb-455f-a502-d95cb8014395",
     "deferLink": "http://go.playo.app/PLAYOO/OOpnY",
     "lat": 12.9095709,
     "lng": 80.1056271,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>True Hit Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.88 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9080417871<br/>\n    <a href=\"http://go.playo.app/PLAYOO/OOpnY\" target=\"_blank\">http://go.playo.app/PLAYOO/OOpnY</a><br/>\n    "
+    "info": "\n    <h3>True Hit Badminton Academy</h3>\n    <strong>Ratings:</strong> 4 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9080417871<br/>\n    <a href=\"http://go.playo.app/PLAYOO/OOpnY\" target=\"_blank\">http://go.playo.app/PLAYOO/OOpnY</a><br/>\n    "
   },
   {
     "avgRating": 4.26,
