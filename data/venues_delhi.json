@@ -5296,21 +5296,6 @@
     "info": "\n    <h3>Pick A Ball</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9911602304<br/>\n    <a href=\"http://go.playo.app/PLAYOO/H2919\" target=\"_blank\">http://go.playo.app/PLAYOO/H2919</a><br/>\n    "
   },
   {
-    "avgRating": 3.33,
-    "name": "Pick and Play",
-    "ratingCount": 3,
-    "fullLink": "https://playo.co/venue?venueId=275e9880-9c35-43b4-8500-03c4815ed921",
-    "deferLink": "http://go.playo.app/PLAYOO/fviOR",
-    "lat": 28.525701382860014,
-    "lng": 77.13847105299051,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
-    "filter_by": [
-      "Bowling Machine"
-    ],
-    "info": "\n    <h3>Pick and Play</h3>\n    <strong>Ratings:</strong> 3.33 [3]<br/>\n    <strong>Sports:</strong> Bowling Machine<br/>\n    <strong>Phone:</strong> 9711992247<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fviOR\" target=\"_blank\">http://go.playo.app/PLAYOO/fviOR</a><br/>\n    "
-  },
-  {
     "avgRating": 0,
     "name": "Pickit | Vijay Sri Academy",
     "ratingCount": 0,
@@ -9145,6 +9130,21 @@
       "Pickleball"
     ],
     "info": "\n    <h3>The Sports Planet</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9773986167<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yyn1J\" target=\"_blank\">http://go.playo.app/PLAYOO/yyn1J</a><br/>\n    "
+  },
+  {
+    "avgRating": 3.33,
+    "name": "The Spot",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=275e9880-9c35-43b4-8500-03c4815ed921",
+    "deferLink": "http://go.playo.app/PLAYOO/fviOR",
+    "lat": 28.525701382860014,
+    "lng": 77.13847105299051,
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "filter_by": [
+      "Bowling Machine"
+    ],
+    "info": "\n    <h3>The Spot</h3>\n    <strong>Ratings:</strong> 3.33 [3]<br/>\n    <strong>Sports:</strong> Bowling Machine<br/>\n    <strong>Phone:</strong> 9711992247<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fviOR\" target=\"_blank\">http://go.playo.app/PLAYOO/fviOR</a><br/>\n    "
   },
   {
     "avgRating": 4.75,
