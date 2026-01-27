@@ -4867,20 +4867,20 @@
     "info": "\n    <h3>Nagar Cricket Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9810688426<br/>\n    <a href=\"http://go.playo.app/PLAYOO/C_1lh\" target=\"_blank\">http://go.playo.app/PLAYOO/C_1lh</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Narwat Box Arena",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=90267072-991b-40c0-acc5-b1923bc9d980",
     "deferLink": "http://go.playo.app/PLAYOO/G2N-o",
     "lat": 28.397099196000763,
     "lng": 77.37249846655322,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Narwat Box Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8750753652<br/>\n    <a href=\"http://go.playo.app/PLAYOO/G2N-o\" target=\"_blank\">http://go.playo.app/PLAYOO/G2N-o</a><br/>\n    "
+    "info": "\n    <h3>Narwat Box Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8750753652<br/>\n    <a href=\"http://go.playo.app/PLAYOO/G2N-o\" target=\"_blank\">http://go.playo.app/PLAYOO/G2N-o</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -4989,6 +4989,21 @@
       "Futsal"
     ],
     "info": "\n    <h3>Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Futsal<br/>\n    <strong>Phone:</strong> 9650714777<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PeaPH\" target=\"_blank\">http://go.playo.app/PLAYOO/PeaPH</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Noida Pickleball Courts",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=d4cdd39a-5b48-491a-aa98-c20834be7f93",
+    "deferLink": "http://go.playo.app/PLAYOO/CgOe0",
+    "lat": 28.545297326400135,
+    "lng": 77.36794668194278,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Noida Pickleball Courts</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9267949192<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CgOe0\" target=\"_blank\">http://go.playo.app/PLAYOO/CgOe0</a><br/>\n    "
   },
   {
     "avgRating": 2,
@@ -6678,9 +6693,9 @@
     "info": "\n    <h3>Rackonnect Exclusive Padel Pickle Park (REPPP)</h3>\n    <strong>Ratings:</strong> 4.2 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9654114394<br/>\n    <a href=\"http://go.playo.app/PLAYOO/gdaPe\" target=\"_blank\">http://go.playo.app/PLAYOO/gdaPe</a><br/>\n    "
   },
   {
-    "avgRating": 4.45,
+    "avgRating": 4.17,
     "name": "Rackonnect Next Level Badminton Academy",
-    "ratingCount": 22,
+    "ratingCount": 24,
     "fullLink": "https://playo.co/venue?venueId=df130b0c-1be2-407e-9c92-9c1e90159b8a",
     "deferLink": "http://go.playo.app/PLAYOO/42nGP",
     "lat": 28.505363545524663,
@@ -6690,7 +6705,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.45 [22]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"http://go.playo.app/PLAYOO/42nGP\" target=\"_blank\">http://go.playo.app/PLAYOO/42nGP</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.17 [24]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"http://go.playo.app/PLAYOO/42nGP\" target=\"_blank\">http://go.playo.app/PLAYOO/42nGP</a><br/>\n    "
   },
   {
     "avgRating": 3.79,
@@ -7431,9 +7446,9 @@
     "info": "\n    <h3>Sai Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 7947103654<br/>\n    <a href=\"http://go.playo.app/PLAYOO/L3L4R\" target=\"_blank\">http://go.playo.app/PLAYOO/L3L4R</a><br/>\n    "
   },
   {
-    "avgRating": 4.75,
+    "avgRating": 4.8,
     "name": "Salasar Badminton Academy",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=90fb2c2f-6f81-42f8-9874-c361b340bfa3",
     "deferLink": "http://go.playo.app/PLAYOO/ybTEP",
     "lat": 28.39745826688318,
@@ -7443,7 +7458,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Salasar Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750753652<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ybTEP\" target=\"_blank\">http://go.playo.app/PLAYOO/ybTEP</a><br/>\n    "
+    "info": "\n    <h3>Salasar Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750753652<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ybTEP\" target=\"_blank\">http://go.playo.app/PLAYOO/ybTEP</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -8314,19 +8329,19 @@
     "info": "\n    <h3>Sportzon Sports Complex</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Archery, Basketball, Box Cricket, Cricket Nets, Football, Tennis<br/>\n    <strong>Phone:</strong> 9340053756<br/>\n    <a href=\"http://go.playo.app/PLAYOO/v8AEQ\" target=\"_blank\">http://go.playo.app/PLAYOO/v8AEQ</a><br/>\n    "
   },
   {
-    "avgRating": 4,
-    "name": "Spuddy Multisports Academy | Noida",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=62b2f581-e18c-4ce5-ac4d-dd713ca92dba",
-    "deferLink": "http://go.playo.app/PLAYOO/feyrV",
-    "lat": 28.576341301632674,
-    "lng": 77.39988336201283,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "avgRating": 5,
+    "name": "Spuddy Multisports Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=88d87436-6ece-4d8b-8fab-16a15517b2a9",
+    "deferLink": "http://go.playo.app/PLAYOO/JHmKp",
+    "lat": 28.57635042255819,
+    "lng": 77.39988279582904,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Badminton"
+      "Pickleball"
     ],
-    "info": "\n    <h3>Spuddy Multisports Academy | Noida</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7078404986<br/>\n    <a href=\"http://go.playo.app/PLAYOO/feyrV\" target=\"_blank\">http://go.playo.app/PLAYOO/feyrV</a><br/>\n    "
+    "info": "\n    <h3>Spuddy Multisports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7078404986<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JHmKp\" target=\"_blank\">http://go.playo.app/PLAYOO/JHmKp</a><br/>\n    "
   },
   {
     "avgRating": 4.67,
@@ -9380,21 +9395,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.96 [24]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Datpy\" target=\"_blank\">http://go.playo.app/PLAYOO/Datpy</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "Top Smashers Badminton Centre",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=df6f7248-70fd-4e05-9578-31f114883352",
-    "deferLink": "http://go.playo.app/PLAYOO/76SYn",
-    "lat": 28.608550785891033,
-    "lng": 77.33046939447748,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Top Smashers Badminton Centre</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8750584416<br/>\n    <a href=\"http://go.playo.app/PLAYOO/76SYn\" target=\"_blank\">http://go.playo.app/PLAYOO/76SYn</a><br/>\n    "
   },
   {
     "avgRating": 0,
