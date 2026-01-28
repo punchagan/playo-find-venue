@@ -6379,6 +6379,21 @@
   },
   {
     "avgRating": 5,
+    "name": "Third Shot Squad",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=07b9ba0d-aae1-4068-9a1f-e73c8748af6c",
+    "deferLink": "http://go.playo.app/PLAYOO/IPYzA",
+    "lat": 13.0837237523331,
+    "lng": 80.16269056437463,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Third Shot Squad</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8130210033<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IPYzA\" target=\"_blank\">http://go.playo.app/PLAYOO/IPYzA</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Tiger Thought Paddlers Club",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=5751dded-d5bd-4ff6-bbf2-abeb5b944790",
