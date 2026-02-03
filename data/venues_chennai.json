@@ -580,21 +580,6 @@
     "info": "\n    <h3>Ark Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton, Cricket, Cricket Nets, Football, Tennis<br/>\n    <strong>Phone:</strong> 9962921222<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4o2ua\" target=\"_blank\">http://go.playo.app/PLAYOO/4o2ua</a><br/>\n    "
   },
   {
-    "ratingCount": 1,
-    "avgRating": 5,
-    "name": "Arun's VKV Badminton Academy",
-    "fullLink": "https://playo.co/venue?venueId=977cd23d-f27c-47ea-a6a5-768779d404c4",
-    "deferLink": "http://go.playo.app/PLAYOO/CbPCr",
-    "lat": 12.91187196154386,
-    "lng": 80.06114586485941,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Arun's VKV Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358099962<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CbPCr\" target=\"_blank\">http://go.playo.app/PLAYOO/CbPCr</a><br/>\n    "
-  },
-  {
     "avgRating": 3.67,
     "name": "Arunsivas Badminton Academy",
     "ratingCount": 3,
@@ -1018,6 +1003,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>CJ Shuttle Hub</h3>\n    <strong>Ratings:</strong> 4.33 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9790851159<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tGFKD\" target=\"_blank\">http://go.playo.app/PLAYOO/tGFKD</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "CLAP Badminton",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=88e54fba-c33e-4669-a270-4b226709368e",
+    "deferLink": "http://go.playo.app/PLAYOO/n-WZK",
+    "lat": 13.163111455805998,
+    "lng": 80.30351693986935,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>CLAP Badminton</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7010011887<br/>\n    <a href=\"http://go.playo.app/PLAYOO/n-WZK\" target=\"_blank\">http://go.playo.app/PLAYOO/n-WZK</a><br/>\n    "
   },
   {
     "avgRating": 4.86,
@@ -1482,7 +1482,7 @@
   {
     "avgRating": 5,
     "name": "DG Badminton Academy",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=ade217f7-0100-42ab-b88f-f39eba5377d7",
     "deferLink": "http://go.playo.app/PLAYOO/Rh6If",
     "lat": 12.958635872999581,
@@ -1492,7 +1492,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>DG Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Rh6If\" target=\"_blank\">http://go.playo.app/PLAYOO/Rh6If</a><br/>\n    "
+    "info": "\n    <h3>DG Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Rh6If\" target=\"_blank\">http://go.playo.app/PLAYOO/Rh6If</a><br/>\n    "
   },
   {
     "ratingCount": 5,
