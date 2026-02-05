@@ -1586,9 +1586,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton",
+      "Pickleball",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Dev's Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9445556146<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GQuoS\" target=\"_blank\">http://go.playo.app/PLAYOO/GQuoS</a><br/>\n    "
+    "info": "\n    <h3>Dev's Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 9445556146<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GQuoS\" target=\"_blank\">http://go.playo.app/PLAYOO/GQuoS</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2297,23 +2298,6 @@
       "Snooker"
     ],
     "info": "\n    <h3>Freakout Snooker Parlour</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Snooker<br/>\n    <strong>Phone:</strong> 9003013365<br/>\n    <a href=\"http://go.playo.app/PLAYOO/-IXre\" target=\"_blank\">http://go.playo.app/PLAYOO/-IXre</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Free Hitt Multi Sporting Arena",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=8dafe4e5-b371-4633-8cbf-53050ee4ea84",
-    "deferLink": "http://go.playo.app/PLAYOO/M2oj3",
-    "lat": 13.178475121389363,
-    "lng": 80.2975409434668,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Free Hitt Multi Sporting Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8610000510<br/>\n    <a href=\"http://go.playo.app/PLAYOO/M2oj3\" target=\"_blank\">http://go.playo.app/PLAYOO/M2oj3</a><br/>\n    "
   },
   {
     "avgRating": 5,
