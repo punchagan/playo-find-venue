@@ -263,21 +263,6 @@
   },
   {
     "avgRating": 0,
-    "name": "Aim Olympic Badminton Academy | Ashok Vihar",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=807c5c8d-985d-44bb-aee3-584683926c3a",
-    "deferLink": "http://go.playo.app/PLAYOO/04BV9",
-    "lat": 28.697816588562624,
-    "lng": 77.17251071102991,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Aim Olympic Badminton Academy | Ashok Vihar</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8295891735<br/>\n    <a href=\"http://go.playo.app/PLAYOO/04BV9\" target=\"_blank\">http://go.playo.app/PLAYOO/04BV9</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
     "name": "Aksis Sports Centre",
     "ratingCount": 0,
     "fullLink": "https://playo.co/venue?venueId=06867d25-075b-4043-bd78-aeaaab70e81b",
@@ -647,6 +632,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Attackers Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9915992414<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ted9e\" target=\"_blank\">http://go.playo.app/PLAYOO/ted9e</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Aventrix Sports",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=118770a0-d5f4-45f0-9725-4592fcbd5bf8",
+    "deferLink": "http://go.playo.app/PLAYOO/R_efR",
+    "lat": 28.65667474495825,
+    "lng": 77.16587585149148,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Aventrix Sports</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999753504<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R_efR\" target=\"_blank\">http://go.playo.app/PLAYOO/R_efR</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -4774,6 +4774,21 @@
       "Cricket Nets"
     ],
     "info": "\n    <h3>NCB ACE | Vibgyor High</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 6003000700<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eLzCm\" target=\"_blank\">http://go.playo.app/PLAYOO/eLzCm</a><br/>\n    "
+  },
+  {
+    "avgRating": 4.75,
+    "name": "NCCA Indoor Cricket Arena",
+    "ratingCount": 4,
+    "deferLink": "http://go.playo.app/PLAYOO/peTqF",
+    "fullLink": "https://playo.co/venue/?venueId=675c6f99-9c88-4b99-9bea-3fd1d06939ca",
+    "lat": 28.702803554194514,
+    "lng": 77.18241360114959,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>NCCA Indoor Cricket Arena</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9874563212<br/>\n    <a href=\"http://go.playo.app/PLAYOO/peTqF\" target=\"_blank\">http://go.playo.app/PLAYOO/peTqF</a><br/>\n    "
   },
   {
     "avgRating": 4.75,
@@ -8988,7 +9003,7 @@
   {
     "avgRating": 5,
     "name": "The DinkYard",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=98be1210-612d-43ad-8746-f259991db2a9",
     "deferLink": "http://go.playo.app/PLAYOO/XfjlD",
     "lat": 28.622165872886757,
@@ -8999,7 +9014,7 @@
       "Pickleball",
       "Pool"
     ],
-    "info": "\n    <h3>The DinkYard</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8800168163<br/>\n    <a href=\"http://go.playo.app/PLAYOO/XfjlD\" target=\"_blank\">http://go.playo.app/PLAYOO/XfjlD</a><br/>\n    "
+    "info": "\n    <h3>The DinkYard</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8800168163<br/>\n    <a href=\"http://go.playo.app/PLAYOO/XfjlD\" target=\"_blank\">http://go.playo.app/PLAYOO/XfjlD</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -9449,6 +9464,21 @@
       "Cricket"
     ],
     "info": "\n    <h3>Trident Sports Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 8800806116<br/>\n    <a href=\"http://go.playo.app/PLAYOO/g1PHT\" target=\"_blank\">http://go.playo.app/PLAYOO/g1PHT</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Trident Table Tennis Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=df85359e-0088-49fc-ade2-3b54e3fb50a6",
+    "deferLink": "http://go.playo.app/PLAYOO/KAyDi",
+    "lat": 28.459847424476745,
+    "lng": 77.05475442433938,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Trident Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 7988538106<br/>\n    <a href=\"http://go.playo.app/PLAYOO/KAyDi\" target=\"_blank\">http://go.playo.app/PLAYOO/KAyDi</a><br/>\n    "
   },
   {
     "avgRating": 0,
