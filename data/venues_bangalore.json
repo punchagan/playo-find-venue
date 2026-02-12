@@ -100,7 +100,7 @@
   {
     "avgRating": 5,
     "name": "212 Club",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=873139ba-f850-4e1f-a45f-66706a09a3e0",
     "deferLink": "http://go.playo.app/PLAYOO/xWTXM",
     "lat": 13.072105603247186,
@@ -110,7 +110,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>212 Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8296317336<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xWTXM\" target=\"_blank\">http://go.playo.app/PLAYOO/xWTXM</a><br/>\n    "
+    "info": "\n    <h3>212 Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8296317336<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xWTXM\" target=\"_blank\">http://go.playo.app/PLAYOO/xWTXM</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -228,9 +228,9 @@
     "info": "\n    <h3>4S Shuttle Smash Sports Studio - Managed by Flick Sport Center</h3>\n    <strong>Ratings:</strong> 3.4 [425]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9743504189<br/>\n    <a href=\"http://go.playo.app/PLAYOO/DV114\" target=\"_blank\">http://go.playo.app/PLAYOO/DV114</a><br/>\n    "
   },
   {
-    "avgRating": 4.25,
+    "avgRating": 4.31,
     "name": "6S Badminton Arena",
-    "ratingCount": 12,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=27019400-b6ff-4730-bf78-7a672cc818ea",
     "deferLink": "http://go.playo.app/PLAYOO/GaRQv",
     "lat": 13.02828168229899,
@@ -240,7 +240,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>6S Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.25 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9187202665<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GaRQv\" target=\"_blank\">http://go.playo.app/PLAYOO/GaRQv</a><br/>\n    "
+    "info": "\n    <h3>6S Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.31 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9187202665<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GaRQv\" target=\"_blank\">http://go.playo.app/PLAYOO/GaRQv</a><br/>\n    "
   },
   {
     "avgRating": 4.89,
@@ -631,7 +631,7 @@
     "info": "\n    <h3>AR Puma Sports Club & Riyaz Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.64 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8088407541<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eSi9I\" target=\"_blank\">http://go.playo.app/PLAYOO/eSi9I</a><br/>\n    "
   },
   {
-    "ratingCount": 178,
+    "ratingCount": 179,
     "avgRating": 3.94,
     "name": "ARR Badminton Academy",
     "fullLink": "https://playo.co/venue?venueId=b82be520-d8d7-4ffd-8a51-93b410d782ca",
@@ -643,7 +643,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>ARR Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.94 [178]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8861619999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PSR39\" target=\"_blank\">http://go.playo.app/PLAYOO/PSR39</a><br/>\n    "
+    "info": "\n    <h3>ARR Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.94 [179]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8861619999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PSR39\" target=\"_blank\">http://go.playo.app/PLAYOO/PSR39</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -775,8 +775,8 @@
     "info": "\n    <h3>Ace Arena - Hesarghatta Road</h3>\n    <strong>Ratings:</strong> 4.26 [35]<br/>\n    <strong>Sports:</strong> Badminton, Cricket Nets, Squash, Swimming, Table Tennis<br/>\n    <strong>Phone:</strong> 6361272126<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3q5DT\" target=\"_blank\">http://go.playo.app/PLAYOO/3q5DT</a><br/>\n    "
   },
   {
-    "ratingCount": 192,
-    "avgRating": 4.11,
+    "ratingCount": 194,
+    "avgRating": 4.12,
     "name": "Ace Badminton Arena",
     "fullLink": "https://playo.co/venue?venueId=79095eca-8f6d-4df2-9896-8467a459055f",
     "deferLink": "http://go.playo.app/PLAYOO/19HIl",
@@ -787,7 +787,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Ace Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.11 [192]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8431096707<br/>\n    <a href=\"http://go.playo.app/PLAYOO/19HIl\" target=\"_blank\">http://go.playo.app/PLAYOO/19HIl</a><br/>\n    "
+    "info": "\n    <h3>Ace Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.12 [194]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8431096707<br/>\n    <a href=\"http://go.playo.app/PLAYOO/19HIl\" target=\"_blank\">http://go.playo.app/PLAYOO/19HIl</a><br/>\n    "
   },
   {
     "ratingCount": 48,
@@ -941,7 +941,7 @@
   {
     "avgRating": 5,
     "name": "Agira Cricket Academy",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=3cfdd5e2-53c8-46bf-8036-adbbb62fc81c",
     "deferLink": "http://go.playo.app/PLAYOO/N8_Mh",
     "lat": 12.995339926514571,
@@ -952,7 +952,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Agira Cricket Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9844174233<br/>\n    <a href=\"http://go.playo.app/PLAYOO/N8_Mh\" target=\"_blank\">http://go.playo.app/PLAYOO/N8_Mh</a><br/>\n    "
+    "info": "\n    <h3>Agira Cricket Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9844174233<br/>\n    <a href=\"http://go.playo.app/PLAYOO/N8_Mh\" target=\"_blank\">http://go.playo.app/PLAYOO/N8_Mh</a><br/>\n    "
   },
   {
     "avgRating": 4.76,
@@ -1177,15 +1177,15 @@
     "rating": 4,
     "deferLink": "http://go.playo.app/PLAYOO/0QmY0",
     "fullLink": "https://playo.co/venue/?venueId=b3058754-bd74-455a-816c-dd4c7904f212",
-    "avgRating": 4.57,
-    "ratingCount": 30,
+    "avgRating": 4.58,
+    "ratingCount": 31,
     "lat": 13.110438121539223,
     "lng": 77.52845701787703,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Ananya Battledore</h3>\n    <strong>Ratings:</strong> 4.57 [30]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9148192733<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0QmY0\" target=\"_blank\">http://go.playo.app/PLAYOO/0QmY0</a><br/>\n    "
+    "info": "\n    <h3>Ananya Battledore</h3>\n    <strong>Ratings:</strong> 4.58 [31]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9148192733<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0QmY0\" target=\"_blank\">http://go.playo.app/PLAYOO/0QmY0</a><br/>\n    "
   },
   {
     "avgRating": 4.2,
@@ -1427,7 +1427,7 @@
   {
     "avgRating": 5,
     "name": "Arjun Sports Arena - Jakkur",
-    "ratingCount": 16,
+    "ratingCount": 17,
     "fullLink": "https://playo.co/venue?venueId=99867d18-66d5-4ad3-8cc6-24b6fbe94b95",
     "deferLink": "http://go.playo.app/PLAYOO/OHcxI",
     "lat": 13.078207700012323,
@@ -1439,7 +1439,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Arjun Sports Arena - Jakkur</h3>\n    <strong>Ratings:</strong> 5 [16]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9686450354<br/>\n    <a href=\"http://go.playo.app/PLAYOO/OHcxI\" target=\"_blank\">http://go.playo.app/PLAYOO/OHcxI</a><br/>\n    "
+    "info": "\n    <h3>Arjun Sports Arena - Jakkur</h3>\n    <strong>Ratings:</strong> 5 [17]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9686450354<br/>\n    <a href=\"http://go.playo.app/PLAYOO/OHcxI\" target=\"_blank\">http://go.playo.app/PLAYOO/OHcxI</a><br/>\n    "
   },
   {
     "ratingCount": 99,
@@ -2016,9 +2016,9 @@
     "info": "\n    <h3>Badminton Smash Arena</h3>\n    <strong>Ratings:</strong> 4.49 [85]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7411988905<br/>\n    <a href=\"http://go.playo.app/PLAYOO/iCHqt\" target=\"_blank\">http://go.playo.app/PLAYOO/iCHqt</a><br/>\n    "
   },
   {
-    "avgRating": 4.43,
+    "avgRating": 4.41,
     "name": "Badmintonium Academy",
-    "ratingCount": 214,
+    "ratingCount": 215,
     "fullLink": "https://playo.co/venue?venueId=2b413335-e49f-4241-9ebd-c2d95606b286",
     "deferLink": "http://go.playo.app/PLAYOO/lrwta",
     "lat": 12.852564070712509,
@@ -2028,7 +2028,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Badmintonium Academy</h3>\n    <strong>Ratings:</strong> 4.43 [214]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7204672409<br/>\n    <a href=\"http://go.playo.app/PLAYOO/lrwta\" target=\"_blank\">http://go.playo.app/PLAYOO/lrwta</a><br/>\n    "
+    "info": "\n    <h3>Badmintonium Academy</h3>\n    <strong>Ratings:</strong> 4.41 [215]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7204672409<br/>\n    <a href=\"http://go.playo.app/PLAYOO/lrwta\" target=\"_blank\">http://go.playo.app/PLAYOO/lrwta</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2696,9 +2696,9 @@
     "info": "\n    <h3>Blue Wings Arena (BWA)</h3>\n    <strong>Ratings:</strong> 5 [16]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7795959494<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7MvYL\" target=\"_blank\">http://go.playo.app/PLAYOO/7MvYL</a><br/>\n    "
   },
   {
-    "avgRating": 4.75,
+    "avgRating": 4.76,
     "name": "Blue Wings Badminton Court",
-    "ratingCount": 24,
+    "ratingCount": 25,
     "fullLink": "https://playo.co/venue?venueId=1814a97e-1243-488b-82e5-cd9774d3c1cb",
     "deferLink": "http://go.playo.app/PLAYOO/gWpeS",
     "lat": 12.80023653131382,
@@ -2711,7 +2711,7 @@
       "Chess",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Blue Wings Badminton Court</h3>\n    <strong>Ratings:</strong> 4.75 [24]<br/>\n    <strong>Sports:</strong> Badminton, Carrom, Chess, Table Tennis<br/>\n    <strong>Phone:</strong> 9740250693<br/>\n    <a href=\"http://go.playo.app/PLAYOO/gWpeS\" target=\"_blank\">http://go.playo.app/PLAYOO/gWpeS</a><br/>\n    "
+    "info": "\n    <h3>Blue Wings Badminton Court</h3>\n    <strong>Ratings:</strong> 4.76 [25]<br/>\n    <strong>Sports:</strong> Badminton, Carrom, Chess, Table Tennis<br/>\n    <strong>Phone:</strong> 9740250693<br/>\n    <a href=\"http://go.playo.app/PLAYOO/gWpeS\" target=\"_blank\">http://go.playo.app/PLAYOO/gWpeS</a><br/>\n    "
   },
   {
     "ratingCount": 8,
@@ -3399,7 +3399,7 @@
   {
     "avgRating": 4.56,
     "name": "Coolulu TurfPark - Koramangala",
-    "ratingCount": 343,
+    "ratingCount": 344,
     "deferLink": "http://go.playo.app/PLAYOO/PS2-N",
     "fullLink": "https://playo.co/venue/?venueId=54abb9e9-7d8c-42e0-a342-78b1710ac12c",
     "lat": 12.927722670139714,
@@ -3414,7 +3414,7 @@
       "Pickleball",
       "Swimming"
     ],
-    "info": "\n    <h3>Coolulu TurfPark - Koramangala</h3>\n    <strong>Ratings:</strong> 4.56 [343]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Padel, Pickleball, Swimming<br/>\n    <strong>Phone:</strong> 9790513417<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PS2-N\" target=\"_blank\">http://go.playo.app/PLAYOO/PS2-N</a><br/>\n    "
+    "info": "\n    <h3>Coolulu TurfPark - Koramangala</h3>\n    <strong>Ratings:</strong> 4.56 [344]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Padel, Pickleball, Swimming<br/>\n    <strong>Phone:</strong> 9790513417<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PS2-N\" target=\"_blank\">http://go.playo.app/PLAYOO/PS2-N</a><br/>\n    "
   },
   {
     "ratingCount": 4,
@@ -3553,7 +3553,7 @@
   {
     "avgRating": 5,
     "name": "Crosswinds Badminton Arena",
-    "ratingCount": 19,
+    "ratingCount": 20,
     "fullLink": "https://playo.co/venue?venueId=dd73e0f5-9ac7-4d43-bf51-79db45878bd1",
     "deferLink": "http://go.playo.app/PLAYOO/beQJv",
     "lat": 13.050862699772399,
@@ -3563,7 +3563,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Crosswinds Badminton Arena</h3>\n    <strong>Ratings:</strong> 5 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9845717768<br/>\n    <a href=\"http://go.playo.app/PLAYOO/beQJv\" target=\"_blank\">http://go.playo.app/PLAYOO/beQJv</a><br/>\n    "
+    "info": "\n    <h3>Crosswinds Badminton Arena</h3>\n    <strong>Ratings:</strong> 5 [20]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9845717768<br/>\n    <a href=\"http://go.playo.app/PLAYOO/beQJv\" target=\"_blank\">http://go.playo.app/PLAYOO/beQJv</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3817,8 +3817,8 @@
     "info": "\n    <h3>Decathlon Sarjapur</h3>\n    <strong>Ratings:</strong> 5 [13]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball, Skates, Volleyball<br/>\n    <strong>Phone:</strong> 8904241927<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4jrtC\" target=\"_blank\">http://go.playo.app/PLAYOO/4jrtC</a><br/>\n    "
   },
   {
-    "ratingCount": 14,
-    "avgRating": 4.64,
+    "ratingCount": 15,
+    "avgRating": 4.67,
     "name": "Decathlon Whitefield",
     "fullLink": "https://playo.co/venue?venueId=476f79c4-e823-4afc-8aa4-82ea3efb1c5f",
     "deferLink": "http://go.playo.app/PLAYOO/mhLW0",
@@ -3836,7 +3836,7 @@
       "Pickleball",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Decathlon Whitefield</h3>\n    <strong>Ratings:</strong> 4.64 [14]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Bowling Machine, Box Cricket, Cricket Nets, Football, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 8095000898<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mhLW0\" target=\"_blank\">http://go.playo.app/PLAYOO/mhLW0</a><br/>\n    "
+    "info": "\n    <h3>Decathlon Whitefield</h3>\n    <strong>Ratings:</strong> 4.67 [15]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Bowling Machine, Box Cricket, Cricket Nets, Football, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 8095000898<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mhLW0\" target=\"_blank\">http://go.playo.app/PLAYOO/mhLW0</a><br/>\n    "
   },
   {
     "avgRating": 3.86,
@@ -4120,15 +4120,15 @@
     "rating": 2,
     "deferLink": "http://go.playo.app/PLAYOO/3yVgS",
     "fullLink": "https://playo.co/venue/?venueId=8b3ec453-0120-4171-93d9-fdbfc7fa5647",
-    "avgRating": 2.41,
-    "ratingCount": 215,
+    "avgRating": 2.4,
+    "ratingCount": 217,
     "lat": 12.971819610093158,
     "lng": 77.52922067877347,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Drive Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.41 [215]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9611122206<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3yVgS\" target=\"_blank\">http://go.playo.app/PLAYOO/3yVgS</a><br/>\n    "
+    "info": "\n    <h3>Drive Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.4 [217]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9611122206<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3yVgS\" target=\"_blank\">http://go.playo.app/PLAYOO/3yVgS</a><br/>\n    "
   },
   {
     "avgRating": 4.3,
@@ -4284,12 +4284,12 @@
     "lat": 13.027120829079314,
     "lng": 77.55362383558302,
     "avgRating": 4.67,
-    "ratingCount": 168,
+    "ratingCount": 169,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Eagles Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.67 [168]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9008844073<br/>\n    <a href=\"http://go.playo.app/PLAYOO/l1GzF\" target=\"_blank\">http://go.playo.app/PLAYOO/l1GzF</a><br/>\n    "
+    "info": "\n    <h3>Eagles Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.67 [169]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9008844073<br/>\n    <a href=\"http://go.playo.app/PLAYOO/l1GzF\" target=\"_blank\">http://go.playo.app/PLAYOO/l1GzF</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4493,11 +4493,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
-      "Football",
       "Throwball",
       "Volleyball"
     ],
-    "info": "\n    <h3>El Mundo Sports Park</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Throwball, Volleyball<br/>\n    <strong>Phone:</strong> 9535331099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/i1WNK\" target=\"_blank\">http://go.playo.app/PLAYOO/i1WNK</a><br/>\n    "
+    "info": "\n    <h3>El Mundo Sports Park</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Throwball, Volleyball<br/>\n    <strong>Phone:</strong> 9535331099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/i1WNK\" target=\"_blank\">http://go.playo.app/PLAYOO/i1WNK</a><br/>\n    "
   },
   {
     "ratingCount": 169,
@@ -4892,9 +4891,9 @@
     "info": "\n    <h3>Festoon Skating Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Skates<br/>\n    <strong>Phone:</strong> 9206206877<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WWOdL\" target=\"_blank\">http://go.playo.app/PLAYOO/WWOdL</a><br/>\n    "
   },
   {
-    "avgRating": 4.83,
+    "avgRating": 4.54,
     "name": "Fettle Fitness & Sports",
-    "ratingCount": 12,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=8073953b-ddcf-4b77-b232-9f2fbbaa16c7",
     "deferLink": "http://go.playo.app/PLAYOO/9YSSv",
     "lat": 12.870238,
@@ -4907,7 +4906,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>Fettle Fitness & Sports</h3>\n    <strong>Ratings:</strong> 4.83 [12]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 8494984966<br/>\n    <a href=\"http://go.playo.app/PLAYOO/9YSSv\" target=\"_blank\">http://go.playo.app/PLAYOO/9YSSv</a><br/>\n    "
+    "info": "\n    <h3>Fettle Fitness & Sports</h3>\n    <strong>Ratings:</strong> 4.54 [13]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 8494984966<br/>\n    <a href=\"http://go.playo.app/PLAYOO/9YSSv\" target=\"_blank\">http://go.playo.app/PLAYOO/9YSSv</a><br/>\n    "
   },
   {
     "ratingCount": 26,
@@ -5779,9 +5778,9 @@
     "info": "\n    <h3>Game Theory - HSR Layout - Sector 7</h3>\n    <strong>Ratings:</strong> 4.54 [1135]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7676447433<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vFQF5\" target=\"_blank\">http://go.playo.app/PLAYOO/vFQF5</a><br/>\n    "
   },
   {
-    "avgRating": 3.83,
+    "avgRating": 3.84,
     "name": "Game Theory - HSR Sector 7 II",
-    "ratingCount": 60,
+    "ratingCount": 61,
     "fullLink": "https://playo.co/venue?venueId=a7885095-5889-4627-b510-78cd03d6a688",
     "deferLink": "http://go.playo.app/PLAYOO/uINFP",
     "lat": 12.902746747879691,
@@ -5792,7 +5791,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Game Theory - HSR Sector 7 II</h3>\n    <strong>Ratings:</strong> 3.83 [60]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9552871560<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uINFP\" target=\"_blank\">http://go.playo.app/PLAYOO/uINFP</a><br/>\n    "
+    "info": "\n    <h3>Game Theory - HSR Sector 7 II</h3>\n    <strong>Ratings:</strong> 3.84 [61]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9552871560<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uINFP\" target=\"_blank\">http://go.playo.app/PLAYOO/uINFP</a><br/>\n    "
   },
   {
     "avgRating": 4,
@@ -6124,7 +6123,7 @@
   {
     "avgRating": 4.83,
     "name": "Gamezy Shuttle Hub",
-    "ratingCount": 146,
+    "ratingCount": 147,
     "fullLink": "https://playo.co/venue?venueId=af37e4e6-2523-4176-8233-82b371281eef",
     "deferLink": "http://go.playo.app/PLAYOO/HxD99",
     "lat": 12.953051051743884,
@@ -6134,7 +6133,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Gamezy Shuttle Hub</h3>\n    <strong>Ratings:</strong> 4.83 [146]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9535274777<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HxD99\" target=\"_blank\">http://go.playo.app/PLAYOO/HxD99</a><br/>\n    "
+    "info": "\n    <h3>Gamezy Shuttle Hub</h3>\n    <strong>Ratings:</strong> 4.83 [147]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9535274777<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HxD99\" target=\"_blank\">http://go.playo.app/PLAYOO/HxD99</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6822,9 +6821,9 @@
     "info": "\n    <h3>Hills Sports & Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.74 [23]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9972941555<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6xldZ\" target=\"_blank\">http://go.playo.app/PLAYOO/6xldZ</a><br/>\n    "
   },
   {
-    "avgRating": 3.8,
+    "avgRating": 3.73,
     "name": "Hilltop Padel Centre",
-    "ratingCount": 10,
+    "ratingCount": 11,
     "fullLink": "https://playo.co/venue?venueId=f6b4c99f-d4fc-4474-8bd1-9eba6e308b5b",
     "deferLink": "http://go.playo.app/PLAYOO/Pug8l",
     "lat": 12.923477686417534,
@@ -6834,7 +6833,7 @@
     "filter_by": [
       "Padel"
     ],
-    "info": "\n    <h3>Hilltop Padel Centre</h3>\n    <strong>Ratings:</strong> 3.8 [10]<br/>\n    <strong>Sports:</strong> Padel<br/>\n    <strong>Phone:</strong> 9741775025<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Pug8l\" target=\"_blank\">http://go.playo.app/PLAYOO/Pug8l</a><br/>\n    "
+    "info": "\n    <h3>Hilltop Padel Centre</h3>\n    <strong>Ratings:</strong> 3.73 [11]<br/>\n    <strong>Sports:</strong> Padel<br/>\n    <strong>Phone:</strong> 9741775025<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Pug8l\" target=\"_blank\">http://go.playo.app/PLAYOO/Pug8l</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -8516,7 +8515,7 @@
   {
     "avgRating": 3.94,
     "name": "Lakeview Sports Arena",
-    "ratingCount": 536,
+    "ratingCount": 537,
     "deferLink": "http://go.playo.app/PLAYOO/NBs1n",
     "fullLink": "https://playo.co/venue/?venueId=11cd9f01-393a-4da6-ae08-a9071e926d5d",
     "lat": 12.974745,
@@ -8528,7 +8527,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Lakeview Sports Arena</h3>\n    <strong>Ratings:</strong> 3.94 [536]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8722077999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/NBs1n\" target=\"_blank\">http://go.playo.app/PLAYOO/NBs1n</a><br/>\n    "
+    "info": "\n    <h3>Lakeview Sports Arena</h3>\n    <strong>Ratings:</strong> 3.94 [537]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8722077999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/NBs1n\" target=\"_blank\">http://go.playo.app/PLAYOO/NBs1n</a><br/>\n    "
   },
   {
     "avgRating": 4.45,
@@ -9222,7 +9221,7 @@
   {
     "avgRating": 4.35,
     "name": "Machaxi Eagle Eyes",
-    "ratingCount": 115,
+    "ratingCount": 116,
     "fullLink": "https://playo.co/venue?venueId=22fd7882-23a1-4d32-beac-f1c262893d6f",
     "deferLink": "http://go.playo.app/PLAYOO/B6-g2",
     "lat": 12.983917145022083,
@@ -9232,7 +9231,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Machaxi Eagle Eyes</h3>\n    <strong>Ratings:</strong> 4.35 [115]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8904437224<br/>\n    <a href=\"http://go.playo.app/PLAYOO/B6-g2\" target=\"_blank\">http://go.playo.app/PLAYOO/B6-g2</a><br/>\n    "
+    "info": "\n    <h3>Machaxi Eagle Eyes</h3>\n    <strong>Ratings:</strong> 4.35 [116]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8904437224<br/>\n    <a href=\"http://go.playo.app/PLAYOO/B6-g2\" target=\"_blank\">http://go.playo.app/PLAYOO/B6-g2</a><br/>\n    "
   },
   {
     "avgRating": 4.53,
@@ -9674,7 +9673,7 @@
   {
     "avgRating": 5,
     "name": "Mahabala Badminton Academy",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "fullLink": "https://playo.co/venue?venueId=3dec8381-dc86-4f28-8819-7991ae3662ef",
     "deferLink": "http://go.playo.app/PLAYOO/uNd2f",
     "lat": 13.085523453020215,
@@ -9684,7 +9683,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Mahabala Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9945266161<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uNd2f\" target=\"_blank\">http://go.playo.app/PLAYOO/uNd2f</a><br/>\n    "
+    "info": "\n    <h3>Mahabala Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9945266161<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uNd2f\" target=\"_blank\">http://go.playo.app/PLAYOO/uNd2f</a><br/>\n    "
   },
   {
     "avgRating": 4.6,
@@ -10829,7 +10828,7 @@
   {
     "avgRating": 3.9,
     "name": "Orchid Sports Academy",
-    "ratingCount": 1410,
+    "ratingCount": 1411,
     "deferLink": "http://go.playo.app/PLAYOO/Svn-R",
     "fullLink": "https://playo.co/venue/?venueId=a9d5cdad-fa1f-440d-ac46-ef8d84040822",
     "lat": 12.9514023,
@@ -10839,7 +10838,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Orchid Sports Academy</h3>\n    <strong>Ratings:</strong> 3.9 [1410]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Svn-R\" target=\"_blank\">http://go.playo.app/PLAYOO/Svn-R</a><br/>\n    "
+    "info": "\n    <h3>Orchid Sports Academy</h3>\n    <strong>Ratings:</strong> 3.9 [1411]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7829240379<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Svn-R\" target=\"_blank\">http://go.playo.app/PLAYOO/Svn-R</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -11789,13 +11788,13 @@
     "lat": 12.932861646430208,
     "lng": 77.5816730161451,
     "avgRating": 5,
-    "ratingCount": 5,
+    "ratingCount": 6,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Basketball",
       "Pickleball"
     ],
-    "info": "\n    <h3>Play Mania Sports Lounge - Jayanagar</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 9611755999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/cwJSm\" target=\"_blank\">http://go.playo.app/PLAYOO/cwJSm</a><br/>\n    "
+    "info": "\n    <h3>Play Mania Sports Lounge - Jayanagar</h3>\n    <strong>Ratings:</strong> 5 [6]<br/>\n    <strong>Sports:</strong> Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 9611755999<br/>\n    <a href=\"http://go.playo.app/PLAYOO/cwJSm\" target=\"_blank\">http://go.playo.app/PLAYOO/cwJSm</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -11910,7 +11909,7 @@
     "info": "\n    <h3>Play Zone - Bellandur</h3>\n    <strong>Ratings:</strong> 4.08 [706]<br/>\n    <strong>Sports:</strong> Badminton, Pool, Snooker<br/>\n    <strong>Phone:</strong> 9008536885<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HGha5\" target=\"_blank\">http://go.playo.app/PLAYOO/HGha5</a><br/>\n    "
   },
   {
-    "ratingCount": 626,
+    "ratingCount": 627,
     "avgRating": 4.35,
     "name": "Play Zone - Indiranagar",
     "fullLink": "https://playo.co/venue?venueId=61b14687-d236-4c81-916f-167ff1867041",
@@ -11922,7 +11921,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Play Zone - Indiranagar</h3>\n    <strong>Ratings:</strong> 4.35 [626]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7676766570<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uMT9E\" target=\"_blank\">http://go.playo.app/PLAYOO/uMT9E</a><br/>\n    "
+    "info": "\n    <h3>Play Zone - Indiranagar</h3>\n    <strong>Ratings:</strong> 4.35 [627]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7676766570<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uMT9E\" target=\"_blank\">http://go.playo.app/PLAYOO/uMT9E</a><br/>\n    "
   },
   {
     "avgRating": 4.46,
@@ -12005,7 +12004,7 @@
   {
     "avgRating": 3.96,
     "name": "PlayTM Sports Arena",
-    "ratingCount": 1082,
+    "ratingCount": 1085,
     "deferLink": "http://go.playo.app/PLAYOO/nqEy1",
     "fullLink": "https://playo.co/venue/?venueId=c530531d-e4d4-4a54-9216-b655dd7ffe3c",
     "lat": 12.947607,
@@ -12018,7 +12017,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>PlayTM Sports Arena</h3>\n    <strong>Ratings:</strong> 3.96 [1082]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7338359666<br/>\n    <a href=\"http://go.playo.app/PLAYOO/nqEy1\" target=\"_blank\">http://go.playo.app/PLAYOO/nqEy1</a><br/>\n    "
+    "info": "\n    <h3>PlayTM Sports Arena</h3>\n    <strong>Ratings:</strong> 3.96 [1085]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7338359666<br/>\n    <a href=\"http://go.playo.app/PLAYOO/nqEy1\" target=\"_blank\">http://go.playo.app/PLAYOO/nqEy1</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -12912,7 +12911,7 @@
   {
     "avgRating": 4.41,
     "name": "Rams Sports Arena",
-    "ratingCount": 192,
+    "ratingCount": 193,
     "fullLink": "https://playo.co/venue?venueId=a3104e0d-60ba-4604-a2e6-566d38ccb29d",
     "deferLink": "http://go.playo.app/PLAYOO/7BwUH",
     "lat": 12.950609376909076,
@@ -12923,7 +12922,7 @@
       "Badminton",
       "Carrom"
     ],
-    "info": "\n    <h3>Rams Sports Arena</h3>\n    <strong>Ratings:</strong> 4.41 [192]<br/>\n    <strong>Sports:</strong> Badminton, Carrom<br/>\n    <strong>Phone:</strong> 9611844499<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7BwUH\" target=\"_blank\">http://go.playo.app/PLAYOO/7BwUH</a><br/>\n    "
+    "info": "\n    <h3>Rams Sports Arena</h3>\n    <strong>Ratings:</strong> 4.41 [193]<br/>\n    <strong>Sports:</strong> Badminton, Carrom<br/>\n    <strong>Phone:</strong> 9611844499<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7BwUH\" target=\"_blank\">http://go.playo.app/PLAYOO/7BwUH</a><br/>\n    "
   },
   {
     "avgRating": 3.67,
@@ -13765,9 +13764,9 @@
     "info": "\n    <h3>SWR Cricket Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9945038585<br/>\n    <a href=\"http://go.playo.app/PLAYOO/sYggf\" target=\"_blank\">http://go.playo.app/PLAYOO/sYggf</a><br/>\n    "
   },
   {
-    "avgRating": 4.84,
+    "avgRating": 4.82,
     "name": "Saalsa TT Badminton Cricket Academy",
-    "ratingCount": 108,
+    "ratingCount": 109,
     "fullLink": "https://playo.co/venue?venueId=911d302e-2071-4155-8bd2-fc358da5a65d",
     "deferLink": "http://go.playo.app/PLAYOO/r9lSl",
     "lat": 13.038334057850735,
@@ -13781,7 +13780,7 @@
       "Table Tennis",
       "Yoga"
     ],
-    "info": "\n    <h3>Saalsa TT Badminton Cricket Academy</h3>\n    <strong>Ratings:</strong> 4.84 [108]<br/>\n    <strong>Sports:</strong> Badminton, Bowling Machine, Carrom, Table Tennis, Yoga<br/>\n    <strong>Phone:</strong> 8861404303<br/>\n    <a href=\"http://go.playo.app/PLAYOO/r9lSl\" target=\"_blank\">http://go.playo.app/PLAYOO/r9lSl</a><br/>\n    "
+    "info": "\n    <h3>Saalsa TT Badminton Cricket Academy</h3>\n    <strong>Ratings:</strong> 4.82 [109]<br/>\n    <strong>Sports:</strong> Badminton, Bowling Machine, Carrom, Table Tennis, Yoga<br/>\n    <strong>Phone:</strong> 8861404303<br/>\n    <a href=\"http://go.playo.app/PLAYOO/r9lSl\" target=\"_blank\">http://go.playo.app/PLAYOO/r9lSl</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -14897,9 +14896,9 @@
     "info": "\n    <h3>Spark Sports Arena</h3>\n    <strong>Ratings:</strong> 4.47 [15]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8050068219<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eVFHv\" target=\"_blank\">http://go.playo.app/PLAYOO/eVFHv</a><br/>\n    "
   },
   {
-    "avgRating": 4.66,
+    "avgRating": 4.67,
     "name": "Spark7 Sports Arena",
-    "ratingCount": 59,
+    "ratingCount": 60,
     "fullLink": "https://playo.co/venue?venueId=dcaa4b4f-c5d2-41a0-9e71-31ae137f965e",
     "deferLink": "http://go.playo.app/PLAYOO/pGIYp",
     "lat": 13.122406089323356,
@@ -14912,7 +14911,7 @@
       "Football",
       "Swimming"
     ],
-    "info": "\n    <h3>Spark7 Sports Arena</h3>\n    <strong>Ratings:</strong> 4.66 [59]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Swimming<br/>\n    <strong>Phone:</strong> 8904669827<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pGIYp\" target=\"_blank\">http://go.playo.app/PLAYOO/pGIYp</a><br/>\n    "
+    "info": "\n    <h3>Spark7 Sports Arena</h3>\n    <strong>Ratings:</strong> 4.67 [60]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Swimming<br/>\n    <strong>Phone:</strong> 8904669827<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pGIYp\" target=\"_blank\">http://go.playo.app/PLAYOO/pGIYp</a><br/>\n    "
   },
   {
     "avgRating": 4.69,
@@ -15469,9 +15468,9 @@
     "info": "\n    <h3>Sportsdrome</h3>\n    <strong>Ratings:</strong> 4.15 [164]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Hall<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"http://go.playo.app/PLAYOO/P2NUc\" target=\"_blank\">http://go.playo.app/PLAYOO/P2NUc</a><br/>\n    "
   },
   {
-    "avgRating": 4.86,
+    "avgRating": 4.75,
     "name": "Sportszilla Badminton Academy",
-    "ratingCount": 7,
+    "ratingCount": 8,
     "fullLink": "https://playo.co/venue?venueId=aee4e9f8-11a6-4af8-a821-f54407f5f552",
     "deferLink": "http://go.playo.app/PLAYOO/kg9GL",
     "lat": 12.931310741857267,
@@ -15481,7 +15480,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sportszilla Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.86 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7996992599<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kg9GL\" target=\"_blank\">http://go.playo.app/PLAYOO/kg9GL</a><br/>\n    "
+    "info": "\n    <h3>Sportszilla Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.75 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7996992599<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kg9GL\" target=\"_blank\">http://go.playo.app/PLAYOO/kg9GL</a><br/>\n    "
   },
   {
     "avgRating": 2.29,
@@ -15549,9 +15548,9 @@
     "info": "\n    <h3>Sree Ram Skating Club</h3>\n    <strong>Ratings:</strong> 4.44 [9]<br/>\n    <strong>Sports:</strong> Skates<br/>\n    <strong>Phone:</strong> 9663382805<br/>\n    <a href=\"http://go.playo.app/PLAYOO/hMN57\" target=\"_blank\">http://go.playo.app/PLAYOO/hMN57</a><br/>\n    "
   },
   {
-    "avgRating": 4.08,
+    "avgRating": 4.1,
     "name": "Sree Rama Badminton Academy",
-    "ratingCount": 185,
+    "ratingCount": 192,
     "fullLink": "https://playo.co/venue?venueId=c35ad979-0083-4a85-988d-3e06e09d5792",
     "deferLink": "http://go.playo.app/PLAYOO/pnYxK",
     "lat": 13.007604,
@@ -15561,7 +15560,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sree Rama Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.08 [185]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9347823548<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pnYxK\" target=\"_blank\">http://go.playo.app/PLAYOO/pnYxK</a><br/>\n    "
+    "info": "\n    <h3>Sree Rama Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.1 [192]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9347823548<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pnYxK\" target=\"_blank\">http://go.playo.app/PLAYOO/pnYxK</a><br/>\n    "
   },
   {
     "name": "Sri Maruthi Badminton Academy",
@@ -15617,7 +15616,7 @@
     "info": "\n    <h3>Sri Sai Badminton Academy - Mallathahalli</h3>\n    <strong>Ratings:</strong> 4 [39]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9448376651<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QFND8\" target=\"_blank\">http://go.playo.app/PLAYOO/QFND8</a><br/>\n    "
   },
   {
-    "avgRating": 4.4,
+    "avgRating": 4.41,
     "name": "Sri Vision Sports Club",
     "ratingCount": 128,
     "deferLink": "http://go.playo.app/PLAYOO/qJQ09",
@@ -15631,7 +15630,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Sri Vision Sports Club</h3>\n    <strong>Ratings:</strong> 4.4 [128]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7760122412<br/>\n    <a href=\"http://go.playo.app/PLAYOO/qJQ09\" target=\"_blank\">http://go.playo.app/PLAYOO/qJQ09</a><br/>\n    "
+    "info": "\n    <h3>Sri Vision Sports Club</h3>\n    <strong>Ratings:</strong> 4.41 [128]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7760122412<br/>\n    <a href=\"http://go.playo.app/PLAYOO/qJQ09\" target=\"_blank\">http://go.playo.app/PLAYOO/qJQ09</a><br/>\n    "
   },
   {
     "name": "St. John's Medical College Sports Ground",
@@ -15684,9 +15683,9 @@
     "info": "\n    <h3>Stallions Sports Academy</h3>\n    <strong>Ratings:</strong> 3.91 [70]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 9886676003<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yIACU\" target=\"_blank\">http://go.playo.app/PLAYOO/yIACU</a><br/>\n    "
   },
   {
-    "avgRating": 3.59,
+    "avgRating": 3.58,
     "name": "Star Badminton Academy - Harlur",
-    "ratingCount": 164,
+    "ratingCount": 165,
     "deferLink": "http://go.playo.app/PLAYOO/4THKG",
     "fullLink": "https://playo.co/venue/?venueId=7e6ff9aa-8df4-423e-8b1a-3a14fc846e26",
     "lat": 12.899718121181795,
@@ -15696,7 +15695,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Star Badminton Academy - Harlur</h3>\n    <strong>Ratings:</strong> 3.59 [164]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9513467949<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4THKG\" target=\"_blank\">http://go.playo.app/PLAYOO/4THKG</a><br/>\n    "
+    "info": "\n    <h3>Star Badminton Academy - Harlur</h3>\n    <strong>Ratings:</strong> 3.58 [165]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9513467949<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4THKG\" target=\"_blank\">http://go.playo.app/PLAYOO/4THKG</a><br/>\n    "
   },
   {
     "avgRating": 3.66,
@@ -16584,9 +16583,9 @@
     "info": "\n    <h3>The Game Point</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6366669524<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R7WO3\" target=\"_blank\">http://go.playo.app/PLAYOO/R7WO3</a><br/>\n    "
   },
   {
-    "avgRating": 4.43,
+    "avgRating": 4.42,
     "name": "The Goat Arena",
-    "ratingCount": 63,
+    "ratingCount": 64,
     "fullLink": "https://playo.co/venue?venueId=b9bd618c-e8cc-4efe-b1bf-df2af2193bc6",
     "deferLink": "http://go.playo.app/PLAYOO/mO3sz",
     "lat": 12.940577229778679,
@@ -16604,7 +16603,7 @@
       "Table Tennis",
       "Ultimate Frisbee"
     ],
-    "info": "\n    <h3>The Goat Arena</h3>\n    <strong>Ratings:</strong> 4.43 [63]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball, Play Station, Pool, Swimming, Table Tennis, Ultimate Frisbee<br/>\n    <strong>Phone:</strong> 8792234445<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mO3sz\" target=\"_blank\">http://go.playo.app/PLAYOO/mO3sz</a><br/>\n    "
+    "info": "\n    <h3>The Goat Arena</h3>\n    <strong>Ratings:</strong> 4.42 [64]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball, Play Station, Pool, Swimming, Table Tennis, Ultimate Frisbee<br/>\n    <strong>Phone:</strong> 8792234445<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mO3sz\" target=\"_blank\">http://go.playo.app/PLAYOO/mO3sz</a><br/>\n    "
   },
   {
     "avgRating": 4.8,
@@ -17876,7 +17875,7 @@
     "info": "\n    <h3>V5 Sports Academy</h3>\n    <strong>Ratings:</strong> 4.39 [117]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9845952369<br/>\n    <a href=\"http://go.playo.app/PLAYOO/hKHPc\" target=\"_blank\">http://go.playo.app/PLAYOO/hKHPc</a><br/>\n    "
   },
   {
-    "ratingCount": 251,
+    "ratingCount": 252,
     "avgRating": 3.98,
     "name": "VFive Badminton & Aquatic Center",
     "fullLink": "https://playo.co/venue?venueId=cd5542bc-e94d-453b-86b7-76f9ecaaec03",
@@ -17889,7 +17888,7 @@
       "Badminton",
       "Swimming"
     ],
-    "info": "\n    <h3>VFive Badminton & Aquatic Center</h3>\n    <strong>Ratings:</strong> 3.98 [251]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9108644442<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ih2Cf\" target=\"_blank\">http://go.playo.app/PLAYOO/ih2Cf</a><br/>\n    "
+    "info": "\n    <h3>VFive Badminton & Aquatic Center</h3>\n    <strong>Ratings:</strong> 3.98 [252]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9108644442<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ih2Cf\" target=\"_blank\">http://go.playo.app/PLAYOO/ih2Cf</a><br/>\n    "
   },
   {
     "avgRating": 3.86,
@@ -18634,7 +18633,7 @@
   {
     "avgRating": 5,
     "name": "Wisdom Play Arena",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=b191c6ed-8009-4769-8e02-b95816416faf",
     "deferLink": "http://go.playo.app/PLAYOO/twGu8",
     "lat": 12.87671458367552,
@@ -18645,7 +18644,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Wisdom Play Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9972987727<br/>\n    <a href=\"http://go.playo.app/PLAYOO/twGu8\" target=\"_blank\">http://go.playo.app/PLAYOO/twGu8</a><br/>\n    "
+    "info": "\n    <h3>Wisdom Play Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9972987727<br/>\n    <a href=\"http://go.playo.app/PLAYOO/twGu8\" target=\"_blank\">http://go.playo.app/PLAYOO/twGu8</a><br/>\n    "
   },
   {
     "avgRating": 3.64,
@@ -18748,7 +18747,7 @@
     "info": "\n    <h3>Yoyo Sports Arena</h3>\n    <strong>Ratings:</strong> 3.48 [23]<br/>\n    <strong>Sports:</strong> Box Cricket, Carrom, Football, Snooker, Table Tennis<br/>\n    <strong>Phone:</strong> 9738256767<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7U9vH\" target=\"_blank\">http://go.playo.app/PLAYOO/7U9vH</a><br/>\n    "
   },
   {
-    "ratingCount": 98,
+    "ratingCount": 99,
     "avgRating": 4.71,
     "name": "YuVe Champions Academy for Badminton",
     "fullLink": "https://playo.co/venue?venueId=742034ad-a385-4edd-a4b7-80f8c4580f8c",
@@ -18760,7 +18759,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>YuVe Champions Academy for Badminton</h3>\n    <strong>Ratings:</strong> 4.71 [98]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9945255133<br/>\n    <a href=\"http://go.playo.app/PLAYOO/XQ9nO\" target=\"_blank\">http://go.playo.app/PLAYOO/XQ9nO</a><br/>\n    "
+    "info": "\n    <h3>YuVe Champions Academy for Badminton</h3>\n    <strong>Ratings:</strong> 4.71 [99]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9945255133<br/>\n    <a href=\"http://go.playo.app/PLAYOO/XQ9nO\" target=\"_blank\">http://go.playo.app/PLAYOO/XQ9nO</a><br/>\n    "
   },
   {
     "avgRating": 4.64,

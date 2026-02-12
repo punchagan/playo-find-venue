@@ -464,19 +464,19 @@
     "info": "\n    <h3>ArenaZ | JNS Sports Academy</h3>\n    <strong>Ratings:</strong> 4.4 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9999491046<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZW83d\" target=\"_blank\">http://go.playo.app/PLAYOO/ZW83d</a><br/>\n    "
   },
   {
-    "avgRating": 3.23,
+    "avgRating": 2.93,
     "name": "ArenaZ | Sportyzo, Sector 62",
-    "ratingCount": 13,
+    "ratingCount": 15,
     "fullLink": "https://playo.co/venue?venueId=1655bb11-ae49-4dc5-b507-0c7b9dd0712d",
     "deferLink": "http://go.playo.app/PLAYOO/W9Lzl",
     "lat": 28.405972212574117,
     "lng": 77.0905992865072,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 2,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>ArenaZ | Sportyzo, Sector 62</h3>\n    <strong>Ratings:</strong> 3.23 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9540223227<br/>\n    <a href=\"http://go.playo.app/PLAYOO/W9Lzl\" target=\"_blank\">http://go.playo.app/PLAYOO/W9Lzl</a><br/>\n    "
+    "info": "\n    <h3>ArenaZ | Sportyzo, Sector 62</h3>\n    <strong>Ratings:</strong> 2.93 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9540223227<br/>\n    <a href=\"http://go.playo.app/PLAYOO/W9Lzl\" target=\"_blank\">http://go.playo.app/PLAYOO/W9Lzl</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -636,7 +636,7 @@
   {
     "avgRating": 5,
     "name": "Aventrix Sports",
-    "ratingCount": 7,
+    "ratingCount": 9,
     "fullLink": "https://playo.co/venue?venueId=118770a0-d5f4-45f0-9725-4592fcbd5bf8",
     "deferLink": "http://go.playo.app/PLAYOO/R_efR",
     "lat": 28.65667474495825,
@@ -646,7 +646,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Aventrix Sports</h3>\n    <strong>Ratings:</strong> 5 [7]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999753504<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R_efR\" target=\"_blank\">http://go.playo.app/PLAYOO/R_efR</a><br/>\n    "
+    "info": "\n    <h3>Aventrix Sports</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999753504<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R_efR\" target=\"_blank\">http://go.playo.app/PLAYOO/R_efR</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -2218,9 +2218,9 @@
     "info": "\n    <h3>Dropshot Tennis Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Tennis<br/>\n    <strong>Phone:</strong> 8595427780<br/>\n    <a href=\"http://go.playo.app/PLAYOO/cIO99\" target=\"_blank\">http://go.playo.app/PLAYOO/cIO99</a><br/>\n    "
   },
   {
-    "avgRating": 4.83,
+    "avgRating": 4.88,
     "name": "Dubai Fieldz",
-    "ratingCount": 6,
+    "ratingCount": 8,
     "fullLink": "https://playo.co/venue?venueId=5f6f8ab6-872d-47fb-911a-4ee3bd90d3ac",
     "deferLink": "http://go.playo.app/PLAYOO/0h7ul",
     "lat": 28.412462807897764,
@@ -2232,7 +2232,7 @@
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>Dubai Fieldz</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 7838383583<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0h7ul\" target=\"_blank\">http://go.playo.app/PLAYOO/0h7ul</a><br/>\n    "
+    "info": "\n    <h3>Dubai Fieldz</h3>\n    <strong>Ratings:</strong> 4.88 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 7838383583<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0h7ul\" target=\"_blank\">http://go.playo.app/PLAYOO/0h7ul</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -7652,6 +7652,22 @@
     "info": "\n    <h3>Shuttle Hustle Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9871476642<br/>\n    <a href=\"http://go.playo.app/PLAYOO/quZ38\" target=\"_blank\">http://go.playo.app/PLAYOO/quZ38</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Shuttle Killer",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=d9dc506b-52ef-42a2-bb32-70fdc5a91f2d",
+    "deferLink": "http://go.playo.app/PLAYOO/z4kH6",
+    "lat": 28.475701193784364,
+    "lng": 77.01311522883584,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Tennis"
+    ],
+    "info": "\n    <h3>Shuttle Killer</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Tennis<br/>\n    <strong>Phone:</strong> 9870377706<br/>\n    <a href=\"http://go.playo.app/PLAYOO/z4kH6\" target=\"_blank\">http://go.playo.app/PLAYOO/z4kH6</a><br/>\n    "
+  },
+  {
     "avgRating": 0,
     "name": "Siditya Cricket Ground",
     "ratingCount": 0,
@@ -9066,7 +9082,7 @@
   {
     "avgRating": 5,
     "name": "The Horizon - Gurgaon",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=0f33b6e6-1d3c-471c-bc76-ac8a251d3c21",
     "deferLink": "http://go.playo.app/PLAYOO/ScB9w",
     "lat": 28.404618083874006,
@@ -9076,7 +9092,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>The Horizon - Gurgaon</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8930302444<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ScB9w\" target=\"_blank\">http://go.playo.app/PLAYOO/ScB9w</a><br/>\n    "
+    "info": "\n    <h3>The Horizon - Gurgaon</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8930302444<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ScB9w\" target=\"_blank\">http://go.playo.app/PLAYOO/ScB9w</a><br/>\n    "
   },
   {
     "avgRating": 5,
