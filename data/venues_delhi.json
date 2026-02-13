@@ -636,7 +636,7 @@
   {
     "avgRating": 5,
     "name": "Aventrix Sports",
-    "ratingCount": 9,
+    "ratingCount": 10,
     "fullLink": "https://playo.co/venue?venueId=118770a0-d5f4-45f0-9725-4592fcbd5bf8",
     "deferLink": "http://go.playo.app/PLAYOO/R_efR",
     "lat": 28.65667474495825,
@@ -646,7 +646,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Aventrix Sports</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999753504<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R_efR\" target=\"_blank\">http://go.playo.app/PLAYOO/R_efR</a><br/>\n    "
+    "info": "\n    <h3>Aventrix Sports</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999753504<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R_efR\" target=\"_blank\">http://go.playo.app/PLAYOO/R_efR</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -6770,9 +6770,9 @@
     "info": "\n    <h3>Rackonnect Pro Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9654114394<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Zrd6_\" target=\"_blank\">http://go.playo.app/PLAYOO/Zrd6_</a><br/>\n    "
   },
   {
-    "avgRating": 4.05,
+    "avgRating": 4.06,
     "name": "Rackonnect Strings & Feathers Badminton Arena | Sporbit",
-    "ratingCount": 64,
+    "ratingCount": 65,
     "fullLink": "https://playo.co/venue?venueId=e57fba5d-6578-42e0-9784-64cabd8f8520",
     "deferLink": "http://go.playo.app/PLAYOO/xHdVN",
     "lat": 28.40476022763887,
@@ -6782,7 +6782,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Strings & Feathers Badminton Arena | Sporbit</h3>\n    <strong>Ratings:</strong> 4.05 [64]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xHdVN\" target=\"_blank\">http://go.playo.app/PLAYOO/xHdVN</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Strings & Feathers Badminton Arena | Sporbit</h3>\n    <strong>Ratings:</strong> 4.06 [65]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xHdVN\" target=\"_blank\">http://go.playo.app/PLAYOO/xHdVN</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -8028,6 +8028,22 @@
       "Cricket Nets"
     ],
     "info": "\n    <h3>Smashing Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Cricket Nets<br/>\n    <strong>Phone:</strong> 9990899800<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CrKh1\" target=\"_blank\">http://go.playo.app/PLAYOO/CrKh1</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Smashtress Stump & Goal Arena",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=9aed30c0-26ee-4330-95d6-4a8c71f46320",
+    "deferLink": "http://go.playo.app/PLAYOO/0LKGJ",
+    "lat": 28.600326734534033,
+    "lng": 77.41280978347811,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Smashtress Stump & Goal Arena</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7827493288<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0LKGJ\" target=\"_blank\">http://go.playo.app/PLAYOO/0LKGJ</a><br/>\n    "
   },
   {
     "avgRating": 4.67,
