@@ -449,6 +449,21 @@
     "info": "\n    <h3>Arena 44</h3>\n    <strong>Ratings:</strong> 4.5 [4]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Padel, Pickleball<br/>\n    <strong>Phone:</strong> 8448387914<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xSBW6\" target=\"_blank\">http://go.playo.app/PLAYOO/xSBW6</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "ArenaZ SSBA Pickleball",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=e08c2281-0fa7-4e6a-9ae8-49530bf395e8",
+    "lat": 28.733115645644048,
+    "lng": 77.12995708076447,
+    "deferLink": "http://go.playo.app/PLAYOO/fKTaI",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>ArenaZ SSBA Pickleball</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8285408782<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fKTaI\" target=\"_blank\">http://go.playo.app/PLAYOO/fKTaI</a><br/>\n    "
+  },
+  {
     "avgRating": 4.4,
     "name": "ArenaZ | JNS Sports Academy",
     "ratingCount": 15,
@@ -6647,7 +6662,7 @@
     "info": "\n    <h3>Rackonnect Badminton Arena</h3>\n    <strong>Ratings:</strong> 4.67 [24]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 8948945820<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FbDKi\" target=\"_blank\">http://go.playo.app/PLAYOO/FbDKi</a><br/>\n    "
   },
   {
-    "ratingCount": 130,
+    "ratingCount": 131,
     "avgRating": 3.95,
     "name": "Rackonnect Badminton Arena - Noida Indoor Stadium",
     "fullLink": "https://playo.co/venue?venueId=34b70e3b-81a2-4a06-aa1f-637f8cab4571",
@@ -6659,7 +6674,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 3.95 [130]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"http://go.playo.app/PLAYOO/a0q2H\" target=\"_blank\">http://go.playo.app/PLAYOO/a0q2H</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Badminton Arena - Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 3.95 [131]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7217876943<br/>\n    <a href=\"http://go.playo.app/PLAYOO/a0q2H\" target=\"_blank\">http://go.playo.app/PLAYOO/a0q2H</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6725,9 +6740,9 @@
     "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.92 [26]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"http://go.playo.app/PLAYOO/42nGP\" target=\"_blank\">http://go.playo.app/PLAYOO/42nGP</a><br/>\n    "
   },
   {
-    "avgRating": 3.74,
+    "avgRating": 3.72,
     "name": "Rackonnect Next Level Badminton Arena",
-    "ratingCount": 35,
+    "ratingCount": 36,
     "fullLink": "https://playo.co/venue?venueId=ceb82728-82dd-40c9-8fb2-8ea8f82ecb68",
     "deferLink": "http://go.playo.app/PLAYOO/c3YIe",
     "lat": 28.55258908463302,
@@ -6737,7 +6752,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.74 [35]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.72 [36]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -9443,8 +9458,8 @@
     "ratingCount": 28,
     "fullLink": "https://playo.co/venue?venueId=8d3eed35-9a5c-43c9-9006-20080c8866a5",
     "deferLink": "http://go.playo.app/PLAYOO/Datpy",
-    "lat": 28.60898759233924,
-    "lng": 77.3307223358009,
+    "lat": 28.60872358162533,
+    "lng": 77.33050130667853,
     "rating": 3,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
