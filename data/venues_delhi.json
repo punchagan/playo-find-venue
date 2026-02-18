@@ -3243,6 +3243,22 @@
     "info": "\n    <h3>Global Sports Hub</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8287719857<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3US4S\" target=\"_blank\">http://go.playo.app/PLAYOO/3US4S</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Go Cricket Bowling Machine and Nets",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=45ddb3cf-0858-4eb8-a46e-3da7cc64b780",
+    "deferLink": "http://go.playo.app/PLAYOO/pWjXp",
+    "lat": 28.392571894445922,
+    "lng": 77.09295468015866,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Bowling Machine",
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>Go Cricket Bowling Machine and Nets</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Bowling Machine, Cricket Nets<br/>\n    <strong>Phone:</strong> 9910944755<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pWjXp\" target=\"_blank\">http://go.playo.app/PLAYOO/pWjXp</a><br/>\n    "
+  },
+  {
     "avgRating": 0,
     "name": "Go Gopal Gowardhan Sports Academy",
     "ratingCount": 0,
@@ -7122,15 +7138,15 @@
     "info": "\n    <h3>Ryder's Academy Ardee City</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 8744006916<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dCFvs\" target=\"_blank\">http://go.playo.app/PLAYOO/dCFvs</a><br/>\n    "
   },
   {
-    "avgRating": 1,
+    "avgRating": 3,
     "name": "Ryder's Sports Academy Sector-57",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "deferLink": "http://go.playo.app/PLAYOO/xrxm4",
     "fullLink": "https://playo.co/venue/?venueId=1f0c1b61-16dd-4045-9323-15dcdd0e6463",
     "lat": 28.424108,
     "lng": 77.087619,
-    "rating": 1,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Basketball",
       "Cricket",
@@ -7142,7 +7158,7 @@
       "Swimming",
       "Tennis"
     ],
-    "info": "\n    <h3>Ryder's Sports Academy Sector-57</h3>\n    <strong>Ratings:</strong> 1 [1]<br/>\n    <strong>Sports:</strong> Basketball, Cricket, Equestrian, Football, Golf, Shooting, Skates, Swimming, Tennis<br/>\n    <strong>Phone:</strong> 8744006906<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xrxm4\" target=\"_blank\">http://go.playo.app/PLAYOO/xrxm4</a><br/>\n    "
+    "info": "\n    <h3>Ryder's Sports Academy Sector-57</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Basketball, Cricket, Equestrian, Football, Golf, Shooting, Skates, Swimming, Tennis<br/>\n    <strong>Phone:</strong> 8744006906<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xrxm4\" target=\"_blank\">http://go.playo.app/PLAYOO/xrxm4</a><br/>\n    "
   },
   {
     "avgRating": 0,
