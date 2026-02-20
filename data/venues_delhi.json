@@ -477,6 +477,22 @@
     "info": "\n    <h3>ArenaZ | Sportyzo, Sector 62</h3>\n    <strong>Ratings:</strong> 2.93 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9540223227<br/>\n    <a href=\"http://go.playo.app/PLAYOO/W9Lzl\" target=\"_blank\">http://go.playo.app/PLAYOO/W9Lzl</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Arenamate Turf",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=dcf4674e-507e-4aa0-8c44-4cbdbd8d6efd",
+    "deferLink": "http://go.playo.app/PLAYOO/WGQUt",
+    "lat": 28.556086109073153,
+    "lng": 77.38070747116434,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Arenamate Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9654808489<br/>\n    <a href=\"http://go.playo.app/PLAYOO/WGQUt\" target=\"_blank\">http://go.playo.app/PLAYOO/WGQUt</a><br/>\n    "
+  },
+  {
     "avgRating": 0,
     "name": "Arihant Cricket Ground",
     "ratingCount": 0,
@@ -5721,6 +5737,25 @@
     "info": "\n    <h3>PlayAll Football Arena - Abhinav School</h3>\n    <strong>Ratings:</strong> 4.5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9220403634<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MEIwv\" target=\"_blank\">http://go.playo.app/PLAYOO/MEIwv</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "PlayAll GTB Model Town",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=f77e8a64-ed70-443b-9277-dd929fc475e9",
+    "deferLink": "http://go.playo.app/PLAYOO/saal4",
+    "lat": 28.714486332442387,
+    "lng": 77.18795861534338,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Basketball",
+      "Box Cricket",
+      "Futsal",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll GTB Model Town</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9773781004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/saal4\" target=\"_blank\">http://go.playo.app/PLAYOO/saal4</a><br/>\n    "
+  },
+  {
     "ratingCount": 51,
     "avgRating": 3.78,
     "name": "PlayAll Gaurcity 1",
@@ -8523,38 +8558,6 @@
     "info": "\n    <h3>Starshine Cricket Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 8800198964<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8EEbA\" target=\"_blank\">http://go.playo.app/PLAYOO/8EEbA</a><br/>\n    "
   },
   {
-    "avgRating": 5,
-    "name": "Strike The Ball - Sector 10A",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=7d979c07-cb3a-4c18-b205-88c80d589552",
-    "deferLink": "http://go.playo.app/PLAYOO/KzEtU",
-    "lat": 28.4402276968266,
-    "lng": 77.00656181023953,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Cricket Nets",
-      "Football"
-    ],
-    "info": "\n    <h3>Strike The Ball - Sector 10A</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7982565684<br/>\n    <a href=\"http://go.playo.app/PLAYOO/KzEtU\" target=\"_blank\">http://go.playo.app/PLAYOO/KzEtU</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Strike The Ball - Sector 93",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=44c613e1-295e-485e-986e-d6ab0e81a2d3",
-    "deferLink": "http://go.playo.app/PLAYOO/8j7jT",
-    "lat": 28.415468357302373,
-    "lng": 76.93398268704638,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Cricket Nets"
-    ],
-    "info": "\n    <h3>Strike The Ball - Sector 93</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 7982565684<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8j7jT\" target=\"_blank\">http://go.playo.app/PLAYOO/8j7jT</a><br/>\n    "
-  },
-  {
     "avgRating": 4.67,
     "name": "Strike The Ball New Palam Vihar",
     "ratingCount": 3,
@@ -8571,7 +8574,7 @@
   },
   {
     "avgRating": 5,
-    "name": "Strike The Box",
+    "name": "Strike and Smash",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=40e6c712-226e-412c-82f9-1c298f533331",
     "deferLink": "http://go.playo.app/PLAYOO/wmt4X",
@@ -8583,7 +8586,39 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Strike The Box</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9990409707<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wmt4X\" target=\"_blank\">http://go.playo.app/PLAYOO/wmt4X</a><br/>\n    "
+    "info": "\n    <h3>Strike and Smash</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9990409707<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wmt4X\" target=\"_blank\">http://go.playo.app/PLAYOO/wmt4X</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Strike and Smash - Sector 93",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=44c613e1-295e-485e-986e-d6ab0e81a2d3",
+    "deferLink": "http://go.playo.app/PLAYOO/8j7jT",
+    "lat": 28.415468357302373,
+    "lng": 76.93398268704638,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>Strike and Smash - Sector 93</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 7982565684<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8j7jT\" target=\"_blank\">http://go.playo.app/PLAYOO/8j7jT</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Strike and Smash- Sector 10A",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=7d979c07-cb3a-4c18-b205-88c80d589552",
+    "deferLink": "http://go.playo.app/PLAYOO/KzEtU",
+    "lat": 28.4402276968266,
+    "lng": 77.00656181023953,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Cricket Nets",
+      "Football"
+    ],
+    "info": "\n    <h3>Strike and Smash- Sector 10A</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7982565684<br/>\n    <a href=\"http://go.playo.app/PLAYOO/KzEtU\" target=\"_blank\">http://go.playo.app/PLAYOO/KzEtU</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -9749,8 +9784,8 @@
     "info": "\n    <h3>UBCA Sports Nexus</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Bowling Machine, Box Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 9871467112<br/>\n    <a href=\"http://go.playo.app/PLAYOO/t74AU\" target=\"_blank\">http://go.playo.app/PLAYOO/t74AU</a><br/>\n    "
   },
   {
-    "ratingCount": 36,
-    "avgRating": 4.67,
+    "ratingCount": 37,
+    "avgRating": 4.68,
     "name": "Ultrex Recreational club",
     "fullLink": "https://playo.co/venue?venueId=4ba13d5e-da10-4835-8e1a-9326f699bd5c",
     "deferLink": "http://go.playo.app/PLAYOO/m1u_0",
@@ -9762,7 +9797,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Ultrex Recreational club</h3>\n    <strong>Ratings:</strong> 4.67 [36]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9999222634<br/>\n    <a href=\"http://go.playo.app/PLAYOO/m1u_0\" target=\"_blank\">http://go.playo.app/PLAYOO/m1u_0</a><br/>\n    "
+    "info": "\n    <h3>Ultrex Recreational club</h3>\n    <strong>Ratings:</strong> 4.68 [37]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9999222634<br/>\n    <a href=\"http://go.playo.app/PLAYOO/m1u_0\" target=\"_blank\">http://go.playo.app/PLAYOO/m1u_0</a><br/>\n    "
   },
   {
     "avgRating": 0,
