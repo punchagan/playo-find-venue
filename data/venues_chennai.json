@@ -1546,7 +1546,7 @@
     "deferLink": "http://go.playo.app/PLAYOO/kHXPj",
     "fullLink": "https://playo.co/venue/?venueId=1442c544-61e7-4532-83d6-55722b540300",
     "avgRating": 5,
-    "ratingCount": 1,
+    "ratingCount": 2,
     "lat": 13.08388032021397,
     "lng": 80.16093752638203,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
@@ -1554,7 +1554,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Decathlon Nolambur</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9513955601<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kHXPj\" target=\"_blank\">http://go.playo.app/PLAYOO/kHXPj</a><br/>\n    "
+    "info": "\n    <h3>Decathlon Nolambur</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9513955601<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kHXPj\" target=\"_blank\">http://go.playo.app/PLAYOO/kHXPj</a><br/>\n    "
   },
   {
     "ratingCount": 6,
@@ -3950,7 +3950,7 @@
   {
     "avgRating": 4.14,
     "name": "OMR Sports Arena",
-    "ratingCount": 35,
+    "ratingCount": 36,
     "deferLink": "http://go.playo.app/PLAYOO/aA65a",
     "fullLink": "https://playo.co/venue/?venueId=780a0fbe-3f4b-49b8-a0a5-8c270c107d4d",
     "lat": 12.90762,
@@ -3963,7 +3963,7 @@
       "Football",
       "Table Tennis"
     ],
-    "info": "\n    <h3>OMR Sports Arena</h3>\n    <strong>Ratings:</strong> 4.14 [35]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9600093205<br/>\n    <a href=\"http://go.playo.app/PLAYOO/aA65a\" target=\"_blank\">http://go.playo.app/PLAYOO/aA65a</a><br/>\n    "
+    "info": "\n    <h3>OMR Sports Arena</h3>\n    <strong>Ratings:</strong> 4.14 [36]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 9600093205<br/>\n    <a href=\"http://go.playo.app/PLAYOO/aA65a\" target=\"_blank\">http://go.playo.app/PLAYOO/aA65a</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4359,9 +4359,10 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Basketball"
     ],
-    "info": "\n    <h3>PlayHive</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9551525320<br/>\n    <a href=\"http://go.playo.app/PLAYOO/db_Jl\" target=\"_blank\">http://go.playo.app/PLAYOO/db_Jl</a><br/>\n    "
+    "info": "\n    <h3>PlayHive</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Basketball<br/>\n    <strong>Phone:</strong> 9551525320<br/>\n    <a href=\"http://go.playo.app/PLAYOO/db_Jl\" target=\"_blank\">http://go.playo.app/PLAYOO/db_Jl</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4397,7 +4398,7 @@
   {
     "avgRating": 5,
     "name": "Point Breakers Badminton Academy",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=7d1ad12c-7780-4e5b-9f51-2d7ed86b6cdc",
     "deferLink": "http://go.playo.app/PLAYOO/__8Y0",
     "lat": 12.93289008597636,
@@ -4407,7 +4408,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Point Breakers Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9940077927<br/>\n    <a href=\"http://go.playo.app/PLAYOO/__8Y0\" target=\"_blank\">http://go.playo.app/PLAYOO/__8Y0</a><br/>\n    "
+    "info": "\n    <h3>Point Breakers Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9940077927<br/>\n    <a href=\"http://go.playo.app/PLAYOO/__8Y0\" target=\"_blank\">http://go.playo.app/PLAYOO/__8Y0</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4969,20 +4970,20 @@
     "info": "\n    <h3>S2 Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.64 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8122115588<br/>\n    <a href=\"http://go.playo.app/PLAYOO/EUIM0\" target=\"_blank\">http://go.playo.app/PLAYOO/EUIM0</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "S2H Turf",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=341c5149-7acc-46ae-9aea-46e9276b8683",
     "deferLink": "http://go.playo.app/PLAYOO/8ZG7t",
     "lat": 13.20018796327285,
     "lng": 80.19319464856324,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>S2H Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9551899989<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8ZG7t\" target=\"_blank\">http://go.playo.app/PLAYOO/8ZG7t</a><br/>\n    "
+    "info": "\n    <h3>S2H Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9551899989<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8ZG7t\" target=\"_blank\">http://go.playo.app/PLAYOO/8ZG7t</a><br/>\n    "
   },
   {
     "avgRating": 5,
