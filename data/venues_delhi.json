@@ -768,9 +768,9 @@
     "info": "\n    <h3>Badminton Excellence Center</h3>\n    <strong>Ratings:</strong> 4.25 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9999804602<br/>\n    <a href=\"http://go.playo.app/PLAYOO/NH1IC\" target=\"_blank\">http://go.playo.app/PLAYOO/NH1IC</a><br/>\n    "
   },
   {
-    "avgRating": 4.25,
+    "avgRating": 4.22,
     "name": "Badminton24",
-    "ratingCount": 8,
+    "ratingCount": 9,
     "fullLink": "https://playo.co/venue?venueId=5e0a6b65-cd05-4cf1-ba86-18a5560efe9b",
     "deferLink": "http://go.playo.app/PLAYOO/28Di5",
     "lat": 28.509473410142206,
@@ -780,7 +780,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 4.25 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"http://go.playo.app/PLAYOO/28Di5\" target=\"_blank\">http://go.playo.app/PLAYOO/28Di5</a><br/>\n    "
+    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 4.22 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"http://go.playo.app/PLAYOO/28Di5\" target=\"_blank\">http://go.playo.app/PLAYOO/28Di5</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -2602,21 +2602,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>FGSC Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9582879099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5uVO8\" target=\"_blank\">http://go.playo.app/PLAYOO/5uVO8</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "FaceOff Football Turf @PlayAll",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=4c8e4895-7886-4bac-b080-ec89f118d4f2",
-    "deferLink": "http://go.playo.app/PLAYOO/yDxKa",
-    "lat": 28.40908719947499,
-    "lng": 77.09006519935427,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Football"
-    ],
-    "info": "\n    <h3>FaceOff Football Turf @PlayAll</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 9650746664<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yDxKa\" target=\"_blank\">http://go.playo.app/PLAYOO/yDxKa</a><br/>\n    "
   },
   {
     "ratingCount": 2,
