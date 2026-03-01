@@ -1497,7 +1497,7 @@
   {
     "avgRating": 5,
     "name": "DG Badminton Academy",
-    "ratingCount": 9,
+    "ratingCount": 10,
     "fullLink": "https://playo.co/venue?venueId=ade217f7-0100-42ab-b88f-f39eba5377d7",
     "deferLink": "http://go.playo.app/PLAYOO/Rh6If",
     "lat": 12.958635872999581,
@@ -1507,7 +1507,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>DG Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Rh6If\" target=\"_blank\">http://go.playo.app/PLAYOO/Rh6If</a><br/>\n    "
+    "info": "\n    <h3>DG Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Rh6If\" target=\"_blank\">http://go.playo.app/PLAYOO/Rh6If</a><br/>\n    "
   },
   {
     "ratingCount": 5,
@@ -3811,13 +3811,14 @@
     "fullLink": "https://playo.co/venue?venueId=2711a402-795e-49a1-a62b-6d077554f250",
     "lat": 12.97232014655961,
     "lng": 80.22678604110179,
+    "deferLink": "",
     "rating": 0,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Namma Turf 42</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 6380351142<br/>\n    <a href=\"N/A\" target=\"_blank\">N/A</a><br/>\n    "
+    "info": "\n    <h3>Namma Turf 42</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 6380351142<br/>\n    <a href=\"\" target=\"_blank\"></a><br/>\n    "
   },
   {
     "ratingCount": 14,
