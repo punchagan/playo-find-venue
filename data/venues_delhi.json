@@ -3367,7 +3367,7 @@
   {
     "avgRating": 5,
     "name": "GunMatrix Shooting Academy",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=f1e698f0-1d90-40ea-a098-18b3ef8e4da4",
     "deferLink": "http://go.playo.app/PLAYOO/y9JDI",
     "lat": 28.579539185815904,
@@ -3377,7 +3377,7 @@
     "filter_by": [
       "Shooting"
     ],
-    "info": "\n    <h3>GunMatrix Shooting Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Shooting<br/>\n    <strong>Phone:</strong> 8448776286<br/>\n    <a href=\"http://go.playo.app/PLAYOO/y9JDI\" target=\"_blank\">http://go.playo.app/PLAYOO/y9JDI</a><br/>\n    "
+    "info": "\n    <h3>GunMatrix Shooting Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Shooting<br/>\n    <strong>Phone:</strong> 8448776286<br/>\n    <a href=\"http://go.playo.app/PLAYOO/y9JDI\" target=\"_blank\">http://go.playo.app/PLAYOO/y9JDI</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -3438,6 +3438,72 @@
       "Badminton"
     ],
     "info": "\n    <h3>Gurukulam Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7314621009<br/>\n    <a href=\"http://go.playo.app/PLAYOO/pFp_K\" target=\"_blank\">http://go.playo.app/PLAYOO/pFp_K</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "HOP X Spada Arenas - Faridabad",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=db5759cb-6834-49de-b822-c05ba8efea1f",
+    "deferLink": "http://go.playo.app/PLAYOO/Ru_uZ",
+    "lat": 28.377886191647022,
+    "lng": 77.31916381534339,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>HOP X Spada Arenas - Faridabad</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9911507586<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ru_uZ\" target=\"_blank\">http://go.playo.app/PLAYOO/Ru_uZ</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "HOP X Spada Arenas - Noida",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=e6607de0-5c63-4e95-b930-60c58f9ca924",
+    "deferLink": "http://go.playo.app/PLAYOO/kBrtn",
+    "lat": 28.63146938922227,
+    "lng": 77.36876555767171,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Padel",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>HOP X Spada Arenas - Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9310449115<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kBrtn\" target=\"_blank\">http://go.playo.app/PLAYOO/kBrtn</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "HOP X Spada Arenas - Sohna",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=b93a705f-e502-459e-82ac-208ccd40c01d",
+    "deferLink": "http://go.playo.app/PLAYOO/IVgT8",
+    "lat": 28.26706298382549,
+    "lng": 77.06379579038429,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Box Cricket",
+      "Football",
+      "Padel",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>HOP X Spada Arenas - Sohna</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9812244840<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IVgT8\" target=\"_blank\">http://go.playo.app/PLAYOO/IVgT8</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "HOP x SPADA Arenas - Gurgaon",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=28cf20fc-62cd-4bce-a9fa-fc6f43364157",
+    "deferLink": "http://go.playo.app/PLAYOO/ly-1n",
+    "lat": 28.496200413964555,
+    "lng": 77.09803224551476,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Padel",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>HOP x SPADA Arenas - Gurgaon</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9310449115<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ly-1n\" target=\"_blank\">http://go.playo.app/PLAYOO/ly-1n</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -8321,9 +8387,9 @@
     "info": "\n    <h3>Sportslane</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 7897288344<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QdeE7\" target=\"_blank\">http://go.playo.app/PLAYOO/QdeE7</a><br/>\n    "
   },
   {
-    "avgRating": 4.4,
+    "avgRating": 4.5,
     "name": "Sportyzo ArenaZ Badminton Academy",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=33033886-e996-4097-badc-2bd8eb7ba1d3",
     "deferLink": "http://go.playo.app/PLAYOO/Ji_bL",
     "lat": 28.4033990271343,
@@ -8333,7 +8399,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sportyzo ArenaZ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.4 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9874927165<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ji_bL\" target=\"_blank\">http://go.playo.app/PLAYOO/Ji_bL</a><br/>\n    "
+    "info": "\n    <h3>Sportyzo ArenaZ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9874927165<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ji_bL\" target=\"_blank\">http://go.playo.app/PLAYOO/Ji_bL</a><br/>\n    "
   },
   {
     "avgRating": 0,
