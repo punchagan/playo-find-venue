@@ -1045,6 +1045,39 @@
     "info": "\n    <h3>Bowling Yard</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket Nets<br/>\n    <strong>Phone:</strong> 9540003245<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0VK2G\" target=\"_blank\">http://go.playo.app/PLAYOO/0VK2G</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Box Arena",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=667a686a-84d2-4dd9-81fe-0c6a0a2a75ce",
+    "deferLink": "http://go.playo.app/PLAYOO/uhPrF",
+    "lat": 28.531007422146697,
+    "lng": 77.29401955767169,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Box Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9999006450<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uhPrF\" target=\"_blank\">http://go.playo.app/PLAYOO/uhPrF</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Box Arena | Preet Vihar",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=f597ab8b-7bf0-47a2-bd84-ae0ed4e5acb2",
+    "deferLink": "http://go.playo.app/PLAYOO/IvGYs",
+    "lat": 28.641848107832004,
+    "lng": 77.29243032698493,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Cricket Nets",
+      "Football"
+    ],
+    "info": "\n    <h3>Box Arena | Preet Vihar</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9999006450<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IvGYs\" target=\"_blank\">http://go.playo.app/PLAYOO/IvGYs</a><br/>\n    "
+  },
+  {
     "avgRating": 0,
     "name": "Box Bash 92",
     "ratingCount": 0,
@@ -5335,7 +5368,7 @@
   {
     "avgRating": 5,
     "name": "Pankh Badminton Academy",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=ded85996-07c2-496b-b6cd-545bd10a7a4e",
     "deferLink": "http://go.playo.app/PLAYOO/d8ShN",
     "lat": 28.62096327231845,
@@ -5345,7 +5378,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Pankh Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8920284446<br/>\n    <a href=\"http://go.playo.app/PLAYOO/d8ShN\" target=\"_blank\">http://go.playo.app/PLAYOO/d8ShN</a><br/>\n    "
+    "info": "\n    <h3>Pankh Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8920284446<br/>\n    <a href=\"http://go.playo.app/PLAYOO/d8ShN\" target=\"_blank\">http://go.playo.app/PLAYOO/d8ShN</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -7927,8 +7960,8 @@
     "info": "\n    <h3>Skyline Pickleball Courts</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9319252104<br/>\n    <a href=\"http://go.playo.app/PLAYOO/C4agB\" target=\"_blank\">http://go.playo.app/PLAYOO/C4agB</a><br/>\n    "
   },
   {
-    "ratingCount": 28,
-    "avgRating": 2.68,
+    "ratingCount": 29,
+    "avgRating": 2.62,
     "name": "Smaac Sports",
     "fullLink": "https://playo.co/venue?venueId=b1d476a5-6588-43b3-a0ae-ad7fd132adeb",
     "deferLink": "http://go.playo.app/PLAYOO/wQ05W",
@@ -7941,7 +7974,7 @@
       "Box Cricket",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Smaac Sports</h3>\n    <strong>Ratings:</strong> 2.68 [28]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 7838964056<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wQ05W\" target=\"_blank\">http://go.playo.app/PLAYOO/wQ05W</a><br/>\n    "
+    "info": "\n    <h3>Smaac Sports</h3>\n    <strong>Ratings:</strong> 2.62 [29]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 7838964056<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wQ05W\" target=\"_blank\">http://go.playo.app/PLAYOO/wQ05W</a><br/>\n    "
   },
   {
     "avgRating": 3,
