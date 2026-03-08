@@ -1046,21 +1046,6 @@
   },
   {
     "avgRating": 5,
-    "name": "Box Arena",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=667a686a-84d2-4dd9-81fe-0c6a0a2a75ce",
-    "deferLink": "http://go.playo.app/PLAYOO/uhPrF",
-    "lat": 28.531007422146697,
-    "lng": 77.29401955767169,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket"
-    ],
-    "info": "\n    <h3>Box Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9999006450<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uhPrF\" target=\"_blank\">http://go.playo.app/PLAYOO/uhPrF</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
     "name": "Box Arena | Preet Vihar",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=f597ab8b-7bf0-47a2-bd84-ae0ed4e5acb2",
@@ -1076,6 +1061,21 @@
       "Football"
     ],
     "info": "\n    <h3>Box Arena | Preet Vihar</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9999006450<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IvGYs\" target=\"_blank\">http://go.playo.app/PLAYOO/IvGYs</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Box Arena | Sarita Vihar",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=667a686a-84d2-4dd9-81fe-0c6a0a2a75ce",
+    "deferLink": "http://go.playo.app/PLAYOO/uhPrF",
+    "lat": 28.531007422146697,
+    "lng": 77.29401955767169,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Box Arena | Sarita Vihar</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9999006450<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uhPrF\" target=\"_blank\">http://go.playo.app/PLAYOO/uhPrF</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -5809,7 +5809,7 @@
   {
     "avgRating": 5,
     "name": "PlayAll GTB Model Town",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=f77e8a64-ed70-443b-9277-dd929fc475e9",
     "deferLink": "http://go.playo.app/PLAYOO/saal4",
     "lat": 28.714486332442387,
@@ -5823,7 +5823,7 @@
       "Futsal",
       "Pickleball"
     ],
-    "info": "\n    <h3>PlayAll GTB Model Town</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9773781004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/saal4\" target=\"_blank\">http://go.playo.app/PLAYOO/saal4</a><br/>\n    "
+    "info": "\n    <h3>PlayAll GTB Model Town</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9773781004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/saal4\" target=\"_blank\">http://go.playo.app/PLAYOO/saal4</a><br/>\n    "
   },
   {
     "ratingCount": 52,
@@ -5928,8 +5928,8 @@
     "info": "\n    <h3>PlayAll MCL Hari Nagar</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9220311088<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7ZWJa\" target=\"_blank\">http://go.playo.app/PLAYOO/7ZWJa</a><br/>\n    "
   },
   {
-    "ratingCount": 72,
-    "avgRating": 3.39,
+    "ratingCount": 73,
+    "avgRating": 3.41,
     "name": "PlayAll MPS Noida 11",
     "fullLink": "https://playo.co/venue?venueId=cf4abbc8-c29b-41ca-8f1a-5a85e4f16bf0",
     "deferLink": "http://go.playo.app/PLAYOO/zauNz",
@@ -5942,7 +5942,7 @@
       "Basketball",
       "Pickleball"
     ],
-    "info": "\n    <h3>PlayAll MPS Noida 11</h3>\n    <strong>Ratings:</strong> 3.39 [72]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 8750005057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zauNz\" target=\"_blank\">http://go.playo.app/PLAYOO/zauNz</a><br/>\n    "
+    "info": "\n    <h3>PlayAll MPS Noida 11</h3>\n    <strong>Ratings:</strong> 3.41 [73]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 8750005057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zauNz\" target=\"_blank\">http://go.playo.app/PLAYOO/zauNz</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
@@ -6028,9 +6028,9 @@
     "info": "\n    <h3>PlayAll Noida 141</h3>\n    <strong>Ratings:</strong> 3.2 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9560389384<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CC3XJ\" target=\"_blank\">http://go.playo.app/PLAYOO/CC3XJ</a><br/>\n    "
   },
   {
-    "avgRating": 4.35,
+    "avgRating": 4.31,
     "name": "PlayAll Noida 73",
-    "ratingCount": 86,
+    "ratingCount": 87,
     "deferLink": "http://go.playo.app/PLAYOO/JvLPE",
     "fullLink": "https://playo.co/venue/?venueId=d81a4000-0c6e-409b-9e58-cde48c1a7006",
     "lat": 28.58614,
@@ -6041,7 +6041,7 @@
       "Badminton",
       "Box Cricket"
     ],
-    "info": "\n    <h3>PlayAll Noida 73</h3>\n    <strong>Ratings:</strong> 4.35 [86]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket<br/>\n    <strong>Phone:</strong> 8750387507<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JvLPE\" target=\"_blank\">http://go.playo.app/PLAYOO/JvLPE</a><br/>\n    "
+    "info": "\n    <h3>PlayAll Noida 73</h3>\n    <strong>Ratings:</strong> 4.31 [87]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket<br/>\n    <strong>Phone:</strong> 8750387507<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JvLPE\" target=\"_blank\">http://go.playo.app/PLAYOO/JvLPE</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
