@@ -2702,7 +2702,7 @@
   {
     "avgRating": 5,
     "name": "Fit Baddy Club",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=e53afde6-21cf-4004-baa3-8b497df7d3a9",
     "deferLink": "http://go.playo.app/PLAYOO/3Tq5N",
     "lat": 28.41511286747835,
@@ -2713,7 +2713,7 @@
       "Pickleball",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Fit Baddy Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 8383822630<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3Tq5N\" target=\"_blank\">http://go.playo.app/PLAYOO/3Tq5N</a><br/>\n    "
+    "info": "\n    <h3>Fit Baddy Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 8383822630<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3Tq5N\" target=\"_blank\">http://go.playo.app/PLAYOO/3Tq5N</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -5109,7 +5109,7 @@
   {
     "avgRating": 5,
     "name": "Noida Pickleball Courts",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=d4cdd39a-5b48-491a-aa98-c20834be7f93",
     "deferLink": "http://go.playo.app/PLAYOO/CgOe0",
     "lat": 28.545297326400135,
@@ -5119,7 +5119,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Noida Pickleball Courts</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9267949192<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CgOe0\" target=\"_blank\">http://go.playo.app/PLAYOO/CgOe0</a><br/>\n    "
+    "info": "\n    <h3>Noida Pickleball Courts</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9267949192<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CgOe0\" target=\"_blank\">http://go.playo.app/PLAYOO/CgOe0</a><br/>\n    "
   },
   {
     "avgRating": 2,
@@ -6861,9 +6861,9 @@
     "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.92 [26]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"http://go.playo.app/PLAYOO/42nGP\" target=\"_blank\">http://go.playo.app/PLAYOO/42nGP</a><br/>\n    "
   },
   {
-    "avgRating": 3.74,
+    "avgRating": 3.73,
     "name": "Rackonnect Next Level Badminton Arena",
-    "ratingCount": 39,
+    "ratingCount": 40,
     "fullLink": "https://playo.co/venue?venueId=ceb82728-82dd-40c9-8fb2-8ea8f82ecb68",
     "deferLink": "http://go.playo.app/PLAYOO/c3YIe",
     "lat": 28.55258908463302,
@@ -6873,7 +6873,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.74 [39]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.73 [40]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -8251,38 +8251,6 @@
       "Pickleball"
     ],
     "info": "\n    <h3>SportSense</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9144700070<br/>\n    <a href=\"http://go.playo.app/PLAYOO/O4kCS\" target=\"_blank\">http://go.playo.app/PLAYOO/O4kCS</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "SportVot The Base, Chattarpur",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=bc261fb3-8875-42c0-9290-048d992a5323",
-    "deferLink": "http://go.playo.app/PLAYOO/Zac1W",
-    "lat": 28.466810497267502,
-    "lng": 77.19080103664724,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>SportVot The Base, Chattarpur</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9220557713<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Zac1W\" target=\"_blank\">http://go.playo.app/PLAYOO/Zac1W</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "SportVot The Base, Ghitorni",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=391700d1-77fa-4970-8cf6-0d37eac79723",
-    "deferLink": "http://go.playo.app/PLAYOO/VT6VW",
-    "lat": 28.50012329399723,
-    "lng": 77.14509718934471,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>SportVot The Base, Ghitorni</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9220557713<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VT6VW\" target=\"_blank\">http://go.playo.app/PLAYOO/VT6VW</a><br/>\n    "
   },
   {
     "avgRating": 5,
