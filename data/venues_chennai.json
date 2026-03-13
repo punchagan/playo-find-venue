@@ -3637,7 +3637,7 @@
   {
     "avgRating": 5,
     "name": "Meeyazh Sports Academy",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=cbd50e87-648c-4c73-be00-8279db3d107c",
     "deferLink": "http://go.playo.app/PLAYOO/GeVrc",
     "lat": 12.973245651811531,
@@ -3647,7 +3647,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Meeyazh Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944181186<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GeVrc\" target=\"_blank\">http://go.playo.app/PLAYOO/GeVrc</a><br/>\n    "
+    "info": "\n    <h3>Meeyazh Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944181186<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GeVrc\" target=\"_blank\">http://go.playo.app/PLAYOO/GeVrc</a><br/>\n    "
   },
   {
     "ratingCount": 11,
@@ -5337,19 +5337,19 @@
     "info": "\n    <h3>Skilpad Academy & Turf</h3>\n    <strong>Ratings:</strong> 5 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Table Tennis, Volleyball<br/>\n    <strong>Phone:</strong> 9600975950<br/>\n    <a href=\"http://go.playo.app/PLAYOO/RGmw7\" target=\"_blank\">http://go.playo.app/PLAYOO/RGmw7</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4.75,
     "name": "Sky Badminton Academy - MRC",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=31e1a72d-6567-4fdb-8649-8cb7ecf55900",
     "deferLink": "http://go.playo.app/PLAYOO/tNaG3",
     "lat": 13.02237541334581,
     "lng": 80.26688558031763,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sky Badminton Academy - MRC</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8778276076<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tNaG3\" target=\"_blank\">http://go.playo.app/PLAYOO/tNaG3</a><br/>\n    "
+    "info": "\n    <h3>Sky Badminton Academy - MRC</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8778276076<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tNaG3\" target=\"_blank\">http://go.playo.app/PLAYOO/tNaG3</a><br/>\n    "
   },
   {
     "avgRating": 4,
@@ -6740,6 +6740,22 @@
     "info": "\n    <h3>Turf Trident</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9043291992<br/>\n    <a href=\"http://go.playo.app/PLAYOO/gRF0Y\" target=\"_blank\">http://go.playo.app/PLAYOO/gRF0Y</a><br/>\n    "
   },
   {
+    "name": "Turfhit",
+    "rating": 5,
+    "deferLink": "http://go.playo.app/PLAYOO/oPe0y",
+    "fullLink": "https://playo.co/venue/?venueId=6886290a-9cba-45ea-b09c-552011425e5e",
+    "avgRating": 5,
+    "ratingCount": 2,
+    "lat": 12.84735662951526,
+    "lng": 80.22454434400798,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Turfhit</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9363600130<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oPe0y\" target=\"_blank\">http://go.playo.app/PLAYOO/oPe0y</a><br/>\n    "
+  },
+  {
     "avgRating": 5,
     "name": "Turfhit Prime",
     "ratingCount": 3,
@@ -6943,7 +6959,7 @@
   {
     "avgRating": 4.94,
     "name": "V Square Badminton Club",
-    "ratingCount": 140,
+    "ratingCount": 141,
     "fullLink": "https://playo.co/venue?venueId=ed65f9cf-4178-4e35-87ed-417fdd55d11d",
     "deferLink": "http://go.playo.app/PLAYOO/PUzpD",
     "lat": 12.944196022750658,
@@ -6953,7 +6969,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.94 [140]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
+    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.94 [141]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
