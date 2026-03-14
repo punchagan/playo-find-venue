@@ -1604,7 +1604,7 @@
   {
     "avgRating": 5,
     "name": "Court Culture - Paschim Vihar",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=6761b893-3508-4a6d-9803-5faed530fa2e",
     "deferLink": "http://go.playo.app/PLAYOO/B5y2P",
     "lat": 28.6639958889821,
@@ -1616,7 +1616,7 @@
       "Pickleball",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Court Culture - Paschim Vihar</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 8588811826<br/>\n    <a href=\"http://go.playo.app/PLAYOO/B5y2P\" target=\"_blank\">http://go.playo.app/PLAYOO/B5y2P</a><br/>\n    "
+    "info": "\n    <h3>Court Culture - Paschim Vihar</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 8588811826<br/>\n    <a href=\"http://go.playo.app/PLAYOO/B5y2P\" target=\"_blank\">http://go.playo.app/PLAYOO/B5y2P</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -2124,6 +2124,24 @@
     "info": "\n    <h3>District 9</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Pickleball, Skates<br/>\n    <strong>Phone:</strong> 9643080014<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zPniB\" target=\"_blank\">http://go.playo.app/PLAYOO/zPniB</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Dockyard Sports Club",
+    "ratingCount": 4,
+    "fullLink": "https://playo.co/venue?venueId=e143544e-6bb7-4f53-86f6-0c5bb1ac7043",
+    "deferLink": "http://go.playo.app/PLAYOO/zWlV3",
+    "lat": 28.3974378329657,
+    "lng": 77.10334936307677,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Cricket",
+      "Cricket Nets",
+      "Football",
+      "Tennis"
+    ],
+    "info": "\n    <h3>Dockyard Sports Club</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Cricket, Cricket Nets, Football, Tennis<br/>\n    <strong>Phone:</strong> 7838131390<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zWlV3\" target=\"_blank\">http://go.playo.app/PLAYOO/zWlV3</a><br/>\n    "
+  },
+  {
     "avgRating": 0,
     "name": "Double Ace Sports TT Academy",
     "ratingCount": 0,
@@ -2438,9 +2456,9 @@
     "info": "\n    <h3>Elite Pickleball By Sportsvilla</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7303209298<br/>\n    <a href=\"http://go.playo.app/PLAYOO/absbf\" target=\"_blank\">http://go.playo.app/PLAYOO/absbf</a><br/>\n    "
   },
   {
-    "avgRating": 4.33,
+    "avgRating": 4.32,
     "name": "Elite Sports Club - A Multi-Sport Facility",
-    "ratingCount": 30,
+    "ratingCount": 31,
     "fullLink": "https://playo.co/venue?venueId=6de5e70e-614e-41cb-a1c5-dd52692f6709",
     "deferLink": "http://go.playo.app/PLAYOO/ysTHd",
     "lat": 28.561720975045997,
@@ -2452,7 +2470,7 @@
       "Pool",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Elite Sports Club - A Multi-Sport Facility</h3>\n    <strong>Ratings:</strong> 4.33 [30]<br/>\n    <strong>Sports:</strong> Badminton, Pool, Table Tennis<br/>\n    <strong>Phone:</strong> 8800722669<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ysTHd\" target=\"_blank\">http://go.playo.app/PLAYOO/ysTHd</a><br/>\n    "
+    "info": "\n    <h3>Elite Sports Club - A Multi-Sport Facility</h3>\n    <strong>Ratings:</strong> 4.32 [31]<br/>\n    <strong>Sports:</strong> Badminton, Pool, Table Tennis<br/>\n    <strong>Phone:</strong> 8800722669<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ysTHd\" target=\"_blank\">http://go.playo.app/PLAYOO/ysTHd</a><br/>\n    "
   },
   {
     "ratingCount": 3,
@@ -3352,6 +3370,24 @@
       "Cricket"
     ],
     "info": "\n    <h3>Grillo's Sports Zone</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9999780087<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c03NU\" target=\"_blank\">http://go.playo.app/PLAYOO/c03NU</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Gritx Sports Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=bf12a5c6-f7c8-4263-b333-ff66e745c85f",
+    "deferLink": "http://go.playo.app/PLAYOO/h0sVL",
+    "lat": 28.409124172826086,
+    "lng": 76.96341768650754,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Gritx Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8860203203<br/>\n    <a href=\"http://go.playo.app/PLAYOO/h0sVL\" target=\"_blank\">http://go.playo.app/PLAYOO/h0sVL</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -5487,7 +5523,7 @@
   {
     "avgRating": 5,
     "name": "Pickle Roar",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=99e89239-a3ec-42ad-a0cb-eee80df9cae7",
     "deferLink": "http://go.playo.app/PLAYOO/Ksz1R",
     "lat": 28.478939564907186,
@@ -5497,7 +5533,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Pickle Roar</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9899717149<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ksz1R\" target=\"_blank\">http://go.playo.app/PLAYOO/Ksz1R</a><br/>\n    "
+    "info": "\n    <h3>Pickle Roar</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9899717149<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ksz1R\" target=\"_blank\">http://go.playo.app/PLAYOO/Ksz1R</a><br/>\n    "
   },
   {
     "avgRating": 4.75,
@@ -8964,19 +9000,19 @@
     "info": "\n    <h3>Techmart Indoor Cricket Nets</h3>\n    <strong>Ratings:</strong> 4.33 [3]<br/>\n    <strong>Sports:</strong> Bowling Machine<br/>\n    <strong>Phone:</strong> 9999636404<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TR6o3\" target=\"_blank\">http://go.playo.app/PLAYOO/TR6o3</a><br/>\n    "
   },
   {
-    "avgRating": 4.67,
+    "avgRating": 3.75,
     "name": "Tennis O Holic",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=26c4dea9-f812-4d33-9a62-c2bb1b8edf2e",
     "deferLink": "http://go.playo.app/PLAYOO/Hzi36",
     "lat": 28.66906464381611,
     "lng": 77.13165777293264,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Tennis"
     ],
-    "info": "\n    <h3>Tennis O Holic</h3>\n    <strong>Ratings:</strong> 4.67 [3]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 9953302252<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Hzi36\" target=\"_blank\">http://go.playo.app/PLAYOO/Hzi36</a><br/>\n    "
+    "info": "\n    <h3>Tennis O Holic</h3>\n    <strong>Ratings:</strong> 3.75 [4]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 9953302252<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Hzi36\" target=\"_blank\">http://go.playo.app/PLAYOO/Hzi36</a><br/>\n    "
   },
   {
     "avgRating": 4.83,
