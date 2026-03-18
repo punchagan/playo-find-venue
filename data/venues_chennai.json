@@ -1050,22 +1050,22 @@
     "info": "\n    <h3>COURT(esy) Badminton</h3>\n    <strong>Ratings:</strong> 4.88 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7358917475<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IgqhF\" target=\"_blank\">http://go.playo.app/PLAYOO/IgqhF</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4.5,
     "name": "CP Sports Academy",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=8fb735d3-fca5-4164-b7f6-3fb55f8c83a9",
     "deferLink": "http://go.playo.app/PLAYOO/ednjV",
     "lat": 12.9651211,
     "lng": 80.1681533,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton",
       "Basketball",
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>CP Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7904441579<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ednjV\" target=\"_blank\">http://go.playo.app/PLAYOO/ednjV</a><br/>\n    "
+    "info": "\n    <h3>CP Sports Academy</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7904441579<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ednjV\" target=\"_blank\">http://go.playo.app/PLAYOO/ednjV</a><br/>\n    "
   },
   {
     "name": "CRK Sports and Fitness Arena",
@@ -3757,6 +3757,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Murana Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305436007<br/>\n    <a href=\"http://go.playo.app/PLAYOO/STdyZ\" target=\"_blank\">http://go.playo.app/PLAYOO/STdyZ</a><br/>\n    "
+  },
+  {
+    "avgRating": 4.67,
+    "name": "Myndz Badminton",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=6ad47394-a698-4e27-b573-bee7b279197f",
+    "deferLink": "http://go.playo.app/PLAYOO/YtDLa",
+    "lat": 12.922473518587143,
+    "lng": 80.16601321349872,
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Myndz Badminton</h3>\n    <strong>Ratings:</strong> 4.67 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9940230011<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YtDLa\" target=\"_blank\">http://go.playo.app/PLAYOO/YtDLa</a><br/>\n    "
   },
   {
     "avgRating": 5,
