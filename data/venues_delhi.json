@@ -245,19 +245,21 @@
     "info": "\n    <h3>Aim Olympic Badminton Academy | Ashok Vihar</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8295891735<br/>\n    <a href=\"http://go.playo.app/PLAYOO/04BV9\" target=\"_blank\">http://go.playo.app/PLAYOO/04BV9</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Aksis Sports Centre",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=06867d25-075b-4043-bd78-aeaaab70e81b",
-    "deferLink": "http://go.playo.app/PLAYOO/mQ-EI",
-    "lat": 28.594240820636184,
-    "lng": 77.04351023679058,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=181951a7-4b04-406f-a8f1-f51a79324b76",
+    "deferLink": "http://go.playo.app/PLAYOO/H-539",
+    "lat": 28.594430825108162,
+    "lng": 77.04352152883585,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Box Cricket"
+      "Box Cricket",
+      "Football",
+      "Table Tennis"
     ],
-    "info": "\n    <h3>Aksis Sports Centre</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9810359100<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mQ-EI\" target=\"_blank\">http://go.playo.app/PLAYOO/mQ-EI</a><br/>\n    "
+    "info": "\n    <h3>Aksis Sports Centre</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Table Tennis<br/>\n    <strong>Phone:</strong> 6201019794<br/>\n    <a href=\"http://go.playo.app/PLAYOO/H-539\" target=\"_blank\">http://go.playo.app/PLAYOO/H-539</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
@@ -1912,23 +1914,6 @@
   },
   {
     "avgRating": 0,
-    "name": "DV Sports Club",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=4679df1d-4b26-49f4-8272-bef3d0a6b32e",
-    "deferLink": "http://go.playo.app/PLAYOO/_usyH",
-    "lat": 28.53531923796279,
-    "lng": 77.01934451561819,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>DV Sports Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7683052991<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_usyH\" target=\"_blank\">http://go.playo.app/PLAYOO/_usyH</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
     "name": "Dabas Cricket Stadium",
     "ratingCount": 0,
     "fullLink": "https://playo.co/venue?venueId=1ff121b3-7a6f-4ba8-8ecc-25c1c27d02be",
@@ -3387,22 +3372,22 @@
     "info": "\n    <h3>Grillo's Sports Zone</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9999780087<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c03NU\" target=\"_blank\">http://go.playo.app/PLAYOO/c03NU</a><br/>\n    "
   },
   {
-    "avgRating": 3.67,
+    "avgRating": 4.2,
     "name": "Gritx Sports Academy",
-    "ratingCount": 3,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=bf12a5c6-f7c8-4263-b333-ff66e745c85f",
     "deferLink": "http://go.playo.app/PLAYOO/h0sVL",
     "lat": 28.409124172826086,
     "lng": 76.96341768650754,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton",
       "Box Cricket",
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>Gritx Sports Academy</h3>\n    <strong>Ratings:</strong> 3.67 [3]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8860203203<br/>\n    <a href=\"http://go.playo.app/PLAYOO/h0sVL\" target=\"_blank\">http://go.playo.app/PLAYOO/h0sVL</a><br/>\n    "
+    "info": "\n    <h3>Gritx Sports Academy</h3>\n    <strong>Ratings:</strong> 4.2 [5]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8860203203<br/>\n    <a href=\"http://go.playo.app/PLAYOO/h0sVL\" target=\"_blank\">http://go.playo.app/PLAYOO/h0sVL</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -3870,8 +3855,8 @@
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=b63061f3-a781-4521-8b4d-3b65b0d8fd2e",
     "deferLink": "http://go.playo.app/PLAYOO/hnm5T",
-    "lat": 28.679833935203632,
-    "lng": 77.38526382484112,
+    "lat": 28.659998608763015,
+    "lng": 77.38567894232855,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
@@ -8299,9 +8284,10 @@
       "Badminton",
       "Box Cricket",
       "Football",
-      "Pickleball"
+      "Pickleball",
+      "Table Tennis"
     ],
-    "info": "\n    <h3>Sportify Sports | Turf & Badminton</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9625688655<br/>\n    <a href=\"http://go.playo.app/PLAYOO/k_PQ-\" target=\"_blank\">http://go.playo.app/PLAYOO/k_PQ-</a><br/>\n    "
+    "info": "\n    <h3>Sportify Sports | Turf & Badminton</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 9625688655<br/>\n    <a href=\"http://go.playo.app/PLAYOO/k_PQ-\" target=\"_blank\">http://go.playo.app/PLAYOO/k_PQ-</a><br/>\n    "
   },
   {
     "avgRating": 0,
