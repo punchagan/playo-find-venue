@@ -8570,9 +8570,10 @@
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
+      "Badminton",
       "Pickleball"
     ],
-    "info": "\n    <h3>Spuddy Multisports Academy</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7078404986<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JHmKp\" target=\"_blank\">http://go.playo.app/PLAYOO/JHmKp</a><br/>\n    "
+    "info": "\n    <h3>Spuddy Multisports Academy</h3>\n    <strong>Ratings:</strong> 4 [2]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 7078404986<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JHmKp\" target=\"_blank\">http://go.playo.app/PLAYOO/JHmKp</a><br/>\n    "
   },
   {
     "avgRating": 4.71,
@@ -9648,9 +9649,9 @@
     "info": "\n    <h3>Tirang Sports Arena | DLF Phase 3</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8595457583<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TglNE\" target=\"_blank\">http://go.playo.app/PLAYOO/TglNE</a><br/>\n    "
   },
   {
-    "avgRating": 3.35,
+    "avgRating": 3.34,
     "name": "Top Smashers Badminton Academy",
-    "ratingCount": 31,
+    "ratingCount": 32,
     "fullLink": "https://playo.co/venue?venueId=8d3eed35-9a5c-43c9-9006-20080c8866a5",
     "deferLink": "http://go.playo.app/PLAYOO/Datpy",
     "lat": 28.60872358162533,
@@ -9660,7 +9661,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.35 [31]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Datpy\" target=\"_blank\">http://go.playo.app/PLAYOO/Datpy</a><br/>\n    "
+    "info": "\n    <h3>Top Smashers Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.34 [32]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8447277236<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Datpy\" target=\"_blank\">http://go.playo.app/PLAYOO/Datpy</a><br/>\n    "
   },
   {
     "avgRating": 0,
