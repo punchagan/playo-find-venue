@@ -3693,6 +3693,21 @@
   },
   {
     "avgRating": 5,
+    "name": "Horizon x Courtplay",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=68c77c4d-53ac-47e0-98a7-dde3d711d6ae",
+    "deferLink": "http://go.playo.app/PLAYOO/CIrgV",
+    "lat": 28.416528698613035,
+    "lng": 77.12160632433776,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Horizon x Courtplay</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9988588960<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CIrgV\" target=\"_blank\">http://go.playo.app/PLAYOO/CIrgV</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "House Of Cricket",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=abcb6ad2-fde2-4c44-b257-97469be7a9a6",
@@ -6900,7 +6915,7 @@
     "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.81 [27]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"http://go.playo.app/PLAYOO/42nGP\" target=\"_blank\">http://go.playo.app/PLAYOO/42nGP</a><br/>\n    "
   },
   {
-    "avgRating": 3.65,
+    "avgRating": 3.67,
     "name": "Rackonnect Next Level Badminton Arena",
     "ratingCount": 43,
     "fullLink": "https://playo.co/venue?venueId=ceb82728-82dd-40c9-8fb2-8ea8f82ecb68",
@@ -6912,7 +6927,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.65 [43]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.67 [43]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -9450,7 +9465,7 @@
   {
     "avgRating": 5,
     "name": "The Sports Planet",
-    "ratingCount": 2,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=bb634283-55e5-4f1b-b6f3-8ea6c3bfb1e0",
     "deferLink": "http://go.playo.app/PLAYOO/yyn1J",
     "lat": 28.397476824443498,
@@ -9462,7 +9477,7 @@
       "Box Cricket",
       "Pickleball"
     ],
-    "info": "\n    <h3>The Sports Planet</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9773986167<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yyn1J\" target=\"_blank\">http://go.playo.app/PLAYOO/yyn1J</a><br/>\n    "
+    "info": "\n    <h3>The Sports Planet</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9773986167<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yyn1J\" target=\"_blank\">http://go.playo.app/PLAYOO/yyn1J</a><br/>\n    "
   },
   {
     "avgRating": 3.33,
@@ -9754,6 +9769,22 @@
       "Football"
     ],
     "info": "\n    <h3>Triptych Sports Complex</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Football<br/>\n    <strong>Phone:</strong> 9650231991<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Nt0CH\" target=\"_blank\">http://go.playo.app/PLAYOO/Nt0CH</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Turf 30 Yard Ground",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=204e3fd9-bc44-4bf3-a38f-baa9c17562a3",
+    "deferLink": "http://go.playo.app/PLAYOO/4fbLh",
+    "lat": 28.559141703192466,
+    "lng": 77.40285284417949,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Turf 30 Yard Ground</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8279719857<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4fbLh\" target=\"_blank\">http://go.playo.app/PLAYOO/4fbLh</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -10067,6 +10098,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>VPA Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.2 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7011082268<br/>\n    <a href=\"http://go.playo.app/PLAYOO/jSd6H\" target=\"_blank\">http://go.playo.app/PLAYOO/jSd6H</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "VT Badminton Academy",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=052f46bc-f989-4cc8-b13d-c70a5e0fa526",
+    "deferLink": "http://go.playo.app/PLAYOO/Qa_pa",
+    "lat": 28.70380214759343,
+    "lng": 77.4581860807335,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>VT Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9310506578<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Qa_pa\" target=\"_blank\">http://go.playo.app/PLAYOO/Qa_pa</a><br/>\n    "
   },
   {
     "avgRating": 5,
