@@ -9190,9 +9190,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Box Cricket",
-      "Cricket Nets"
+      "Cricket Nets",
+      "Football"
     ],
-    "info": "\n    <h3>The Cricket Zone - Near 76 Noida Metro</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 9012812445<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Qt38t\" target=\"_blank\">http://go.playo.app/PLAYOO/Qt38t</a><br/>\n    "
+    "info": "\n    <h3>The Cricket Zone - Near 76 Noida Metro</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9012812445<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Qt38t\" target=\"_blank\">http://go.playo.app/PLAYOO/Qt38t</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -9773,7 +9774,7 @@
   {
     "avgRating": 5,
     "name": "Turf 30 Yard Ground",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=204e3fd9-bc44-4bf3-a38f-baa9c17562a3",
     "deferLink": "http://go.playo.app/PLAYOO/4fbLh",
     "lat": 28.559141703192466,
@@ -9784,7 +9785,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Turf 30 Yard Ground</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8279719857<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4fbLh\" target=\"_blank\">http://go.playo.app/PLAYOO/4fbLh</a><br/>\n    "
+    "info": "\n    <h3>Turf 30 Yard Ground</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8279719857<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4fbLh\" target=\"_blank\">http://go.playo.app/PLAYOO/4fbLh</a><br/>\n    "
   },
   {
     "avgRating": 0,
