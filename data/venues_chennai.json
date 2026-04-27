@@ -16,19 +16,19 @@
     "info": "\n    <h3>1 Cube Sports & Gamez Hub</h3>\n    <strong>Ratings:</strong> 4.3 [10]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 9962300081<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wUwTe\" target=\"_blank\">http://go.playo.app/PLAYOO/wUwTe</a><br/>\n    "
   },
   {
-    "avgRating": 4,
+    "avgRating": 3.5,
     "name": "1 Cube sports & Gamez Hub - Guindy 2.0",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=44e788e1-63a4-4852-be53-30a05246efd4",
     "deferLink": "http://go.playo.app/PLAYOO/ID2uw",
     "lat": 13.000963653149777,
     "lng": 80.21346975407927,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>1 Cube sports & Gamez Hub - Guindy 2.0</h3>\n    <strong>Ratings:</strong> 4 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9962300081<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ID2uw\" target=\"_blank\">http://go.playo.app/PLAYOO/ID2uw</a><br/>\n    "
+    "info": "\n    <h3>1 Cube sports & Gamez Hub - Guindy 2.0</h3>\n    <strong>Ratings:</strong> 3.5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9962300081<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ID2uw\" target=\"_blank\">http://go.playo.app/PLAYOO/ID2uw</a><br/>\n    "
   },
   {
     "avgRating": 4.2,
@@ -713,7 +713,7 @@
   {
     "avgRating": 4.85,
     "name": "Balaji Badminton Academy - Navalur",
-    "ratingCount": 40,
+    "ratingCount": 41,
     "fullLink": "https://playo.co/venue?venueId=d6a88698-2af9-4efb-9e47-bc77ddc6f7ba",
     "deferLink": "http://go.playo.app/PLAYOO/Un84c",
     "lat": 12.847947438415115,
@@ -723,7 +723,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Balaji Badminton Academy - Navalur</h3>\n    <strong>Ratings:</strong> 4.85 [40]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9629672378<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Un84c\" target=\"_blank\">http://go.playo.app/PLAYOO/Un84c</a><br/>\n    "
+    "info": "\n    <h3>Balaji Badminton Academy - Navalur</h3>\n    <strong>Ratings:</strong> 4.85 [41]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9629672378<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Un84c\" target=\"_blank\">http://go.playo.app/PLAYOO/Un84c</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2086,7 +2086,7 @@
   {
     "avgRating": 5,
     "name": "Falcon Turf",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=a8d3c88f-740c-4fd0-8919-1b387d9ce7b4",
     "deferLink": "http://go.playo.app/PLAYOO/FhzDY",
     "lat": 12.907805997149802,
@@ -2097,7 +2097,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Falcon Turf</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9344039010<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FhzDY\" target=\"_blank\">http://go.playo.app/PLAYOO/FhzDY</a><br/>\n    "
+    "info": "\n    <h3>Falcon Turf</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9344039010<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FhzDY\" target=\"_blank\">http://go.playo.app/PLAYOO/FhzDY</a><br/>\n    "
   },
   {
     "ratingCount": 8,
@@ -7108,6 +7108,23 @@
       "Badminton"
     ],
     "info": "\n    <h3>VL Academy Badminton Coaching Center</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9150986709<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VpI_K\" target=\"_blank\">http://go.playo.app/PLAYOO/VpI_K</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Valiant Pickleball and Football Turf",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=858df019-34ed-4191-9817-a5bbbca591dc",
+    "deferLink": "http://go.playo.app/PLAYOO/kiCeX",
+    "lat": 12.88099028110635,
+    "lng": 80.14879814749575,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Valiant Pickleball and Football Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9940349974<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kiCeX\" target=\"_blank\">http://go.playo.app/PLAYOO/kiCeX</a><br/>\n    "
   },
   {
     "avgRating": 4.67,
