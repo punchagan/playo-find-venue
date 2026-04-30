@@ -267,6 +267,21 @@
   },
   {
     "avgRating": 5,
+    "name": "AK Pickleball & Recovery Centre",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=d22ce5c4-1081-40f0-965e-d9930b5822e6",
+    "deferLink": "http://go.playo.app/PLAYOO/eClCL",
+    "lat": 13.116859754479716,
+    "lng": 80.09727314820738,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>AK Pickleball & Recovery Centre</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7200351013<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eClCL\" target=\"_blank\">http://go.playo.app/PLAYOO/eClCL</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "ASB Turf",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=7c37fceb-2317-49bb-b5ed-4e2d6ed6f5f2",
@@ -2004,6 +2019,22 @@
       "Football"
     ],
     "info": "\n    <h3>FC Marina - Ponmar</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9940005130<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wYmv5\" target=\"_blank\">http://go.playo.app/PLAYOO/wYmv5</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "FC Marina - Porur",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=49a339d8-2607-4be1-92ba-4be744e3da56",
+    "deferLink": "http://go.playo.app/PLAYOO/sViCW",
+    "lat": 13.03100156392319,
+    "lng": 80.16823009139762,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>FC Marina - Porur</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9962220400<br/>\n    <a href=\"http://go.playo.app/PLAYOO/sViCW\" target=\"_blank\">http://go.playo.app/PLAYOO/sViCW</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5173,6 +5204,22 @@
     "info": "\n    <h3>SK Badminton Academy - Kolathur</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9042742988<br/>\n    <a href=\"http://go.playo.app/PLAYOO/lMGLv\" target=\"_blank\">http://go.playo.app/PLAYOO/lMGLv</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "SNAT Play Zone",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=1bf64a26-1fcd-48dd-83f2-7a027c30d756",
+    "deferLink": "http://go.playo.app/PLAYOO/gR5Xx",
+    "lat": 13.060608616682952,
+    "lng": 80.17447062025255,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>SNAT Play Zone</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7667993939<br/>\n    <a href=\"http://go.playo.app/PLAYOO/gR5Xx\" target=\"_blank\">http://go.playo.app/PLAYOO/gR5Xx</a><br/>\n    "
+  },
+  {
     "avgRating": 5,
     "name": "SP Green Cricket Academy",
     "ratingCount": 1,
@@ -5820,6 +5867,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Spartans Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9789968755<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FW6rp\" target=\"_blank\">http://go.playo.app/PLAYOO/FW6rp</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Spin Serve Sports Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=3c8551bf-4e81-4f75-8bd3-6608c4874c96",
+    "deferLink": "http://go.playo.app/PLAYOO/ByupT",
+    "lat": 12.96681468692282,
+    "lng": 80.21391911221755,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Spin Serve Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9692100600<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ByupT\" target=\"_blank\">http://go.playo.app/PLAYOO/ByupT</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -7143,9 +7205,9 @@
     "info": "\n    <h3>Valiant Pickleball and Football Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9940349974<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kiCeX\" target=\"_blank\">http://go.playo.app/PLAYOO/kiCeX</a><br/>\n    "
   },
   {
-    "avgRating": 4.67,
+    "avgRating": 4.69,
     "name": "Veera Sports Academy",
-    "ratingCount": 12,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=0bd6ca2b-01a7-4b9a-8cc7-3693d1dd052a",
     "deferLink": "http://go.playo.app/PLAYOO/wCqwG",
     "lat": 12.815625415390091,
@@ -7155,7 +7217,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Veera Sports Academy</h3>\n    <strong>Ratings:</strong> 4.67 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9500561952<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wCqwG\" target=\"_blank\">http://go.playo.app/PLAYOO/wCqwG</a><br/>\n    "
+    "info": "\n    <h3>Veera Sports Academy</h3>\n    <strong>Ratings:</strong> 4.69 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9500561952<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wCqwG\" target=\"_blank\">http://go.playo.app/PLAYOO/wCqwG</a><br/>\n    "
   },
   {
     "avgRating": 5,
