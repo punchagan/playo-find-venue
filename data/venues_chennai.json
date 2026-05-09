@@ -407,6 +407,21 @@
   },
   {
     "avgRating": 5,
+    "name": "Ace By Cheetah's Pickleball Courts",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=93e9ca4f-bc8a-45a2-9bf0-8455f396eb00",
+    "deferLink": "http://go.playo.app/PLAYOO/Y_krN",
+    "lat": 12.944060186316646,
+    "lng": 80.18418125403132,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Ace By Cheetah's Pickleball Courts</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7305050677<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Y_krN\" target=\"_blank\">http://go.playo.app/PLAYOO/Y_krN</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Ace Table Tennis Academy",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=fc11a479-1d96-41b2-9a56-98d7ef2fe766",
@@ -530,9 +545,9 @@
     "info": "\n    <h3>All Stars Arena</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 8939755668<br/>\n    <a href=\"http://go.playo.app/PLAYOO/A6c7R\" target=\"_blank\">http://go.playo.app/PLAYOO/A6c7R</a><br/>\n    "
   },
   {
-    "avgRating": 4.64,
+    "avgRating": 4.42,
     "name": "Anna Sports Club",
-    "ratingCount": 11,
+    "ratingCount": 12,
     "fullLink": "https://playo.co/venue?venueId=3c482905-e9e9-4005-a7e9-5ada1b46163a",
     "deferLink": "http://go.playo.app/PLAYOO/4qK70",
     "lat": 12.9698224,
@@ -542,7 +557,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Anna Sports Club</h3>\n    <strong>Ratings:</strong> 4.64 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305036399<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4qK70\" target=\"_blank\">http://go.playo.app/PLAYOO/4qK70</a><br/>\n    "
+    "info": "\n    <h3>Anna Sports Club</h3>\n    <strong>Ratings:</strong> 4.42 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305036399<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4qK70\" target=\"_blank\">http://go.playo.app/PLAYOO/4qK70</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -1313,9 +1328,9 @@
     "info": "\n    <h3>Chola Sports Academy</h3>\n    <strong>Ratings:</strong> 4.87 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305065880<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Yvm6n\" target=\"_blank\">http://go.playo.app/PLAYOO/Yvm6n</a><br/>\n    "
   },
   {
-    "avgRating": 3.77,
+    "avgRating": 3.83,
     "name": "Choolaimedu Badminton Club",
-    "ratingCount": 22,
+    "ratingCount": 23,
     "fullLink": "https://playo.co/venue?venueId=7d554e4a-7daf-4287-88c6-a5c7852d4626",
     "deferLink": "http://go.playo.app/PLAYOO/_aTGZ",
     "lat": 13.067226621171285,
@@ -1325,7 +1340,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Choolaimedu Badminton Club</h3>\n    <strong>Ratings:</strong> 3.77 [22]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939547775<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_aTGZ\" target=\"_blank\">http://go.playo.app/PLAYOO/_aTGZ</a><br/>\n    "
+    "info": "\n    <h3>Choolaimedu Badminton Club</h3>\n    <strong>Ratings:</strong> 3.83 [23]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939547775<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_aTGZ\" target=\"_blank\">http://go.playo.app/PLAYOO/_aTGZ</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4600,7 +4615,7 @@
     "info": "\n    <h3>Pranav Sports Academy</h3>\n    <strong>Ratings:</strong> 4.11 [9]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9940065979<br/>\n    <a href=\"http://go.playo.app/PLAYOO/wkWLt\" target=\"_blank\">http://go.playo.app/PLAYOO/wkWLt</a><br/>\n    "
   },
   {
-    "avgRating": 4.71,
+    "avgRating": 4.57,
     "name": "Pranav Sports Academy - Badminton",
     "ratingCount": 14,
     "fullLink": "https://playo.co/venue?venueId=57671ac1-0670-4b24-b71d-dbf073195486",
@@ -4612,7 +4627,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Pranav Sports Academy - Badminton</h3>\n    <strong>Ratings:</strong> 4.71 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9003017710<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CliBQ\" target=\"_blank\">http://go.playo.app/PLAYOO/CliBQ</a><br/>\n    "
+    "info": "\n    <h3>Pranav Sports Academy - Badminton</h3>\n    <strong>Ratings:</strong> 4.57 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9003017710<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CliBQ\" target=\"_blank\">http://go.playo.app/PLAYOO/CliBQ</a><br/>\n    "
   },
   {
     "avgRating": 4.56,
