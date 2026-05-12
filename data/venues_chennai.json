@@ -1184,7 +1184,7 @@
   {
     "avgRating": 5,
     "name": "Castle Wood Badminton Academy",
-    "ratingCount": 11,
+    "ratingCount": 12,
     "fullLink": "https://playo.co/venue?venueId=3e6ddfeb-4f35-4e51-b305-919dd2241d8b",
     "deferLink": "http://go.playo.app/PLAYOO/4PhIW",
     "lat": 12.955413753360597,
@@ -1194,7 +1194,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Castle Wood Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7010881060<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4PhIW\" target=\"_blank\">http://go.playo.app/PLAYOO/4PhIW</a><br/>\n    "
+    "info": "\n    <h3>Castle Wood Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7010881060<br/>\n    <a href=\"http://go.playo.app/PLAYOO/4PhIW\" target=\"_blank\">http://go.playo.app/PLAYOO/4PhIW</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -1313,9 +1313,9 @@
     "info": "\n    <h3>Chennai Table Tennis Foundation</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9677212515<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IGz_L\" target=\"_blank\">http://go.playo.app/PLAYOO/IGz_L</a><br/>\n    "
   },
   {
-    "avgRating": 4.87,
+    "avgRating": 4.88,
     "name": "Chola Sports Academy",
-    "ratingCount": 15,
+    "ratingCount": 16,
     "fullLink": "https://playo.co/venue?venueId=ae31fe80-5f17-4464-8617-bf4eb75785be",
     "deferLink": "http://go.playo.app/PLAYOO/Yvm6n",
     "lat": 12.883537111939015,
@@ -1325,7 +1325,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Chola Sports Academy</h3>\n    <strong>Ratings:</strong> 4.87 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305065880<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Yvm6n\" target=\"_blank\">http://go.playo.app/PLAYOO/Yvm6n</a><br/>\n    "
+    "info": "\n    <h3>Chola Sports Academy</h3>\n    <strong>Ratings:</strong> 4.88 [16]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305065880<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Yvm6n\" target=\"_blank\">http://go.playo.app/PLAYOO/Yvm6n</a><br/>\n    "
   },
   {
     "avgRating": 3.83,
@@ -1987,6 +1987,22 @@
     "info": "\n    <h3>FC Marina - Mugalivakkam</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9500775963<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uvl7O\" target=\"_blank\">http://go.playo.app/PLAYOO/uvl7O</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "FC Marina - Nolumbur",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=3e78b984-3722-4dda-9216-224d185645be",
+    "deferLink": "http://go.playo.app/PLAYOO/25Emy",
+    "lat": 13.07725027140063,
+    "lng": 80.1653049582834,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>FC Marina - Nolumbur</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9500100878<br/>\n    <a href=\"http://go.playo.app/PLAYOO/25Emy\" target=\"_blank\">http://go.playo.app/PLAYOO/25Emy</a><br/>\n    "
+  },
+  {
     "avgRating": 5,
     "name": "FC Marina - Perumbakkam",
     "ratingCount": 5,
@@ -2065,6 +2081,22 @@
       "Football"
     ],
     "info": "\n    <h3>FC Marina - Thiruvanmiyur</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9962220400<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QToar\" target=\"_blank\">http://go.playo.app/PLAYOO/QToar</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "FC Marina - Vanagaram",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=e479f513-5bf0-48ab-b11e-72d6d225d409",
+    "deferLink": "http://go.playo.app/PLAYOO/07SkG",
+    "lat": 13.05463326642942,
+    "lng": 80.14889106996985,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>FC Marina - Vanagaram</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9500100878<br/>\n    <a href=\"http://go.playo.app/PLAYOO/07SkG\" target=\"_blank\">http://go.playo.app/PLAYOO/07SkG</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3951,15 +3983,15 @@
     "rating": 4,
     "deferLink": "http://go.playo.app/PLAYOO/yiEwk",
     "fullLink": "https://playo.co/venue/?venueId=d6b94b1f-2cc4-44e2-8640-449508625d21",
-    "avgRating": 4.33,
-    "ratingCount": 46,
+    "avgRating": 4.32,
+    "ratingCount": 47,
     "lat": 12.9528995,
     "lng": 80.2087373,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>NetfliQ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.33 [46]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397220004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yiEwk\" target=\"_blank\">http://go.playo.app/PLAYOO/yiEwk</a><br/>\n    "
+    "info": "\n    <h3>NetfliQ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.32 [47]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397220004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yiEwk\" target=\"_blank\">http://go.playo.app/PLAYOO/yiEwk</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5570,7 +5602,7 @@
   {
     "avgRating": 5,
     "name": "Sky Badminton Academy 6.0",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=0b555864-cd35-4353-808c-b5ca9836be84",
     "deferLink": "http://go.playo.app/PLAYOO/HJq54",
     "lat": 13.127098872536436,
@@ -5580,7 +5612,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sky Badminton Academy 6.0</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8778276076<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HJq54\" target=\"_blank\">http://go.playo.app/PLAYOO/HJq54</a><br/>\n    "
+    "info": "\n    <h3>Sky Badminton Academy 6.0</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8778276076<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HJq54\" target=\"_blank\">http://go.playo.app/PLAYOO/HJq54</a><br/>\n    "
   },
   {
     "avgRating": 3.67,
@@ -7189,7 +7221,7 @@
   {
     "avgRating": 4.9,
     "name": "V Square Badminton Club",
-    "ratingCount": 210,
+    "ratingCount": 211,
     "fullLink": "https://playo.co/venue?venueId=ed65f9cf-4178-4e35-87ed-417fdd55d11d",
     "deferLink": "http://go.playo.app/PLAYOO/PUzpD",
     "lat": 12.944196022750658,
@@ -7199,7 +7231,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.9 [210]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
+    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.9 [211]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
