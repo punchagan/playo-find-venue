@@ -822,7 +822,7 @@
   {
     "avgRating": 4.73,
     "name": "Bees Badminton Hub",
-    "ratingCount": 48,
+    "ratingCount": 49,
     "fullLink": "https://playo.co/venue?venueId=dbbbdcaa-b658-4b66-acf7-3634406154b4",
     "deferLink": "http://go.playo.app/PLAYOO/fhB4t",
     "lat": 13.039745662112823,
@@ -832,7 +832,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Bees Badminton Hub</h3>\n    <strong>Ratings:</strong> 4.73 [48]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8858833588<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fhB4t\" target=\"_blank\">http://go.playo.app/PLAYOO/fhB4t</a><br/>\n    "
+    "info": "\n    <h3>Bees Badminton Hub</h3>\n    <strong>Ratings:</strong> 4.73 [49]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8858833588<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fhB4t\" target=\"_blank\">http://go.playo.app/PLAYOO/fhB4t</a><br/>\n    "
   },
   {
     "avgRating": 3,
@@ -1498,9 +1498,9 @@
     "info": "\n    <h3>DD Turf Zone</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Volleyball<br/>\n    <strong>Phone:</strong> 8778348062<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MNgAK\" target=\"_blank\">http://go.playo.app/PLAYOO/MNgAK</a><br/>\n    "
   },
   {
-    "avgRating": 3.82,
+    "avgRating": 3.72,
     "name": "DG Badminton Academy",
-    "ratingCount": 28,
+    "ratingCount": 29,
     "fullLink": "https://playo.co/venue?venueId=ade217f7-0100-42ab-b88f-f39eba5377d7",
     "deferLink": "http://go.playo.app/PLAYOO/Rh6If",
     "lat": 12.958635872999581,
@@ -1510,7 +1510,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>DG Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.82 [28]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Rh6If\" target=\"_blank\">http://go.playo.app/PLAYOO/Rh6If</a><br/>\n    "
+    "info": "\n    <h3>DG Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.72 [29]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Rh6If\" target=\"_blank\">http://go.playo.app/PLAYOO/Rh6If</a><br/>\n    "
   },
   {
     "ratingCount": 5,
@@ -2519,6 +2519,22 @@
     "info": "\n    <h3>GQUBE Sports Arena</h3>\n    <strong>Ratings:</strong> 4.27 [11]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket<br/>\n    <strong>Phone:</strong> 8925528298<br/>\n    <a href=\"http://go.playo.app/PLAYOO/oskot\" target=\"_blank\">http://go.playo.app/PLAYOO/oskot</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "GVR Sports Arena",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=786c3a70-9927-4874-9f28-76041088cc0a",
+    "deferLink": "http://go.playo.app/PLAYOO/-f3M3",
+    "lat": 13.089499571720928,
+    "lng": 80.14957873328876,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>GVR Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9025880235<br/>\n    <a href=\"http://go.playo.app/PLAYOO/-f3M3\" target=\"_blank\">http://go.playo.app/PLAYOO/-f3M3</a><br/>\n    "
+  },
+  {
     "avgRating": 4.58,
     "name": "Game City Turf",
     "ratingCount": 12,
@@ -2565,9 +2581,9 @@
     "info": "\n    <h3>Gamez to Fly Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.94 [32]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9789909852<br/>\n    <a href=\"http://go.playo.app/PLAYOO/nIDre\" target=\"_blank\">http://go.playo.app/PLAYOO/nIDre</a><br/>\n    "
   },
   {
-    "avgRating": 4.4,
+    "avgRating": 4.9,
     "name": "Gautham Badminton Club",
-    "ratingCount": 20,
+    "ratingCount": 10,
     "fullLink": "https://playo.co/venue?venueId=b7b826eb-94d3-4299-ad42-1ee0688f6d03",
     "deferLink": "http://go.playo.app/PLAYOO/GmfW-",
     "lat": 12.9646813,
@@ -2577,7 +2593,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Gautham Badminton Club</h3>\n    <strong>Ratings:</strong> 4.4 [20]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9941479379<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GmfW-\" target=\"_blank\">http://go.playo.app/PLAYOO/GmfW-</a><br/>\n    "
+    "info": "\n    <h3>Gautham Badminton Club</h3>\n    <strong>Ratings:</strong> 4.9 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9941479379<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GmfW-\" target=\"_blank\">http://go.playo.app/PLAYOO/GmfW-</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3700,9 +3716,9 @@
     "info": "\n    <h3>Match Point Sports Academy & Dance Class</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840228887<br/>\n    <a href=\"http://go.playo.app/PLAYOO/iprK1\" target=\"_blank\">http://go.playo.app/PLAYOO/iprK1</a><br/>\n    "
   },
   {
-    "avgRating": 4.78,
+    "avgRating": 4.79,
     "name": "Meeyazh Sports Academy",
-    "ratingCount": 18,
+    "ratingCount": 19,
     "fullLink": "https://playo.co/venue?venueId=cbd50e87-648c-4c73-be00-8279db3d107c",
     "deferLink": "http://go.playo.app/PLAYOO/GeVrc",
     "lat": 12.973245651811531,
@@ -3712,7 +3728,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Meeyazh Sports Academy</h3>\n    <strong>Ratings:</strong> 4.78 [18]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944181186<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GeVrc\" target=\"_blank\">http://go.playo.app/PLAYOO/GeVrc</a><br/>\n    "
+    "info": "\n    <h3>Meeyazh Sports Academy</h3>\n    <strong>Ratings:</strong> 4.79 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944181186<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GeVrc\" target=\"_blank\">http://go.playo.app/PLAYOO/GeVrc</a><br/>\n    "
   },
   {
     "ratingCount": 11,
