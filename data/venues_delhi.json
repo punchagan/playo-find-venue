@@ -497,7 +497,7 @@
   {
     "avgRating": 5,
     "name": "Arenaz | SSBA Pickleball Arena",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=b5c46857-39b1-42ad-ab55-9a0dc83adca9",
     "deferLink": "http://go.playo.app/PLAYOO/MNUuM",
     "lat": 28.470625663678444,
@@ -507,7 +507,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Arenaz | SSBA Pickleball Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7982052926<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MNUuM\" target=\"_blank\">http://go.playo.app/PLAYOO/MNUuM</a><br/>\n    "
+    "info": "\n    <h3>Arenaz | SSBA Pickleball Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7982052926<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MNUuM\" target=\"_blank\">http://go.playo.app/PLAYOO/MNUuM</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -2876,9 +2876,9 @@
     "info": "\n    <h3>Flow Sports Life</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8095514666<br/>\n    <a href=\"http://go.playo.app/PLAYOO/FBwgx\" target=\"_blank\">http://go.playo.app/PLAYOO/FBwgx</a><br/>\n    "
   },
   {
-    "avgRating": 4.71,
+    "avgRating": 4.63,
     "name": "Flying Feathers Badminton Academy",
-    "ratingCount": 7,
+    "ratingCount": 8,
     "fullLink": "https://playo.co/venue?venueId=d492a959-b736-47d8-ae36-6bd516f6e99a",
     "deferLink": "http://go.playo.app/PLAYOO/jOBm_",
     "lat": 28.501049929072728,
@@ -2888,7 +2888,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Flying Feathers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.71 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8802336556<br/>\n    <a href=\"http://go.playo.app/PLAYOO/jOBm_\" target=\"_blank\">http://go.playo.app/PLAYOO/jOBm_</a><br/>\n    "
+    "info": "\n    <h3>Flying Feathers Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.63 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8802336556<br/>\n    <a href=\"http://go.playo.app/PLAYOO/jOBm_\" target=\"_blank\">http://go.playo.app/PLAYOO/jOBm_</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3516,9 +3516,9 @@
     "info": "\n    <h3>Grillo's Sports Zone</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9999780087<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c03NU\" target=\"_blank\">http://go.playo.app/PLAYOO/c03NU</a><br/>\n    "
   },
   {
-    "avgRating": 4.2,
+    "avgRating": 4.33,
     "name": "Gritx Sports Academy",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=bf12a5c6-f7c8-4263-b333-ff66e745c85f",
     "deferLink": "http://go.playo.app/PLAYOO/h0sVL",
     "lat": 28.409124172826086,
@@ -3531,7 +3531,7 @@
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>Gritx Sports Academy</h3>\n    <strong>Ratings:</strong> 4.2 [5]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8860203203<br/>\n    <a href=\"http://go.playo.app/PLAYOO/h0sVL\" target=\"_blank\">http://go.playo.app/PLAYOO/h0sVL</a><br/>\n    "
+    "info": "\n    <h3>Gritx Sports Academy</h3>\n    <strong>Ratings:</strong> 4.33 [6]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8860203203<br/>\n    <a href=\"http://go.playo.app/PLAYOO/h0sVL\" target=\"_blank\">http://go.playo.app/PLAYOO/h0sVL</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -6109,6 +6109,22 @@
       "Futsal"
     ],
     "info": "\n    <h3>PlayAll JIS Pitampura</h3>\n    <strong>Ratings:</strong> 4.5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9667373472<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YPnUY\" target=\"_blank\">http://go.playo.app/PLAYOO/YPnUY</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "PlayAll JKG Vijay Nagar",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=fad1cd36-1824-4e84-bf52-ca89f3f652a3",
+    "deferLink": "http://go.playo.app/PLAYOO/2SXdM",
+    "lat": 28.64348811971982,
+    "lng": 77.42570621085449,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Futsal"
+    ],
+    "info": "\n    <h3>PlayAll JKG Vijay Nagar</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9217661002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/2SXdM\" target=\"_blank\">http://go.playo.app/PLAYOO/2SXdM</a><br/>\n    "
   },
   {
     "avgRating": 4.77,
