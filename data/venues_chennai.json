@@ -3749,9 +3749,9 @@
     "info": "\n    <h3>Match Point Sports Academy & Dance Class</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840228887<br/>\n    <a href=\"http://go.playo.app/PLAYOO/iprK1\" target=\"_blank\">http://go.playo.app/PLAYOO/iprK1</a><br/>\n    "
   },
   {
-    "avgRating": 4.7,
+    "avgRating": 4.67,
     "name": "Meeyazh Sports Academy",
-    "ratingCount": 20,
+    "ratingCount": 21,
     "fullLink": "https://playo.co/venue?venueId=cbd50e87-648c-4c73-be00-8279db3d107c",
     "deferLink": "http://go.playo.app/PLAYOO/GeVrc",
     "lat": 12.973245651811531,
@@ -3761,7 +3761,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Meeyazh Sports Academy</h3>\n    <strong>Ratings:</strong> 4.7 [20]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944181186<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GeVrc\" target=\"_blank\">http://go.playo.app/PLAYOO/GeVrc</a><br/>\n    "
+    "info": "\n    <h3>Meeyazh Sports Academy</h3>\n    <strong>Ratings:</strong> 4.67 [21]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9944181186<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GeVrc\" target=\"_blank\">http://go.playo.app/PLAYOO/GeVrc</a><br/>\n    "
   },
   {
     "ratingCount": 11,
@@ -4058,6 +4058,21 @@
       "Football"
     ],
     "info": "\n    <h3>Nexus</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9789788667<br/>\n    <a href=\"http://go.playo.app/PLAYOO/BLmmg\" target=\"_blank\">http://go.playo.app/PLAYOO/BLmmg</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "North Edge Elite AC",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=51f57b11-c02a-4c4b-9c14-2c01a2d9dc86",
+    "deferLink": "http://go.playo.app/PLAYOO/XYEKI",
+    "lat": 13.092740202006334,
+    "lng": 80.20044763824065,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>North Edge Elite AC</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9445888626<br/>\n    <a href=\"http://go.playo.app/PLAYOO/XYEKI\" target=\"_blank\">http://go.playo.app/PLAYOO/XYEKI</a><br/>\n    "
   },
   {
     "avgRating": 4.83,
