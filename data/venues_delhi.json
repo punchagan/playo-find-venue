@@ -16,21 +16,6 @@
   },
   {
     "avgRating": 5,
-    "name": "360 Cricket Arena",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=6aab66c8-3db6-43c5-b71b-44f52f6c2927",
-    "deferLink": "http://go.playo.app/PLAYOO/bx8-r",
-    "lat": 28.558299228303138,
-    "lng": 77.01207430185003,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket"
-    ],
-    "info": "\n    <h3>360 Cricket Arena</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9911597374<br/>\n    <a href=\"http://go.playo.app/PLAYOO/bx8-r\" target=\"_blank\">http://go.playo.app/PLAYOO/bx8-r</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
     "name": "3D Table Tennis Academy",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=7b2173b1-388c-4790-8f30-770b4802cd72",
@@ -6115,6 +6100,24 @@
     "info": "\n    <h3>PlayAll AHS Rohini</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Futsal<br/>\n    <strong>Phone:</strong> 9560389384<br/>\n    <a href=\"http://go.playo.app/PLAYOO/2D-Jx\" target=\"_blank\">http://go.playo.app/PLAYOO/2D-Jx</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "PlayAll Bisrakh Greater Noida",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=29e9d32e-3d40-4129-a124-f89162c80d2b",
+    "deferLink": "http://go.playo.app/PLAYOO/xBpJh",
+    "lat": 28.574771312742786,
+    "lng": 77.44085725667493,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll Bisrakh Greater Noida</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8796392002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xBpJh\" target=\"_blank\">http://go.playo.app/PLAYOO/xBpJh</a><br/>\n    "
+  },
+  {
     "avgRating": 4.67,
     "name": "PlayAll Faridabad 82",
     "ratingCount": 3,
@@ -6516,6 +6519,23 @@
     "info": "\n    <h3>PlayAll Sports Arena - DIS Dwarka</h3>\n    <strong>Ratings:</strong> 4 [9]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667371295<br/>\n    <a href=\"http://go.playo.app/PLAYOO/maF_b\" target=\"_blank\">http://go.playo.app/PLAYOO/maF_b</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "PlayAll Sports Arena - Playall BSIC Noida 46",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=65542a83-8b79-4dc7-a28a-e5844828224c",
+    "deferLink": "http://go.playo.app/PLAYOO/0fFVp",
+    "lat": 28.548639158448534,
+    "lng": 77.36146140918675,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll Sports Arena - Playall BSIC Noida 46</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8796392002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0fFVp\" target=\"_blank\">http://go.playo.app/PLAYOO/0fFVp</a><br/>\n    "
+  },
+  {
     "avgRating": 5,
     "name": "PlayAll TMS Palam Vihar",
     "ratingCount": 1,
@@ -6850,9 +6870,9 @@
     "info": "\n    <h3>Prakash Nanjappa Shooting Academy - GD Goenka</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Rifle Shooting, Shooting<br/>\n    <strong>Phone:</strong> 8796465713<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mZf2H\" target=\"_blank\">http://go.playo.app/PLAYOO/mZf2H</a><br/>\n    "
   },
   {
-    "avgRating": 3.43,
+    "avgRating": 3.13,
     "name": "Prayaas Badminton Academy",
-    "ratingCount": 7,
+    "ratingCount": 8,
     "fullLink": "https://playo.co/venue?venueId=0f21c3b1-77fa-4a84-9e5d-54e31bd3f382",
     "deferLink": "http://go.playo.app/PLAYOO/Y5gi0",
     "lat": 28.53470947818365,
@@ -6862,7 +6882,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Prayaas Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.43 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9266452359<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Y5gi0\" target=\"_blank\">http://go.playo.app/PLAYOO/Y5gi0</a><br/>\n    "
+    "info": "\n    <h3>Prayaas Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.13 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9266452359<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Y5gi0\" target=\"_blank\">http://go.playo.app/PLAYOO/Y5gi0</a><br/>\n    "
   },
   {
     "ratingCount": 2,
@@ -9509,10 +9529,9 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Badminton",
-      "Pickleball"
+      "Badminton"
     ],
-    "info": "\n    <h3>The GOAT Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9560049509<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5YkRS\" target=\"_blank\">http://go.playo.app/PLAYOO/5YkRS</a><br/>\n    "
+    "info": "\n    <h3>The GOAT Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9560049509<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5YkRS\" target=\"_blank\">http://go.playo.app/PLAYOO/5YkRS</a><br/>\n    "
   },
   {
     "avgRating": 5,

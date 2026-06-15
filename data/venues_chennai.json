@@ -1276,9 +1276,9 @@
     "info": "\n    <h3>Chamys Badminton Court</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9566290369<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6dBqj\" target=\"_blank\">http://go.playo.app/PLAYOO/6dBqj</a><br/>\n    "
   },
   {
-    "avgRating": 4.22,
+    "avgRating": 4.25,
     "name": "Chaos Entertainment",
-    "ratingCount": 23,
+    "ratingCount": 24,
     "deferLink": "http://go.playo.app/PLAYOO/TUhuk",
     "fullLink": "https://playo.co/venue/?venueId=04c8df1a-5169-4401-9605-d86c51af0138",
     "lat": 13.00256893991988,
@@ -1294,7 +1294,7 @@
       "Pickleball",
       "eSports"
     ],
-    "info": "\n    <h3>Chaos Entertainment</h3>\n    <strong>Ratings:</strong> 4.22 [23]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Football, Laser Tag, Pickleball, eSports<br/>\n    <strong>Phone:</strong> 8072309842<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TUhuk\" target=\"_blank\">http://go.playo.app/PLAYOO/TUhuk</a><br/>\n    "
+    "info": "\n    <h3>Chaos Entertainment</h3>\n    <strong>Ratings:</strong> 4.25 [24]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Football, Laser Tag, Pickleball, eSports<br/>\n    <strong>Phone:</strong> 8072309842<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TUhuk\" target=\"_blank\">http://go.playo.app/PLAYOO/TUhuk</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -1375,9 +1375,9 @@
     "info": "\n    <h3>Chola Sports Academy</h3>\n    <strong>Ratings:</strong> 4.89 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7305065880<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Yvm6n\" target=\"_blank\">http://go.playo.app/PLAYOO/Yvm6n</a><br/>\n    "
   },
   {
-    "avgRating": 3.83,
+    "avgRating": 3.71,
     "name": "Choolaimedu Badminton Club",
-    "ratingCount": 23,
+    "ratingCount": 24,
     "fullLink": "https://playo.co/venue?venueId=7d554e4a-7daf-4287-88c6-a5c7852d4626",
     "deferLink": "http://go.playo.app/PLAYOO/_aTGZ",
     "lat": 13.067226621171285,
@@ -1387,7 +1387,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Choolaimedu Badminton Club</h3>\n    <strong>Ratings:</strong> 3.83 [23]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939547775<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_aTGZ\" target=\"_blank\">http://go.playo.app/PLAYOO/_aTGZ</a><br/>\n    "
+    "info": "\n    <h3>Choolaimedu Badminton Club</h3>\n    <strong>Ratings:</strong> 3.71 [24]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939547775<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_aTGZ\" target=\"_blank\">http://go.playo.app/PLAYOO/_aTGZ</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3088,6 +3088,22 @@
       "Badminton"
     ],
     "info": "\n    <h3>Jaihind Shuttlers</h3>\n    <strong>Ratings:</strong> 4.8 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9342389628<br/>\n    <a href=\"http://go.playo.app/PLAYOO/AW-T4\" target=\"_blank\">http://go.playo.app/PLAYOO/AW-T4</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Jawahar Cricket Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=8de7fc9f-d109-4053-8934-5006f364b330",
+    "deferLink": "http://go.playo.app/PLAYOO/m-jEt",
+    "lat": 13.055292690023322,
+    "lng": 80.20061231248134,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Jawahar Cricket Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7200093619<br/>\n    <a href=\"http://go.playo.app/PLAYOO/m-jEt\" target=\"_blank\">http://go.playo.app/PLAYOO/m-jEt</a><br/>\n    "
   },
   {
     "ratingCount": 40,
@@ -6829,18 +6845,18 @@
   },
   {
     "avgRating": 5,
-    "name": "The Paddy",
+    "name": "The Paddy - Whack It Out Pickleball Court",
     "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=c51770bd-2b15-4a2d-b2de-6c98d93d3363",
-    "deferLink": "http://go.playo.app/PLAYOO/QV923",
-    "lat": 13.031626670808174,
-    "lng": 80.18277538465661,
+    "fullLink": "https://playo.co/venue?venueId=dd69f3c2-818f-4005-b643-51e6a516325e",
+    "deferLink": "http://go.playo.app/PLAYOO/T50pi",
+    "lat": 13.031465766796476,
+    "lng": 80.18279324232996,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>The Paddy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8248923147<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QV923\" target=\"_blank\">http://go.playo.app/PLAYOO/QV923</a><br/>\n    "
+    "info": "\n    <h3>The Paddy - Whack It Out Pickleball Court</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9442544444<br/>\n    <a href=\"http://go.playo.app/PLAYOO/T50pi\" target=\"_blank\">http://go.playo.app/PLAYOO/T50pi</a><br/>\n    "
   },
   {
     "avgRating": 5,
