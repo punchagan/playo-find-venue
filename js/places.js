@@ -44,8 +44,7 @@ var AppData = function(map, people, sport, city) {
     });
     Object.entries(this.circles).map(function([person_id, circle]) {
       if (ids.indexOf(person_id) < 0) {
-        circle.setMap(null);
-        circle = null;
+        map.removeLayer(circle);
         delete this.circles[person_id];
       }
     }, this);
@@ -54,13 +53,13 @@ var AppData = function(map, people, sport, city) {
     this.people().forEach(function(person) {
       if (!this.circles.hasOwnProperty(person.id)) {
         var { center, radius, color } = person;
-        this.circles[person.id] = draw_circle(map, self, center, radius(), color());
+        this.circles[person.id] = draw_circle(map, center, radius(), color());
       } else {
         var circle = this.circles[person.id];
         circle.setRadius(person.radius() * 1000);
-        circle.setOptions({
+        circle.setStyle({
           fillColor: person.color(),
-          strokeColor: person.color()
+          color: person.color()
         });
       }
     }, this);
@@ -98,7 +97,7 @@ var AppData = function(map, people, sport, city) {
         return response.json();
       })
       .then(function(venues) {
-        map.setCenter(cities[self.city()]);
+        map.setView([cities[self.city()].lat, cities[self.city()].lng], 13);
         self.venues(venues);
       });
   });
@@ -106,8 +105,7 @@ var AppData = function(map, people, sport, city) {
   this._venue_markers = [];
   this._venues = ko.computed(function() {
     this._venue_markers.map(function(marker) {
-      marker.setMap(null);
-      marker = null;
+      map.removeLayer(marker);
     });
     this._venue_markers = mark_venues(self.map, self.filtered_venues());
   }, this);
@@ -125,83 +123,126 @@ var AppData = function(map, people, sport, city) {
   }, this);
 
   this.shorten_url = function() {
-    get_short_url(this.short_url);
+    // URL shortener API is no longer free; just copy the full URL
+    navigator.clipboard.writeText(location.href).then(function() {
+      alert("URL copied to clipboard!");
+    }).catch(function() {
+      prompt("Copy this URL:", location.href);
+    });
   };
 
   people.map(this.add_people, this);
 };
 
 var setup_search_box = function(map, data) {
-  var searchInput = document.querySelector("#searchInput"),
-    searchBox = new google.maps.places.SearchBox(searchInput);
-  google.maps.event.addListener(searchBox, "places_changed", function() {
-    var location = searchBox.getPlaces()[0];
-    if (location) {
-      searchInput.value = "";
-      data.add_people({
-        center: {
-          lat: location.geometry.location.lat(),
-          lng: location.geometry.location.lng()
-        },
-        name: location.name,
-        radius: 8,
-        color: "#0000FF"
-      });
+  var searchInput = document.querySelector("#searchInput");
+  var searchResults = document.querySelector("#searchResults");
+  var debounceTimer = null;
+
+  searchInput.addEventListener("input", function() {
+    var query = searchInput.value.trim();
+    clearTimeout(debounceTimer);
+
+    if (query.length < 3) {
+      searchResults.style.display = "none";
+      searchResults.innerHTML = "";
+      return;
+    }
+
+    debounceTimer = setTimeout(function() {
+      // Use Nominatim (OpenStreetMap) for geocoding — free, no API key
+      var url = "https://nominatim.openstreetmap.org/search?format=json&q=" +
+        encodeURIComponent(query) + "&limit=5&countrycodes=in";
+
+      fetch(url, {
+        headers: { "Accept-Language": "en" }
+      })
+        .then(function(response) { return response.json(); })
+        .then(function(results) {
+          searchResults.innerHTML = "";
+          if (results.length === 0) {
+            searchResults.style.display = "none";
+            return;
+          }
+          results.forEach(function(result) {
+            var div = document.createElement("div");
+            div.className = "result-item";
+            div.textContent = result.display_name;
+            div.addEventListener("click", function() {
+              searchInput.value = "";
+              searchResults.style.display = "none";
+              searchResults.innerHTML = "";
+              var name = result.display_name.split(",")[0];
+              data.add_people({
+                center: {
+                  lat: parseFloat(result.lat),
+                  lng: parseFloat(result.lon)
+                },
+                name: name,
+                radius: 8,
+                color: "#0000FF"
+              });
+            });
+            searchResults.appendChild(div);
+          });
+          searchResults.style.display = "block";
+        })
+        .catch(function(err) {
+          console.error("Search error:", err);
+          searchResults.style.display = "none";
+        });
+    }, 300);
+  });
+
+  // Close results when clicking outside
+  document.addEventListener("click", function(e) {
+    if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+      searchResults.style.display = "none";
     }
   });
 };
 
-var draw_circle = function(map, data, center, radius, color) {
-  var circle = new google.maps.Circle({
-    strokeColor: color,
-    strokeOpacity: 0.8,
-    strokeWeight: 1,
+var draw_circle = function(map, center, radius, color) {
+  var circle = L.circle([center.lat, center.lng], {
+    color: color,
     fillColor: color,
     fillOpacity: 0.2,
-    map: map,
-    center: center,
-    radius: radius * 1000,
-    clickable: false
-  });
+    weight: 1,
+    opacity: 0.8,
+    radius: radius * 1000
+  }).addTo(map);
   return circle;
 };
 
-var mark_venues = function(map, venues) {
-  var zoom = map.getZoom();
-  return venues.map(function(venue) {
-    // Add marker
-    var marker = new google.maps.Marker({
-      position: { lat: venue.lat, lng: venue.lng },
-      title: venue.name,
-      map: map,
-      icon: {
-        url: venue.icon,
-        scaledSize: new google.maps.Size(zoom, zoom)
-      }
-    });
-    map.addListener("zoom_changed", function() {
-      var zoom = map.getZoom();
-      marker.setIcon({
-        url: venue.icon,
-        scaledSize: new google.maps.Size(zoom, zoom)
-      });
-    });
-    // infowindow that is shown when marker is clicked
-    var infowindow = new google.maps.InfoWindow({
-      content: venue.info,
-      maxWidth: 200
-    });
-    marker.addListener("click", function() {
-      infowindow.open(map, marker);
-    });
-    return marker;
-  });
+var RATING_COLORS = {
+  0: "#999999",
+  1: "#e74c3c",
+  2: "#e67e22",
+  3: "#f1c40f",
+  4: "#2ecc71",
+  5: "#27ae60"
 };
 
-var setup_controls = function(map) {
-  var controlsDiv = document.querySelector("#controls"),
-    controls = map.controls[google.maps.ControlPosition.LEFT_TOP];
-  controls.push(controlsDiv);
+var mark_venues = function(map, venues) {
+  return venues.map(function(venue) {
+    var rating = venue.rating || 0;
+    var color = RATING_COLORS[rating] || "#999";
+
+    // Create a colored circle marker instead of relying on Google icon URLs
+    var marker = L.circleMarker([venue.lat, venue.lng], {
+      radius: 6,
+      fillColor: color,
+      color: "#fff",
+      weight: 1.5,
+      opacity: 1,
+      fillOpacity: 0.9
+    }).addTo(map);
+
+    marker.bindPopup(venue.info, { maxWidth: 250 });
+    marker.bindTooltip(venue.name, { direction: "top", offset: [0, -6] });
+
+    return marker;
+  });
 };
 
 var hash_to_state = function() {
@@ -236,26 +277,6 @@ var hash_to_state = function() {
   return state;
 };
 
-var get_short_url = function(callback) {
-  var API_KEY = "AIzaSyDECh_V7enCYmHscpRwPYenetjFued24j8",
-    url = "https://www.googleapis.com/urlshortener/v1/url?key=" + API_KEY,
-    body = JSON.stringify({ longUrl: location.href });
-
-  fetch(url, {
-    method: "POST",
-    body: body,
-    headers: new Headers({
-      "Content-Type": "application/json"
-    })
-  })
-    .then(function(response) {
-      return response.json();
-    })
-    .then(function(data) {
-      callback(data.id);
-    });
-};
-
 var fetch_cities = function() {
   var cities;
   var xhr = new XMLHttpRequest();
@@ -279,17 +300,25 @@ var fetch_cities = function() {
 
 var cities = fetch_cities();
 
+// Initialize the map using Leaflet + OpenStreetMap
 var initMap = function() {
-  // Create the map.
-  var map = new google.maps.Map(document.getElementById("map"), {
+  var map = L.map("map", {
+    center: [cities.bangalore.lat, cities.bangalore.lng],
     zoom: 13,
-    mapTypeId: "roadmap",
-    mapTypeControl: false,
-    center: cities.bangalore
+    zoomControl: true
   });
-  setup_controls(map);
+
+  // Add OpenStreetMap tiles (completely free, no API key)
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 19
+  }).addTo(map);
+
   var { p, q, c } = hash_to_state();
   var data = new AppData(map, p, q, c);
   setup_search_box(map, data);
   ko.applyBindings(data);
 };
+
+// Initialize on page load
+document.addEventListener("DOMContentLoaded", initMap);
