@@ -973,9 +973,9 @@
     "info": "\n    <h3>Battle Park Pickleball | Saket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9871361084<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6qpmz\" target=\"_blank\">http://go.playo.app/PLAYOO/6qpmz</a><br/>\n    "
   },
   {
-    "avgRating": 3.53,
+    "avgRating": 3.38,
     "name": "Battlefield Vaishali",
-    "ratingCount": 15,
+    "ratingCount": 16,
     "fullLink": "https://playo.co/venue?venueId=0844815a-4112-4361-9cc4-4c4db0f354c7",
     "deferLink": "http://go.playo.app/PLAYOO/cRTSg",
     "lat": 28.645250482174553,
@@ -986,7 +986,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>Battlefield Vaishali</h3>\n    <strong>Ratings:</strong> 3.53 [15]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9265860087<br/>\n    <a href=\"http://go.playo.app/PLAYOO/cRTSg\" target=\"_blank\">http://go.playo.app/PLAYOO/cRTSg</a><br/>\n    "
+    "info": "\n    <h3>Battlefield Vaishali</h3>\n    <strong>Ratings:</strong> 3.38 [16]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9265860087<br/>\n    <a href=\"http://go.playo.app/PLAYOO/cRTSg\" target=\"_blank\">http://go.playo.app/PLAYOO/cRTSg</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -4619,6 +4619,21 @@
     "info": "\n    <h3>Kirti Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9212718641<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QmgOV\" target=\"_blank\">http://go.playo.app/PLAYOO/QmgOV</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Knovex Box Arena LLP",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=9dace129-d336-4c33-a477-b0c3e5aca695",
+    "deferLink": "http://go.playo.app/PLAYOO/3guF5",
+    "lat": 28.684355558199066,
+    "lng": 77.34103688650754,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket"
+    ],
+    "info": "\n    <h3>Knovex Box Arena LLP</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9911026565<br/>\n    <a href=\"http://go.playo.app/PLAYOO/3guF5\" target=\"_blank\">http://go.playo.app/PLAYOO/3guF5</a><br/>\n    "
+  },
+  {
     "ratingCount": 1,
     "avgRating": 5,
     "name": "Kricket Kings",
@@ -6336,8 +6351,8 @@
     "info": "\n    <h3>PlayAll MCL Hari Nagar</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9220311088<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7ZWJa\" target=\"_blank\">http://go.playo.app/PLAYOO/7ZWJa</a><br/>\n    "
   },
   {
-    "ratingCount": 86,
-    "avgRating": 3.33,
+    "ratingCount": 87,
+    "avgRating": 3.34,
     "name": "PlayAll MPS Noida 11",
     "fullLink": "https://playo.co/venue?venueId=cf4abbc8-c29b-41ca-8f1a-5a85e4f16bf0",
     "deferLink": "http://go.playo.app/PLAYOO/zauNz",
@@ -6350,7 +6365,7 @@
       "Basketball",
       "Pickleball"
     ],
-    "info": "\n    <h3>PlayAll MPS Noida 11</h3>\n    <strong>Ratings:</strong> 3.33 [86]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 8750005057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zauNz\" target=\"_blank\">http://go.playo.app/PLAYOO/zauNz</a><br/>\n    "
+    "info": "\n    <h3>PlayAll MPS Noida 11</h3>\n    <strong>Ratings:</strong> 3.34 [87]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 8750005057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zauNz\" target=\"_blank\">http://go.playo.app/PLAYOO/zauNz</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
@@ -6534,21 +6549,21 @@
     "info": "\n    <h3>PlayAll Sports Arena - DIS Dwarka</h3>\n    <strong>Ratings:</strong> 4 [9]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9667371295<br/>\n    <a href=\"http://go.playo.app/PLAYOO/maF_b\" target=\"_blank\">http://go.playo.app/PLAYOO/maF_b</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "PlayAll Sports Arena - Playall BSIC Noida 46",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=65542a83-8b79-4dc7-a28a-e5844828224c",
     "deferLink": "http://go.playo.app/PLAYOO/0fFVp",
     "lat": 28.548639158448534,
     "lng": 77.36146140918675,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket",
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>PlayAll Sports Arena - Playall BSIC Noida 46</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8796392002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0fFVp\" target=\"_blank\">http://go.playo.app/PLAYOO/0fFVp</a><br/>\n    "
+    "info": "\n    <h3>PlayAll Sports Arena - Playall BSIC Noida 46</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8796392002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0fFVp\" target=\"_blank\">http://go.playo.app/PLAYOO/0fFVp</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -8516,19 +8531,19 @@
     "info": "\n    <h3>Smash2Play Turf | Karkardooma</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9911602304<br/>\n    <a href=\"http://go.playo.app/PLAYOO/BOntx\" target=\"_blank\">http://go.playo.app/PLAYOO/BOntx</a><br/>\n    "
   },
   {
-    "avgRating": 4,
+    "avgRating": 3.4,
     "name": "SmashDrop Arena",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=dc3a82c0-c4fd-4488-a385-b73e123d6f3a",
     "deferLink": "http://go.playo.app/PLAYOO/w7E3Z",
     "lat": 28.45907816673033,
     "lng": 77.06217793849663,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>SmashDrop Arena</h3>\n    <strong>Ratings:</strong> 4 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7455951966<br/>\n    <a href=\"http://go.playo.app/PLAYOO/w7E3Z\" target=\"_blank\">http://go.playo.app/PLAYOO/w7E3Z</a><br/>\n    "
+    "info": "\n    <h3>SmashDrop Arena</h3>\n    <strong>Ratings:</strong> 3.4 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7455951966<br/>\n    <a href=\"http://go.playo.app/PLAYOO/w7E3Z\" target=\"_blank\">http://go.playo.app/PLAYOO/w7E3Z</a><br/>\n    "
   },
   {
     "avgRating": 5,
