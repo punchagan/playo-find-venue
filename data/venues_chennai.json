@@ -186,7 +186,7 @@
   {
     "avgRating": 5,
     "name": "7g Turf",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=f40a2f56-985e-4769-be42-2a4b03920f02",
     "deferLink": "http://go.playo.app/PLAYOO/tx_UK",
     "lat": 12.928486664125328,
@@ -198,7 +198,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>7g Turf</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9884060099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tx_UK\" target=\"_blank\">http://go.playo.app/PLAYOO/tx_UK</a><br/>\n    "
+    "info": "\n    <h3>7g Turf</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9884060099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tx_UK\" target=\"_blank\">http://go.playo.app/PLAYOO/tx_UK</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -1637,7 +1637,7 @@
   {
     "avgRating": 5,
     "name": "DG Multisport Turf",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=3392e7b1-8397-4086-95f1-8aba30ab971d",
     "deferLink": "http://go.playo.app/PLAYOO/mMLOy",
     "lat": 12.958570224553867,
@@ -1649,7 +1649,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>DG Multisport Turf</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mMLOy\" target=\"_blank\">http://go.playo.app/PLAYOO/mMLOy</a><br/>\n    "
+    "info": "\n    <h3>DG Multisport Turf</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mMLOy\" target=\"_blank\">http://go.playo.app/PLAYOO/mMLOy</a><br/>\n    "
   },
   {
     "ratingCount": 5,
@@ -3246,7 +3246,7 @@
   {
     "avgRating": 5,
     "name": "JS Turf Zone",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=3872523d-ecc5-4e86-ad05-f1e8e6f3b945",
     "deferLink": "http://go.playo.app/PLAYOO/5TKu9",
     "lat": 12.882505499386099,
@@ -3257,7 +3257,7 @@
       "Box Cricket",
       "Football"
     ],
-    "info": "\n    <h3>JS Turf Zone</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7397371663<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5TKu9\" target=\"_blank\">http://go.playo.app/PLAYOO/5TKu9</a><br/>\n    "
+    "info": "\n    <h3>JS Turf Zone</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 7397371663<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5TKu9\" target=\"_blank\">http://go.playo.app/PLAYOO/5TKu9</a><br/>\n    "
   },
   {
     "avgRating": 3.94,
@@ -6629,6 +6629,21 @@
     "info": "\n    <h3>Strikerz Turf</h3>\n    <strong>Ratings:</strong> 4.4 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9840447023<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_MzX_\" target=\"_blank\">http://go.playo.app/PLAYOO/_MzX_</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Strokers Arena Badminton Academy",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=cc8eb8c6-80bf-4210-9dde-90bd6aed85d9",
+    "deferLink": "http://go.playo.app/PLAYOO/CJqXD",
+    "lat": 12.974570732847633,
+    "lng": 80.13470526797134,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Strokers Arena Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9566167004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CJqXD\" target=\"_blank\">http://go.playo.app/PLAYOO/CJqXD</a><br/>\n    "
+  },
+  {
     "avgRating": 4.4,
     "name": "Success Sports Arena",
     "ratingCount": 5,
@@ -7751,9 +7766,9 @@
     "info": "\n    <h3>Udhay Badminton - ECR</h3>\n    <strong>Ratings:</strong> 3.67 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939399488<br/>\n    <a href=\"http://go.playo.app/PLAYOO/LiDwA\" target=\"_blank\">http://go.playo.app/PLAYOO/LiDwA</a><br/>\n    "
   },
   {
-    "avgRating": 3.58,
+    "avgRating": 3.62,
     "name": "Ultimate Sports - Navalur",
-    "ratingCount": 12,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=ec36874b-24fe-4285-9a2b-01a9cdfb7e39",
     "deferLink": "http://go.playo.app/PLAYOO/dem4b",
     "lat": 12.849134454632226,
@@ -7763,7 +7778,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Ultimate Sports - Navalur</h3>\n    <strong>Ratings:</strong> 3.58 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8675473018<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dem4b\" target=\"_blank\">http://go.playo.app/PLAYOO/dem4b</a><br/>\n    "
+    "info": "\n    <h3>Ultimate Sports - Navalur</h3>\n    <strong>Ratings:</strong> 3.62 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8675473018<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dem4b\" target=\"_blank\">http://go.playo.app/PLAYOO/dem4b</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -7798,7 +7813,7 @@
   {
     "avgRating": 4.9,
     "name": "V Square Badminton Club",
-    "ratingCount": 220,
+    "ratingCount": 221,
     "fullLink": "https://playo.co/venue?venueId=ed65f9cf-4178-4e35-87ed-417fdd55d11d",
     "deferLink": "http://go.playo.app/PLAYOO/PUzpD",
     "lat": 12.944196022750658,
@@ -7808,7 +7823,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.9 [220]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
+    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.9 [221]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
