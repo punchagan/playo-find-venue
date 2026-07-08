@@ -881,6 +881,22 @@
   },
   {
     "avgRating": 0,
+    "name": "Believe Cricket Club",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=338e7c31-3988-4a5c-be0a-d7e58a2f5f96",
+    "deferLink": "http://go.playo.app/PLAYOO/Xgnwn",
+    "lat": 12.810702992933429,
+    "lng": 80.23071753809192,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Cricket",
+      "Cricket Nets"
+    ],
+    "info": "\n    <h3>Believe Cricket Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 9888338899<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Xgnwn\" target=\"_blank\">http://go.playo.app/PLAYOO/Xgnwn</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
     "name": "Best Badminton Club",
     "ratingCount": 0,
     "fullLink": "https://playo.co/venue?venueId=b71b9a23-ef35-4d03-a369-61905ff0d340",
@@ -1637,7 +1653,7 @@
   {
     "avgRating": 5,
     "name": "DG Multisport Turf",
-    "ratingCount": 2,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=3392e7b1-8397-4086-95f1-8aba30ab971d",
     "deferLink": "http://go.playo.app/PLAYOO/mMLOy",
     "lat": 12.958570224553867,
@@ -1649,7 +1665,7 @@
       "Cricket Nets",
       "Football"
     ],
-    "info": "\n    <h3>DG Multisport Turf</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mMLOy\" target=\"_blank\">http://go.playo.app/PLAYOO/mMLOy</a><br/>\n    "
+    "info": "\n    <h3>DG Multisport Turf</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 9080834858<br/>\n    <a href=\"http://go.playo.app/PLAYOO/mMLOy\" target=\"_blank\">http://go.playo.app/PLAYOO/mMLOy</a><br/>\n    "
   },
   {
     "ratingCount": 5,
@@ -4316,15 +4332,15 @@
     "rating": 4,
     "deferLink": "http://go.playo.app/PLAYOO/yiEwk",
     "fullLink": "https://playo.co/venue/?venueId=d6b94b1f-2cc4-44e2-8640-449508625d21",
-    "avgRating": 4.35,
-    "ratingCount": 49,
+    "avgRating": 4.34,
+    "ratingCount": 50,
     "lat": 12.9528995,
     "lng": 80.2087373,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>NetfliQ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.35 [49]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397220004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yiEwk\" target=\"_blank\">http://go.playo.app/PLAYOO/yiEwk</a><br/>\n    "
+    "info": "\n    <h3>NetfliQ Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.34 [50]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397220004<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yiEwk\" target=\"_blank\">http://go.playo.app/PLAYOO/yiEwk</a><br/>\n    "
   },
   {
     "avgRating": 5,
