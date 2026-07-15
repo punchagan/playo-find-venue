@@ -2294,9 +2294,9 @@
       "Box Cricket",
       "Football",
       "Pickleball",
-      "Skates"
+      "Skating"
     ],
-    "info": "\n    <h3>District 9</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Pickleball, Skates<br/>\n    <strong>Phone:</strong> 9643080014<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zPniB\" target=\"_blank\">http://go.playo.app/PLAYOO/zPniB</a><br/>\n    "
+    "info": "\n    <h3>District 9</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Pickleball, Skating<br/>\n    <strong>Phone:</strong> 9643080014<br/>\n    <a href=\"http://go.playo.app/PLAYOO/zPniB\" target=\"_blank\">http://go.playo.app/PLAYOO/zPniB</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -2921,6 +2921,22 @@
     "info": "\n    <h3>Fast Football Club - Vibgyor School</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball, Football<br/>\n    <strong>Phone:</strong> 8071820515<br/>\n    <a href=\"http://go.playo.app/PLAYOO/i97IU\" target=\"_blank\">http://go.playo.app/PLAYOO/i97IU</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Fauji Turf Arena",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=b88d346f-f1a2-464f-aab0-cc6e5eca6d7a",
+    "deferLink": "http://go.playo.app/PLAYOO/xYwxj",
+    "lat": 28.83981908813827,
+    "lng": 77.73556127875173,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Fauji Turf Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8801185860<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xYwxj\" target=\"_blank\">http://go.playo.app/PLAYOO/xYwxj</a><br/>\n    "
+  },
+  {
     "avgRating": 5,
     "name": "Fit Baddy Club",
     "ratingCount": 5,
@@ -2947,9 +2963,9 @@
     "rating": 0,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
     "filter_by": [
-      "Gymming"
+      "Gym"
     ],
-    "info": "\n    <h3>Fit Lab</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Gymming<br/>\n    <strong>Phone:</strong> 9773700540<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Bcu_T\" target=\"_blank\">http://go.playo.app/PLAYOO/Bcu_T</a><br/>\n    "
+    "info": "\n    <h3>Fit Lab</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Gym<br/>\n    <strong>Phone:</strong> 9773700540<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Bcu_T\" target=\"_blank\">http://go.playo.app/PLAYOO/Bcu_T</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -6802,10 +6818,10 @@
     "filter_by": [
       "Box Cricket",
       "Football",
-      "Gymming",
+      "Gym",
       "Pickleball"
     ],
-    "info": "\n    <h3>Playground</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Gymming, Pickleball<br/>\n    <strong>Phone:</strong> 9654516993<br/>\n    <a href=\"http://go.playo.app/PLAYOO/1c9jI\" target=\"_blank\">http://go.playo.app/PLAYOO/1c9jI</a><br/>\n    "
+    "info": "\n    <h3>Playground</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Gym, Pickleball<br/>\n    <strong>Phone:</strong> 9654516993<br/>\n    <a href=\"http://go.playo.app/PLAYOO/1c9jI\" target=\"_blank\">http://go.playo.app/PLAYOO/1c9jI</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -7332,9 +7348,9 @@
     "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.81 [27]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"http://go.playo.app/PLAYOO/42nGP\" target=\"_blank\">http://go.playo.app/PLAYOO/42nGP</a><br/>\n    "
   },
   {
-    "avgRating": 3.7,
+    "avgRating": 3.72,
     "name": "Rackonnect Next Level Badminton Arena",
-    "ratingCount": 56,
+    "ratingCount": 57,
     "fullLink": "https://playo.co/venue?venueId=ceb82728-82dd-40c9-8fb2-8ea8f82ecb68",
     "deferLink": "http://go.playo.app/PLAYOO/c3YIe",
     "lat": 28.55258908463302,
@@ -7344,7 +7360,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.7 [56]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.72 [57]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -7687,12 +7703,12 @@
       "Golf",
       "Pool",
       "Shooting",
-      "Skates",
+      "Skating",
       "Swimming",
       "Table Tennis",
       "Tennis"
     ],
-    "info": "\n    <h3>Ryder's Sports Academy Sector-57</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Basketball, Cricket, Equestrian, Football, Golf, Pool, Shooting, Skates, Swimming, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 8744006906<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xrxm4\" target=\"_blank\">http://go.playo.app/PLAYOO/xrxm4</a><br/>\n    "
+    "info": "\n    <h3>Ryder's Sports Academy Sector-57</h3>\n    <strong>Ratings:</strong> 3 [2]<br/>\n    <strong>Sports:</strong> Basketball, Cricket, Equestrian, Football, Golf, Pool, Shooting, Skating, Swimming, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 8744006906<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xrxm4\" target=\"_blank\">http://go.playo.app/PLAYOO/xrxm4</a><br/>\n    "
   },
   {
     "avgRating": 1,
