@@ -773,9 +773,9 @@
     "info": "\n    <h3>Badminton Tribes</h3>\n    <strong>Ratings:</strong> 3.29 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8248979040<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_GyZk\" target=\"_blank\">http://go.playo.app/PLAYOO/_GyZk</a><br/>\n    "
   },
   {
-    "avgRating": 4.81,
+    "avgRating": 4.79,
     "name": "Balaji Badminton Academy - Navalur",
-    "ratingCount": 57,
+    "ratingCount": 58,
     "fullLink": "https://playo.co/venue?venueId=d6a88698-2af9-4efb-9e47-bc77ddc6f7ba",
     "deferLink": "http://go.playo.app/PLAYOO/Un84c",
     "lat": 12.847947438415115,
@@ -785,7 +785,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Balaji Badminton Academy - Navalur</h3>\n    <strong>Ratings:</strong> 4.81 [57]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9629672378<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Un84c\" target=\"_blank\">http://go.playo.app/PLAYOO/Un84c</a><br/>\n    "
+    "info": "\n    <h3>Balaji Badminton Academy - Navalur</h3>\n    <strong>Ratings:</strong> 4.79 [58]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9629672378<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Un84c\" target=\"_blank\">http://go.playo.app/PLAYOO/Un84c</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -1399,11 +1399,11 @@
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
-      "Cue Sports",
+      "Heyball",
       "Pool",
       "Snooker"
     ],
-    "info": "\n    <h3>Chennai 147 Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cue Sports, Pool, Snooker<br/>\n    <strong>Phone:</strong> 8072632708<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Jimhs\" target=\"_blank\">http://go.playo.app/PLAYOO/Jimhs</a><br/>\n    "
+    "info": "\n    <h3>Chennai 147 Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Heyball, Pool, Snooker<br/>\n    <strong>Phone:</strong> 8072632708<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Jimhs\" target=\"_blank\">http://go.playo.app/PLAYOO/Jimhs</a><br/>\n    "
   },
   {
     "avgRating": 4.29,
@@ -3702,8 +3702,8 @@
     "info": "\n    <h3>La Gazon</h3>\n    <strong>Ratings:</strong> 2.22 [9]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8056277054<br/>\n    <a href=\"http://go.playo.app/PLAYOO/XguBj\" target=\"_blank\">http://go.playo.app/PLAYOO/XguBj</a><br/>\n    "
   },
   {
-    "ratingCount": 26,
-    "avgRating": 3.65,
+    "ratingCount": 27,
+    "avgRating": 3.7,
     "name": "Lal Sports Academy",
     "fullLink": "https://playo.co/venue?venueId=19ee97fa-20c0-482c-bb83-83bff4b09e1d",
     "deferLink": "http://go.playo.app/PLAYOO/AgX1x",
@@ -3716,7 +3716,7 @@
       "Box Cricket",
       "Volleyball"
     ],
-    "info": "\n    <h3>Lal Sports Academy</h3>\n    <strong>Ratings:</strong> 3.65 [26]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 9382916916<br/>\n    <a href=\"http://go.playo.app/PLAYOO/AgX1x\" target=\"_blank\">http://go.playo.app/PLAYOO/AgX1x</a><br/>\n    "
+    "info": "\n    <h3>Lal Sports Academy</h3>\n    <strong>Ratings:</strong> 3.7 [27]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 9382916916<br/>\n    <a href=\"http://go.playo.app/PLAYOO/AgX1x\" target=\"_blank\">http://go.playo.app/PLAYOO/AgX1x</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
@@ -3814,6 +3814,23 @@
       "Badminton"
     ],
     "info": "\n    <h3>Leo Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.33 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840435639<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8Pjih\" target=\"_blank\">http://go.playo.app/PLAYOO/8Pjih</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Let's Bowl - Chennai",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=2048a35e-eb8a-4dcc-bbee-115c4bcec469",
+    "deferLink": "http://go.playo.app/PLAYOO/R-0Tf",
+    "lat": 12.94732571579704,
+    "lng": 80.23722015898063,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Bowling",
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Let's Bowl - Chennai</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Bowling, Table Tennis<br/>\n    <strong>Phone:</strong> 9025500519<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R-0Tf\" target=\"_blank\">http://go.playo.app/PLAYOO/R-0Tf</a><br/>\n    "
   },
   {
     "avgRating": 5,
