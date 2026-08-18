@@ -5542,19 +5542,19 @@
     "info": "\n    <h3>Racketry @ AEBA</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9841490047<br/>\n    <a href=\"http://go.playo.app/PLAYOO/l6t0c\" target=\"_blank\">http://go.playo.app/PLAYOO/l6t0c</a><br/>\n    "
   },
   {
-    "avgRating": 4.5,
+    "avgRating": 3.33,
     "name": "Racketry @ Adambakkam",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=dd74e6da-a00c-4f1b-8e32-38bde9ee4bec",
     "deferLink": "http://go.playo.app/PLAYOO/aNt0P",
     "lat": 12.982376955537974,
     "lng": 80.19816608465693,
-    "rating": 4,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Racketry @ Adambakkam</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840798994<br/>\n    <a href=\"http://go.playo.app/PLAYOO/aNt0P\" target=\"_blank\">http://go.playo.app/PLAYOO/aNt0P</a><br/>\n    "
+    "info": "\n    <h3>Racketry @ Adambakkam</h3>\n    <strong>Ratings:</strong> 3.33 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840798994<br/>\n    <a href=\"http://go.playo.app/PLAYOO/aNt0P\" target=\"_blank\">http://go.playo.app/PLAYOO/aNt0P</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6528,6 +6528,21 @@
       "Tennis"
     ],
     "info": "\n    <h3>Smashit Sports Academy</h3>\n    <strong>Ratings:</strong> 2.2 [5]<br/>\n    <strong>Sports:</strong> Box Cricket, Cricket Nets, Football, Tennis<br/>\n    <strong>Phone:</strong> 7358162113<br/>\n    <a href=\"http://go.playo.app/PLAYOO/E3H97\" target=\"_blank\">http://go.playo.app/PLAYOO/E3H97</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Smashline Badminton",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=06a2f726-8f52-4cbf-a2b4-9764f74ed3a9",
+    "deferLink": "http://go.playo.app/PLAYOO/7yeLd",
+    "lat": 12.947333879772211,
+    "lng": 80.23720495520567,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Smashline Badminton</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8296880860<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7yeLd\" target=\"_blank\">http://go.playo.app/PLAYOO/7yeLd</a><br/>\n    "
   },
   {
     "ratingCount": 4,
@@ -8007,9 +8022,9 @@
     "info": "\n    <h3>Udhay Badminton - ECR</h3>\n    <strong>Ratings:</strong> 3.67 [9]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939399488<br/>\n    <a href=\"http://go.playo.app/PLAYOO/LiDwA\" target=\"_blank\">http://go.playo.app/PLAYOO/LiDwA</a><br/>\n    "
   },
   {
-    "avgRating": 3.64,
+    "avgRating": 3.6,
     "name": "Ultimate Sports - Navalur",
-    "ratingCount": 14,
+    "ratingCount": 15,
     "fullLink": "https://playo.co/venue?venueId=ec36874b-24fe-4285-9a2b-01a9cdfb7e39",
     "deferLink": "http://go.playo.app/PLAYOO/dem4b",
     "lat": 12.849134454632226,
@@ -8019,7 +8034,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Ultimate Sports - Navalur</h3>\n    <strong>Ratings:</strong> 3.64 [14]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8675473018<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dem4b\" target=\"_blank\">http://go.playo.app/PLAYOO/dem4b</a><br/>\n    "
+    "info": "\n    <h3>Ultimate Sports - Navalur</h3>\n    <strong>Ratings:</strong> 3.6 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8675473018<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dem4b\" target=\"_blank\">http://go.playo.app/PLAYOO/dem4b</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -8054,7 +8069,7 @@
   {
     "avgRating": 4.9,
     "name": "V Square Badminton Club",
-    "ratingCount": 229,
+    "ratingCount": 230,
     "fullLink": "https://playo.co/venue?venueId=ed65f9cf-4178-4e35-87ed-417fdd55d11d",
     "deferLink": "http://go.playo.app/PLAYOO/PUzpD",
     "lat": 12.944196022750658,
@@ -8064,7 +8079,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.9 [229]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
+    "info": "\n    <h3>V Square Badminton Club</h3>\n    <strong>Ratings:</strong> 4.9 [230]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8438880838<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PUzpD\" target=\"_blank\">http://go.playo.app/PLAYOO/PUzpD</a><br/>\n    "
   },
   {
     "avgRating": 4,
