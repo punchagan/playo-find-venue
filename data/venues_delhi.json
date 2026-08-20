@@ -800,9 +800,9 @@
     "info": "\n    <h3>Badminton Excellence Center</h3>\n    <strong>Ratings:</strong> 4.25 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9999804602<br/>\n    <a href=\"http://go.playo.app/PLAYOO/NH1IC\" target=\"_blank\">http://go.playo.app/PLAYOO/NH1IC</a><br/>\n    "
   },
   {
-    "avgRating": 3.67,
+    "avgRating": 3.56,
     "name": "Badminton24",
-    "ratingCount": 15,
+    "ratingCount": 16,
     "fullLink": "https://playo.co/venue?venueId=5e0a6b65-cd05-4cf1-ba86-18a5560efe9b",
     "deferLink": "http://go.playo.app/PLAYOO/28Di5",
     "lat": 28.509473410142206,
@@ -812,7 +812,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 3.67 [15]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"http://go.playo.app/PLAYOO/28Di5\" target=\"_blank\">http://go.playo.app/PLAYOO/28Di5</a><br/>\n    "
+    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 3.56 [16]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"http://go.playo.app/PLAYOO/28Di5\" target=\"_blank\">http://go.playo.app/PLAYOO/28Di5</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -7538,9 +7538,9 @@
     "info": "\n    <h3>Rackonnect Next Level Badminton Academy</h3>\n    <strong>Ratings:</strong> 3.9 [29]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7503303284<br/>\n    <a href=\"http://go.playo.app/PLAYOO/42nGP\" target=\"_blank\">http://go.playo.app/PLAYOO/42nGP</a><br/>\n    "
   },
   {
-    "avgRating": 3.71,
+    "avgRating": 3.7,
     "name": "Rackonnect Next Level Badminton Arena",
-    "ratingCount": 63,
+    "ratingCount": 64,
     "fullLink": "https://playo.co/venue?venueId=ceb82728-82dd-40c9-8fb2-8ea8f82ecb68",
     "deferLink": "http://go.playo.app/PLAYOO/c3YIe",
     "lat": 28.55258908463302,
@@ -7550,7 +7550,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.71 [63]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Next Level Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.7 [64]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9968335468<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c3YIe\" target=\"_blank\">http://go.playo.app/PLAYOO/c3YIe</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -9581,44 +9581,6 @@
       "Football"
     ],
     "info": "\n    <h3>TAASC Indirapuram</h3>\n    <strong>Ratings:</strong> 4.9 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9899948588<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JaGQu\" target=\"_blank\">http://go.playo.app/PLAYOO/JaGQu</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "Tagore Playbook Academy",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=a2488cf7-f86b-42c2-8521-8f74520c6592",
-    "deferLink": "http://go.playo.app/PLAYOO/yiWeu",
-    "lat": 28.42807252214469,
-    "lng": 77.36112265525428,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Basketball",
-      "Box Cricket",
-      "Cricket Nets",
-      "Football",
-      "Skating"
-    ],
-    "info": "\n    <h3>Tagore Playbook Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Cricket Nets, Football, Skating<br/>\n    <strong>Phone:</strong> 7042555051<br/>\n    <a href=\"http://go.playo.app/PLAYOO/yiWeu\" target=\"_blank\">http://go.playo.app/PLAYOO/yiWeu</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "Tagore Public School",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=a211893f-067f-4611-8420-9948d61c7fd6",
-    "deferLink": "http://go.playo.app/PLAYOO/VSXMy",
-    "lat": 28.163757159433953,
-    "lng": 77.31131333005526,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Basketball",
-      "Box Cricket",
-      "Cricket Nets",
-      "Football"
-    ],
-    "info": "\n    <h3>Tagore Public School</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 7042555051<br/>\n    <a href=\"http://go.playo.app/PLAYOO/VSXMy\" target=\"_blank\">http://go.playo.app/PLAYOO/VSXMy</a><br/>\n    "
   },
   {
     "avgRating": 0,
