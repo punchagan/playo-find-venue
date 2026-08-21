@@ -800,9 +800,9 @@
     "info": "\n    <h3>Badminton Excellence Center</h3>\n    <strong>Ratings:</strong> 4.25 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9999804602<br/>\n    <a href=\"http://go.playo.app/PLAYOO/NH1IC\" target=\"_blank\">http://go.playo.app/PLAYOO/NH1IC</a><br/>\n    "
   },
   {
-    "avgRating": 3.56,
+    "avgRating": 3.41,
     "name": "Badminton24",
-    "ratingCount": 16,
+    "ratingCount": 17,
     "fullLink": "https://playo.co/venue?venueId=5e0a6b65-cd05-4cf1-ba86-18a5560efe9b",
     "deferLink": "http://go.playo.app/PLAYOO/28Di5",
     "lat": 28.509473410142206,
@@ -812,7 +812,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 3.56 [16]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"http://go.playo.app/PLAYOO/28Di5\" target=\"_blank\">http://go.playo.app/PLAYOO/28Di5</a><br/>\n    "
+    "info": "\n    <h3>Badminton24</h3>\n    <strong>Ratings:</strong> 3.41 [17]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9289536523<br/>\n    <a href=\"http://go.playo.app/PLAYOO/28Di5\" target=\"_blank\">http://go.playo.app/PLAYOO/28Di5</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -3555,11 +3555,10 @@
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Basketball",
-      "Football",
       "Pickleball",
       "Tennis"
     ],
-    "info": "\n    <h3>Global Sports Complex - Noida</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Basketball, Football, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 9818366733<br/>\n    <a href=\"http://go.playo.app/PLAYOO/erzDY\" target=\"_blank\">http://go.playo.app/PLAYOO/erzDY</a><br/>\n    "
+    "info": "\n    <h3>Global Sports Complex - Noida</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Basketball, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 9818366733<br/>\n    <a href=\"http://go.playo.app/PLAYOO/erzDY\" target=\"_blank\">http://go.playo.app/PLAYOO/erzDY</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6524,23 +6523,6 @@
     "info": "\n    <h3>PlayAll MCL Hari Nagar</h3>\n    <strong>Ratings:</strong> 4.6 [5]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 9220311088<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7ZWJa\" target=\"_blank\">http://go.playo.app/PLAYOO/7ZWJa</a><br/>\n    "
   },
   {
-    "avgRating": 5,
-    "name": "PlayAll MPS Greater Noida",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=99e90966-a13c-4e27-bd5c-68d887495caf",
-    "deferLink": "http://go.playo.app/PLAYOO/_hJc6",
-    "lat": 28.47991072678762,
-    "lng": 77.5233049,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Basketball",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>PlayAll MPS Greater Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 9289613002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_hJc6\" target=\"_blank\">http://go.playo.app/PLAYOO/_hJc6</a><br/>\n    "
-  },
-  {
     "ratingCount": 91,
     "avgRating": 3.38,
     "name": "PlayAll MPS Noida 11",
@@ -6571,6 +6553,41 @@
       "Pickleball"
     ],
     "info": "\n    <h3>PlayAll MRIS Charmwood</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9211866006<br/>\n    <a href=\"http://go.playo.app/PLAYOO/U2nBX\" target=\"_blank\">http://go.playo.app/PLAYOO/U2nBX</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "PlayAll MS Greater Noida",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=99e90966-a13c-4e27-bd5c-68d887495caf",
+    "deferLink": "http://go.playo.app/PLAYOO/_hJc6",
+    "lat": 28.47991072678762,
+    "lng": 77.5233049,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Basketball",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll MS Greater Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 9289613002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_hJc6\" target=\"_blank\">http://go.playo.app/PLAYOO/_hJc6</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "PlayAll Maurya Palam Vihar",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=e5aa5c28-f9ad-42c7-b364-a599fe17b62e",
+    "deferLink": "http://go.playo.app/PLAYOO/MVZNv",
+    "lat": 28.509418343096584,
+    "lng": 77.03821388650697,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Basketball",
+      "Box Cricket",
+      "Futsal",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll Maurya Palam Vihar</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 8448763009<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MVZNv\" target=\"_blank\">http://go.playo.app/PLAYOO/MVZNv</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6754,24 +6771,6 @@
       "Pickleball"
     ],
     "info": "\n    <h3>PlayAll Sports Arena - Playall BSIC Noida 46</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8796392002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0fFVp\" target=\"_blank\">http://go.playo.app/PLAYOO/0fFVp</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "PlayAll TMS Palam Vihar",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=e5aa5c28-f9ad-42c7-b364-a599fe17b62e",
-    "deferLink": "http://go.playo.app/PLAYOO/MVZNv",
-    "lat": 28.509418343096584,
-    "lng": 77.03821388650697,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Basketball",
-      "Box Cricket",
-      "Futsal",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>PlayAll TMS Palam Vihar</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 8448763009<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MVZNv\" target=\"_blank\">http://go.playo.app/PLAYOO/MVZNv</a><br/>\n    "
   },
   {
     "avgRating": 0,
