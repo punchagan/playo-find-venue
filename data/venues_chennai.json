@@ -328,7 +328,7 @@
   {
     "avgRating": 5,
     "name": "ASR Sports Academy - Perambur",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "deferLink": "http://go.playo.app/PLAYOO/6hnUm",
     "fullLink": "https://playo.co/venue/?venueId=7430f7fd-7cc1-44b5-98af-7ebef671f411",
     "lat": 13.11644555885721,
@@ -338,7 +338,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>ASR Sports Academy - Perambur</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939335615<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6hnUm\" target=\"_blank\">http://go.playo.app/PLAYOO/6hnUm</a><br/>\n    "
+    "info": "\n    <h3>ASR Sports Academy - Perambur</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8939335615<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6hnUm\" target=\"_blank\">http://go.playo.app/PLAYOO/6hnUm</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -369,6 +369,25 @@
       "Badminton"
     ],
     "info": "\n    <h3>AVP Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9940039789<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TgD0X\" target=\"_blank\">http://go.playo.app/PLAYOO/TgD0X</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Aadukalam Multi Sports Facility and Training Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=37f2c409-2fc6-42ca-b7f1-c0399fd3f46e",
+    "deferLink": "http://go.playo.app/PLAYOO/fO9lY",
+    "lat": 12.965645172055936,
+    "lng": 80.16879962883584,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Basketball",
+      "Box Cricket",
+      "Cricket Nets",
+      "Football"
+    ],
+    "info": "\n    <h3>Aadukalam Multi Sports Facility and Training Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Cricket Nets, Football<br/>\n    <strong>Phone:</strong> 8870600117<br/>\n    <a href=\"http://go.playo.app/PLAYOO/fO9lY\" target=\"_blank\">http://go.playo.app/PLAYOO/fO9lY</a><br/>\n    "
   },
   {
     "avgRating": 4.33,
@@ -898,22 +917,6 @@
   },
   {
     "avgRating": 5,
-    "name": "Believe Cricket Club",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=338e7c31-3988-4a5c-be0a-d7e58a2f5f96",
-    "deferLink": "http://go.playo.app/PLAYOO/Xgnwn",
-    "lat": 12.810702992933429,
-    "lng": 80.23071753809192,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Cricket",
-      "Cricket Nets"
-    ],
-    "info": "\n    <h3>Believe Cricket Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Cricket, Cricket Nets<br/>\n    <strong>Phone:</strong> 9888338899<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Xgnwn\" target=\"_blank\">http://go.playo.app/PLAYOO/Xgnwn</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
     "name": "Berri's Sports",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=e5c01688-1fed-4b77-81a6-1780ee8dc7df",
@@ -1171,15 +1174,15 @@
     "rating": 3,
     "deferLink": "http://go.playo.app/PLAYOO/qhyyw",
     "fullLink": "https://playo.co/venue/?venueId=b0fadf2e-376e-4421-9a8a-e99dafd56465",
-    "avgRating": 3.69,
-    "ratingCount": 29,
+    "avgRating": 3.67,
+    "ratingCount": 30,
     "lat": 12.913472,
     "lng": 80.2287307,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Bwings Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.69 [29]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8098133233<br/>\n    <a href=\"http://go.playo.app/PLAYOO/qhyyw\" target=\"_blank\">http://go.playo.app/PLAYOO/qhyyw</a><br/>\n    "
+    "info": "\n    <h3>Bwings Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.67 [30]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8098133233<br/>\n    <a href=\"http://go.playo.app/PLAYOO/qhyyw\" target=\"_blank\">http://go.playo.app/PLAYOO/qhyyw</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -1873,22 +1876,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>Dream Creations Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.73 [11]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 6382558471<br/>\n    <a href=\"http://go.playo.app/PLAYOO/HUGS3\" target=\"_blank\">http://go.playo.app/PLAYOO/HUGS3</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "Dream Turf",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=07022753-fd88-42d0-b725-3a37b5039230",
-    "deferLink": "http://go.playo.app/PLAYOO/6T4-2",
-    "lat": 12.822689783637607,
-    "lng": 80.20610610588916,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>Dream Turf</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8667839985<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6T4-2\" target=\"_blank\">http://go.playo.app/PLAYOO/6T4-2</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6619,21 +6606,6 @@
       "Pickleball"
     ],
     "info": "\n    <h3>Smashville Pickleball</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8754555509<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vr2cN\" target=\"_blank\">http://go.playo.app/PLAYOO/vr2cN</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "Snack and Rack Lounge",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=5cf36aa6-7a98-46a5-8e5a-5b6478c1db72",
-    "deferLink": "http://go.playo.app/PLAYOO/Zqh5P",
-    "lat": 12.949174314756178,
-    "lng": 80.18865468509414,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Pool"
-    ],
-    "info": "\n    <h3>Snack and Rack Lounge</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pool<br/>\n    <strong>Phone:</strong> 9677277775<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Zqh5P\" target=\"_blank\">http://go.playo.app/PLAYOO/Zqh5P</a><br/>\n    "
   },
   {
     "avgRating": 4.6,
