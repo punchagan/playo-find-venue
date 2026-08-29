@@ -2379,19 +2379,19 @@
     "info": "\n    <h3>Downtown Pickleball</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9899874777<br/>\n    <a href=\"http://go.playo.app/PLAYOO/bJbaa\" target=\"_blank\">http://go.playo.app/PLAYOO/bJbaa</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "Drive Or Kick | Bosco Public School",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=da0d82f9-b9e7-42d4-a5ca-3d07269b6622",
     "deferLink": "http://go.playo.app/PLAYOO/dlNWG",
     "lat": 28.66779761118609,
     "lng": 77.08662316235842,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Box Cricket"
     ],
-    "info": "\n    <h3>Drive Or Kick | Bosco Public School</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9971914342<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dlNWG\" target=\"_blank\">http://go.playo.app/PLAYOO/dlNWG</a><br/>\n    "
+    "info": "\n    <h3>Drive Or Kick | Bosco Public School</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket<br/>\n    <strong>Phone:</strong> 9971914342<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dlNWG\" target=\"_blank\">http://go.playo.app/PLAYOO/dlNWG</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -6461,8 +6461,8 @@
     "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=517ccad5-0bac-4a49-84d4-9b173024b79b",
     "deferLink": "http://go.playo.app/PLAYOO/mJs3u",
-    "lat": 28.725134522894376,
-    "lng": 77.08890733372306,
+    "lat": 28.742949070893214,
+    "lng": 77.13421007510728,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
@@ -7551,6 +7551,21 @@
     "info": "\n    <h3>Rackonnect Pro Badminton Arena</h3>\n    <strong>Ratings:</strong> 3.75 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9654114394<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Zrd6_\" target=\"_blank\">http://go.playo.app/PLAYOO/Zrd6_</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "Rackonnect Smashers Badminton Arena",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=fae844e2-f46d-4acb-9683-c2fdd88df5a9",
+    "deferLink": "http://go.playo.app/PLAYOO/Enb0s",
+    "lat": 29.04344341426618,
+    "lng": 77.71474340077987,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>Rackonnect Smashers Badminton Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8077193802<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Enb0s\" target=\"_blank\">http://go.playo.app/PLAYOO/Enb0s</a><br/>\n    "
+  },
+  {
     "avgRating": 4.11,
     "name": "Rackonnect Strings & Feathers Badminton Arena | Sporbit",
     "ratingCount": 64,
@@ -7564,21 +7579,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>Rackonnect Strings & Feathers Badminton Arena | Sporbit</h3>\n    <strong>Ratings:</strong> 4.11 [64]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xHdVN\" target=\"_blank\">http://go.playo.app/PLAYOO/xHdVN</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Rackonnect Supersmasher Badminton Arena",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=fae844e2-f46d-4acb-9683-c2fdd88df5a9",
-    "deferLink": "http://go.playo.app/PLAYOO/Enb0s",
-    "lat": 29.04344341426618,
-    "lng": 77.71474340077987,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Rackonnect Supersmasher Badminton Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8077193802<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Enb0s\" target=\"_blank\">http://go.playo.app/PLAYOO/Enb0s</a><br/>\n    "
   },
   {
     "avgRating": 3.86,
@@ -9399,7 +9399,7 @@
   {
     "avgRating": 5,
     "name": "Sultaan Sports Club",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=92aa3854-e820-4536-aa4b-75922b081d15",
     "deferLink": "http://go.playo.app/PLAYOO/k5qG_",
     "lat": 28.492813145327595,
@@ -9410,7 +9410,7 @@
       "Badminton",
       "Box Cricket"
     ],
-    "info": "\n    <h3>Sultaan Sports Club</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket<br/>\n    <strong>Phone:</strong> 9205573588<br/>\n    <a href=\"http://go.playo.app/PLAYOO/k5qG_\" target=\"_blank\">http://go.playo.app/PLAYOO/k5qG_</a><br/>\n    "
+    "info": "\n    <h3>Sultaan Sports Club</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket<br/>\n    <strong>Phone:</strong> 9205573588<br/>\n    <a href=\"http://go.playo.app/PLAYOO/k5qG_\" target=\"_blank\">http://go.playo.app/PLAYOO/k5qG_</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -10227,20 +10227,20 @@
     "info": "\n    <h3>Thirty40 Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Tennis<br/>\n    <strong>Phone:</strong> 9811142005<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Pjsf5\" target=\"_blank\">http://go.playo.app/PLAYOO/Pjsf5</a><br/>\n    "
   },
   {
-    "avgRating": 3.06,
+    "avgRating": 2.94,
     "name": "Tirang Badminton Center - Sector 10",
-    "ratingCount": 17,
+    "ratingCount": 18,
     "fullLink": "https://playo.co/venue?venueId=0cc75024-d247-4d7f-94c8-f3d3c89534e3",
     "deferLink": "http://go.playo.app/PLAYOO/eSb-l",
     "lat": 28.58418590204774,
     "lng": 77.05799487301869,
-    "rating": 3,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
+    "rating": 2,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
     "filter_by": [
       "Badminton",
       "Pickleball"
     ],
-    "info": "\n    <h3>Tirang Badminton Center - Sector 10</h3>\n    <strong>Ratings:</strong> 3.06 [17]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9818727750<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eSb-l\" target=\"_blank\">http://go.playo.app/PLAYOO/eSb-l</a><br/>\n    "
+    "info": "\n    <h3>Tirang Badminton Center - Sector 10</h3>\n    <strong>Ratings:</strong> 2.94 [18]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 9818727750<br/>\n    <a href=\"http://go.playo.app/PLAYOO/eSb-l\" target=\"_blank\">http://go.playo.app/PLAYOO/eSb-l</a><br/>\n    "
   },
   {
     "avgRating": 0,
