@@ -480,7 +480,7 @@
   {
     "avgRating": 3.94,
     "name": "ArenaZ | Sportyzo Badminton center - Sector 65",
-    "ratingCount": 16,
+    "ratingCount": 17,
     "fullLink": "https://playo.co/venue?venueId=33033886-e996-4097-badc-2bd8eb7ba1d3",
     "deferLink": "http://go.playo.app/PLAYOO/Ji_bL",
     "lat": 28.4033990271343,
@@ -490,7 +490,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>ArenaZ | Sportyzo Badminton center - Sector 65</h3>\n    <strong>Ratings:</strong> 3.94 [16]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9874927165<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ji_bL\" target=\"_blank\">http://go.playo.app/PLAYOO/Ji_bL</a><br/>\n    "
+    "info": "\n    <h3>ArenaZ | Sportyzo Badminton center - Sector 65</h3>\n    <strong>Ratings:</strong> 3.94 [17]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9874927165<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Ji_bL\" target=\"_blank\">http://go.playo.app/PLAYOO/Ji_bL</a><br/>\n    "
   },
   {
     "avgRating": 2.86,
@@ -6525,23 +6525,6 @@
   },
   {
     "avgRating": 5,
-    "name": "PlayAll MS Greater Noida",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=99e90966-a13c-4e27-bd5c-68d887495caf",
-    "deferLink": "http://go.playo.app/PLAYOO/_hJc6",
-    "lat": 28.47991072678762,
-    "lng": 77.5233049,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Badminton",
-      "Basketball",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>PlayAll MS Greater Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 9289613002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_hJc6\" target=\"_blank\">http://go.playo.app/PLAYOO/_hJc6</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
     "name": "PlayAll Maurya Palam Vihar",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=e5aa5c28-f9ad-42c7-b364-a599fe17b62e",
@@ -6557,6 +6540,23 @@
       "Pickleball"
     ],
     "info": "\n    <h3>PlayAll Maurya Palam Vihar</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Futsal, Pickleball<br/>\n    <strong>Phone:</strong> 8448763009<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MVZNv\" target=\"_blank\">http://go.playo.app/PLAYOO/MVZNv</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "PlayAll Modern School Greater Noida",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=99e90966-a13c-4e27-bd5c-68d887495caf",
+    "deferLink": "http://go.playo.app/PLAYOO/_hJc6",
+    "lat": 28.47991072678762,
+    "lng": 77.5233049,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Basketball",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>PlayAll Modern School Greater Noida</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 9289613002<br/>\n    <a href=\"http://go.playo.app/PLAYOO/_hJc6\" target=\"_blank\">http://go.playo.app/PLAYOO/_hJc6</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -8359,20 +8359,20 @@
     "info": "\n    <h3>Shuttle Hustle Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9871476642<br/>\n    <a href=\"http://go.playo.app/PLAYOO/quZ38\" target=\"_blank\">http://go.playo.app/PLAYOO/quZ38</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 3.5,
     "name": "Shuttle Killer",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=d9dc506b-52ef-42a2-bb32-70fdc5a91f2d",
     "deferLink": "http://go.playo.app/PLAYOO/z4kH6",
     "lat": 28.475701193784364,
     "lng": 77.01311522883584,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 3,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
       "Badminton",
       "Tennis"
     ],
-    "info": "\n    <h3>Shuttle Killer</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Tennis<br/>\n    <strong>Phone:</strong> 9870377706<br/>\n    <a href=\"http://go.playo.app/PLAYOO/z4kH6\" target=\"_blank\">http://go.playo.app/PLAYOO/z4kH6</a><br/>\n    "
+    "info": "\n    <h3>Shuttle Killer</h3>\n    <strong>Ratings:</strong> 3.5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Tennis<br/>\n    <strong>Phone:</strong> 9870377706<br/>\n    <a href=\"http://go.playo.app/PLAYOO/z4kH6\" target=\"_blank\">http://go.playo.app/PLAYOO/z4kH6</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -9882,22 +9882,6 @@
       "Badminton"
     ],
     "info": "\n    <h3>The GOAT Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9560049509<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5YkRS\" target=\"_blank\">http://go.playo.app/PLAYOO/5YkRS</a><br/>\n    "
-  },
-  {
-    "avgRating": 0,
-    "name": "The Game Pavilion",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=5f9f8bb4-3aa4-4c07-a7fa-cb806de2ce29",
-    "deferLink": "http://go.playo.app/PLAYOO/8SS_u",
-    "lat": 28.626106495822544,
-    "lng": 77.41397591349244,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Cricket Nets",
-      "Snooker"
-    ],
-    "info": "\n    <h3>The Game Pavilion</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket Nets, Snooker<br/>\n    <strong>Phone:</strong> 9923066987<br/>\n    <a href=\"http://go.playo.app/PLAYOO/8SS_u\" target=\"_blank\">http://go.playo.app/PLAYOO/8SS_u</a><br/>\n    "
   },
   {
     "avgRating": 5,
