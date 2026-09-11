@@ -470,9 +470,9 @@
     "info": "\n    <h3>Abirami Badminton Court</h3>\n    <strong>Ratings:</strong> 5 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9363042061<br/>\n    <a href=\"http://go.playo.app/PLAYOO/uIkTt\" target=\"_blank\">http://go.playo.app/PLAYOO/uIkTt</a><br/>\n    "
   },
   {
-    "avgRating": 4.8,
+    "avgRating": 4.67,
     "name": "Ace Badminton Academy - Porur",
-    "ratingCount": 5,
+    "ratingCount": 6,
     "fullLink": "https://playo.co/venue?venueId=1a453406-575f-4f98-aece-af5731c63677",
     "deferLink": "http://go.playo.app/PLAYOO/7BqPe",
     "lat": 13.0237718,
@@ -482,7 +482,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Ace Badminton Academy - Porur</h3>\n    <strong>Ratings:</strong> 4.8 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840023726<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7BqPe\" target=\"_blank\">http://go.playo.app/PLAYOO/7BqPe</a><br/>\n    "
+    "info": "\n    <h3>Ace Badminton Academy - Porur</h3>\n    <strong>Ratings:</strong> 4.67 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840023726<br/>\n    <a href=\"http://go.playo.app/PLAYOO/7BqPe\" target=\"_blank\">http://go.playo.app/PLAYOO/7BqPe</a><br/>\n    "
   },
   {
     "avgRating": 4.11,
@@ -1862,7 +1862,7 @@
   {
     "avgRating": 5,
     "name": "Dev's Sports Academy",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=5eb9a938-d9d0-447f-bc8e-e4ef9256dac2",
     "deferLink": "http://go.playo.app/PLAYOO/GQuoS",
     "lat": 12.857664246649305,
@@ -1874,7 +1874,7 @@
       "Pickleball",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Dev's Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 9445556146<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GQuoS\" target=\"_blank\">http://go.playo.app/PLAYOO/GQuoS</a><br/>\n    "
+    "info": "\n    <h3>Dev's Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Table Tennis<br/>\n    <strong>Phone:</strong> 9445556146<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GQuoS\" target=\"_blank\">http://go.playo.app/PLAYOO/GQuoS</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -1937,6 +1937,21 @@
       "Football"
     ],
     "info": "\n    <h3>Dream Turf</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8667839985<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6T4-2\" target=\"_blank\">http://go.playo.app/PLAYOO/6T4-2</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Dribble Sports Arena",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=5051bef5-cfaa-441e-b4f0-90493eec5740",
+    "deferLink": "http://go.playo.app/PLAYOO/tEEKN",
+    "lat": 12.944763474470937,
+    "lng": 80.23368778208783,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Football"
+    ],
+    "info": "\n    <h3>Dribble Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Football<br/>\n    <strong>Phone:</strong> 8056062579<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tEEKN\" target=\"_blank\">http://go.playo.app/PLAYOO/tEEKN</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4258,22 +4273,6 @@
   },
   {
     "avgRating": 5,
-    "name": "Mastermindz Sportz",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=67211cb5-4798-4645-aa1d-fc973cede237",
-    "deferLink": "http://go.playo.app/PLAYOO/hjHMq",
-    "lat": 13.058232630866502,
-    "lng": 80.26090721534338,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Heyball",
-      "Snooker"
-    ],
-    "info": "\n    <h3>Mastermindz Sportz</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Heyball, Snooker<br/>\n    <strong>Phone:</strong> 9884475143<br/>\n    <a href=\"http://go.playo.app/PLAYOO/hjHMq\" target=\"_blank\">http://go.playo.app/PLAYOO/hjHMq</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
     "name": "Match Point Sports Academy & Dance Class",
     "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=1dccc809-cd16-4f4f-b0f3-561544b80c2f",
@@ -5825,21 +5824,6 @@
     "info": "\n    <h3>Ridley's Pickleball</h3>\n    <strong>Ratings:</strong> 4.21 [14]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7305693268<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JlrcG\" target=\"_blank\">http://go.playo.app/PLAYOO/JlrcG</a><br/>\n    "
   },
   {
-    "avgRating": 0,
-    "name": "Rival Sports Arena",
-    "ratingCount": 0,
-    "fullLink": "https://playo.co/venue?venueId=c4795ce3-dd9d-4eb1-bf68-2378cc0e2f07",
-    "deferLink": "http://go.playo.app/PLAYOO/IF26V",
-    "lat": 12.90523892539667,
-    "lng": 80.14086745582077,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
-    "filter_by": [
-      "Badminton"
-    ],
-    "info": "\n    <h3>Rival Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9962333396<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IF26V\" target=\"_blank\">http://go.playo.app/PLAYOO/IF26V</a><br/>\n    "
-  },
-  {
     "avgRating": 4.63,
     "name": "Rohaan Badminton Academy",
     "ratingCount": 8,
@@ -5855,19 +5839,19 @@
     "info": "\n    <h3>Rohaan Badminton Academy</h3>\n    <strong>Ratings:</strong> 4.63 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9791089611<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R-YtR\" target=\"_blank\">http://go.playo.app/PLAYOO/R-YtR</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4.75,
     "name": "Rooftop Table Tennis",
-    "ratingCount": 3,
+    "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=9c32c8e9-39e8-40f9-bd31-5cb72bcd0714",
     "deferLink": "http://go.playo.app/PLAYOO/ZaRa-",
     "lat": 13.092956595380151,
     "lng": 80.21962241597284,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Table Tennis"
     ],
-    "info": "\n    <h3>Rooftop Table Tennis</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 7010876890<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZaRa-\" target=\"_blank\">http://go.playo.app/PLAYOO/ZaRa-</a><br/>\n    "
+    "info": "\n    <h3>Rooftop Table Tennis</h3>\n    <strong>Ratings:</strong> 4.75 [4]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 7010876890<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ZaRa-\" target=\"_blank\">http://go.playo.app/PLAYOO/ZaRa-</a><br/>\n    "
   },
   {
     "avgRating": 4.64,
