@@ -231,14 +231,23 @@ var hash_to_state = function() {
     state = { p: people, q: sport, c: city };
 
   if (json) {
-    Object.assign(state, JSON.parse(json));
+    var parsed = JSON.parse(json);
+    ["p", "q", "c"].forEach(function(key) {
+      if (Object.prototype.hasOwnProperty.call(parsed, key)) {
+        state[key] = parsed[key];
+      }
+    });
   }
   return state;
 };
 
 var get_short_url = function(callback) {
-  var API_KEY = "AIzaSyDECh_V7enCYmHscpRwPYenetjFued24j8",
-    url = "https://www.googleapis.com/urlshortener/v1/url?key=" + API_KEY,
+  var API_KEY = window.GOOGLE_URL_SHORTENER_API_KEY;
+  if (!API_KEY) {
+    console.error("GOOGLE_URL_SHORTENER_API_KEY is not configured; skipping URL shortening.");
+    return;
+  }
+  var url = "https://www.googleapis.com/urlshortener/v1/url?key=" + API_KEY,
     body = JSON.stringify({ longUrl: location.href });
 
   fetch(url, {
