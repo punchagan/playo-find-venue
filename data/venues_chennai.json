@@ -1136,7 +1136,7 @@
     "info": "\n    <h3>Boomerang Sports Academy</h3>\n    <strong>Ratings:</strong> 3.75 [8]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8925905558<br/>\n    <a href=\"http://go.playo.app/PLAYOO/P0aJO\" target=\"_blank\">http://go.playo.app/PLAYOO/P0aJO</a><br/>\n    "
   },
   {
-    "avgRating": 4.73,
+    "avgRating": 4.67,
     "name": "Bounce Smashers Sports Academy",
     "ratingCount": 15,
     "deferLink": "http://go.playo.app/PLAYOO/TblBi",
@@ -1149,7 +1149,7 @@
       "Badminton",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Bounce Smashers Sports Academy</h3>\n    <strong>Ratings:</strong> 4.73 [15]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 8098439391<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TblBi\" target=\"_blank\">http://go.playo.app/PLAYOO/TblBi</a><br/>\n    "
+    "info": "\n    <h3>Bounce Smashers Sports Academy</h3>\n    <strong>Ratings:</strong> 4.67 [15]<br/>\n    <strong>Sports:</strong> Badminton, Table Tennis<br/>\n    <strong>Phone:</strong> 8098439391<br/>\n    <a href=\"http://go.playo.app/PLAYOO/TblBi\" target=\"_blank\">http://go.playo.app/PLAYOO/TblBi</a><br/>\n    "
   },
   {
     "avgRating": 4.83,
@@ -6461,9 +6461,9 @@
     "info": "\n    <h3>Shivani Elite Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840253589<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GE7Pl\" target=\"_blank\">http://go.playo.app/PLAYOO/GE7Pl</a><br/>\n    "
   },
   {
-    "avgRating": 4.33,
+    "avgRating": 4.15,
     "name": "Shot Multisport Academy",
-    "ratingCount": 12,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=de98782b-2bf0-43ec-8ff5-c1efd878ffac",
     "deferLink": "http://go.playo.app/PLAYOO/0HWSy",
     "lat": 12.947298407010837,
@@ -6476,7 +6476,7 @@
       "Indoor Cricket",
       "Table Tennis"
     ],
-    "info": "\n    <h3>Shot Multisport Academy</h3>\n    <strong>Ratings:</strong> 4.33 [12]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Indoor Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 9092935102<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0HWSy\" target=\"_blank\">http://go.playo.app/PLAYOO/0HWSy</a><br/>\n    "
+    "info": "\n    <h3>Shot Multisport Academy</h3>\n    <strong>Ratings:</strong> 4.15 [13]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Indoor Cricket, Table Tennis<br/>\n    <strong>Phone:</strong> 9092935102<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0HWSy\" target=\"_blank\">http://go.playo.app/PLAYOO/0HWSy</a><br/>\n    "
   },
   {
     "ratingCount": 21,
@@ -7587,6 +7587,21 @@
       "Football"
     ],
     "info": "\n    <h3>Tackle Town Indoor Turf</h3>\n    <strong>Ratings:</strong> 4.5 [6]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9941973447<br/>\n    <a href=\"http://go.playo.app/PLAYOO/MNwuz\" target=\"_blank\">http://go.playo.app/PLAYOO/MNwuz</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Tak Tok Multisports Studio",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=1397395a-02be-4d7f-bd3f-12bb3311e0f9",
+    "deferLink": "http://go.playo.app/PLAYOO/NfmZH",
+    "lat": 12.931121879233073,
+    "lng": 80.23489739544405,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Tak Tok Multisports Studio</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8939732006<br/>\n    <a href=\"http://go.playo.app/PLAYOO/NfmZH\" target=\"_blank\">http://go.playo.app/PLAYOO/NfmZH</a><br/>\n    "
   },
   {
     "ratingCount": 2,
