@@ -3403,6 +3403,21 @@
   },
   {
     "avgRating": 5,
+    "name": "JAS Badminton Academy",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=fcb0a9fc-ffad-43eb-bc91-21b2aae26a18",
+    "deferLink": "http://go.playo.app/PLAYOO/dS-8L",
+    "lat": 13.112066394611011,
+    "lng": 80.11938938224473,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton"
+    ],
+    "info": "\n    <h3>JAS Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9345777025<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dS-8L\" target=\"_blank\">http://go.playo.app/PLAYOO/dS-8L</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "JK Badminton Academy - Alapakkam",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=4b0b1cc6-5e64-44e4-bbba-3bfc85e1d638",
@@ -3922,9 +3937,9 @@
     "info": "\n    <h3>Lal Sports Academy</h3>\n    <strong>Ratings:</strong> 3.7 [27]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Volleyball<br/>\n    <strong>Phone:</strong> 9382916916<br/>\n    <a href=\"http://go.playo.app/PLAYOO/AgX1x\" target=\"_blank\">http://go.playo.app/PLAYOO/AgX1x</a><br/>\n    "
   },
   {
-    "avgRating": 4.33,
+    "avgRating": 4.32,
     "name": "Lara Sports Academy",
-    "ratingCount": 33,
+    "ratingCount": 34,
     "fullLink": "https://playo.co/venue?venueId=1e583691-1a1a-4879-8181-2acc2a81d60e",
     "deferLink": "http://go.playo.app/PLAYOO/6S3fB",
     "lat": 12.957783435292718,
@@ -3934,7 +3949,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Lara Sports Academy</h3>\n    <strong>Ratings:</strong> 4.33 [33]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9597734251<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6S3fB\" target=\"_blank\">http://go.playo.app/PLAYOO/6S3fB</a><br/>\n    "
+    "info": "\n    <h3>Lara Sports Academy</h3>\n    <strong>Ratings:</strong> 4.32 [34]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9597734251<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6S3fB\" target=\"_blank\">http://go.playo.app/PLAYOO/6S3fB</a><br/>\n    "
   },
   {
     "avgRating": 3.75,
