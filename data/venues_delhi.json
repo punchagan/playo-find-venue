@@ -2926,6 +2926,23 @@
     "info": "\n    <h3>FGSC Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9582879099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5uVO8\" target=\"_blank\">http://go.playo.app/PLAYOO/5uVO8</a><br/>\n    "
   },
   {
+    "avgRating": 5,
+    "name": "FLIK Sports Club",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=f68ed903-cdfe-48cc-972b-785759396d49",
+    "deferLink": "http://go.playo.app/PLAYOO/vMF3i",
+    "lat": 28.563942723714167,
+    "lng": 77.43460743463645,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>FLIK Sports Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9315272020<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vMF3i\" target=\"_blank\">http://go.playo.app/PLAYOO/vMF3i</a><br/>\n    "
+  },
+  {
     "ratingCount": 2,
     "avgRating": 3.5,
     "name": "Faceoff - Play.All",
@@ -5565,8 +5582,8 @@
     "info": "\n    <h3>Nivaan Cricket Club</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9899070786<br/>\n    <a href=\"http://go.playo.app/PLAYOO/0fV5g\" target=\"_blank\">http://go.playo.app/PLAYOO/0fV5g</a><br/>\n    "
   },
   {
-    "ratingCount": 2,
-    "avgRating": 4.5,
+    "ratingCount": 3,
+    "avgRating": 4.67,
     "name": "Noida Indoor Stadium",
     "fullLink": "https://playo.co/venue?venueId=d34e641a-4372-4436-877c-b59a899b765c",
     "deferLink": "http://go.playo.app/PLAYOO/PeaPH",
@@ -5578,7 +5595,7 @@
       "Basketball",
       "Futsal"
     ],
-    "info": "\n    <h3>Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Futsal<br/>\n    <strong>Phone:</strong> 9650714777<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PeaPH\" target=\"_blank\">http://go.playo.app/PLAYOO/PeaPH</a><br/>\n    "
+    "info": "\n    <h3>Noida Indoor Stadium</h3>\n    <strong>Ratings:</strong> 4.67 [3]<br/>\n    <strong>Sports:</strong> Basketball, Futsal<br/>\n    <strong>Phone:</strong> 9650714777<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PeaPH\" target=\"_blank\">http://go.playo.app/PLAYOO/PeaPH</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -7308,6 +7325,23 @@
       "Pickleball"
     ],
     "info": "\n    <h3>RCM Sports Academy</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 7290007036<br/>\n    <a href=\"http://go.playo.app/PLAYOO/r_Rky\" target=\"_blank\">http://go.playo.app/PLAYOO/r_Rky</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "REPPP | Vasant Kunj",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=2f43bd7e-3a18-4d09-a2aa-275dd0877ee0",
+    "deferLink": "http://go.playo.app/PLAYOO/bml71",
+    "lat": 28.507385124234936,
+    "lng": 77.1497528517084,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Padel",
+      "Pickleball",
+      "Pool"
+    ],
+    "info": "\n    <h3>REPPP | Vasant Kunj</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Padel, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 9945653579<br/>\n    <a href=\"http://go.playo.app/PLAYOO/bml71\" target=\"_blank\">http://go.playo.app/PLAYOO/bml71</a><br/>\n    "
   },
   {
     "avgRating": 3.83,
