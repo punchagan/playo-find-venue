@@ -2927,6 +2927,22 @@
   },
   {
     "avgRating": 5,
+    "name": "FLIK Sports Club",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=f68ed903-cdfe-48cc-972b-785759396d49",
+    "deferLink": "http://go.playo.app/PLAYOO/vMF3i",
+    "lat": 28.563942723714167,
+    "lng": 77.43460743463645,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>FLIK Sports Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9315272020<br/>\n    <a href=\"http://go.playo.app/PLAYOO/vMF3i\" target=\"_blank\">http://go.playo.app/PLAYOO/vMF3i</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Faridabad Cricket Excellence Academy",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=8783d269-d061-4c7e-879f-ed7e7a371c19",
