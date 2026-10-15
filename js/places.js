@@ -237,8 +237,14 @@ var hash_to_state = function() {
 };
 
 var get_short_url = function(callback) {
-  var API_KEY = "AIzaSyDECh_V7enCYmHscpRwPYenetjFued24j8",
-    url = "https://www.googleapis.com/urlshortener/v1/url?key=" + API_KEY,
+  // API key must be supplied at runtime (e.g. injected as a global by the
+  // deployment) instead of being hardcoded in source control.
+  var API_KEY = window.URL_SHORTENER_API_KEY;
+  if (!API_KEY) {
+    console.error("URL_SHORTENER_API_KEY is not configured; skipping URL shortening.");
+    return;
+  }
+  var url = "https://www.googleapis.com/urlshortener/v1/url?key=" + API_KEY,
     body = JSON.stringify({ longUrl: location.href });
 
   fetch(url, {
