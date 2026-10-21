@@ -3101,9 +3101,9 @@
     "info": "\n    <h3>Gamez to Fly Badminton Academy</h3>\n    <strong>Ratings:</strong> 2.94 [34]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9789909852<br/>\n    <a href=\"http://go.playo.app/PLAYOO/nIDre\" target=\"_blank\">http://go.playo.app/PLAYOO/nIDre</a><br/>\n    "
   },
   {
-    "avgRating": 4.83,
+    "avgRating": 4.85,
     "name": "Gautham Badminton Club",
-    "ratingCount": 12,
+    "ratingCount": 13,
     "fullLink": "https://playo.co/venue?venueId=b7b826eb-94d3-4299-ad42-1ee0688f6d03",
     "deferLink": "http://go.playo.app/PLAYOO/GmfW-",
     "lat": 12.9646813,
@@ -3113,7 +3113,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Gautham Badminton Club</h3>\n    <strong>Ratings:</strong> 4.83 [12]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9941479379<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GmfW-\" target=\"_blank\">http://go.playo.app/PLAYOO/GmfW-</a><br/>\n    "
+    "info": "\n    <h3>Gautham Badminton Club</h3>\n    <strong>Ratings:</strong> 4.85 [13]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9941479379<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GmfW-\" target=\"_blank\">http://go.playo.app/PLAYOO/GmfW-</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5196,6 +5196,21 @@
       "Pickleball"
     ],
     "info": "\n    <h3>Paddle Playhouse</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 7708592795<br/>\n    <a href=\"http://go.playo.app/PLAYOO/RF7VG\" target=\"_blank\">http://go.playo.app/PLAYOO/RF7VG</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Padle",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=f0386e8b-c169-4365-a8de-01d73f405156",
+    "deferLink": "http://go.playo.app/PLAYOO/l7PM5",
+    "lat": 12.908928425940363,
+    "lng": 80.14398372661843,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Padle</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9445099961<br/>\n    <a href=\"http://go.playo.app/PLAYOO/l7PM5\" target=\"_blank\">http://go.playo.app/PLAYOO/l7PM5</a><br/>\n    "
   },
   {
     "name": "Pallavaram Military Cricket Ground",
@@ -8340,19 +8355,19 @@
     "info": "\n    <h3>True Hit Badminton Academy 2.0</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7397328382<br/>\n    <a href=\"http://go.playo.app/PLAYOO/obf84\" target=\"_blank\">http://go.playo.app/PLAYOO/obf84</a><br/>\n    "
   },
   {
-    "avgRating": 5,
+    "avgRating": 4,
     "name": "Tulip Badminton Court",
-    "ratingCount": 2,
+    "ratingCount": 3,
     "fullLink": "https://playo.co/venue?venueId=79c91af8-e386-45f0-aea8-fdff3d9ec507",
     "deferLink": "http://go.playo.app/PLAYOO/6Yx4H",
     "lat": 12.936066974738562,
     "lng": 80.23544107337887,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "rating": 4,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Tulip Badminton Court</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952834810<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6Yx4H\" target=\"_blank\">http://go.playo.app/PLAYOO/6Yx4H</a><br/>\n    "
+    "info": "\n    <h3>Tulip Badminton Court</h3>\n    <strong>Ratings:</strong> 4 [3]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9952834810<br/>\n    <a href=\"http://go.playo.app/PLAYOO/6Yx4H\" target=\"_blank\">http://go.playo.app/PLAYOO/6Yx4H</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -8652,9 +8667,11 @@
     "rating": 3,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/3-lv.png",
     "filter_by": [
-      "Badminton"
+      "Badminton",
+      "Box Cricket",
+      "Football"
     ],
-    "info": "\n    <h3>Ultimate Sports - Navalur</h3>\n    <strong>Ratings:</strong> 3.63 [19]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8675473018<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dem4b\" target=\"_blank\">http://go.playo.app/PLAYOO/dem4b</a><br/>\n    "
+    "info": "\n    <h3>Ultimate Sports - Navalur</h3>\n    <strong>Ratings:</strong> 3.63 [19]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 8675473018<br/>\n    <a href=\"http://go.playo.app/PLAYOO/dem4b\" target=\"_blank\">http://go.playo.app/PLAYOO/dem4b</a><br/>\n    "
   },
   {
     "avgRating": 5,
