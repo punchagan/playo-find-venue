@@ -4096,8 +4096,8 @@
     "info": "\n    <h3>Leap Sports Academy - ECR</h3>\n    <strong>Ratings:</strong> 3.75 [8]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball, Table Tennis, Volleyball<br/>\n    <strong>Phone:</strong> 9940209896<br/>\n    <a href=\"http://go.playo.app/PLAYOO/R53ud\" target=\"_blank\">http://go.playo.app/PLAYOO/R53ud</a><br/>\n    "
   },
   {
-    "ratingCount": 21,
-    "avgRating": 4.57,
+    "ratingCount": 22,
+    "avgRating": 4.45,
     "name": "Leap Sports Academy - OMR",
     "fullLink": "https://playo.co/venue?venueId=32e6fe73-a05b-4550-8bb2-e82ba9637797",
     "deferLink": "http://go.playo.app/PLAYOO/U5Z9T",
@@ -4109,7 +4109,7 @@
       "Badminton",
       "Swimming"
     ],
-    "info": "\n    <h3>Leap Sports Academy - OMR</h3>\n    <strong>Ratings:</strong> 4.57 [21]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9840451010<br/>\n    <a href=\"http://go.playo.app/PLAYOO/U5Z9T\" target=\"_blank\">http://go.playo.app/PLAYOO/U5Z9T</a><br/>\n    "
+    "info": "\n    <h3>Leap Sports Academy - OMR</h3>\n    <strong>Ratings:</strong> 4.45 [22]<br/>\n    <strong>Sports:</strong> Badminton, Swimming<br/>\n    <strong>Phone:</strong> 9840451010<br/>\n    <a href=\"http://go.playo.app/PLAYOO/U5Z9T\" target=\"_blank\">http://go.playo.app/PLAYOO/U5Z9T</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6081,6 +6081,21 @@
       "Badminton"
     ],
     "info": "\n    <h3>Reflex Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 7871069991<br/>\n    <a href=\"http://go.playo.app/PLAYOO/kAiTC\" target=\"_blank\">http://go.playo.app/PLAYOO/kAiTC</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "Resist Fitness Studio Pickleball",
+    "ratingCount": 3,
+    "fullLink": "https://playo.co/venue?venueId=df71b266-ae88-48c5-9205-35e016616a42",
+    "deferLink": "http://go.playo.app/PLAYOO/KSbu0",
+    "lat": 12.982612685395901,
+    "lng": 80.2593716325064,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Resist Fitness Studio Pickleball</h3>\n    <strong>Ratings:</strong> 5 [3]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8939251921<br/>\n    <a href=\"http://go.playo.app/PLAYOO/KSbu0\" target=\"_blank\">http://go.playo.app/PLAYOO/KSbu0</a><br/>\n    "
   },
   {
     "avgRating": 5,
