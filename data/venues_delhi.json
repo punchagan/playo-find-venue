@@ -136,19 +136,19 @@
     "info": "\n    <h3>AV Pickleball Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 8588845420<br/>\n    <a href=\"http://go.playo.app/PLAYOO/XS9hb\" target=\"_blank\">http://go.playo.app/PLAYOO/XS9hb</a><br/>\n    "
   },
   {
-    "avgRating": 2,
+    "avgRating": 1.5,
     "name": "Aayush Club",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=1c5921a4-20f0-4a15-99f6-ac827229b213",
     "deferLink": "http://go.playo.app/PLAYOO/SZ03g",
     "lat": 28.642868835734497,
     "lng": 77.08663774564987,
-    "rating": 2,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/2-lv.png",
+    "rating": 1,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/1-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Aayush Club</h3>\n    <strong>Ratings:</strong> 2 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9582773503<br/>\n    <a href=\"http://go.playo.app/PLAYOO/SZ03g\" target=\"_blank\">http://go.playo.app/PLAYOO/SZ03g</a><br/>\n    "
+    "info": "\n    <h3>Aayush Club</h3>\n    <strong>Ratings:</strong> 1.5 [2]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9582773503<br/>\n    <a href=\"http://go.playo.app/PLAYOO/SZ03g\" target=\"_blank\">http://go.playo.app/PLAYOO/SZ03g</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -3822,8 +3822,8 @@
     "ratingCount": 4,
     "fullLink": "https://playo.co/venue?venueId=8c683ddf-96ca-4630-b829-502f378e61b4",
     "deferLink": "http://go.playo.app/PLAYOO/3OOtK",
-    "lat": 28.588449146767818,
-    "lng": 77.38945363419579,
+    "lat": 28.58843414210387,
+    "lng": 77.38945310255416,
     "rating": 5,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
