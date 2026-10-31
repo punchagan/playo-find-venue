@@ -3784,9 +3784,9 @@
     "info": "\n    <h3>Grillo's Sports Zone</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 9999780087<br/>\n    <a href=\"http://go.playo.app/PLAYOO/c03NU\" target=\"_blank\">http://go.playo.app/PLAYOO/c03NU</a><br/>\n    "
   },
   {
-    "avgRating": 4.5,
+    "avgRating": 4.56,
     "name": "Gritx Sports Academy",
-    "ratingCount": 8,
+    "ratingCount": 9,
     "fullLink": "https://playo.co/venue?venueId=bf12a5c6-f7c8-4263-b333-ff66e745c85f",
     "deferLink": "http://go.playo.app/PLAYOO/h0sVL",
     "lat": 28.409124172826086,
@@ -3799,7 +3799,7 @@
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>Gritx Sports Academy</h3>\n    <strong>Ratings:</strong> 4.5 [8]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8860203203<br/>\n    <a href=\"http://go.playo.app/PLAYOO/h0sVL\" target=\"_blank\">http://go.playo.app/PLAYOO/h0sVL</a><br/>\n    "
+    "info": "\n    <h3>Gritx Sports Academy</h3>\n    <strong>Ratings:</strong> 4.56 [9]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 8860203203<br/>\n    <a href=\"http://go.playo.app/PLAYOO/h0sVL\" target=\"_blank\">http://go.playo.app/PLAYOO/h0sVL</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -7575,7 +7575,7 @@
   {
     "avgRating": 4.06,
     "name": "Rackonnect Strings & Feathers Badminton Arena | Sporbit",
-    "ratingCount": 66,
+    "ratingCount": 67,
     "fullLink": "https://playo.co/venue?venueId=e57fba5d-6578-42e0-9784-64cabd8f8520",
     "deferLink": "http://go.playo.app/PLAYOO/xHdVN",
     "lat": 28.40476022763887,
@@ -7585,7 +7585,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Rackonnect Strings & Feathers Badminton Arena | Sporbit</h3>\n    <strong>Ratings:</strong> 4.06 [66]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xHdVN\" target=\"_blank\">http://go.playo.app/PLAYOO/xHdVN</a><br/>\n    "
+    "info": "\n    <h3>Rackonnect Strings & Feathers Badminton Arena | Sporbit</h3>\n    <strong>Ratings:</strong> 4.06 [67]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8882404438<br/>\n    <a href=\"http://go.playo.app/PLAYOO/xHdVN\" target=\"_blank\">http://go.playo.app/PLAYOO/xHdVN</a><br/>\n    "
   },
   {
     "avgRating": 3.44,
@@ -8380,6 +8380,23 @@
       "Tennis"
     ],
     "info": "\n    <h3>Shuttle Killer</h3>\n    <strong>Ratings:</strong> 3.5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Tennis<br/>\n    <strong>Phone:</strong> 9870377706<br/>\n    <a href=\"http://go.playo.app/PLAYOO/z4kH6\" target=\"_blank\">http://go.playo.app/PLAYOO/z4kH6</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "SideOut - Sports Arena",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=52cc9e59-7ea5-4c54-95d1-5d6e99c3ad63",
+    "deferLink": "http://go.playo.app/PLAYOO/YiFZA",
+    "lat": 28.460744251930848,
+    "lng": 77.16543589588584,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>SideOut - Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9999260662<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YiFZA\" target=\"_blank\">http://go.playo.app/PLAYOO/YiFZA</a><br/>\n    "
   },
   {
     "avgRating": 0,
