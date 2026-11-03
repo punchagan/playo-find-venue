@@ -3011,7 +3011,7 @@
   {
     "avgRating": 5,
     "name": "GK Badminton Club",
-    "ratingCount": 4,
+    "ratingCount": 5,
     "fullLink": "https://playo.co/venue?venueId=7cc37716-9221-4317-af1d-36319497c851",
     "deferLink": "http://go.playo.app/PLAYOO/LQmTf",
     "lat": 12.867007359429891,
@@ -3021,7 +3021,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>GK Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [4]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840452099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/LQmTf\" target=\"_blank\">http://go.playo.app/PLAYOO/LQmTf</a><br/>\n    "
+    "info": "\n    <h3>GK Badminton Club</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9840452099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/LQmTf\" target=\"_blank\">http://go.playo.app/PLAYOO/LQmTf</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -4385,8 +4385,8 @@
     "name": "MTD Sports Academy",
     "fullLink": "https://playo.co/venue?venueId=bff35f6c-e4e8-4395-88d2-b5c57ea96971",
     "deferLink": "http://go.playo.app/PLAYOO/UO_H_",
-    "lat": 12.9356941,
-    "lng": 80.19649,
+    "lat": 12.935730865696154,
+    "lng": 80.19914835237485,
     "rating": 4,
     "icon": "https://maps.google.com/mapfiles/kml/paddle/4-lv.png",
     "filter_by": [
