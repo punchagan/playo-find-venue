@@ -2959,19 +2959,19 @@
     "info": "\n    <h3>Expert Shooting Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Shooting<br/>\n    <strong>Phone:</strong> 9054669707<br/>\n    <a href=\"http://go.playo.app/PLAYOO/EpYUl\" target=\"_blank\">http://go.playo.app/PLAYOO/EpYUl</a><br/>\n    "
   },
   {
-    "avgRating": 0,
+    "avgRating": 5,
     "name": "FGSC Badminton Academy",
-    "ratingCount": 0,
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=35b633f1-3421-42e3-ad6f-75dd721896a1",
     "deferLink": "http://go.playo.app/PLAYOO/5uVO8",
     "lat": 28.391548904753794,
     "lng": 76.97204926579397,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>FGSC Badminton Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9582879099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5uVO8\" target=\"_blank\">http://go.playo.app/PLAYOO/5uVO8</a><br/>\n    "
+    "info": "\n    <h3>FGSC Badminton Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9582879099<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5uVO8\" target=\"_blank\">http://go.playo.app/PLAYOO/5uVO8</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -3547,6 +3547,25 @@
       "Volleyball"
     ],
     "info": "\n    <h3>Gallant Play Arena Vikaspuri</h3>\n    <strong>Ratings:</strong> 5 [5]<br/>\n    <strong>Sports:</strong> Badminton, Basketball, Box Cricket, Football, Pickleball, Volleyball<br/>\n    <strong>Phone:</strong> 9289171700<br/>\n    <a href=\"http://go.playo.app/PLAYOO/BQs4B\" target=\"_blank\">http://go.playo.app/PLAYOO/BQs4B</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "GameOn Multi Sports",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=2e76054a-23d4-47b8-90d7-3252a84416a0",
+    "deferLink": "http://go.playo.app/PLAYOO/GDZ4-",
+    "lat": 28.39485166144068,
+    "lng": 77.01257439999999,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Cricket Nets",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>GameOn Multi Sports</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9034844654<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GDZ4-\" target=\"_blank\">http://go.playo.app/PLAYOO/GDZ4-</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -5952,7 +5971,7 @@
   {
     "avgRating": 5,
     "name": "Piccolo Pickleball - Rajori Garden",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=bc6053d3-0fd1-4324-8a81-58dba932d474",
     "deferLink": "http://go.playo.app/PLAYOO/Qe8Nd",
     "lat": 28.639384548813677,
@@ -5962,7 +5981,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>Piccolo Pickleball - Rajori Garden</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9792661244<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Qe8Nd\" target=\"_blank\">http://go.playo.app/PLAYOO/Qe8Nd</a><br/>\n    "
+    "info": "\n    <h3>Piccolo Pickleball - Rajori Garden</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9792661244<br/>\n    <a href=\"http://go.playo.app/PLAYOO/Qe8Nd\" target=\"_blank\">http://go.playo.app/PLAYOO/Qe8Nd</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -7359,6 +7378,38 @@
   },
   {
     "avgRating": 5,
+    "name": "REPPP Vamoss South Ex",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=7b39b9fe-c976-4620-a51a-6e0cd1278827",
+    "deferLink": "http://go.playo.app/PLAYOO/ssvKM",
+    "lat": 28.570321715290337,
+    "lng": 77.21795130000001,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Padel",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>REPPP Vamoss South Ex</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9717008649<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ssvKM\" target=\"_blank\">http://go.playo.app/PLAYOO/ssvKM</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
+    "name": "REPPP | Lutyens Basecamp | Khan Market",
+    "ratingCount": 2,
+    "fullLink": "https://playo.co/venue?venueId=ec51ad44-e3df-4bca-8836-10e094c9ad0c",
+    "deferLink": "http://go.playo.app/PLAYOO/CK4gS",
+    "lat": 28.59680299031944,
+    "lng": 77.2254187306618,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Padel",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>REPPP | Lutyens Basecamp | Khan Market</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9717008649<br/>\n    <a href=\"http://go.playo.app/PLAYOO/CK4gS\" target=\"_blank\">http://go.playo.app/PLAYOO/CK4gS</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "REPPP | Vasant Kunj",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=2f43bd7e-3a18-4d09-a2aa-275dd0877ee0",
@@ -8491,22 +8542,6 @@
     "info": "\n    <h3>Skhel Snooker and Esports</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Snooker, eSports<br/>\n    <strong>Phone:</strong> 9818085550<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5X7rf\" target=\"_blank\">http://go.playo.app/PLAYOO/5X7rf</a><br/>\n    "
   },
   {
-    "avgRating": 5,
-    "name": "Skhel Snooker and Esports",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=dd5daa0e-1f33-4e94-947a-b19fc625fe7c",
-    "deferLink": "http://go.playo.app/PLAYOO/5X7rf",
-    "lat": 28.65518309942677,
-    "lng": 77.14346855361647,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Snooker",
-      "eSports"
-    ],
-    "info": "\n    <h3>Skhel Snooker and Esports</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Snooker, eSports<br/>\n    <strong>Phone:</strong> 9818085550<br/>\n    <a href=\"http://go.playo.app/PLAYOO/5X7rf\" target=\"_blank\">http://go.playo.app/PLAYOO/5X7rf</a><br/>\n    "
-  },
-  {
     "avgRating": 4.8,
     "name": "Skill Set Badminton Academy",
     "ratingCount": 5,
@@ -8662,6 +8697,22 @@
       "Badminton"
     ],
     "info": "\n    <h3>Smash Arena</h3>\n    <strong>Ratings:</strong> 2.9 [10]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 9650194656<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PDBer\" target=\"_blank\">http://go.playo.app/PLAYOO/PDBer</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "Smash Pickleball & Tennis Arena",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=9834e57b-2de1-4d7a-b8a8-4c5148df2e44",
+    "deferLink": "http://go.playo.app/PLAYOO/k3bkA",
+    "lat": 28.68694864621947,
+    "lng": 77.16210527501437,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Pickleball",
+      "Tennis"
+    ],
+    "info": "\n    <h3>Smash Pickleball & Tennis Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 9810420422<br/>\n    <a href=\"http://go.playo.app/PLAYOO/k3bkA\" target=\"_blank\">http://go.playo.app/PLAYOO/k3bkA</a><br/>\n    "
   },
   {
     "avgRating": 0,
@@ -9074,9 +9125,9 @@
     "info": "\n    <h3>Sportslane</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 7897288344<br/>\n    <a href=\"http://go.playo.app/PLAYOO/QdeE7\" target=\"_blank\">http://go.playo.app/PLAYOO/QdeE7</a><br/>\n    "
   },
   {
-    "avgRating": 4.83,
+    "avgRating": 4.57,
     "name": "Sportyzo AC Badminton Academy - Sector 65",
-    "ratingCount": 6,
+    "ratingCount": 7,
     "fullLink": "https://playo.co/venue?venueId=93c6f5a4-c9da-487e-a595-049e2d838ab0",
     "deferLink": "http://go.playo.app/PLAYOO/moDO1",
     "lat": 28.404670277670064,
@@ -9086,7 +9137,7 @@
     "filter_by": [
       "Badminton"
     ],
-    "info": "\n    <h3>Sportyzo AC Badminton Academy - Sector 65</h3>\n    <strong>Ratings:</strong> 4.83 [6]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8527736149<br/>\n    <a href=\"http://go.playo.app/PLAYOO/moDO1\" target=\"_blank\">http://go.playo.app/PLAYOO/moDO1</a><br/>\n    "
+    "info": "\n    <h3>Sportyzo AC Badminton Academy - Sector 65</h3>\n    <strong>Ratings:</strong> 4.57 [7]<br/>\n    <strong>Sports:</strong> Badminton<br/>\n    <strong>Phone:</strong> 8527736149<br/>\n    <a href=\"http://go.playo.app/PLAYOO/moDO1\" target=\"_blank\">http://go.playo.app/PLAYOO/moDO1</a><br/>\n    "
   },
   {
     "avgRating": 4.5,
@@ -9687,7 +9738,7 @@
   {
     "avgRating": 5,
     "name": "The Active Co Pickleball Club",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=ccd2a7c7-0dc8-4288-a884-b1ff366d7d36",
     "deferLink": "http://go.playo.app/PLAYOO/rtchn",
     "lat": 28.658581662245005,
@@ -9697,7 +9748,7 @@
     "filter_by": [
       "Pickleball"
     ],
-    "info": "\n    <h3>The Active Co Pickleball Club</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999171117<br/>\n    <a href=\"http://go.playo.app/PLAYOO/rtchn\" target=\"_blank\">http://go.playo.app/PLAYOO/rtchn</a><br/>\n    "
+    "info": "\n    <h3>The Active Co Pickleball Club</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9999171117<br/>\n    <a href=\"http://go.playo.app/PLAYOO/rtchn\" target=\"_blank\">http://go.playo.app/PLAYOO/rtchn</a><br/>\n    "
   },
   {
     "avgRating": 3,
