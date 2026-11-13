@@ -2346,21 +2346,6 @@
     "info": "\n    <h3>Dew Sports Academy</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball, Tennis<br/>\n    <strong>Phone:</strong> 9911176594<br/>\n    <a href=\"http://go.playo.app/PLAYOO/N4lwk\" target=\"_blank\">http://go.playo.app/PLAYOO/N4lwk</a><br/>\n    "
   },
   {
-    "avgRating": 5,
-    "name": "Dinking Zone",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=f9057c90-b5fd-4879-a74c-c201547b505d",
-    "deferLink": "http://go.playo.app/PLAYOO/DB7J_",
-    "lat": 28.50530262721386,
-    "lng": 77.42445422472333,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Pickleball"
-    ],
-    "info": "\n    <h3>Dinking Zone</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Pickleball<br/>\n    <strong>Phone:</strong> 9380240175<br/>\n    <a href=\"http://go.playo.app/PLAYOO/DB7J_\" target=\"_blank\">http://go.playo.app/PLAYOO/DB7J_</a><br/>\n    "
-  },
-  {
     "avgRating": 4.6,
     "name": "Dishu Box Cricket",
     "ratingCount": 5,
@@ -3551,7 +3536,7 @@
   {
     "avgRating": 5,
     "name": "GameOn Multi Sports",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=2e76054a-23d4-47b8-90d7-3252a84416a0",
     "deferLink": "http://go.playo.app/PLAYOO/GDZ4-",
     "lat": 28.39485166144068,
@@ -3565,7 +3550,7 @@
       "Football",
       "Pickleball"
     ],
-    "info": "\n    <h3>GameOn Multi Sports</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9034844654<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GDZ4-\" target=\"_blank\">http://go.playo.app/PLAYOO/GDZ4-</a><br/>\n    "
+    "info": "\n    <h3>GameOn Multi Sports</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Cricket Nets, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9034844654<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GDZ4-\" target=\"_blank\">http://go.playo.app/PLAYOO/GDZ4-</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -6243,6 +6228,23 @@
   },
   {
     "avgRating": 5,
+    "name": "Pitch Please x TSG Sports Arena",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=51ad9cb4-b245-4589-af70-0964551ab49b",
+    "deferLink": "http://go.playo.app/PLAYOO/DR3lz",
+    "lat": 28.505115960021786,
+    "lng": 77.42445288072636,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football",
+      "Pickleball"
+    ],
+    "info": "\n    <h3>Pitch Please x TSG Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football, Pickleball<br/>\n    <strong>Phone:</strong> 9380240175<br/>\n    <a href=\"http://go.playo.app/PLAYOO/DR3lz\" target=\"_blank\">http://go.playo.app/PLAYOO/DR3lz</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Pitch Point",
     "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=0dde2376-7dff-4828-9886-425eb835da37",
@@ -6257,22 +6259,6 @@
       "Pool"
     ],
     "info": "\n    <h3>Pitch Point</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Cricket Nets, Play Station, Pool<br/>\n    <strong>Phone:</strong> 9217027124<br/>\n    <a href=\"http://go.playo.app/PLAYOO/BaN6U\" target=\"_blank\">http://go.playo.app/PLAYOO/BaN6U</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "PitchPlease",
-    "ratingCount": 1,
-    "fullLink": "https://playo.co/venue?venueId=51ad9cb4-b245-4589-af70-0964551ab49b",
-    "deferLink": "http://go.playo.app/PLAYOO/DR3lz",
-    "lat": 28.505115960021786,
-    "lng": 77.42445288072636,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Box Cricket",
-      "Football"
-    ],
-    "info": "\n    <h3>PitchPlease</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9380240175<br/>\n    <a href=\"http://go.playo.app/PLAYOO/DR3lz\" target=\"_blank\">http://go.playo.app/PLAYOO/DR3lz</a><br/>\n    "
   },
   {
     "avgRating": 0,
