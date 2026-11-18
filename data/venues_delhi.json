@@ -429,6 +429,23 @@
     "info": "\n    <h3>Aravali Heights Cricket Ground</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Cricket<br/>\n    <strong>Phone:</strong> 8595864096<br/>\n    <a href=\"http://go.playo.app/PLAYOO/IZmCO\" target=\"_blank\">http://go.playo.app/PLAYOO/IZmCO</a><br/>\n    "
   },
   {
+    "avgRating": 0,
+    "name": "Aravali Marriott Resort & Spa",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=cac63c3b-d783-4053-ba95-afcda345cf91",
+    "deferLink": "http://go.playo.app/PLAYOO/PGhtt",
+    "lat": 28.371607960537297,
+    "lng": 77.21043104232831,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Table Tennis",
+      "Tennis"
+    ],
+    "info": "\n    <h3>Aravali Marriott Resort & Spa</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Table Tennis, Tennis<br/>\n    <strong>Phone:</strong> 8435629226<br/>\n    <a href=\"http://go.playo.app/PLAYOO/PGhtt\" target=\"_blank\">http://go.playo.app/PLAYOO/PGhtt</a><br/>\n    "
+  },
+  {
     "ratingCount": 3,
     "avgRating": 4.67,
     "name": "Aravali Sports Academy",
@@ -2216,7 +2233,7 @@
   {
     "avgRating": 5,
     "name": "Decathlon Saket",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=5cf81fb1-1177-4483-816e-3e721398ae14",
     "deferLink": "http://go.playo.app/PLAYOO/GUz5S",
     "lat": 28.528424303616088,
@@ -2230,7 +2247,7 @@
       "Yoga",
       "Zumba"
     ],
-    "info": "\n    <h3>Decathlon Saket</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Yoga, Zumba<br/>\n    <strong>Phone:</strong> 9717510283<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GUz5S\" target=\"_blank\">http://go.playo.app/PLAYOO/GUz5S</a><br/>\n    "
+    "info": "\n    <h3>Decathlon Saket</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Box Cricket, Football, Yoga, Zumba<br/>\n    <strong>Phone:</strong> 9717510283<br/>\n    <a href=\"http://go.playo.app/PLAYOO/GUz5S\" target=\"_blank\">http://go.playo.app/PLAYOO/GUz5S</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -7365,7 +7382,7 @@
   {
     "avgRating": 5,
     "name": "REPPP Vamoss South Ex",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "fullLink": "https://playo.co/venue?venueId=7b39b9fe-c976-4620-a51a-6e0cd1278827",
     "deferLink": "http://go.playo.app/PLAYOO/ssvKM",
     "lat": 28.570321715290337,
@@ -7376,7 +7393,7 @@
       "Padel",
       "Pickleball"
     ],
-    "info": "\n    <h3>REPPP Vamoss South Ex</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9717008649<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ssvKM\" target=\"_blank\">http://go.playo.app/PLAYOO/ssvKM</a><br/>\n    "
+    "info": "\n    <h3>REPPP Vamoss South Ex</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Padel, Pickleball<br/>\n    <strong>Phone:</strong> 9717008649<br/>\n    <a href=\"http://go.playo.app/PLAYOO/ssvKM\" target=\"_blank\">http://go.playo.app/PLAYOO/ssvKM</a><br/>\n    "
   },
   {
     "avgRating": 5,
@@ -9637,6 +9654,22 @@
       "Football"
     ],
     "info": "\n    <h3>TAASC Indirapuram</h3>\n    <strong>Ratings:</strong> 4.9 [10]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9899948588<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JaGQu\" target=\"_blank\">http://go.playo.app/PLAYOO/JaGQu</a><br/>\n    "
+  },
+  {
+    "avgRating": 0,
+    "name": "TWO7 Cricket Academy & Sports Arena",
+    "ratingCount": 0,
+    "fullLink": "https://playo.co/venue?venueId=348dbb7b-067f-4553-8458-f30018891d75",
+    "deferLink": "http://go.playo.app/PLAYOO/tSGvF",
+    "lat": 28.575711750319833,
+    "lng": 77.43652003570493,
+    "rating": 0,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "filter_by": [
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>TWO7 Cricket Academy & Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9627001871<br/>\n    <a href=\"http://go.playo.app/PLAYOO/tSGvF\" target=\"_blank\">http://go.playo.app/PLAYOO/tSGvF</a><br/>\n    "
   },
   {
     "avgRating": 5,
