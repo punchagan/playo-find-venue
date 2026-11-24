@@ -7004,6 +7004,21 @@
   },
   {
     "avgRating": 5,
+    "name": "Pongfinity Table Tennis Academy",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=866578a6-edc5-438d-9224-2b397657c2c4",
+    "deferLink": "http://go.playo.app/PLAYOO/K-aSV",
+    "lat": 28.440713670528183,
+    "lng": 77.07233416394892,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Table Tennis"
+    ],
+    "info": "\n    <h3>Pongfinity Table Tennis Academy</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Table Tennis<br/>\n    <strong>Phone:</strong> 9891123131<br/>\n    <a href=\"http://go.playo.app/PLAYOO/K-aSV\" target=\"_blank\">http://go.playo.app/PLAYOO/K-aSV</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Power Drive Table Tennis Academy",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=6f7a30c1-c7bb-48ce-a115-82171a2b1803",
@@ -9188,22 +9203,6 @@
       "Pickleball"
     ],
     "info": "\n    <h3>Spuddy Multisports Academy</h3>\n    <strong>Ratings:</strong> 3.5 [12]<br/>\n    <strong>Sports:</strong> Badminton, Pickleball<br/>\n    <strong>Phone:</strong> 7078404986<br/>\n    <a href=\"http://go.playo.app/PLAYOO/JHmKp\" target=\"_blank\">http://go.playo.app/PLAYOO/JHmKp</a><br/>\n    "
-  },
-  {
-    "avgRating": 5,
-    "name": "Squats Que",
-    "ratingCount": 2,
-    "fullLink": "https://playo.co/venue?venueId=21497b51-861c-49df-8d61-1a4fe09c9b3a",
-    "deferLink": "http://go.playo.app/PLAYOO/SkXkS",
-    "lat": 28.668028172784382,
-    "lng": 77.3187615423283,
-    "rating": 5,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
-    "filter_by": [
-      "Basketball",
-      "Pickleball"
-    ],
-    "info": "\n    <h3>Squats Que</h3>\n    <strong>Ratings:</strong> 5 [2]<br/>\n    <strong>Sports:</strong> Basketball, Pickleball<br/>\n    <strong>Phone:</strong> 9258867057<br/>\n    <a href=\"http://go.playo.app/PLAYOO/SkXkS\" target=\"_blank\">http://go.playo.app/PLAYOO/SkXkS</a><br/>\n    "
   },
   {
     "avgRating": 4.73,
