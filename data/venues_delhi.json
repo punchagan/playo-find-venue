@@ -3990,6 +3990,23 @@
   },
   {
     "avgRating": 5,
+    "name": "Highstreet Sports Arena",
+    "ratingCount": 1,
+    "fullLink": "https://playo.co/venue?venueId=4d480787-6ca0-48cf-be4f-29b5c078eca8",
+    "deferLink": "http://go.playo.app/PLAYOO/B5MYW",
+    "lat": 28.450211,
+    "lng": 77.302643,
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
+    "filter_by": [
+      "Badminton",
+      "Box Cricket",
+      "Football"
+    ],
+    "info": "\n    <h3>Highstreet Sports Arena</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Football<br/>\n    <strong>Phone:</strong> 9355076860<br/>\n    <a href=\"http://go.playo.app/PLAYOO/B5MYW\" target=\"_blank\">http://go.playo.app/PLAYOO/B5MYW</a><br/>\n    "
+  },
+  {
+    "avgRating": 5,
     "name": "Highway Nest Sport Club",
     "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=2db3adda-8605-4a35-b4e7-66a1dff93d02",
@@ -8430,21 +8447,22 @@
     "info": "\n    <h3>Shuttle Killer</h3>\n    <strong>Ratings:</strong> 3.5 [2]<br/>\n    <strong>Sports:</strong> Badminton, Tennis<br/>\n    <strong>Phone:</strong> 9870377706<br/>\n    <a href=\"http://go.playo.app/PLAYOO/z4kH6\" target=\"_blank\">http://go.playo.app/PLAYOO/z4kH6</a><br/>\n    "
   },
   {
-    "avgRating": 0,
-    "name": "SideOut - Sports Arena",
-    "ratingCount": 0,
+    "avgRating": 5,
+    "name": "Sideout Indoor Arena | Chhattarpur",
+    "ratingCount": 1,
     "fullLink": "https://playo.co/venue?venueId=52cc9e59-7ea5-4c54-95d1-5d6e99c3ad63",
     "deferLink": "http://go.playo.app/PLAYOO/YiFZA",
     "lat": 28.460744251930848,
     "lng": 77.16543589588584,
-    "rating": 0,
-    "icon": "https://maps.google.com/mapfiles/kml/paddle/red-square-lv.png",
+    "rating": 5,
+    "icon": "https://maps.google.com/mapfiles/kml/paddle/5-lv.png",
     "filter_by": [
       "Badminton",
       "Box Cricket",
-      "Pickleball"
+      "Pickleball",
+      "Pool"
     ],
-    "info": "\n    <h3>SideOut - Sports Arena</h3>\n    <strong>Ratings:</strong> 0 [0]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Pickleball<br/>\n    <strong>Phone:</strong> 9999260662<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YiFZA\" target=\"_blank\">http://go.playo.app/PLAYOO/YiFZA</a><br/>\n    "
+    "info": "\n    <h3>Sideout Indoor Arena | Chhattarpur</h3>\n    <strong>Ratings:</strong> 5 [1]<br/>\n    <strong>Sports:</strong> Badminton, Box Cricket, Pickleball, Pool<br/>\n    <strong>Phone:</strong> 9999260662<br/>\n    <a href=\"http://go.playo.app/PLAYOO/YiFZA\" target=\"_blank\">http://go.playo.app/PLAYOO/YiFZA</a><br/>\n    "
   },
   {
     "avgRating": 0,
